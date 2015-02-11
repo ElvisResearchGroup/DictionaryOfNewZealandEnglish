@@ -53,8 +53,8 @@ Add the venv folder to .git ignore
     $ echo "source venv/bin/activate" >> .env
 
 Test by cd-ing out of file and back in.
-TODOls
-: The shell script is not great, it calls activate on every sub folder... Will find solution later.
+
+TODO: The shell script is not great, it calls activate on every sub folder... Will find solution later.
 
 
 ### cookiecutter
@@ -68,26 +68,48 @@ Note: Project file was already set up. When cookiecutter was used, had to drag d
 
 Set your app's secret key as an environment variable. For example, example add the following to ``.bashrc`` or ``.bash_profile`` or .zshrc.
 
-    $ export DNZE_SECRET='something-really-secret'
+    export DNZE_SECRET='something-really-secret'
 
 Then run the following commands to bootstrap your environment.
 Note that a database has not yet been added.
 
     $ cd to-main-project-directory
-    pip install -r requirements/dev.txt
-    python manage.py server
+    $ pip install -r requirements/dev.txt
+    $ python manage.py server
 
 Visit localhost:5000 on your server and you should see a lovely Welcome page.
 
 If you have already installed your database.
 
-    python manage.py db init
-    python manage.py db migrate
-    python manage.py db upgrade
-    python manage.py server
+    $ python manage.py db init
+    $ python manage.py db migrate
+    $ python manage.py db upgrade
+    $ python manage.py server
 
-Note: these worked after half an hour without having to do anything more. It seems the database is installed, it must be magic...
+Note: these worked after half an hour without having to do anything more. It seems the database is installed, it must be magic... ...adding to this, after a similar problem I think the shell needed to be restarted.
 
+
+### fabric
+ref: http://www.jeffknupp.com/blog/2012/02/09/starting-a-django-project-the-right-way/
+A deployment tool. "pip install fabric", then add a fabfile.py with these contents.
+
+NB: I may remove this.
+
+    from fabric.api import local
+
+    def prepare_deployment(branch_name):
+        local('python manage.py test myapp')
+        local('git add -p && git commit')
+        local('git checkout master && git merge ' + branch_name)
+
+    from fabric.api import lcd
+
+    def deploy():
+        with lcd('/path/to/my/prod/area/'):
+            local('git pull /my/path/to/dev/area/')
+            local('python manage.py migrate myapp')
+            local('python manage.py test myapp')
+            local('/my/command/to/restart/webserver')
 
 
 ## README storage space
@@ -103,7 +125,7 @@ In your production environment, make sure the ``DNZE_ENV`` environment variable 
 
 To open the interactive shell, run ::
 
-    python manage.py shell
+    $ python manage.py shell
 
 By default, you will have access to ``app``, ``db``, and the ``User`` model.
 
@@ -112,18 +134,18 @@ By default, you will have access to ``app``, ``db``, and the ``User`` model.
 
 To run all tests, run ::
 
-    python manage.py test
+    $ python manage.py test
 
 
 ### Migrations
 
 Whenever a database migration needs to be made. Run the following commmands:
 
-    python manage.py db migrate
+    $ python manage.py db migrate
 
 This will generate a new migration script. Then run:
 
-    python manage.py db upgrade
+    $ python manage.py db upgrade
 
 To apply the migration.
 
