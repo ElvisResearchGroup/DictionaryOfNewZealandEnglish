@@ -60,6 +60,7 @@ TODOls
 ### cookiecutter
 ref: https://github.com/sloria/cookiecutter-flask
 Setup
+
     $ pip install cookiecutter
     $ cookiecutter https://github.com/sloria/cookiecutter-flask.git
 
@@ -85,8 +86,11 @@ If you have already installed your database.
     python manage.py db upgrade
     python manage.py server
 
+Note: these worked after half an hour without having to do anything more. It seems the database is installed, it must be magic...
 
 
+
+## README storage space
 
 These are copied from the cookiecutter readme file. Placed here until I can better put them into a setup context.
 
