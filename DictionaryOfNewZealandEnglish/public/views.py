@@ -30,7 +30,8 @@ def home():
             return redirect(redirect_url)
         else:
             flash_errors(form)
-    return render_template("public/home.html", form=form)
+    #return render_template("public/home.html", form=form)
+    return render_template("public/nzdchome.html", form=form)
 
 @blueprint.route('/logout/')
 @login_required
@@ -57,3 +58,17 @@ def register():
 def about():
     form = LoginForm(request.form)
     return render_template("public/about.html", form=form)
+
+@blueprint.route("/search/")
+def search():
+    form = LoginForm(request.form)
+    return render_template("public/search.html", form=form)
+
+
+
+
+
+
+
+
+

@@ -53,6 +53,7 @@ Add the venv folder to .git ignore
     $ echo "source venv/bin/activate" >> .env
 
 Test by cd-ing out of file and back in.
+
 TODO: The shell script is not great, it calls activate on every sub folder... Will find solution later.
 
 
@@ -85,8 +86,30 @@ If you have already installed your database.
     $ python manage.py db upgrade
     $ python manage.py server
 
-Note: these worked after half an hour without having to do anything more. It seems the database is installed, it must be magic...
+Note: these worked after half an hour without having to do anything more. It seems the database is installed, it must be magic... ...adding to this, after a similar problem I think the shell needed to be restarted.
 
+
+### fabric
+ref: http://www.jeffknupp.com/blog/2012/02/09/starting-a-django-project-the-right-way/
+A deployment tool. "pip install fabric", then add a fabfile.py with these contents.
+
+NB: I may remove this.
+
+    from fabric.api import local
+
+    def prepare_deployment(branch_name):
+        local('python manage.py test myapp')
+        local('git add -p && git commit')
+        local('git checkout master && git merge ' + branch_name)
+
+    from fabric.api import lcd
+
+    def deploy():
+        with lcd('/path/to/my/prod/area/'):
+            local('git pull /my/path/to/dev/area/')
+            local('python manage.py migrate myapp')
+            local('python manage.py test myapp')
+            local('/my/command/to/restart/webserver')
 
 
 ## README storage space
