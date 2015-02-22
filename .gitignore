@@ -46,3 +46,7 @@ docs/_build
 venv
 env
 env*
+
+# Matt's stuff
+ms_*
+TODO.txt

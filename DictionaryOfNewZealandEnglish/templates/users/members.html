@@ -1,7 +1,21 @@
 
 {% extends "layout.html" %}
 {% block content %}
-    <h1>Welcome {{ session.username }}</h1>
-    <h3>This is the members-only page.</h3>
+  <!-- template suggested session.username, but not working. Changed to current_user.username-->
+  <h1>Welcome {{ current_user.username }}</h1>
+
+  <h3>This is the members-only page.</h3>
+
+  <p>
+Please provide the following details to describe your interest in the Dictionary of New Zealand English.
+  </p>
+  <p>
+TODO Create a form to collect users;<br>
+- institution (University, Media, Government, Local government, library)<br>
+- country<br>
+- interest (research, spelling, other linguistic stuff...)<br>
+- ??? <br>
+</p>
+
 {% endblock %}
 

@@ -120,6 +120,7 @@ These are copied from the cookiecutter readme file. Placed here until I can bett
 
 In your production environment, make sure the ``DNZE_ENV`` environment variable is set to ``"prod"``.
 
+Remember to set the secret key to something hard to guess.
 
 ### Shell
 

@@ -58,3 +58,22 @@ class User(UserMixin, SurrogatePK, Model):
 
     def __repr__(self):
         return '<User({username!r})>'.format(username=self.username)
+
+class Citation(SurrogatePK, Model):
+    
+    __tablename__ = "citations"
+    #_id = Column(db.Integer, primary_key=True)
+    author = Column(db.String(80), nullable=False)
+    source = Column(db.String(80), nullable=False)
+    date = Column(db.DateTime)
+
+    def __init__(self, author, source, date, **kwargs):
+        db.Model.__init__(self, author=author, source=source, date=date, **kwargs)
+
+    @property
+    def cite(self):
+        return "{0} {1} {2}".format(self.author, self.citation, self.date)
+
+    def __repr__(self):
+        return '<Citation({citeme})>'.format(citeme=cite(self))
+

@@ -1,4 +1,7 @@
 [Dolphin]
-Timestamp=2015,2,11,21,46,12
+Timestamp=2015,2,22,16,59,35
 Version=3
 ViewMode=1
+
+[Settings]
+HiddenFilesShown=true

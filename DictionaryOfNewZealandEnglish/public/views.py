@@ -57,12 +57,14 @@ def register():
 @blueprint.route("/about/")
 def about():
     form = LoginForm(request.form)
-    return render_template("public/about.html", form=form)
+    return render_template("public/about.html", title="Fred", form=form)
 
 @blueprint.route("/search/")
 def search():
     form = LoginForm(request.form)
     return render_template("public/search.html", form=form)
+
+
 
 
 
