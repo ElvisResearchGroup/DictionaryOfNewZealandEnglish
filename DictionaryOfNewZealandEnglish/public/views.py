@@ -3,6 +3,7 @@
 from flask import (Blueprint, request, render_template, flash, url_for,
                     redirect, session)
 from flask.ext.login import login_user, login_required, logout_user
+from datetime import datetime
 
 from DictionaryOfNewZealandEnglish.extensions import login_manager
 from DictionaryOfNewZealandEnglish.user.models import User
@@ -42,7 +43,7 @@ def logout():
 
 @blueprint.route("/register/", methods=['GET', 'POST'])
 def register():
-    form = RegisterForm(request.form, csrf_enabled=False)
+    form = RegisterForm(request.form, updated_at=datetime.utcnow(), csrf_enabled=False)
     if form.validate_on_submit():
         new_user = User.create(username=form.username.data,
                         email=form.email.data,

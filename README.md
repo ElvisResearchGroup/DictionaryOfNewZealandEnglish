@@ -79,6 +79,9 @@ Note that a database has not yet been added.
 
 Visit localhost:5000 on your server and you should see a lovely Welcome page.
 
+Now start up the database and restart the server.
+
+### Database
 If you have already installed your database.
 
     $ python manage.py db init
@@ -151,5 +154,94 @@ This will generate a new migration script. Then run:
 To apply the migration.
 
 For a full migration command reference, run ``python manage.py db --help``. 
+
+
+# Database overview
+As at March 2015
+
+Each table also has entries for created_at, last_update_at, last_update_by.
+
+## Headword
+---------------------------------------------------
+| id                   | int      | pk            |
+| name                 | char(50) | not null      |
+| definition           | text     | not null      |
+| see                  | text     |               |
+| pronunciation        | text     |               |
+| notes                | text     |               |
+| archived             | boolean  | default=false |
+| data_set_id          | int      | fk          {'Orsman', 'DNZE', 'Incomings'}
+| homonym_number_id    | int      | fk            |
+| word_class_id        | int      | fk            |
+| sense_number_id      | int      | fk            |
+| origin_id            | int      | fk            |
+| register_id          | int      | fk            |
+| register2_id         | int      | fk            |
+| domain_id            | int      | fk            |
+| region_id            | int      | fk            |
+| headword_flag_id     | int      | fk            |
+| headword_citation_id | int      | fk            |
+| created_at           | date     | not null      | 
+| updated_at           | date     | not null      |
+| updated_by           | char(80) | not null      |
+---------------------------------------------------
+
+## Secondary tables
+This format is used by 10 tables; Homonym_number, word_class, sense_number, register, domain, region, origin, source, flag, data_set.
+----------------------------------------------
+| id                   | int      | pk       |
+| name                 | char(50) | not null |
+| notes                | text     |          |
+| created_at           | date     | not null | 
+----------------------------------------------
+
+## Citation
+----------------------------------------------
+| id                   | int      | pk       |
+| date                 | date     | not null |
+| source_id            | int      | fk       |
+| author               | char(50) | not null |
+| vol_page             | char(50) |          |
+| edition              | char(50) |          |
+| quote                | text     |          |
+| notes                | text     |          |
+| created_at           | date     | not null | 
+| updated_at           | date     | not null |
+| updated_by           | char(80) | not null |
+----------------------------------------------
+
+## headword_flag
+----------------------------------------------
+| headword_id          | int      | fk       |
+| flag_id              | int      | fk       |
+----------------------------------------------
+  primay key is {headword_id, flag_id}
+
+## headword_citation
+----------------------------------------------
+| headword_id          | int      | fk       |
+| citation_id          | int      | fk       |
+----------------------------------------------
+  primay key is {headword_id, citation_id}
+
+## User
+------------------------------------------------------
+| id                   | int      | pk               |
+| username             | char(80) | unique, not null |
+| email                | char(80) | unique, not null |
+| first_name           | char(30) |                  |
+| last_name            | char(30) |                  |
+| institution          | char(50) |                  |
+| country              | char(50) |                  |
+| interest             | text     |                  |
+| password             | char(128)|                  | hashed password
+| active               | boolean  | default=false    |
+| is_admin             | boolean  | default=false    |
+| created_at           | date     | not null         | 
+| updated_at           | date     | not null         |
+------------------------------------------------------
+
+
+
 
 

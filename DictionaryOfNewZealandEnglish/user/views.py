@@ -6,6 +6,7 @@ from flask.ext.login import login_required
 
 from DictionaryOfNewZealandEnglish.user.forms import DataForm
 from DictionaryOfNewZealandEnglish.user.models import Citation
+from DictionaryOfNewZealandEnglish.database import engine
 import datetime
 
 blueprint = Blueprint("user", __name__, url_prefix='/users',
@@ -47,24 +48,47 @@ def insertdb():
 
 
 
-@blueprint.route("/search/", methods=["GET", "POST"])
+@blueprint.route("/search/", methods=["GET"])
 @login_required
 def search():
     # logged in users arrive here
-
-    # Handle search
-    #if request.method == 'POST':
-    #    if form.validate_on_submit():
     form = DataForm(request.form, "search_data")
-
-
-     #   else:
-      #      flash_errors(form)
     return render_template("users/search.html", form=form)
 
 
-@blueprint.route("/search/db", methods=["GET", "POST"])
+@blueprint.route("/search/db", methods=["POST"])
 def searchdb():
-    flash('Searching data - this page should display responses, but doesn\'t yet.')
     form = DataForm(request.form, "display_data")
+    # Handle search
+    if form.validate_on_submit():
+        author = form.author.data
+        source = form.source.data
+        try:
+            date = datetime.datetime.strptime(form.date.data, '%d/%m/%Y').date()
+        except ValueError:
+            date = ""
+
+        citations = Citation.query.filter_by(author="Wallace", source="maximum").all()
+        #citations = engine.execute('select * from Citations where author = :1', [author]).first()
+
+        flash('Search form is validated ' + citations[0].source)
+
+    else:
+        flash_errors(form)
+
+    #flash('Searching data - this page should display responses, but doesn\'t yet.')
     return render_template("users/search.html", form=form)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
