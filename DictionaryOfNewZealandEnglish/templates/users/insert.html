@@ -8,19 +8,60 @@
       <br>
     </div>
 
+                  <!-- headword, 
+                       definition, 
+                       see, 
+                       pronunciation, 
+                       notes, 
+                       archived, 
+                       data_set_id, 
+                       homonym_number_id, 
+                       word_class_id, 
+                       sense_number_id, 
+                       origin_id, 
+                       register_id, 
+                       domain_id, 
+                       region_id, 
+                       headword_citation, 
+                       headword_flag, 
+                       updated_by         -->
 
 
+    <form id="insertForm" method="POST" class="" action="insert" role="insert">
+        {{ form.hidden_tag() }}
+        <div class="form-group">
 
-    <form id="insertForm" method="POST" class="" action="db" role="insert">
-      {{ form.hidden_tag() }}
-      <div class="form-group">
+            <div class="form-group">
+                {{form.headword.label}}
+                {{ form.headword (placeholder="Headword", class_="form-control") }}
+            </div>
+            <div class="form-group">
+                {{form.definition.label}}
+                {{ form.definition (placeholder="Definition", class_="form-control") }}
+            </div>
+            <div class="form-group">
+                {{form.see.label}}
+                {{ form.see (placeholder="See", class_="form-control") }}
+            </div>
+            <div class="form-group">
+                {{form.pronunciation.label}}
+                {{ form.pronunciation (placeholder="Pronunciation", class_="form-control") }}
+            </div>
+            <div class="form-group">
+                {{form.notes.label}}
+                {{ form.notes (placeholder="Notes", class_="form-control") }}
+            </div>
+            <div class="form-group">
+                {{form.archived.label}}
+                {{ form.archived (placeholder="Archived - checkbox", class_="form-control") }}
+            </div>
+            <div class="form-group">
+                {{form.data_set_id.label}}
+                {{ form.data_set_id (placeholder="Data set select box", class_="form-control") }}
+            </div>
 
-        {{ form.author(placeholder="Author", class_="form-control") }}
-        {{ form.source(placeholder="Source", class_="form-control") }}
-        {{ form.date  (placeholder="Date",   class_="form-control") }}
-
-      </div>
-      <button type="submit" class="btn btn-default">Insert</button>
+        </div>
+        <button class="btn btn-default" type="submit" >Insert</button>
     </form>
 
 

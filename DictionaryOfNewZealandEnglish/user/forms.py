@@ -6,17 +6,17 @@ from .models import User
 
 class RegisterForm(Form):
     username = TextField('Username',
-                    validators=[DataRequired(), Length(min=3, max=25)])
+             validators=[DataRequired(), Length(min=3, max=25)])
     email    = TextField('Email',
-                    validators=[DataRequired(), Email(), Length(min=6, max=40)])
+             validators=[DataRequired(), Email(), Length(min=6, max=40)])
     institution = TextField('Institution',
-                    validators=[DataRequired(), Length(min=6, max=40)])
+             validators=[DataRequired(), Length(min=6, max=40)])
     country  = TextField('Country',
-                    validators=[DataRequired(), Length(min=2, max=40)])
+             validators=[DataRequired(), Length(min=2, max=40)])
     interest = TextField('Interest',
-                    validators=[DataRequired(), Length(min=6, max=300)])
+             validators=[DataRequired(), Length(min=6, max=300)])
     password = PasswordField('Password',
-                                validators=[DataRequired(), Length(min=6, max=40)])
+             validators=[DataRequired(), Length(min=6, max=40)])
     confirm  = PasswordField('Verify password',
                 [DataRequired(), EqualTo('password', message='Passwords must match')])
     updated_at = HiddenField('updated_at')
@@ -41,19 +41,42 @@ class RegisterForm(Form):
         return True
 
 
-class DataForm(Form):
-    author = TextField('Author', validators=[DataRequired()])
-    source = TextField('Source', validators=[DataRequired()])
-    date   = TextField('Date',   validators=[DataRequired()])
-    used_as = HiddenField('used_as') 
+class HeadwordForm(Form):
+                       #headword, 
+                       #definition, 
+                       #see, 
+                       #pronunciation, 
+                       #notes, 
+                       #archived, 
+                       #data_set_id, 
+                       #homonym_number_id, 
+                       #word_class_id, 
+                       #sense_number_id, 
+                       #origin_id, 
+                       #register_id, 
+                       #domain_id, 
+                       #region_id, 
+                       #headword_citation, 
+                       #headword_flag, 
+                       #updated_by
+
+    headword      = TextField('Headword', validators=[DataRequired()])
+    definition    = TextField('Definition', validators=[DataRequired()])
+    see           = TextField('See',   validators=[DataRequired()])
+    pronunciation = TextField('Pronunciation',   validators=[DataRequired()])
+    notes         = TextField('Notes',   validators=[DataRequired()])
+    archived      = BooleanField('Archived')
+    data_set_id   = TextField('Data_set_id',   validators=[DataRequired()])
+
+    updated_at = HiddenField('updated_at')
 
     def __init__(self, *args, **kwargs):
-        super(DataForm, self).__init__(*args, **kwargs)
+        super(HeadwordForm, self).__init__(*args, **kwargs)
         self.user = None
         #self.used_as = "stuff"
 
     def validate(self):
-      if self.used_as.data == "insert_data":
+      #if self.used_as.data == "insert_data":
         # TODO validations
         return True
 
@@ -74,4 +97,4 @@ class DataForm(Form):
             self.date.errors.append('Provide a date')
             return "False 4"
 
-      return "True"
+      #return "True"

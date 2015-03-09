@@ -94,3 +94,4 @@ def ReferenceCol(tablename, nullable=False, pk_name='id', **kwargs):
     return db.Column(
         db.ForeignKey("{0}.{1}".format(tablename, pk_name)),
         nullable=nullable, **kwargs)
+

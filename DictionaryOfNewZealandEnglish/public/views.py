@@ -21,18 +21,18 @@ def load_user(id):
 
 @blueprint.route("/", methods=["GET", "POST"])
 def home():
-    form = LoginForm(request.form)
+    user_form = LoginForm(request.form) # TODO ??? should be request.user_form ???
     # Handle logging in
     if request.method == 'POST':
-        if form.validate_on_submit():
-            login_user(form.user)
+        if user_form.validate_on_submit():
+            login_user(user_form.user)
             flash("You are logged in.", 'success')
             redirect_url = request.args.get("next") or url_for("user.members")
             return redirect(redirect_url)
         else:
-            flash_errors(form)
+            flash_errors(user_form)
     #return render_template("public/home.html", form=form)
-    return render_template("public/nzdchome.html", form=form)
+    return render_template("public/nzdchome.html", user_form=user_form)
 
 @blueprint.route('/logout/')
 @login_required
@@ -43,10 +43,14 @@ def logout():
 
 @blueprint.route("/register/", methods=['GET', 'POST'])
 def register():
-    form = RegisterForm(request.form, updated_at=datetime.utcnow(), csrf_enabled=False)
+    form = RegisterForm(request.form, csrf_enabled=False)
     if form.validate_on_submit():
         new_user = User.create(username=form.username.data,
                         email=form.email.data,
+                        institution=form.institution.data,
+                        country=form.country.data,
+                        interest=form.interest.data,
+                        updated_at=datetime.utcnow(),
                         password=form.password.data,
                         active=True)
         flash("Thank you for registering. You can now log in.", 'success')

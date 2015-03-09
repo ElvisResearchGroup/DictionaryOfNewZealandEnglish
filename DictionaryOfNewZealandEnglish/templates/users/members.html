@@ -10,11 +10,20 @@
 Please provide the following details to describe your interest in the Dictionary of New Zealand English.
   </p>
   <p>
-TODO Create a form to collect users;<br>
-- institution (University, Media, Government, Local government, library)<br>
-- country<br>
-- interest (research, spelling, other linguistic stuff...)<br>
-- ??? <br>
+
+<b>TODO - add form to allow changing details and password;<br>
+</b>
+- your name {{ current_user.username }}<br>
+
+- email {{ current_user.email }}<br>
+
+- institution {{ current_user.institution }}<br>
+- country {{ current_user.country }}<br>
+- interest {{ current_user.interest }}<br>
+- password {{ current_user.password }}<br>
+- created {{ current_user.created_at }}<br>
+- update {{ current_user.updated_at }}<br>
+
 </p>
 
 {% endblock %}

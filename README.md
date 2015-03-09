@@ -84,13 +84,16 @@ Now start up the database and restart the server.
 ### Database
 If you have already installed your database.
 
-    $ python manage.py db init
+    $ python manage.py db init      
     $ python manage.py db migrate
     $ python manage.py db upgrade
+    
+    Stop the server using Ctl-c
     $ python manage.py server
 
-Note: these worked after half an hour without having to do anything more. It seems the database is installed, it must be magic... ...adding to this, after a similar problem I think the shell needed to be restarted.
-
+The 'init' creates the database 'dev.db' and the migration folder & contents.
+The 'migrate' will generate a new migration script.
+And 'upgrade' applies the migration.
 
 ### fabric
 ref: http://www.jeffknupp.com/blog/2012/02/09/starting-a-django-project-the-right-way/
@@ -115,10 +118,6 @@ NB: I may remove this.
             local('/my/command/to/restart/webserver')
 
 
-## README storage space
-
-These are copied from the cookiecutter readme file. Placed here until I can better put them into a setup context.
-
 ### Deployment
 
 In your production environment, make sure the ``DNZE_ENV`` environment variable is set to ``"prod"``.
@@ -127,41 +126,44 @@ Remember to set the secret key to something hard to guess.
 
 ### Shell
 
-To open the interactive shell, run ::
-
     $ python manage.py shell
 
 By default, you will have access to ``app``, ``db``, and the ``User`` model.
 
 
-### Running Tests
-
-To run all tests, run ::
+### Run all Tests
 
     $ python manage.py test
 
+### App Time
 
-### Migrations
-
-Whenever a database migration needs to be made. Run the following commmands:
-
-    $ python manage.py db migrate
-
-This will generate a new migration script. Then run:
-
-    $ python manage.py db upgrade
-
-To apply the migration.
-
-For a full migration command reference, run ``python manage.py db --help``. 
+Use UTC time throughout to avoid international time zone issues.
+eg: datetime.datetime.utcnow instead of datetime.datetime.now
 
 
-# Database overview
+## Database overview
 As at March 2015
 
 Each table also has entries for created_at, last_update_at, last_update_by.
 
-## Headword
+### User
+------------------------------------------------------
+| id                   | int      | pk               |
+| username             | char(80) | unique, not null |
+| email                | char(80) | unique, not null |
+| first_name           | char(30) |                  |
+| last_name            | char(30) |                  |
+| institution          | char(50) |                  |
+| country              | char(50) |                  |
+| interest             | text     |                  |
+| password             | char(128)|                  | hashed password
+| active               | boolean  | default=false    |
+| is_admin             | boolean  | default=false    |
+| created_at           | date     | default=now      | 
+| updated_at           | date     | not null         |
+------------------------------------------------------
+
+### Headword
 ---------------------------------------------------
 | id                   | int      | pk            |
 | name                 | char(50) | not null      |
@@ -181,65 +183,49 @@ Each table also has entries for created_at, last_update_at, last_update_by.
 | region_id            | int      | fk            |
 | headword_flag_id     | int      | fk            |
 | headword_citation_id | int      | fk            |
-| created_at           | date     | not null      | 
+| created_at           | date     | default=now   | 
 | updated_at           | date     | not null      |
 | updated_by           | char(80) | not null      |
 ---------------------------------------------------
 
-## Secondary tables
+### Secondary tables
 This format is used by 10 tables; Homonym_number, word_class, sense_number, register, domain, region, origin, source, flag, data_set.
-----------------------------------------------
-| id                   | int      | pk       |
-| name                 | char(50) | not null |
-| notes                | text     |          |
-| created_at           | date     | not null | 
-----------------------------------------------
+---------------------------------------------------
+| id                   | int      | pk            |
+| name                 | char(50) | not null      |
+| notes                | text     |               |
+| created_at           | date     | default=now   |
+---------------------------------------------------
 
-## Citation
-----------------------------------------------
-| id                   | int      | pk       |
-| date                 | date     | not null |
-| source_id            | int      | fk       |
-| author               | char(50) | not null |
-| vol_page             | char(50) |          |
-| edition              | char(50) |          |
-| quote                | text     |          |
-| notes                | text     |          |
-| created_at           | date     | not null | 
-| updated_at           | date     | not null |
-| updated_by           | char(80) | not null |
-----------------------------------------------
+### Citation
+---------------------------------------------------
+| id                   | int      | pk            |
+| date                 | date     | not null      |
+| circa                | boolean  | default=false |
+| author               | char(50) | not null      |
+| source_id            | int      | fk            |
+| vol_page             | char(50) |               |
+| edition              | char(50) |               |
+| quote                | text     |               |
+| notes                | text     |               |
+| created_at           | date     | default=now   |
+| updated_at           | date     | not null      |
+| updated_by           | char(80) | not null      |
+---------------------------------------------------
 
-## headword_flag
+### headword_flag
 ----------------------------------------------
 | headword_id          | int      | fk       |
 | flag_id              | int      | fk       |
 ----------------------------------------------
   primay key is {headword_id, flag_id}
 
-## headword_citation
+### headword_citation
 ----------------------------------------------
 | headword_id          | int      | fk       |
 | citation_id          | int      | fk       |
 ----------------------------------------------
   primay key is {headword_id, citation_id}
-
-## User
-------------------------------------------------------
-| id                   | int      | pk               |
-| username             | char(80) | unique, not null |
-| email                | char(80) | unique, not null |
-| first_name           | char(30) |                  |
-| last_name            | char(30) |                  |
-| institution          | char(50) |                  |
-| country              | char(50) |                  |
-| interest             | text     |                  |
-| password             | char(128)|                  | hashed password
-| active               | boolean  | default=false    |
-| is_admin             | boolean  | default=false    |
-| created_at           | date     | not null         | 
-| updated_at           | date     | not null         |
-------------------------------------------------------
 
 
 
