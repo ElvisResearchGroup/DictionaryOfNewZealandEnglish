@@ -1,0 +1,32 @@
+
+{% extends "layout.html" %}
+
+{% block content %}
+<div class="body-content">
+    <div class="row">
+      <h1>Edit details for {{table}}</h1>
+      <br>
+    </div>
+
+<table>
+{% for d in data: %}
+    <tr>
+    {% if d.name != "[none]": %}
+      <td style="width:10em">
+        {{d.name}}
+      </td><td style="width:4em">
+        <a href="/users/table_update/?table={{table}}&name={{d.name}}">edit</a>
+      </td><td>
+        {{ "archived" if d.archived else "current" }}
+      </td>
+    {% endif %}
+    </tr>
+{% endfor %}
+</table>
+
+
+
+
+</div>
+{% endblock %}
+

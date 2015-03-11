@@ -236,7 +236,11 @@ class Secondary_values():
         return "%s" % self.name
 
     def __repr__(self):
-        return "<%s(%s)>" % (self.__name__, self.name)
+        return "('%s', '%s')" % (self.id, self.name)
+
+    @property
+    def select_list(self):
+        return [("1", "stuff"), ("2", "things")]
 
 
 # secondary table sub-classes (x10)
@@ -244,7 +248,7 @@ class Homonym_number(Secondary_values, SurrogatePK, Model):
     __tablename__ = "homonym_numbers"
     name =       Column(db.String(50), nullable=False)
     notes =      Column(db.Text,       nullable=True)
-    archived =      Column(db.Boolean, default=False)
+    archived =   Column(db.Boolean,    default=False)
     created_at = Column(db.DateTime,   default=dt.datetime.utcnow)
     updated_at = Column(db.DateTime,   nullable=False)
     updated_by = Column(db.String(80), nullable=False)

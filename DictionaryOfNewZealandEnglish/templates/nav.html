@@ -22,7 +22,6 @@
 
     <ul class="nav navbar-nav">
       <li><a href="{{ url_for('public.home') }}">Home</a></li>
-      <li><a href="{{ url_for('public.about') }}">About</a></li>
       {% if current_user and current_user.is_authenticated() %}
         <li><a href="{{ url_for('user.search') }}">Search</a></li>
         <li><a href="{{ url_for('user.insert') }}">Insert</a></li>

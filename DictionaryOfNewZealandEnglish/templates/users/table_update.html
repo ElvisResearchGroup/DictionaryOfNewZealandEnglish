@@ -1,0 +1,38 @@
+
+{% extends "layout.html" %}
+
+{% block content %}
+<div class="body-content">
+    <div class="row">
+      <h1>Edit {{table}}</h1>
+      <br>
+    </div>
+
+
+
+    <form id="insertForm" method="POST" class="" action="/users/table_update/?table={{table}}&name={{name}}">
+        {{ form.hidden_tag() }}
+        <div class="form-group">
+
+            <div class="form-group">
+                {{ form.name.label }}
+                {{ form.name (value=name, class_="form-control") }}
+            </div>
+            <div class="form-group">
+                {{ form.notes.label }}
+                {{ form.notes (value=data.notes, class_="form-control") }}
+            </div>
+            <div class="form-group" style="width:100px;">
+                {{ form.archived.label }}
+                {{ form.archived (checked=data.archived, class_="form-control") }}
+            </div>
+
+        </div>
+        <button class="btn btn-default" type="submit" >edit</button>
+    </form>
+
+    <br><a href="/users/table_list/?table={{table}}">back to list</a>
+
+</div>
+{% endblock %}
+
