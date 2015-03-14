@@ -36,7 +36,7 @@ def import_module(name, package=None):
     relative import to an absolute import.
     """
 
-    print "#### passing through utils.import_module ###"
+    #print "#### passing through utils.import_module ###"
     if name.startswith('.'):
         if not package:
             raise TypeError("relative imports require the 'package' argument")

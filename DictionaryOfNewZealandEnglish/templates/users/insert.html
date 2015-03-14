@@ -35,14 +35,12 @@
                 {{form.notes.label}}
                 {{ form.notes (placeholder="Notes", class_="form-control") }}
             </div>
-            <div class="form-group">
+            <!-- don't need archive when inserting data 
+            <div class="form-group dnze-checkbox">
                 {{form.archived.label}}
-                {{ form.archived (placeholder="Archived - checkbox", class_="form-control") }}
-            </div>
-            <div class="form-group">
-                {{form.data_set_id.label}}
-                {{ form.data_set_id (placeholder="Data set select box", class_="form-control") }}
-            </div>
+                {{ form.archived (checked=False, class_="form-control") }}
+            </div> -->
+
                   <!-- headword, 
                        definition, 
                        see, 
@@ -61,11 +59,21 @@
                        headword_citation, 
                        headword_flag, 
                        updated_by         -->
-            <div class="form-group">
-                {{form.word_class.label}}
-                <a href="/users/table_list?table=Word class">edit</a>
-                {{ form.word_class (placeholder="Word class", class_="form-control") }}
-            </div>
+
+
+            {% for element in ['Word class', 'Data set', 'Sense number',
+                          'Origin', 'Register', 'Domain', 'Region', 'Flag'] %} 
+
+              <div class="form-group">
+                {{ form.getattr(element.lower().replace(' ', '_')).label }}
+                <a href="/users/table_list?table={{element}}">edit</a>
+              
+                {{ form.getattr(element.lower().replace(' ', '_'))
+                               (placeholder=element, class_="form-control") }}
+              </div>
+
+            {% endfor %}
+
 
         </div>
         <button class="btn btn-default" type="submit" >Insert</button>

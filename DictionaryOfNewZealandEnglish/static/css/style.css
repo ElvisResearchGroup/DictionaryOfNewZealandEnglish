@@ -47,6 +47,10 @@ textarea {
           box-sizing: border-box;
 }
 
+.dnze-checkbox{
+  width: 100px;
+}
+
 /* footer */
 
 footer {
@@ -84,3 +88,33 @@ footer .footer-nav {
   margin-right: 25px;
   list-style: none;
 }
+
+/* errors and messages */
+.alert{
+  font-size: large;
+}
+.alert-message{
+  color: orange;
+}
+
+/* delete dialog */
+#dataConfirmModal{
+  background-color: white;
+  height: 240px;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 300px;
+  border-radius: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+

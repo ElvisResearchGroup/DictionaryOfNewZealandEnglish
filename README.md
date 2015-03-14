@@ -87,13 +87,17 @@ If you have already installed your database.
     $ python manage.py db init      
     $ python manage.py db migrate
     $ python manage.py db upgrade
-    
+
     Stop the server using Ctl-c
     $ python manage.py server
 
 The 'init' creates the database 'dev.db' and the migration folder & contents.
 The 'migrate' will generate a new migration script.
 And 'upgrade' applies the migration.
+
+Seed data has been added to manage.py
+This populates all the secondary tables and provides sufficient data for testing for the main two tables (Headword and Citations).
+    $ python manage.py seed
 
 ### fabric
 ref: http://www.jeffknupp.com/blog/2012/02/09/starting-a-django-project-the-right-way/

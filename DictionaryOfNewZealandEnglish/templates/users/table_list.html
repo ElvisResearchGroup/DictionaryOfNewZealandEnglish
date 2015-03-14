@@ -4,7 +4,7 @@
 {% block content %}
 <div class="body-content">
     <div class="row">
-      <h1>Edit details for {{table}}</h1>
+      <h1>List of entries for {{table}}</h1>
       <br>
     </div>
 
@@ -14,15 +14,41 @@
     {% if d.name != "[none]": %}
       <td style="width:10em">
         {{d.name}}
-      </td><td style="width:4em">
+      </td><td style="width:5em">
+        {{ "archived" if d.archived else "in use" }}
+      </td><td style="width:3em">
         <a href="/users/table_update/?table={{table}}&name={{d.name}}">edit</a>
-      </td><td>
-        {{ "archived" if d.archived else "current" }}
+      </td><td style="width:4em">
+        <a href="/users/table_delete_row/?table={{table}}&name={{d.name}}" data-confirm="Are you sure you wish to delete {{d.name}}?">delete</a>
       </td>
     {% endif %}
     </tr>
 {% endfor %}
 </table>
+
+    <h3>Add a new entry</h3>
+
+<!-- add a new entry -->
+    <form id="insertForm" method="POST" class="" action="/users/table_new_entry/?table={{table}}">
+        {{ form.hidden_tag() }}
+        <div class="form-group">
+
+            <div class="form-group">
+                {{ form.name.label }}
+                {{ form.name (placeholder="name", class_="form-control") }}
+            </div>
+            <div class="form-group">
+                {{ form.notes.label }}
+                {{ form.notes (placeholder="notes", class_="form-control") }}
+            </div>
+            <div class="form-group dnze-checkbox">
+                {{ form.archived.label }}
+                {{ form.archived (checked=False, class_="form-control") }}
+            </div>
+
+        </div>
+        <button class="btn btn-default" type="submit" >edit</button>
+    </form>
 
 
 
