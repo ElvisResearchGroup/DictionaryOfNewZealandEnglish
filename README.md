@@ -153,7 +153,7 @@ Each table also has entries for created_at, last_update_at, last_update_by.
 
 ### User
 
-|                      |          |                  |
+| field                | type     | stuff            |
 ------------------------------------------------------
 | id                   | int      | pk               |
 | username             | char(80) | unique, not null |
@@ -163,7 +163,7 @@ Each table also has entries for created_at, last_update_at, last_update_by.
 | institution          | char(50) |                  |
 | country              | char(50) |                  |
 | interest             | text     |                  |
-| password             | char(128)|                  | hashed password
+| password             | char(128)| hashed password  |
 | active               | boolean  | default=false    |
 | is_admin             | boolean  | default=false    |
 | created_at           | date     | default=now      | 
