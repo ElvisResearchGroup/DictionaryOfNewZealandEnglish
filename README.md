@@ -154,7 +154,7 @@ Each table also has entries for created_at, last_update_at, last_update_by.
 ### User
 
 | field                | type     | stuff            |
-------------------------------------------------------
+| ---------------------|----------|------------------|
 | id                   | int      | pk               |
 | username             | char(80) | unique, not null |
 | email                | char(80) | unique, not null |
