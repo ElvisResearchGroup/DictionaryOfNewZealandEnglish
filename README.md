@@ -153,6 +153,7 @@ Each table also has entries for created_at, last_update_at, last_update_by.
 
 ### User
 
+|                      |          |                  |
 ------------------------------------------------------
 | id                   | int      | pk               |
 | username             | char(80) | unique, not null |
@@ -171,6 +172,7 @@ Each table also has entries for created_at, last_update_at, last_update_by.
 
 ### Headword
 
+|                      |          |               |
 ---------------------------------------------------
 | id                   | int      | pk            |
 | name                 | char(50) | not null      |
@@ -179,7 +181,7 @@ Each table also has entries for created_at, last_update_at, last_update_by.
 | pronunciation        | text     |               |
 | notes                | text     |               |
 | archived             | boolean  | default=false |
-| data_set_id          | int      | fk          {'Orsman', 'DNZE', 'Incomings'}
+| data_set_id          | int      | fk            |
 | homonym_number_id    | int      | fk            |
 | word_class_id        | int      | fk            |
 | sense_number_id      | int      | fk            |
@@ -198,6 +200,7 @@ Each table also has entries for created_at, last_update_at, last_update_by.
 ### Secondary tables
 This format is used by 10 tables; Homonym_number, word_class, sense_number, register, domain, region, origin, source, flag, data_set.
 
+|                      |          |               |
 ---------------------------------------------------
 | id                   | int      | pk            |
 | name                 | char(50) | not null      |
@@ -206,6 +209,8 @@ This format is used by 10 tables; Homonym_number, word_class, sense_number, regi
 
 
 ### Citation
+
+|                      |          |               |
 ---------------------------------------------------
 | id                   | int      | pk            |
 | date                 | date     | not null      |
@@ -222,6 +227,8 @@ This format is used by 10 tables; Homonym_number, word_class, sense_number, regi
 
 
 ### headword_flag
+
+|                      |          |          |
 ----------------------------------------------
 | headword_id          | int      | fk       |
 | flag_id              | int      | fk       |
@@ -229,6 +236,8 @@ This format is used by 10 tables; Homonym_number, word_class, sense_number, regi
   primay key is {headword_id, flag_id}
 
 ### headword_citation
+
+|                      |          |          |
 ----------------------------------------------
 | headword_id          | int      | fk       |
 | citation_id          | int      | fk       |
