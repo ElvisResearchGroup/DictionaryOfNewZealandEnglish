@@ -1,85 +1,54 @@
-
 {% extends "layout.html" %}
 
 {% block content %}
 <div class="body-content">
     <div class="row">
       <h1>Insert</h1>
-      <br>
     </div>
-
-
-
 
     <form id="insertForm" method="POST" class="" action="insert" role="insert">
         {{ form.hidden_tag() }}
         <div class="form-group">
+            
 
-            <div class="form-group">
-                {{form.headword.label}}
-                {{ form.headword (placeholder="Headword", class_="form-control") }}
-            </div>
-            <div class="form-group">
-                {{form.definition.label}}
-                {{ form.definition (placeholder="Definition", class_="form-control") }}
-            </div>
-            <div class="form-group">
-                {{form.see.label}}
-                {{ form.see (placeholder="See", class_="form-control") }}
-            </div>
-            <div class="form-group">
-                {{form.pronunciation.label}}
-                {{ form.pronunciation (placeholder="Pronunciation", class_="form-control") }}
-            </div>
-            <div class="form-group">
-                {{form.notes.label}}
-                {{ form.notes (placeholder="Notes", class_="form-control") }}
-            </div>
-            <!-- don't need archive when inserting data 
-            <div class="form-group dnze-checkbox">
-                {{form.archived.label}}
-                {{ form.archived (checked=False, class_="form-control") }}
-            </div> -->
-
-                  <!-- headword, 
-                       definition, 
-                       see, 
-                       pronunciation, 
-                       notes, 
-                       archived, 
-                       data_set_id, 
-
-                       homonym_number_id, 
-                       word_class_id, 
-                       sense_number_id, 
-                       origin_id, 
-                       register_id, 
-                       domain_id, 
-                       region_id, 
-                       headword_citation, 
-                       headword_flag, 
-                       updated_by         -->
-
-
-            {% for element in ['Word class', 'Data set', 'Sense number',
-                          'Origin', 'Register', 'Domain', 'Region', 'Flag'] %} 
+            <!-- create multiple text entry fields -->
+            {% for element in ['Headword', 'Definition', 'See', 
+                               'Pronunciation', 'Notes'] %}
+              <!-- snake case version of element name -->
+              {% set snake = element.lower().replace(' ', '_') %}
 
               <div class="form-group">
-                {{ form.getattr(element.lower().replace(' ', '_')).label }}
+                <!-- sets the select box label -->
+                {{ form.getattr(snake).label }}
+                <!-- creates the text entry field -->
+                {{ form.getattr(snake)
+                               (placeholder=element, class_="form-control") }}
+              </div>
+            {% endfor %}
+
+
+            <!-- create multiple select entries-->
+            {% for element in ['Word class', 'Data set', 'Sense number',
+                               'Homonym_number', 'Origin', 'Register', 
+                               'Domain', 'Region', 'Flag'] %} 
+              <!-- snake case version of element name -->
+              {% set snake = element.lower().replace(' ', '_') %}
+
+              <div class="form-group">
+                <!-- sets the select box label -->
+                {{ form.getattr(snake).label }}
+                <!-- provides a link to manage this elements options -->
                 <a href="/users/table_list?table={{element}}">edit</a>
-              
-                {{ form.getattr(element.lower().replace(' ', '_'))
+                <!-- creates the select element with all its options -->
+                {{ form.getattr(snake)
                                (placeholder=element, class_="form-control") }}
               </div>
 
             {% endfor %}
 
-
         </div>
         <button class="btn btn-default" type="submit" >Insert</button>
     </form>
-
-
 
 </div>
 {% endblock %}

@@ -97,6 +97,7 @@ And 'upgrade' applies the migration.
 
 Seed data has been added to manage.py
 This populates all the secondary tables and provides sufficient data for testing for the main two tables (Headword and Citations).
+
     $ python manage.py seed
 
 ### fabric
@@ -151,6 +152,7 @@ As at March 2015
 Each table also has entries for created_at, last_update_at, last_update_by.
 
 ### User
+
 ------------------------------------------------------
 | id                   | int      | pk               |
 | username             | char(80) | unique, not null |
@@ -165,9 +167,10 @@ Each table also has entries for created_at, last_update_at, last_update_by.
 | is_admin             | boolean  | default=false    |
 | created_at           | date     | default=now      | 
 | updated_at           | date     | not null         |
-------------------------------------------------------
+
 
 ### Headword
+
 ---------------------------------------------------
 | id                   | int      | pk            |
 | name                 | char(50) | not null      |
@@ -190,16 +193,17 @@ Each table also has entries for created_at, last_update_at, last_update_by.
 | created_at           | date     | default=now   | 
 | updated_at           | date     | not null      |
 | updated_by           | char(80) | not null      |
----------------------------------------------------
+
 
 ### Secondary tables
 This format is used by 10 tables; Homonym_number, word_class, sense_number, register, domain, region, origin, source, flag, data_set.
+
 ---------------------------------------------------
 | id                   | int      | pk            |
 | name                 | char(50) | not null      |
 | notes                | text     |               |
 | created_at           | date     | default=now   |
----------------------------------------------------
+
 
 ### Citation
 ---------------------------------------------------
@@ -215,20 +219,20 @@ This format is used by 10 tables; Homonym_number, word_class, sense_number, regi
 | created_at           | date     | default=now   |
 | updated_at           | date     | not null      |
 | updated_by           | char(80) | not null      |
----------------------------------------------------
+
 
 ### headword_flag
 ----------------------------------------------
 | headword_id          | int      | fk       |
 | flag_id              | int      | fk       |
-----------------------------------------------
+
   primay key is {headword_id, flag_id}
 
 ### headword_citation
 ----------------------------------------------
 | headword_id          | int      | fk       |
 | citation_id          | int      | fk       |
-----------------------------------------------
+
   primay key is {headword_id, citation_id}
 
 

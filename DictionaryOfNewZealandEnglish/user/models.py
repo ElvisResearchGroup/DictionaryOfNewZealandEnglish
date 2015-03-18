@@ -13,19 +13,6 @@ from DictionaryOfNewZealandEnglish.database import (
     SurrogatePK,
 )
 
-# TODO only keeping for reference, delete before release
-#class Role(SurrogatePK, Model):
-#    # roles = {'user', 'admin'}
-#    __tablename__ = 'roles'
-#    name = Column(db.String(80), unique=True, nullable=False)
-#    user_id = ReferenceCol('users', nullable=True)
-#    user = relationship('User', backref='roles')
-#
-#    def __init__(self, name, **kwargs):
-#        db.Model.__init__(self, name=name, **kwargs)
-#
-#    def __repr__(self):
-#        return '<Role({name})>'.format(name=self.name)
 
 class User(UserMixin, SurrogatePK, Model):
 
@@ -40,13 +27,13 @@ class User(UserMixin, SurrogatePK, Model):
 
     password =    Column(db.String(128), nullable=True) # The hashed password
     active =      Column(db.Boolean(), default=False) 
-        # TODO active was inherited from the framework, is this used?
+    
     is_admin =    Column(db.Boolean(), default=False)
 
     created_at = Column(db.DateTime, default=dt.datetime.utcnow)
     updated_at = Column(db.DateTime, nullable=False)
 
-    def __init__(self, username, email, institution, country, interest, updated_at, password=None, active=False):
+    def __init__(self, username, email, institution, country, interest, updated_at, password=None, active=False, is_admin=False):
 
         db.Model.__init__(self, 
                           username=username, 
@@ -55,7 +42,8 @@ class User(UserMixin, SurrogatePK, Model):
                           country=country,
                           interest=interest,
 													updated_at=updated_at,
-                          active=active)
+                          active=active,
+                          is_admin=is_admin)
         if password:
             self.set_password(password)
         else:
@@ -75,8 +63,8 @@ class User(UserMixin, SurrogatePK, Model):
         return '<User({username!r})>'.format(username=self.username)
 
 
-
-# join tables for many-to-many relationships
+##############################################
+# join tables for many-to-many relationships #
 headword_flags = db.Table('headword_flags',
     db.Column('headword_id', db.Integer, db.ForeignKey('headwords.id')),
     db.Column('flag_id',     db.Integer, db.ForeignKey('flags.id'))
@@ -86,6 +74,9 @@ headword_citations = db.Table('headword_citations',
     db.Column('headword_id', db.Integer, db.ForeignKey('headwords.id')),
     db.Column('citation_id', db.Integer, db.ForeignKey('citations.id'))
 )
+
+# citation_sources
+
 
 
 class Headword(SurrogatePK, Model):
@@ -101,7 +92,7 @@ class Headword(SurrogatePK, Model):
     
     data_set_id =       ReferenceCol('data_sets', nullable=True)
     data_set = relationship('Data_set', backref='headwords')
-    
+  
     homonym_number_id = ReferenceCol('homonym_numbers', nullable=True)
     homonym_number = relationship('Homonym_number', backref='headwords')
 
@@ -114,10 +105,8 @@ class Headword(SurrogatePK, Model):
     origin_id =       ReferenceCol('origins', nullable=True)
     origin = relationship('Origin', backref='headwords')
 
-    register_id = db.Column(db.Integer, db.ForeignKey('registers.id'))
-
-#    register_id =       ReferenceCol('registers', nullable=True)
-#    register = relationship('Register', backref='headwords')
+    register_id =       ReferenceCol('registers', nullable=True)
+    register = relationship('Register', backref='headwords')
 # TODO not trusting this works first time
 #    register2_id =       ReferenceCol('registers', nullable=True)
 #    register = relationship('Register', backref='headwords')
@@ -129,10 +118,10 @@ class Headword(SurrogatePK, Model):
     region = relationship('Region', backref='headwords')
 
 # TODO many to many - may need more work
-    headword_citation = relationship('Citation', secondary = headword_citations,
-        backref=db.backref('citations', lazy='dynamic'))
-    headword_flag = relationship('Flag', secondary = headword_flags,
-        backref=db.backref('headwords', lazy='dynamic'))
+#    headword_citation = relationship('Citation', secondary = headword_citations,
+#        backref=db.backref('citations', lazy='dynamic'))
+#    headword_flag = relationship('Flag', secondary = headword_flags,
+#        backref=db.backref('headwords', lazy='dynamic'))
 
     created_at = Column(db.DateTime, default=dt.datetime.utcnow)
     updated_at = Column(db.DateTime, nullable=False)
@@ -146,8 +135,7 @@ class Headword(SurrogatePK, Model):
                        see, 
                        pronunciation, 
                        notes, 
-                       archived, 
-                       data_set_id, 
+                       data_set_id,
                        homonym_number_id, 
                        word_class_id, 
                        sense_number_id, 
@@ -155,43 +143,42 @@ class Headword(SurrogatePK, Model):
                        register_id, 
                        domain_id, 
                        region_id, 
-                       #headword_citation, 
-                       #headword_flag, 
-										   updated_at,
-                       updated_by):
+ 										   updated_at,
+                       updated_by
+                       ):
 
-        db.Model.__init__(self, headword=headword, 
-                                definition=definition, 
-                                see=see, 
-                                pronunciation=pronunciation, 
-                                notes=notes, 
-                                archived=archived, 
-                                data_set_id=data_set_id, 
+        db.Model.__init__(self, headword         =headword, 
+                                definition       =definition, 
+                                see              =see, 
+                                pronunciation    =pronunciation, 
+                                notes            =notes, 
+                                data_set_id      =data_set_id,
                                 homonym_number_id=homonym_number_id, 
-                                word_class_id=word_class_id, 
-                                sense_number_id=sense_number_id, 
-                                origin_id=origin_id, 
-                                register_id=register_id,          
-                                domain_id=domain_id, 
-                                region_id=region_id, 
-                                #headword_citation=headword_citation, 
-                                #headword_flag=headword_flag, 
-												        updated_at=updated_at,
-                                updated_by=updated_by )
+                                word_class_id    =word_class_id, 
+                                sense_number_id  =sense_number_id, 
+                                origin_id        =origin_id, 
+                                register_id      =register_id,          
+                                domain_id        =domain_id, 
+                                region_id        =region_id, 
+                                updated_at       =updated_at,
+                                updated_by       =updated_by 
+                                )
 
     @property
     def full_name(self):
-        return "Headword is {0}".format(self.name)
+        return "Headword is {0}".format(self.headword)
 
     def __repr__(self):
-        return '<Headword ({name!r})>'.format(name=self.name)
+        return '<Headword ({name!r})>'.format(name=self.headword)
+
 
 
 class Citation(SurrogatePK, Model):
     
     __tablename__ = "citations"
     date =       Column(db.DateTime,   nullable=False)
-    circa =      Column(db.Boolean, default=False) # not all dates are accurate
+    # per expert, circa needed as not all dates are accurate
+    circa =      Column(db.Boolean, default=False)
     author =     Column(db.String(80), nullable=False)
 
     source_id =  ReferenceCol('sources', nullable=True)
@@ -218,219 +205,74 @@ class Citation(SurrogatePK, Model):
     def __repr__(self):
         return "<Citation({name!r})>".format(name=self.full_name)
 
-
-# superclass for secondary tables
+###################################
+# superclass for secondary tables #
 class Secondary_values():
+    
+    name       = Column(db.String(50), nullable=False, unique=True)
+    notes      = Column(db.Text,       nullable=True)
+    archived   = Column(db.Boolean,    default=False)
+    created_at = Column(db.DateTime,   default=dt.datetime.utcnow)
+    updated_at = Column(db.DateTime,   nullable=False)
+    updated_by = Column(db.String(80), nullable=False)
 
-    def __init__(self, id, name, notes, updated_by, archived, updated_at ):
+    def __init__(self, name, notes, updated_by, updated_at, archived=False, id=None ):
         db.Model.__init__(self, 
-                          id=id,
                           name=name, 
-                          notes=notes, 
-                          archived=archived, 
+                          notes=notes,  
                           updated_at=updated_at, 
-                          updated_by=updated_by)
+                          updated_by=updated_by,
+                          archived=archived,
+                          id=id)
 
     @property
     def full_name(self):
         return "%s" % self.name
 
     def __repr__(self):
-        return "('%s', '%s')" % (self.id, self.name)
+        return "<%s (%s, '%s')>" % (self.__name__, self.id, self.name)
 
-
-# secondary table sub-classes (x10)
+####################
+# secondary tables #
 class Word_class(Secondary_values, SurrogatePK, Model):
+    __name__ = 'Word_class'
     __tablename__ = "word_classes"
-    name =       Column(db.String(50), nullable=False, unique=True)
-    notes =      Column(db.Text,       nullable=True)
-    archived =      Column(db.Boolean, default=False)
-    created_at = Column(db.DateTime,   default=dt.datetime.utcnow)
-    updated_at = Column(db.DateTime,   nullable=False)
-    updated_by = Column(db.String(80), nullable=False)
-
-    def __init__(self, name, notes, updated_by, archived, updated_at, id=None ):
-        Secondary_values.__init__(self,
-                                  id, 
-                                  name=name, 
-                                  notes=notes, 
-                                  archived=archived, 
-                                  updated_at=updated_at, 
-                                  updated_by=updated_by)
-
 
 class Data_set(Secondary_values, SurrogatePK, Model):
+    __name__ = 'Data_set'
     __tablename__ = "data_sets"
-    name =       Column(db.String(50), nullable=False, unique=True)
-    notes =      Column(db.Text,       nullable=True)
-    archived =      Column(db.Boolean, default=False)
-    created_at = Column(db.DateTime,   default=dt.datetime.utcnow)
-    updated_at = Column(db.DateTime,   nullable=False)
-    updated_by = Column(db.String(80), nullable=False)
-
-    def __init__(self, name, notes, updated_by, archived, updated_at, id=None ):
-        Secondary_values.__init__(self,
-                                  id, 
-                                  name=name, 
-                                  notes=notes, 
-                                  archived=archived, 
-                                  updated_at=updated_at, 
-                                  updated_by=updated_by)
-
-    @classmethod
-    @property
-    def select_list():
-        a = db.engine.execute("select * from data_sets")
-        return a
-
 
 class Sense_number(Secondary_values, SurrogatePK, Model):
+    __name__ = 'Sense_number'
     __tablename__ = "sense_numbers"
-    name =       Column(db.String(50), nullable=False, unique=True)
-    notes =      Column(db.Text,       nullable=True)
-    archived =      Column(db.Boolean, default=False)
-    created_at = Column(db.DateTime,   default=dt.datetime.utcnow)
-    updated_at = Column(db.DateTime,   nullable=False)
-    updated_by = Column(db.String(80), nullable=False)
-
-    def __init__(self, name, notes, updated_by, archived, updated_at, id=None ):
-        Secondary_values.__init__(self,
-                                  id, 
-                                  name=name, 
-                                  notes=notes, 
-                                  archived=archived, 
-                                  updated_at=updated_at, 
-                                  updated_by=updated_by)
-
 
 class Homonym_number(Secondary_values, SurrogatePK, Model):
+    __name__ = 'Homonym_number'
     __tablename__ = "homonym_numbers"
-    name =       Column(db.String(50), nullable=False, unique=True)
-    notes =      Column(db.Text,       nullable=True)
-    archived =   Column(db.Boolean,    default=False)
-    created_at = Column(db.DateTime,   default=dt.datetime.utcnow)
-    updated_at = Column(db.DateTime,   nullable=False)
-    updated_by = Column(db.String(80), nullable=False)
-
-    def __init__(self, name, notes, updated_by, archived, updated_at, id=None ):
-        Secondary_values.__init__(self,
-                                  id, 
-                                  name=name, 
-                                  notes=notes, 
-                                  archived=archived, 
-                                  updated_at=updated_at, 
-                                  updated_by=updated_by)
-
 
 class Register(Secondary_values, SurrogatePK, Model):
+    __name__ = 'Register'
     __tablename__ = "registers"
-    name =       Column(db.String(50), nullable=False, unique=True)
-    notes =      Column(db.Text,       nullable=True)
-    archived =      Column(db.Boolean, default=False)
-    created_at = Column(db.DateTime,   default=dt.datetime.utcnow)
-    updated_at = Column(db.DateTime,   nullable=False)
-    updated_by = Column(db.String(80), nullable=False)
-
-    def __init__(self, name, notes, updated_by, archived, updated_at, id=None ):
-        Secondary_values.__init__(self,
-                                  id, 
-                                  name=name, 
-                                  notes=notes, 
-                                  archived=archived, 
-                                  updated_at=updated_at, 
-                                  updated_by=updated_by)
-
 
 class Domain(Secondary_values, SurrogatePK, Model):
+    __name__ = 'Domain'
     __tablename__ = "domains"
-    name =       Column(db.String(50), nullable=False, unique=True)
-    notes =      Column(db.Text,       nullable=True)
-    archived =      Column(db.Boolean, default=False)
-    created_at = Column(db.DateTime,   default=dt.datetime.utcnow)
-    updated_at = Column(db.DateTime,   nullable=False)
-    updated_by = Column(db.String(80), nullable=False)
-
-    def __init__(self, name, notes, updated_by, archived, updated_at, id=None ):
-        Secondary_values.__init__(self,
-                                  id, 
-                                  name=name, 
-                                  notes=notes, 
-                                  archived=archived, 
-                                  updated_at=updated_at, 
-                                  updated_by=updated_by)
 
 class Region(Secondary_values, SurrogatePK, Model):
+    __name__ = 'Region'
     __tablename__ = "regions"
-    name =       Column(db.String(50), nullable=False, unique=True)
-    notes =      Column(db.Text,       nullable=True)
-    archived =      Column(db.Boolean, default=False)
-    created_at = Column(db.DateTime,   default=dt.datetime.utcnow)
-    updated_at = Column(db.DateTime,   nullable=False)
-    updated_by = Column(db.String(80), nullable=False)
-
-    def __init__(self, name, notes, updated_by, archived, updated_at, id=None ):
-        Secondary_values.__init__(self,
-                                  id, 
-                                  name=name, 
-                                  notes=notes, 
-                                  archived=archived, 
-                                  updated_at=updated_at, 
-                                  updated_by=updated_by)
 
 class Origin(Secondary_values, SurrogatePK, Model):
+    __name__ = 'Origin'
     __tablename__ = "origins"
-    name =       Column(db.String(50), nullable=False, unique=True)
-    notes =      Column(db.Text,       nullable=True)
-    archived =      Column(db.Boolean, default=False)
-    created_at = Column(db.DateTime,   default=dt.datetime.utcnow)
-    updated_at = Column(db.DateTime,   nullable=False)
-    updated_by = Column(db.String(80), nullable=False)
-
-    def __init__(self, name, notes, updated_by, archived, updated_at, id=None ):
-        Secondary_values.__init__(self,
-                                  id, 
-                                  name=name, 
-                                  notes=notes, 
-                                  archived=archived, 
-                                  updated_at=updated_at, 
-                                  updated_by=updated_by)
 
 class Flag(Secondary_values, SurrogatePK, Model):
+    __name__ = 'Flag'
     __tablename__ = "flags"
-    name       = Column(db.String(50), nullable=False, unique=True)
-    notes      = Column(db.Text,       nullable=True)
-    updated_at = Column(db.DateTime,   nullable=False)
-    updated_by = Column(db.String(80), nullable=True)
-    archived   = Column(db.Boolean, default=False)
-    created_at = Column(db.DateTime,   default=dt.datetime.utcnow)
-
-    def __init__(self, name, notes, updated_by, archived, updated_at, id=None ):
-        Secondary_values.__init__(self,
-                                  id, 
-                                  name=name, 
-                                  notes=notes, 
-                                  archived=archived, 
-                                  updated_at=updated_at, 
-                                  updated_by=updated_by)
 
 class Source(Secondary_values, SurrogatePK, Model):
+    __name__ = 'Source'
     __tablename__ = "sources"
-    name       = Column(db.String(50), nullable=False, unique=True)
-    notes      = Column(db.Text,       nullable=True)
-    updated_at = Column(db.DateTime,   nullable=False)
-    updated_by = Column(db.String(80), nullable=True)
-    archived   = Column(db.Boolean, default=False)
-    created_at = Column(db.DateTime,   default=dt.datetime.utcnow)
-
-    def __init__(self, name, notes, updated_by, archived, updated_at, id=None ):
-        Secondary_values.__init__(self,
-                                  id, 
-                                  name=name, 
-                                  notes=notes, 
-                                  archived=archived, 
-                                  updated_at=updated_at, 
-                                  updated_by=updated_by)
-
 
 
 

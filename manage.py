@@ -8,7 +8,7 @@ from flask.ext.script import Manager, Shell, Server
 from flask.ext.migrate import MigrateCommand
 
 from DictionaryOfNewZealandEnglish.app import create_app
-from DictionaryOfNewZealandEnglish.user.models import User, Flag, Homonym_number, Word_class, Sense_number, Register, Domain, Region, Origin, Source, Data_set
+from DictionaryOfNewZealandEnglish.user.models import *
 from DictionaryOfNewZealandEnglish.settings import DevConfig, ProdConfig
 from DictionaryOfNewZealandEnglish.database import db
 
@@ -35,7 +35,10 @@ def test():
     exit_code = pytest.main([TEST_PATH, '--verbose'])
     return exit_code
 
-
+# Seed data for initialising the secondary tables of the database
+# Also Users 'admin' and 'Matt'
+# Also Headword entry 'test'
+# might not be the Python place for it, but it works :-)
 @manager.command
 def seed():    
     User.create( username="admin", 
@@ -43,17 +46,36 @@ def seed():
                  institution="NZDC VUW",
                  country="NZ",
                  interest="Admin role",
-                 password="password", 
-                 updated_at=dt.datetime(2015, 3, 8, 7, 36, 19, 347404), 
+                 is_admin=True,
+                 password="qwerty", 
+                 updated_at=dt.datetime(2015, 3, 9, 0, 0, 0, 0),
                  active=True )
-    User.create( username="Matt", 
+    User.create( username="matt", 
                  email="matt@example.com", 
                  institution="NZDC VUW",
                  country="NZ",
-                 interest="Admin role",
-                 password="password", 
-                 updated_at=dt.datetime(2015, 3, 8, 7, 36, 19, 347404), 
+                 interest="user role",
+                 password="qwerty", 
+                 updated_at=dt.datetime(2015, 3, 9, 0, 0, 0, 0),
                  active=True )
+
+    Headword.create(
+                 headword="test",
+                 definition="try me",
+                 see="Big ball of mud",
+                 pronunciation="as written",
+                 notes="testing is good for the soul.",
+                 data_set_id=3,
+                 homonym_number_id=20, 
+                 word_class_id=27,
+                 sense_number_id=59, 
+                 origin_id=16, 
+                 register_id=16, 
+                 domain_id=26, 
+                 region_id=7, 
+                 updated_at=dt.datetime(2015, 3, 9, 0, 0, 0, 0),
+                 updated_by="seed data"
+                   )
 
     Flag.create( id=1,
                  name="Transport",
@@ -592,7 +614,6 @@ def seed():
                  archived=False,
                  updated_at=dt.datetime(2015, 3, 9, 0, 0, 0, 0),
                  updated_by="")
-
 
 
 

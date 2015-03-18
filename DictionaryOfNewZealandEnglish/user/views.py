@@ -35,7 +35,7 @@ def insert():
 
 
 
-
+# INSERT POST
 @blueprint.route("/insert", methods=["POST"])
 def insertdb():
     
@@ -48,39 +48,29 @@ def insertdb():
 
 
 
-#    date_obj = datetime.datetime.strptime(form.date.data, '%d/%m/%Y').date()
+    headword = Headword.create(
+                          headword          = form.headword.data,
+                          definition        = form.definition.data,
+                          see               = form.see.data,
+                          pronunciation     = form.pronunciation.data,
+                          notes             = form.notes.data,
+                          data_set_id       = form.data_set.data.id,
 
-    homonym_number_id = 1
-    word_class_id = 1
-    sense_number_id = 1
-    origin_id= 1
-    register_id =1
-    domain_id = 1
-    region_id = 1
-    #headword_citation = [1]
-    #headword_flag = [1]
-    updated_by = 1
-    headword = Headword.create(headword = form.headword.data,
-                               definition = form.definition.data,
-                               see = form.see.data,
-                               pronunciation = form.pronunciation.data,
-                               notes = form.notes.data,
-                               archived = form.archived.data,
-                               data_set_id = form.data_set.data,
+                          # these are database backed models
+                          homonym_number_id = form.homonym_number.data.id, 
+                          word_class_id     = form.word_class.data.id, 
+                          sense_number_id   = form.sense_number.data.id, 
+                          origin_id         = form.origin.data.id,
+                          register_id       = form.register.data.id, 
+                          domain_id         = form.domain.data.id, 
+                          region_id         = form.region.data.id, 
+                          updated_at        = dt.datetime.utcnow(),
+                          updated_by        = current_user.username 
+                                )
 
-                               homonym_number_id=homonym_number_id, 
-                               word_class_id=word_class_id, 
-                               sense_number_id=sense_number_id, 
-                               origin_id=origin_id, 
-                               register_id=register_id, 
-                               domain_id=domain_id, 
-                               region_id=region_id, 
-                               #headword_citation=headword_citation, 
-                               #headword_flag=headword_flag, 
-                               updated_at=dt.datetime.utcnow(),
-                               updated_by=updated_by )
+    a = Data_set.query.all()
 
-    return render_template("users/insert.html", form=form)
+    return render_template("users/insert.html", form=form, ds_list=a)
 
 
 
@@ -97,26 +87,28 @@ def search():
 @blueprint.route("/search/db", methods=["POST"])
 @login_required
 def searchdb():
-    form = HeadwordForm(request.form, "display_data")
+    key = request.form['headword']
+    headword = Headword.query.filter_by(headword=key).first()
+#    form = HeadwordForm(request.form, "display_data")
     # Handle search
-    if form.validate_on_submit():
+#    if form.validate_on_submit():
         #author = form.author.data
         #source = form.source.data
-        try:
-            date = dt.datetime.strptime(form.updated_at.data, '%d/%m/%Y').date()
-        except ValueError:
-            date = ""
+        #try:
+         #   date = dt.datetime.strptime(form.updated_at.data, '%d/%m/%Y').date()
+        #except ValueError:
+         #   date = ""
 
         #citations = Citation.query.filter_by(author="Wallace", source="maximum").all()
         #citations = engine.execute('select * from Citations where author = :1', [author]).first()
 
-        flash('Search form is validated ')# + citations[0].source)
+#        flash('Search form is validated ')# + citations[0].source)
 
-    else:
-        flash_errors(form)
+#    else:
+#        flash_errors(form)
 
     #flash('Searching data - this page should display responses, but doesn\'t yet.')
-    return render_template("users/search.html", form=form)
+    return render_template("users/search_result.html", headword=headword)
 
 
 @blueprint.route("/table_list/", methods=["GET"])
@@ -154,6 +146,7 @@ def table_delete_row():
 
 
     # TODO finish this recipe once Headwords can cope
+    # do not deleting a data row if it will leave hanging db entries
     data = None # TODO get all headwords using this table & name
     if data == None:
         flash("TODO not yet checking database for existing use before deleting")
@@ -224,9 +217,9 @@ def create_row_in_table_for_name(table, form):
 
     except (IntegrityError, InvalidRequestError):
         db.session.rollback()
-        return "Database integrety constraint - %s already exists in the database" % name
+        return "Database integrety constraint: %s already exists in the database" % name
 
-    flash("%s inserted into database" % name)
+    flash("%s inserted into database: " % name)
     return get_data_for_table_rowname(table, name)
 
 def delete_row_in_table(table, name):
@@ -239,9 +232,9 @@ def delete_row_in_table(table, name):
 
     except (IntegrityError, InvalidRequestError):
         db.session.rollback()
-        return "Database integrety constraint - %s has a problem" % name
+        return "Database integrety constraint: %s has a problem" % name
 
-    flash("%s deleted from database" % name)
+    flash("%s deleted from database: " % name)
     return get_data_for_table_rowname(table, 'all')
 
 

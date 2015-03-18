@@ -1,16 +1,10 @@
-
 {% extends "layout.html" %}
 
 {% block content %}
 <div class="body-content">
     <div class="row">
       <h1>Search</h1>
-      <br>
-      <p>User is registered.</p>
     </div>
-
-
-
 
     <form id="searchForm" method="POST" class="" action="db" role="search">
       {{ form.hidden_tag() }}
@@ -20,36 +14,10 @@
                 {{form.headword.label}}
                 {{ form.headword (placeholder="Headword", class_="form-control") }}
             </div>
-            <div class="form-group">
-                {{form.definition.label}}
-                {{ form.definition (placeholder="Definition", class_="form-control") }}
-            </div>
-            <div class="form-group">
-                {{form.see.label}}
-                {{ form.see (placeholder="See", class_="form-control") }}
-            </div>
-            <div class="form-group">
-                {{form.pronunciation.label}}
-                {{ form.pronunciation (placeholder="Pronunciation", class_="form-control") }}
-            </div>
-            <div class="form-group">
-                {{form.notes.label}}
-                {{ form.notes (placeholder="Notes", class_="form-control") }}
-            </div>
-            <div class="form-group">
-                {{form.archived.label}}
-                {{ form.archived (placeholder="Archived - checkbox", class_="form-control") }}
-            </div>
-            <div class="form-group">
-                {{form.data_set.label}}
-                {{ form.data_set (placeholder="Data set select box", class_="form-control") }}
-            </div>
 
         </div>
       <button type="submit" class="btn btn-default">Search</button>
     </form>
-
-
 
 </div>
 {% endblock %}
