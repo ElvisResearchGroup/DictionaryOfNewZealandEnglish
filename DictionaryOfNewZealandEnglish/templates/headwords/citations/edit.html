@@ -8,7 +8,7 @@
     </div>
 
 
-    <form id="insertForm" method="POST" class="" action="/users/table_update/?table={{table}}&name={{name}}">
+    <form id="insertForm" method="POST" class="" action="/headwords/attributes/edit?table={{table}}&name={{name}}">
         {{ form.hidden_tag() }}
         <div class="form-group">
 
@@ -29,7 +29,7 @@
         <button class="btn btn-default" type="submit" >edit</button>
     </form>
 
-    <br><a href="/users/table_list/?table={{table}}">back to list</a>
+    <br><a href="/headwords/attributes/index?table={{table}}">back to list</a>
 
 </div>
 {% endblock %}

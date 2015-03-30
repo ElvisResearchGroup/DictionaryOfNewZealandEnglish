@@ -12,7 +12,8 @@ from DictionaryOfNewZealandEnglish.extensions import (
     migrate,
     debug_toolbar,
 )
-from DictionaryOfNewZealandEnglish import public, user
+from DictionaryOfNewZealandEnglish import public, user, headword
+from DictionaryOfNewZealandEnglish.headword import attribute
 
 
 def create_app(config_object=ProdConfig):
@@ -48,6 +49,8 @@ def register_extensions(app):
 def register_blueprints(app):
     app.register_blueprint(public.views.blueprint)
     app.register_blueprint(user.views.blueprint)
+    app.register_blueprint(headword.views.blueprint)
+    app.register_blueprint(attribute.views.blueprint)
     return None
 
 

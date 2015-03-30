@@ -32,7 +32,6 @@ textarea {
   width: 180px;
 }
 
-
 .form-register {
   width: 50%;
 }
@@ -50,6 +49,7 @@ textarea {
 .dnze-checkbox{
   width: 100px;
 }
+
 
 /* footer */
 
@@ -87,6 +87,16 @@ footer .footer-nav {
   float: right;
   margin-right: 25px;
   list-style: none;
+}
+
+.edit_headword table{
+  width: 100%;
+}
+
+.edit_headword td{
+  width: 30%;
+  padding-left: 1.666%;
+  padding-right: 1.666%;
 }
 
 /* errors and messages */

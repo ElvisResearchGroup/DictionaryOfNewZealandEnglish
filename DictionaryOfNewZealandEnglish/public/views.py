@@ -8,7 +8,7 @@ from datetime import datetime
 from DictionaryOfNewZealandEnglish.extensions import login_manager
 from DictionaryOfNewZealandEnglish.user.models import User
 from DictionaryOfNewZealandEnglish.public.forms import LoginForm
-from DictionaryOfNewZealandEnglish.user.forms import RegisterForm
+#from DictionaryOfNewZealandEnglish.user.forms import RegisterForm
 from DictionaryOfNewZealandEnglish.utils import flash_errors
 from DictionaryOfNewZealandEnglish.database import db
 
@@ -21,53 +21,29 @@ def load_user(id):
 
 @blueprint.route("/", methods=["GET", "POST"])
 def home():
-    user_form = LoginForm(request.form) # TODO ??? should be request.user_form ???
+    login_form = LoginForm(request.form)
     # Handle logging in
     if request.method == 'POST':
-        if user_form.validate_on_submit():
-            login_user(user_form.user)
+        if login_form.validate_on_submit():
+            login_user(login_form.user)
             flash("You are logged in.", 'success')
             redirect_url = request.args.get("next") or url_for("user.members")
             return redirect(redirect_url)
         else:
-            flash_errors(user_form)
+            flash_errors(login_form)
     #return render_template("public/home.html", form=form)
-    return render_template("public/nzdchome.html", user_form=user_form)
-
-@blueprint.route('/logout/')
-@login_required
-def logout():
-    logout_user()
-    flash('You are logged out.', 'info')
-    return redirect(url_for('public.home'))
-
-@blueprint.route("/register/", methods=['GET', 'POST'])
-def register():
-    form = RegisterForm(request.form, csrf_enabled=False)
-    if form.validate_on_submit():
-        new_user = User.create(username=form.username.data,
-                        email=form.email.data,
-                        institution=form.institution.data,
-                        country=form.country.data,
-                        interest=form.interest.data,
-                        updated_at=datetime.utcnow(),
-                        password=form.password.data,
-                        active=True)
-        flash("Thank you for registering. You can now log in.", 'success')
-        return redirect(url_for('public.home'))
-    else:
-        flash_errors(form)
-    return render_template('public/register.html', form=form)
-
-@blueprint.route("/about/")
-def about():
-    form = LoginForm(request.form)
-    return render_template("public/about.html", title="Fred", form=form)
+    return render_template("public/nzdchome.html", login_form=login_form)
 
 @blueprint.route("/search/")
 def search():
-    form = LoginForm(request.form)
-    return render_template("public/search.html", form=form)
+    login_form = LoginForm(request.form)
+    return render_template("public/search.html", login_form=login_form)
+
+#@blueprint.route("/about/")
+#def about():
+#    form = LoginForm(request.form)
+#    return render_template("public/about.html", title="Fred", form=form)
+
 
 
 

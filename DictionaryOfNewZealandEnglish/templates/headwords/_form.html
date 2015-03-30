@@ -1,0 +1,54 @@
+
+{% block content %}
+
+    <form id="insertForm" method="POST" class="" action="{{form_type}}?name={{form.headword.data}}" role="insert">
+      {{ form.hidden_tag() }}
+      <div class="form-group">
+            
+        <!-- create multiple text entry fields -->
+        {% for element in ['Headword', 'Definition', 'See', 
+                               'Pronunciation', 'Notes'] %}
+          <!-- snake case version of element name -->
+          {% set snake = element.lower().replace(' ', '_') %}
+
+          <div class="form-group">
+            <!-- sets the select box label -->
+            {{ form.getattr(snake).label }}
+            <!-- creates the text entry field -->
+            {{ form.getattr(snake)
+                               (placeholder=element, class_="form-control") }}
+          </div>
+        {% endfor %}
+
+
+        <!-- create multiple select entries-->
+        <table class="edit_headword">
+          <tr>
+            {% for element in ['Word class', 'Data set', 'Sense number', 'tr',
+                               'Homonym_number', 'Origin', 'Register', 'tr',
+                               'Domain', 'Region', 'Flag'] %} 
+              {% if element == 'tr' %}
+                </tr><tr>
+              {% else %}
+                {% set snake_case = element.lower().replace(' ', '_') %}
+                <td>
+                  <div class="form-group">
+                    <!-- sets the select box label -->
+                    {{ form.getattr(snake_case).label }}
+                    <!-- provides a link to manage this elements options -->
+                    <a href="/headwords/attributes/index?table={{element}}">edit</a>
+                    <!-- creates the select element with all its options -->
+                    {{ form.getattr(snake_case)
+                               (placeholder=element, class_="form-control") }}
+                  </div>
+                </td>
+              {% endif %}
+            {% endfor %}
+          </tr>
+        </table>
+
+      </div>
+      <button class="btn btn-primary" type="submit" >{{form_type}}</button>
+    </form>
+{% endblock %}
+

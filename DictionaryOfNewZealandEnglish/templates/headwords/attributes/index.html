@@ -16,9 +16,9 @@
       </td><td style="width:5em">
         {{ "archived" if d.archived else "in use" }}
       </td><td style="width:3em">
-        <a href="/users/table_update/?table={{table}}&name={{d.name}}">edit</a>
+        <a href="/headwords/attributes/edit?table={{table}}&name={{d.name}}">edit</a>
       </td><td style="width:4em">
-        <a href="/users/table_delete_row/?table={{table}}&name={{d.name}}" data-confirm="Are you sure you wish to delete {{d.name}}?">delete</a>
+        <a href="/headwords/attributes/delete?table={{table}}&name={{d.name}}" data-confirm="Are you sure you wish to delete {{d.name}}?">delete</a>
       </td>
     {% endif %}
     </tr>
@@ -28,7 +28,7 @@
     <h3>Add a new entry</h3>
 
     <!-- add a new entry -->
-    <form id="insertForm" method="POST" class="" action="/users/table_new_entry/?table={{table}}">
+    <form id="insertForm" method="POST" class="" action="/headwords/attributes/create?table={{table}}">
         {{ form.hidden_tag() }}
         <div class="form-group">
 
@@ -41,7 +41,7 @@
                 {{ form.notes (placeholder="notes", class_="form-control") }}
             </div>
         </div>
-        <button class="btn btn-default" type="submit" >edit</button>
+        <button class="btn btn-primary" type="submit" >create</button>
     </form>
 
 </div>

@@ -154,7 +154,7 @@ Each table also has entries for created_at, last_update_at, last_update_by.
 ### User
 
 | field                | type     | stuff            |
-| ---------------------|----------|------------------|
+|----------------------|----------|------------------|
 | id                   | int      | pk               |
 | username             | char(80) | unique, not null |
 | email                | char(80) | unique, not null |
@@ -173,7 +173,7 @@ Each table also has entries for created_at, last_update_at, last_update_by.
 ### Headword
 
 |                      |          |               |
----------------------------------------------------
+|----------------------|----------|---------------|
 | id                   | int      | pk            |
 | name                 | char(50) | not null      |
 | definition           | text     | not null      |
@@ -200,8 +200,7 @@ Each table also has entries for created_at, last_update_at, last_update_by.
 ### Secondary tables
 This format is used by 10 tables; Homonym_number, word_class, sense_number, register, domain, region, origin, source, flag, data_set.
 
-|                      |          |               |
----------------------------------------------------
+|----------------------|----------|---------------|
 | id                   | int      | pk            |
 | name                 | char(50) | not null      |
 | notes                | text     |               |
