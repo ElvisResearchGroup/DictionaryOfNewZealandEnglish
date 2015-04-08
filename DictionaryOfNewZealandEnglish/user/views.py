@@ -7,7 +7,6 @@ from flask.ext.login import login_required
 from DictionaryOfNewZealandEnglish.user.forms import DataForm
 from DictionaryOfNewZealandEnglish.user.models import Citation
 import datetime
-
 blueprint = Blueprint("user", __name__, url_prefix='/users',
                         static_folder="../static")
 
@@ -18,13 +17,10 @@ def members():
     return render_template("users/members.html")
 
 
-
 @blueprint.route("/insert/", methods=["GET", "POST"])
 def insert():
     form = DataForm(request.form, used_as="insert_data")
     return render_template("users/insert.html", form=form)
-
-
 
 
 @blueprint.route("/insert/db", methods=["GET", "POST"])
@@ -42,9 +38,6 @@ def insertdb():
                                date   = date_obj )
 
     return render_template("users/insert.html", form=form)
-
-
-
 
 
 @blueprint.route("/search/", methods=["GET", "POST"])

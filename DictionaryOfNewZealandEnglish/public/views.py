@@ -33,12 +33,14 @@ def home():
     #return render_template("public/home.html", form=form)
     return render_template("public/nzdchome.html", form=form)
 
+
 @blueprint.route('/logout/')
 @login_required
 def logout():
     logout_user()
     flash('You are logged out.', 'info')
     return redirect(url_for('public.home'))
+
 
 @blueprint.route("/register/", methods=['GET', 'POST'])
 def register():
@@ -54,10 +56,12 @@ def register():
         flash_errors(form)
     return render_template('public/register.html', form=form)
 
+
 @blueprint.route("/about/")
 def about():
     form = LoginForm(request.form)
-    return render_template("public/about.html", title="Fred", form=form)
+    return render_template("public/about.html", form=form)
+
 
 @blueprint.route("/search/")
 def search():
@@ -72,5 +76,8 @@ def search():
 
 
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> eb490a933f505264ceedfd23100562935716e406
