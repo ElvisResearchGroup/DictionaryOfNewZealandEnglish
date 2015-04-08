@@ -5,6 +5,33 @@ A web interface to the "Dictionary of New Zealand English", managed and run by t
 
 Development notes and stuff I do not wish to commit to memory.
 
+### Outstanding tasks
+
+#### Plumbing
+* use Date objects in Citations
+* Template Headwords, limit to 30 per page
+* Template 3 Headword displays (eg: {name, definition fields only}, {all citations}, {first & last citations})
+* Display Headwords by Attribute or headword search (plus 'all' option)
+* XSS & SQL injection defence
+* Dockerise the app
+* a coders HISTORY.md file to credit previous coding efforts
+
+#### Client supplying text for
+* Hover help text (explaining uncommon terms)
+* History page
+* New text for front page
+
+#### Migrate data
+
+Deserves its own section. To be discussed with Andre & David closer to the time.
+
+
+### Reset Database
+
+    python manage.py resetdb
+
+NOTE: Comment this out in manage.py for production!!!
+or add "if production return" to the first line if that capability is in Python
 
 ## Project set-up
 
@@ -151,7 +178,7 @@ As at March 2015
 
 Each table also has entries for created_at, last_update_at, last_update_by.
 
-### User
+###### User
 
 | field                | type     | stuff            |
 |----------------------|----------|------------------|
@@ -170,7 +197,7 @@ Each table also has entries for created_at, last_update_at, last_update_by.
 | updated_at           | date     | not null         |
 
 
-### Headword
+###### Headword
 
 |                      |          |               |
 |----------------------|----------|---------------|
@@ -186,28 +213,14 @@ Each table also has entries for created_at, last_update_at, last_update_by.
 | word_class_id        | int      | fk            |
 | sense_number_id      | int      | fk            |
 | origin_id            | int      | fk            |
-| register_id          | int      | fk            |
-| register2_id         | int      | fk            |
 | domain_id            | int      | fk            |
 | region_id            | int      | fk            |
-| headword_flag_id     | int      | fk            |
-| headword_citation_id | int      | fk            |
 | created_at           | date     | default=now   | 
 | updated_at           | date     | not null      |
 | updated_by           | char(80) | not null      |
 
 
-### Secondary tables
-This format is used by 10 tables; Homonym_number, word_class, sense_number, register, domain, region, origin, source, flag, data_set.
-
-|----------------------|----------|---------------|
-| id                   | int      | pk            |
-| name                 | char(50) | not null      |
-| notes                | text     |               |
-| created_at           | date     | default=now   |
-
-
-### Citation
+###### Citation
 
 |                      |          |               |
 ---------------------------------------------------
@@ -225,23 +238,41 @@ This format is used by 10 tables; Homonym_number, word_class, sense_number, regi
 | updated_by           | char(80) | not null      |
 
 
-### headword_flag
+##### Secondary tables
+This format is used by 10 tables; homonym_numbers, word_classes, sense_numbers, registers, domains, regions, origins, sources, flags, data_sets.
 
-|                      |          |          |
-----------------------------------------------
-| headword_id          | int      | fk       |
-| flag_id              | int      | fk       |
+|----------------------|----------|---------------|
+| id                   | int      | pk            |
+| name                 | char(50) | not null      |
+| notes                | text     |               |
+| created_at           | date     | default=now   |
 
-  primay key is {headword_id, flag_id}
 
-### headword_citation
+##### Many to Many join tables
+
+###### headword_citations
 
 |                      |          |          |
 ----------------------------------------------
 | headword_id          | int      | fk       |
 | citation_id          | int      | fk       |
 
-  primay key is {headword_id, citation_id}
+
+###### headword_flags
+
+|                      |          |          |
+----------------------------------------------
+| headword_id          | int      | fk       |
+| flag_id              | int      | fk       |
+
+
+###### headword_registers
+
+|                      |          |          |
+----------------------------------------------
+| headword_id          | int      | fk       |
+| register_id          | int      | fk       |
+
 
 
 

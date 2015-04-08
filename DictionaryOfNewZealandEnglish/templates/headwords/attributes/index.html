@@ -1,6 +1,9 @@
+<!-- list attributes -->
 {% extends "layout.html" %}
 
 {% block content %}
+
+
 <div class="body-content">
     <div class="row">
       <h1>List of entries for {{table}}</h1>
@@ -9,17 +12,48 @@
 
 <table>
 {% for d in data: %}
+    {% set var = "table={0}&name={1}&headword={2}".format(table, d.name, headword.headword) %}
+    {% set link_edit = "/headwords/attributes/edit?{0}".format(var) %}
+    {% set link_delete = "/headwords/attributes/delete?%s" % var %}
     <tr>
     {% if d.name != "[none]": %}
-      <td style="width:10em">
+      <td style="padding-right:2em">
         {{d.name}}
-      </td><td style="width:5em">
-        {{ "archived" if d.archived else "in use" }}
-      </td><td style="width:3em">
-        <a href="/headwords/attributes/edit?table={{table}}&name={{d.name}}">edit</a>
-      </td><td style="width:4em">
-        <a href="/headwords/attributes/delete?table={{table}}&name={{d.name}}" data-confirm="Are you sure you wish to delete {{d.name}}?">delete</a>
       </td>
+
+      {% if table == "Flag" or table == "Register" %}
+
+        {% if table == "Flag" %}
+          {% set list = headword.flags %}
+          {% set item = Flag.query.filter_by(name=d.name).first() %}
+
+        {% elif table == "Register" %}
+          {% set list = headword.registers %}
+          {% set item = Register.query.filter_by(name=d.name).first() %}
+           
+        {% endif %}
+
+        {% if (item in list) %}
+          <td style="padding-right:2em">
+            <a href="/headwords/{{'%ss' % table.lower()}}/delete?{{table.lower()}}={{item.name}}&headword={{headword.headword}}" 
+              data-confirm="This will delete {{item.name}} from the headword {{headword.headword}}.">
+                delete from headword {{headword.headword}}
+            </a>
+          </td>
+        {% else %}
+          <td style="padding-right:2em"></td>
+        {% endif %}
+      {% endif %}
+
+      <td style="padding-right:2em">
+        {{ "archived" if d.archived else "in use" }}
+      </td><td style="padding-right:2em">
+        <a href="{{link_edit}}">edit</a>
+      </td><td style="padding-right:2em">
+        <a href="{{link_delete}}" 
+           data-confirm="This will delete {{d.name}} from the list of attributes for {{table}}.">delete</a>
+      </td>
+
     {% endif %}
     </tr>
 {% endfor %}
@@ -28,7 +62,10 @@
     <h3>Add a new entry</h3>
 
     <!-- add a new entry -->
-    <form id="insertForm" method="POST" class="" action="/headwords/attributes/create?table={{table}}">
+    <form id="insertForm" 
+          method="POST" 
+          class="" 
+ action="/headwords/attributes/create?table={{table}}&headword={{headword.headword}}">
         {{ form.hidden_tag() }}
         <div class="form-group">
 
@@ -45,5 +82,17 @@
     </form>
 
 </div>
+<br>
+
+{% if table == "Source" %}
+  <a href="/headwords/citations/new?headword={{headword.headword}}">
+    back to new citation for {{headword}}
+  </a>
+{% else %}
+  <a href="/headwords/edit?headword={{headword.headword}}">
+    back to editing headword {{headword.headword}}
+  </a>
+{% endif %}
+
 {% endblock %}
 

@@ -9,132 +9,150 @@ import logging
 import sys
 from sqlalchemy.exc import IntegrityError, InvalidRequestError
 from DictionaryOfNewZealandEnglish.database import db
-from DictionaryOfNewZealandEnglish.headword.forms import *
+from DictionaryOfNewZealandEnglish.headword.citation.forms import *
 from DictionaryOfNewZealandEnglish.public.forms import LoginForm
-from DictionaryOfNewZealandEnglish.headword.models import *
+from DictionaryOfNewZealandEnglish.headword.citation.models import *
 from DictionaryOfNewZealandEnglish.database import engine
 import datetime as dt
+import re
 from operator import itemgetter
 
-blueprint = Blueprint("headword", __name__, url_prefix='/headwords',
+blueprint = Blueprint("citations", __name__, url_prefix='/headwords/citations',
                         static_folder="../static")
 
 
-
-
-@blueprint.route("/index", methods=["GET"])
-@login_required
-def index():
-    # logged in users arrive here
-    form = HeadwordForm(request.form, "search_data")
-    return render_template("headwords/index.html", form=form)
-
-
-@blueprint.route("/show", methods=["POST"])
-@login_required
-def show():
-    key = request.form['headword']
-    headword = Headword.query.filter_by(headword=key).first()
-    if headword == None:
-      return redirect("headwords/index")
-    return render_template("headwords/show.html", headword=headword)
-
-
-@blueprint.route("/edit", methods=["GET", "POST"]) # TODO need to add headword id
+@blueprint.route("/edit", methods=["GET", "POST"])
 @login_required
 def edit():
-    name = request.args.get('name')
-    headword = Headword.query.filter_by(headword=name).first()
-    form = HeadwordForm(request.form, obj=headword)
+    headword = request.args.get('headword')
+    citation_id = request.args.get('citation_id')
+    citation = Citation.query.get(citation_id)
+    form = CitationForm(request.form, obj=citation)
     if request.method == "GET":
-      return render_template("headwords/edit.html", 
-                            form=form, HeadwordForm=HeadwordForm)
+      return render_template("headwords/citations/edit.html", form=form,
+                                                              citation_id=citation_id,
+                                                              headword=headword)
     if request.method == "POST":
-      data = set_data_for_headword(name, form)
-      flash("Edit of %s is saved." % data.headword, 'success')
-      return render_template("headwords/edit.html", 
-                            form=form, HeadwordForm=HeadwordForm)
+      data = __set_data_for_citation(citation_id, form)
+      return render_template("headwords/citations/edit.html", form=form,
+                                                              citation_id=citation_id,
+                                                              headword=headword)
 
 @blueprint.route("/new", methods=["GET"])
 @login_required
 def new():
-    form = HeadwordForm(request.form)
-    return render_template("headwords/new.html", form=form) #, HeadwordForm=HeadwordForm)
+    headword = request.args.get('headword')
+    form = CitationForm(request.form)
+    return render_template("headwords/citations/new.html", form=form,
+                                                           headword=headword)
 
 
 @blueprint.route("/create", methods=["POST"])
 @login_required
 def create():
-    form = HeadwordForm(request.form)
+    form = CitationForm(request.form)
+    headword = request.args.get('headword')    
     if form.validate():
       # TODO add validations
       flash('Validations are turned off.')
     else:
       # TODO detail errors
       flash('There is an error.')
-      return render_template("headwords/new.html", form=form)
+      return render_template("headwords/citations/new.html", form=form,
+                                                             headword=headword)
+    try:
+        cit_obj = __create_citation(form, headword)
 
-    headword = create_headword(form)
-    flash("New headword created: %s" % form.headword.data, 'success')
-    headword = Headword.query.filter_by(headword=form.headword.data).first()
+        circa = ""
+        if form.circa.data:
+          circa = "circa "
+        flash("New citation created: {0} ({1}{2})".format(form.author.data,
+                                                   circa, 
+                                                   __form_date(form)), 'success')
     
-    return render_template("headwords/show.html", form=form, headword=headword)
+        return render_template("headwords/citations/edit.html", 
+                                                       form=form,
+                                                       citation_id = cit_obj.id,
+                                                       headword=headword)
+    except (IntegrityError) as e:
+        db.session.rollback()
+        flash("Input error %s" % e)
+        return render_template("headwords/citations/new.html", form=form, 
+                                                              headword=headword)
+
+
+@blueprint.route("/delete", methods=["GET"])
+@login_required
+def delete():
+    citation_id = request.args.get('citation_id')
+    headword    = request.args.get('headword')
+    citation    = Citation.query.get(citation_id)
+    headword    = Headword.query.filter_by(headword=headword).first()
+    if citation in headword.citations:
+      headword.citations.remove(citation)
+      db.session.add(headword)
+      db.session.commit()
+
+    citations = headword.citations
+    return render_template("headwords/show.html", headword=headword,
+                                                  citations=citations)
+    
+
 
 
 #############################################################################
 ### Private
-# TODO find way to make these private methods...
 
-def create_headword(form):
-    return Headword.create(
-                          headword          = form.headword.data,
-                          definition        = form.definition.data,
-                          see               = form.see.data,
-                          pronunciation     = form.pronunciation.data,
-                          notes             = form.notes.data,
-                          data_set_id       = form.data_set.data.id,
+def __create_citation(form, headword):
+    citation = Citation.create(
+                            date       = __form_date(form),
+                            circa      = form.circa.data,
+                            author     = form.author.data,
+                            source_id  = form.source.data.id,
+                            vol_page   = form.vol_page.data,
+                            edition    = form.edition.data,
+                            quote      = form.quote.data,
+                            notes      = form.notes.data,
+                            archived   = False,
+                            updated_at = dt.datetime.utcnow(),
+                            updated_by = current_user.username    
+                           )
+    
+    h = Headword.query.filter_by(headword=headword).first()
+    h.citations.append(citation)
+    db.session.add(h)
+    db.session.commit()
 
-                          # these are database backed models
-                          homonym_number_id = form.homonym_number.data.id, 
-                          word_class_id     = form.word_class.data.id, 
-                          sense_number_id   = form.sense_number.data.id, 
-                          origin_id         = form.origin.data.id,
-                          register_id       = form.register.data.id, 
-                          domain_id         = form.domain.data.id, 
-                          region_id         = form.region.data.id, 
-                          updated_at        = dt.datetime.utcnow(),
-                          updated_by        = current_user.username    )
+    return citation
 
 
-def set_data_for_headword(headword, form):
+def __form_date(form):
+    date = form.date.data
+    return date
 
-    db_row = Headword.query.filter_by(headword=headword).first()
-    new_name = form.headword.data
+
+def __set_data_for_citation(citation_id, form):
+    db_row = Citation.query.get(citation_id)
 
     try:
-        Headword.update(db_row,
-                        headword          = form.headword.data,
-                        definition        = form.definition.data,
-                        see               = form.see.data,
-                        pronunciation     = form.pronunciation.data,
-                        notes             = form.notes.data,
-                        data_set_id       = form.data_set.data.id,
-                       
-                        homonym_number_id = form.homonym_number.data.id, 
-                        word_class_id     = form.word_class.data.id, 
-                        sense_number_id   = form.sense_number.data.id, 
-                        origin_id         = form.origin.data.id,
-                        register_id       = form.register.data.id, 
-                        domain_id         = form.domain.data.id, 
-                        region_id         = form.region.data.id, 
-                        updated_at        = dt.datetime.utcnow(),
-                        updated_by        = current_user.username, 
-                        archived          = form.archived.data
+      Citation.update(db_row,
+                        date       = __form_date(form),
+                        circa      = form.circa.data,
+                        author     = form.author.data,
+                        source_id  = form.source.data.id,
+                        vol_page   = form.vol_page.data,
+                        edition    = form.edition.data,
+                        quote      = form.quote.data,
+                        notes      = form.notes.data,
+                        archived   = form.archived.data,
+                        updated_at = dt.datetime.utcnow(),
+                        updated_by = current_user.username    
                        )
+      flash("Edit of citation is saved.", 'success')
+      return True
     except (IntegrityError, InvalidRequestError):
-        db.session.rollback()
-        return "Database integrety constraint - %s already exists in the database" % new_name
-
-    return Headword.query.filter_by(headword=form.headword.data).first()
+      db.session.rollback()
+      flash("Edit of citation failed.", 'warning')
+      return False
 
 

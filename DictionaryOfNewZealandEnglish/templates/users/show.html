@@ -4,31 +4,37 @@
   <!-- template suggested session.username, but not working. Changed to current_user.username-->
   <h1>Welcome {{ current_user.username }}</h1>
 
-  <h3>This is the members-only page.</h3>
+  <h3>These are the details you have provided.</h3>
 
-  <p>
-Please provide the following details to describe your interest in the Dictionary of New Zealand English.
-  </p>
-  <p>
 
-<b>
-TODO - add form to allow changing details and password;
-TODO - create admin page
-TODO - allow admin to change the contact email 
-<br>
-</b>
-- your name {{ current_user.username }}<br>
+  <b>
+    <ul>
+      <li>TODO - add form to allow changing details and password;
+      <li>TODO - allow admins page to change the contact email
+    </ul>
+  </b>
+  <br>
 
-- email {{ current_user.email }}<br>
+  <table class="show-member">
+    <tr>
+      <td>your name  </td><td>{{ current_user.username }}</td>
+    </tr><tr>
+      <td>email      </td><td>{{ current_user.email }}</td>
+    </tr><tr>
+      <td>institution</td><td>{{ current_user.institution }}</td>
+    </tr><tr>
+      <td>country    </td><td>{{ current_user.country }}</td>
+    </tr><tr>
+      <td>interest   </td><td>{{ current_user.interest }}</td>
+    </tr><tr>
+      <td>password   </td><td>{{ current_user.password }}</td>
+    </tr><tr>
+      <td>created    </td><td>{{ current_user.created_at }}</td>
+    </tr><tr>
+      <td>update    </td><td>{{ current_user.updated_at }}</td>
+    </tr>
+  </table>
 
-- institution {{ current_user.institution }}<br>
-- country {{ current_user.country }}<br>
-- interest {{ current_user.interest }}<br>
-- password {{ current_user.password }}<br>
-- created {{ current_user.created_at }}<br>
-- update {{ current_user.updated_at }}<br>
-
-</p>
 
 {% endblock %}
 

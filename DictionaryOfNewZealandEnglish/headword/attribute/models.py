@@ -14,7 +14,6 @@ from DictionaryOfNewZealandEnglish.database import (
 )
 
 
-
 ###################################
 # superclass for attributes #
 class Secondary_values():
@@ -43,7 +42,7 @@ class Secondary_values():
         return "<%s (%s, '%s')>" % (self.__name__, self.id, self.name)
 
 ####################
-# attrivutes #
+# attributes #
 class Word_class(Secondary_values, SurrogatePK, Model):
     __name__ = 'Word_class'
     __tablename__ = "word_classes"
@@ -60,10 +59,6 @@ class Homonym_number(Secondary_values, SurrogatePK, Model):
     __name__ = 'Homonym_number'
     __tablename__ = "homonym_numbers"
 
-class Register(Secondary_values, SurrogatePK, Model):
-    __name__ = 'Register'
-    __tablename__ = "registers"
-
 class Domain(Secondary_values, SurrogatePK, Model):
     __name__ = 'Domain'
     __tablename__ = "domains"
@@ -76,10 +71,21 @@ class Origin(Secondary_values, SurrogatePK, Model):
     __name__ = 'Origin'
     __tablename__ = "origins"
 
+class Register(Secondary_values, SurrogatePK, Model):
+    __name__ = 'Register'
+    __tablename__ = "registers"
+
+    def __repr__(self):
+        return "%s" % self.name
+
 class Flag(Secondary_values, SurrogatePK, Model):
     __name__ = 'Flag'
     __tablename__ = "flags"
 
+    def __repr__(self):
+        return "%s" % self.name
+
+# used by citations #
 class Source(Secondary_values, SurrogatePK, Model):
     __name__ = 'Source'
     __tablename__ = "sources"

@@ -13,30 +13,28 @@ from DictionaryOfNewZealandEnglish.database import (
     SurrogatePK,
 )
 
-
-
 ##############################################
 # join tables for many-to-many relationships #
-headword_flags = db.Table('headword_flags',
-    db.Column('headword_id', db.Integer, db.ForeignKey('headwords.id')),
-    db.Column('flag_id',     db.Integer, db.ForeignKey('flags.id'))
-)
-
 headword_citations = db.Table('headword_citations',
     db.Column('headword_id', db.Integer, db.ForeignKey('headwords.id')),
     db.Column('citation_id', db.Integer, db.ForeignKey('citations.id'))
 )
-
-# citation_sources
+headword_flags = db.Table('headword_flags',
+    db.Column('headword_id', db.Integer, db.ForeignKey('headwords.id')),
+    db.Column('flag_id',     db.Integer, db.ForeignKey('flags.id'))
+)
+headword_registers = db.Table('headword_registers',
+    db.Column('headword_id', db.Integer, db.ForeignKey('headwords.id')),
+    db.Column('register_id',     db.Integer, db.ForeignKey('registers.id'))
+)
 
 
 
 class Headword(SurrogatePK, Model):
-    #################################
-    ## start - table column set-up ##
+
     __tablename__ = "headwords"
     headword =      Column(db.String(50), nullable=False)
-    definition =    Column(db.Text, nullable=False)
+    definition =    Column(db.Text,       nullable=False)
     see =           Column(db.Text, nullable=True)
     pronunciation = Column(db.Text, nullable=True)
     notes =         Column(db.Text, nullable=True)
@@ -57,11 +55,7 @@ class Headword(SurrogatePK, Model):
     origin_id =       ReferenceCol('origins', nullable=True)
     origin = relationship('Origin', backref='headwords')
 
-    register_id =       ReferenceCol('registers', nullable=True)
-    register = relationship('Register', backref='headwords')
-# TODO not trusting this works first time
-#    register2_id =       ReferenceCol('registers', nullable=True)
-#    register = relationship('Register', backref='headwords')
+
 
     domain_id =       ReferenceCol('domains', nullable=True)
     domain = relationship('Domain', backref='headwords')
@@ -69,17 +63,26 @@ class Headword(SurrogatePK, Model):
     region_id =       ReferenceCol('regions', nullable=True)
     region = relationship('Region', backref='headwords')
 
-# TODO many to many - may need more work
-#    headword_citation = relationship('Citation', secondary = headword_citations,
-#        backref=db.backref('citations', lazy='dynamic'))
-#    headword_flag = relationship('Flag', secondary = headword_flags,
-#        backref=db.backref('headwords', lazy='dynamic'))
+    # M2M relations
+    citations = relationship('Citation',
+                             secondary = headword_citations,
+                             backref=db.backref('headwords'),
+                             order_by='Citation.archived, Citation.date')
+    flags     = relationship('Flag', 
+                             secondary = headword_flags,
+                             backref=db.backref('headwords'),
+                             order_by='Flag.name')
+    registers = relationship('Register', 
+                             secondary = headword_registers,
+                             backref=db.backref('headwords'),
+                             order_by='Register.name')
+
+    #register_id =       ReferenceCol('registers', nullable=True)
+    #register = relationship('Register', uselist=False, backref='headwords', foreign_keys=[register_id])
 
     created_at = Column(db.DateTime, default=dt.datetime.utcnow)
     updated_at = Column(db.DateTime, nullable=False)
     updated_by = Column(db.String(80), nullable=False)
-    ## end - table column setup ##
-    ##############################
 
 
     def __init__(self, headword, 
@@ -92,7 +95,7 @@ class Headword(SurrogatePK, Model):
                        word_class_id, 
                        sense_number_id, 
                        origin_id, 
-                       register_id, 
+                       #register_id, 
                        domain_id, 
                        region_id, 
  										   updated_at,
@@ -109,7 +112,7 @@ class Headword(SurrogatePK, Model):
                                 word_class_id    =word_class_id, 
                                 sense_number_id  =sense_number_id, 
                                 origin_id        =origin_id, 
-                                register_id      =register_id,          
+                                #register_id      =register_id,          
                                 domain_id        =domain_id, 
                                 region_id        =region_id, 
                                 updated_at       =updated_at,

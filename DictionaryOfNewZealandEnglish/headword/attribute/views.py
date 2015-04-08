@@ -7,6 +7,7 @@ from flask_wtf import Form
 import DictionaryOfNewZealandEnglish.utils as utils
 import logging
 import sys
+from sqlalchemy import func, asc
 from sqlalchemy.exc import IntegrityError, InvalidRequestError
 from DictionaryOfNewZealandEnglish.database import db
 from DictionaryOfNewZealandEnglish.headword.attribute.forms import *
@@ -25,9 +26,16 @@ blueprint = Blueprint("attribute", __name__, url_prefix='/headwords/attributes',
 @login_required
 def index():
     table = request.args.get('table')
+    headword = request.args.get('headword')
+    headword = Headword.query.filter_by(headword=headword).first()
     data = get_data_for_table_rowname(table, 'all')
-    form = TableEditForm(request.form, "edit_table") # for new entries
-    return render_template("headwords/attributes/index.html", table=table, data=data, form=form)
+    form = TableEditForm(request.form, "edit_table")
+    return render_template("headwords/attributes/index.html", table=table,
+                                                              headword=headword, 
+                                                              data=data, 
+                                                              Flag=Flag,
+                                                              Register=Register,
+                                                              form=form)
 
 
 @blueprint.route("/create", methods=["POST"])
@@ -35,12 +43,19 @@ def index():
 def create():
     table = request.args.get('table')
     form = TableEditForm(request.form, "edit_table")
+    headword = request.args.get('headword')
+    headword = Headword.query.filter_by(headword=headword).first()
     name = form.name.data
     create_row_in_table_for_name(table, form)
     data = get_data_for_table_rowname(table, 'all')
     form.name.data = ""
 
-    return render_template("headwords/attributes/index.html", table=table, data=data, form=form)
+    return render_template("headwords/attributes/index.html", table=table, 
+                                                              headword=headword,
+                                                              data=data,
+                                                              Flag=Flag,
+                                                              Register=Register,
+                                                              form=form)
 
 
 @blueprint.route("/delete", methods=["GET"])
@@ -48,39 +63,57 @@ def create():
 def destroy():
     table = request.args.get('table')
     name = request.args.get('name')
+    headword = request.args.get('headword')
     data = get_data_for_table_rowname(table, name)
 
-    # case when refreshing view after delete has taken effect
-    if data == None:
-        data = get_data_for_table_rowname(table, 'all')
-        form = TableEditForm(request.form, "edit_table") # for new entries
-        return render_template("headwords/attributes/index.html", table=table, data=data, form = form)
+    # data == None if user has refreshed view after delete has been completed
+    if data != None:
+      # do not delete a data row if it will leave hanging db entries
+      if table == 'Register' or table == 'Flag':
+        register = Register.query.filter_by(name=name).first()
 
-    # TODO finish this recipe once Headwords can cope
-    # do not deleting a data row if it will leave hanging db entries
-    data = None # TODO get all headwords using this table & name
-    if data == None:
-        flash("TODO not yet checking database for existing use before deleting")
-        # TODO if set is empty, display 'are you sure?' message
-        data = delete_row_in_table(table, name)
-        form = TableEditForm(request.form, "edit_table") # for new entries
-        return render_template("headwords/attributes/index.html", table=table, data=data, form = form)
-    else:
-        flash("Cannot delete %s as it is in use in these records" % name) 
-        # TODO render a page with list of (max 30?) headwords that will be affected
+        # cannot believe there is no count() method for this in Python!
+        headwords = register.headwords
+        count = 0
+        for i in headwords:
+          count += 1
 
+        print "#### %s", headwords
+      else:
+        _table = str_to_class(module_name, table).query.filter_by(name=name).first()
+        headword_attribute_id    = getattr(Headword,'%s_id' % table.lower())
+        count = Headword.query.filter(headword_attribute_id == _table.id).count()
+      
+      if count == 0:
+          data = delete_row_in_table(table, name)
+      else:
+          flash("Cannot delete %s as it is in use by %s headwords" % (name, count)) 
+          # TODO render a page with list of (max 30?) headwords that will be affected
+          # yet to create one for displaying all headwords, should be able to re-use
+
+    data = get_data_for_table_rowname(table, 'all')
+    form = TableEditForm(request.form, "edit_table")
+    headword = Headword.query.filter_by(headword=headword).first()
+    return render_template("headwords/attributes/index.html", table=table, 
+                                                              headword=headword,
+                                                              data=data, 
+                                                              Flag=Flag,
+                                                              Register=Register,
+                                                              form=form)
 
 @blueprint.route("/edit", methods=["GET", "POST"])
 @login_required
 def edit():
     table = request.args.get('table')
     name = request.args.get('name')
+    headword = request.args.get('headword')
     form = TableEditForm(request.form, "edit_table")
     if request.method == "GET":
       data = get_data_for_table_rowname(table, name)
       return render_template("headwords/attributes/edit.html", 
                               table = table, 
                               name  = name, 
+                              headword=headword,
                               data  = data, 
                               form  = form)
     if request.method == "POST":
@@ -92,11 +125,13 @@ def edit():
       else:
         name = data.name
 
-      return redirect("headwords/attributes/index?table=%s" % table)
+      headword = Headword.query.filter_by(headword=headword).first()
+      return redirect("headwords/attributes/index?table={0}&headword={1}".format(table, headword))
 
 
 #############################################################################
 # private methods #
+# TODO find way to make these a private methods
 
 module_name = "DictionaryOfNewZealandEnglish.headword.attribute.models"
 
@@ -137,19 +172,18 @@ def delete_row_in_table(table, name):
     return get_data_for_table_rowname(table, 'all')
 
 
-# TODO find way to make this a private method... @private
 def get_data_for_table_rowname(table, name):
 
     _class = str_to_class(module_name, table)
 
     if name == "all":
-        return _class.query.order_by('archived').order_by('name').all()
+        l =  _class.query.order_by('archived').all()
+        l = sorted(l, key=lambda origin: origin.name.lower() )
+        return l
     else: 
         return _class.query.filter_by(name=name).first()
 
 
-
-# TODO find way to make this a private method... @private
 def set_data_for_table_rowname(table, name, form):
 
     _class = str_to_class(module_name, table)
@@ -172,7 +206,7 @@ def set_data_for_table_rowname(table, name, form):
 
 
 # TODO move to utils.py
-def str_to_class(module_name, class_name):
+def str_to_class(module_name,class_name):
     class_name = class_name.replace(' ', '_')
     class_ = None
     try:

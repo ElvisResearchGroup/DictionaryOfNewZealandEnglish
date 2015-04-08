@@ -1,4 +1,4 @@
-
+<!-- show headword and citations -->
 {% extends "layout.html" %}
 
 {% block content %}
@@ -7,54 +7,21 @@
       <h1>Search result</h1>
     </div>
 
-<!-- dev notes
-                       #headword, 
-                       #definition, 
-                       #see, 
-                       #pronunciation, 
-                       #notes, 
-                       #archived, 
-                       #data_set_id, 
-                       #homonym_number_id, 
-                       #word_class_id, 
-                       #sense_number_id, 
-                       #origin_id, 
-                       #register_id, 
-                       #domain_id, 
-                       #region_id, 
-                       #headword_citation, 
-                       #headword_flag, 
-                       #updated_by
--->
-
-  <h3>{{headword.headword}}</h3>
-  <table>
+  <table class="headword-column">
     <tr>
-      <th style="width:10em;">Headword</th><th>{{headword.headword}}</th>
-    </tr><tr>
-      <td>Definition    </td><td>{{headword.definition}}         </td> </tr><tr>
-      <td>See           </td><td>{{headword.see}}                </td> </tr><tr>
-      <td>Pronunciation </td><td>{{headword.pronunciation}}      </td> </tr><tr>
-      <td>Notes         </td><td>{{headword.notes}}              </td> </tr><tr>
-      <td>Archived      </td><td>{{headword.archived}}           </td> </tr><tr>
-      <td>Data_set      </td><td>{{headword.data_set.name}}      </td> </tr><tr>
+      <td valign="top">
 
-      <td>Word_class    </td><td>{{headword.word_class.name}}    </td> </tr><tr>
-      <td>Homonym_number</td><td>{{headword.homonym_number.name}}</td> </tr><tr>
-      <td>Sense_number  </td><td>{{headword.sense_number.name}}  </td> </tr><tr>
-      <td>Origin        </td><td>{{headword.origin.name}}        </td> </tr><tr>
+       <!-- headword details -->
+       {% include "headwords/_headword.html" %}
 
-      <td>Register      </td><td>{{headword.register.name}}      </td> </tr><tr>
-      <td>Domain        </td><td>{{headword.domain.name}}        </td> </tr><tr>
-      <td>Region        </td><td>{{headword.region.name}}        </td> </tr><tr>
-      <td>Created at    </td><td>{{headword.created_at}}         </td> </tr><tr>
-      <td>Updated at    </td><td>{{headword.updated_at}}         </td> </tr><tr>
-      <td>Updated_by    </td><td>{{headword.updated_by}}         </td> 
+      </td><td valign="top" style="padding-left:50px;">
+
+        <!-- the headword's citations -->
+       {% include "headwords/citations/_citations.html" %}
+
+      </td>
     </tr>
   </table>
-  <br>
-  <a href="/headwords/index" class="btn btn-primary btn-large">back to search</a>
-  <a href="/headwords/edit?name={{headword.headword}}" class="btn btn-primary btn-large">edit</a>
 
 </div>
 {% endblock %}

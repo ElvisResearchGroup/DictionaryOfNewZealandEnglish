@@ -1,6 +1,10 @@
+<!-- edit attributes -->
 {% extends "layout.html" %}
 
 {% block content %}
+
+{% set var = "table={0}&headword={1}".format(table, headword) %}
+
 <div class="body-content">
     <div class="row">
       <h1>Edit {{table}}</h1>
@@ -8,7 +12,10 @@
     </div>
 
 
-    <form id="insertForm" method="POST" class="" action="/headwords/attributes/edit?table={{table}}&name={{name}}">
+    <form id="insertForm" 
+          method="POST" 
+          class="" 
+          action="/headwords/attributes/edit?name={{name}}&{{var}}" >
         {{ form.hidden_tag() }}
         <div class="form-group">
 
@@ -29,7 +36,11 @@
         <button class="btn btn-primary" type="submit" >edit</button>
     </form>
 
-    <br><a href="/headwords/attributes/index?table={{table}}">back to list</a>
+    <br><a href="/headwords/attributes/index?{{var}}">
+                back to list of 
+                {{table}}{% if table.endswith("class") %}es
+                         {% else %}s
+                         {% endif %}</a>
 
 </div>
 {% endblock %}

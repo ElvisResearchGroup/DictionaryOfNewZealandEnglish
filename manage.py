@@ -9,6 +9,9 @@ from flask.ext.migrate import MigrateCommand
 
 from DictionaryOfNewZealandEnglish.app import create_app
 from DictionaryOfNewZealandEnglish.user.models import *
+from DictionaryOfNewZealandEnglish.headword.models import *
+from DictionaryOfNewZealandEnglish.headword.attribute.models import *
+from DictionaryOfNewZealandEnglish.headword.citation.models import *
 from DictionaryOfNewZealandEnglish.settings import DevConfig, ProdConfig
 from DictionaryOfNewZealandEnglish.database import db
 
@@ -35,13 +38,31 @@ def test():
     exit_code = pytest.main([TEST_PATH, '--verbose'])
     return exit_code
 
+# TODO add a condition to return nil if in production
+@manager.command
+def resetdb():
+    # if in production return nil
+    print "#### removing old files"
+    subprocess.call(["rm", "dev.db"])
+    subprocess.call(["rm", "-r", "migrations"])
+    print "#### init db"
+    subprocess.call(["python", "manage.py", "db", "init"])
+    print "#### migrate db"
+    subprocess.call(["python", "manage.py", "db", "migrate"])
+    print "#### upgrade db"
+    subprocess.call(["python", "manage.py", "db", "upgrade"])
+    print "#### seed db"
+    subprocess.call(["python", "manage.py", "seed"])
+    print "#### done"
+
+
 # Seed data for initialising the secondary tables of the database
 # Also Users 'admin' and 'Matt'
 # Also Headword entry 'test'
 # might not be the Python place for it, but it works :-)
 @manager.command
 def seed():
-    seed_date = dt.datetime.utcnow
+    seed_date = dt.datetime.utcnow()
     User.create( username="admin", 
                  email="admin@example.com", 
                  institution="NZDC VUW",
@@ -71,13 +92,69 @@ def seed():
                  word_class_id=27,
                  sense_number_id=59, 
                  origin_id=16, 
-                 register_id=16, 
+                 #register_id=16, 
                  domain_id=26, 
                  region_id=7, 
                  updated_at=seed_date,
                  updated_by="seed"
                    )
 
+    Headword.create(
+                 headword="cat",
+                 definition="furry and noisy",
+                 see="",
+                 pronunciation="caaaat",
+                 notes="do not startle",
+                 data_set_id=3,
+                 homonym_number_id=20, 
+                 word_class_id=27,
+                 sense_number_id=59, 
+                 origin_id=16, 
+                 #register_id=16, 
+                 domain_id=26, 
+                 region_id=7, 
+                 updated_at=seed_date,
+                 updated_by="seed"
+                   )
+
+    Citation.create(
+                 date       = "1/1/1972",
+                 circa      = 0,
+                 author     = "Matt",
+                 source_id  = 2,
+                 vol_page   = "1/253",
+                 edition    = "5",
+                 quote      = "The amber elixer of life",
+                 notes      = "Beer",
+                 archived   = False,
+                 updated_at = seed_date,
+                 updated_by = "seed"
+                   )
+
+    Citation.create(
+                 date       = "1/2/1972",
+                 circa      = 0,
+                 author     = "Matt",
+                 source_id  = 2,
+                 vol_page   = "",
+                 edition    = "",
+                 quote      = "Love the smell of napalm in the morning.",
+                 notes      = "",
+                 archived   = False,
+                 updated_at = seed_date,
+                 updated_by = "seed"
+                   )
+    
+    h = Headword.query.get(1)
+    h.citations.append(Citation.query.get(1))
+    h.citations.append(Citation.query.get(2))
+
+    Flag.create( id=0,
+                 name="[none]",
+                 notes="",
+                 archived=False,
+                 updated_at=seed_date,
+                 updated_by="seed")
     Flag.create( id=1,
                  name="Transport",
                  notes="DB",
@@ -102,6 +179,12 @@ def seed():
                  archived=False,
                  updated_at=seed_date,
                  updated_by="seed")
+
+    h = Headword.query.get(1)
+    h.flags.append(Flag.query.get(1))
+    h.flags.append(Flag.query.get(4))
+    h = Headword.query.get(2)
+    h.flags.append(Flag.query.get(1))
 
     Homonym_number.create( id=11,
                  name="1",
@@ -158,8 +241,14 @@ def seed():
                  updated_at=seed_date,
                  updated_by="seed")
 
-    Word_class.create( id=69,
+    Word_class.create( id=0,
                  name="[none]",
+                 notes="",
+                 archived=False,
+                 updated_at=seed_date,
+                 updated_by="seed")
+    Word_class.create( id=69,
+                 name="[_none_]",
                  notes="",
                  archived=False,
                  updated_at=seed_date,
@@ -383,6 +472,12 @@ def seed():
                  updated_at=seed_date,
                  updated_by="seed")
 
+    h = Headword.query.get(1)
+    h.registers.append(Register.query.get(12))
+    h.registers.append(Register.query.get(16))
+    h = Headword.query.get(2)
+    h.registers.append(Register.query.get(13))
+
     Domain.create( id=1,
                  name="[none]",
                  notes="",
@@ -597,6 +692,12 @@ def seed():
                  updated_at=seed_date,
                  updated_by="seed")
 
+    Data_set.create( id=0,
+                 name="[none]",
+                 notes="",
+                 archived=False,
+                 updated_at=seed_date,
+                 updated_by="seed")
     Data_set.create( id=1,
                  name="Orsman",
                  notes="",
@@ -616,6 +717,30 @@ def seed():
                  updated_at=seed_date,
                  updated_by="seed")
 
+    Source.create( id=0,
+                 name="[none]",
+                 notes="",
+                 archived=False,
+                 updated_at=seed_date,
+                 updated_by="seed")
+    Source.create( id=1,
+                 name="NZ TV Times",
+                 notes="",
+                 archived=False,
+                 updated_at=seed_date,
+                 updated_by="seed")
+    Source.create( id=2,
+                 name="Wellington Craft Beers Monthly",
+                 notes="",
+                 archived=False,
+                 updated_at=seed_date,
+                 updated_by="seed")
+    Source.create( id=3,
+                 name="On the Search for Dragons",
+                 notes="",
+                 archived=False,
+                 updated_at=seed_date,
+                 updated_by="seed")
 
 
 manager.add_command('server', Server())

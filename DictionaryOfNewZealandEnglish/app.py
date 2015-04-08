@@ -13,7 +13,7 @@ from DictionaryOfNewZealandEnglish.extensions import (
     debug_toolbar,
 )
 from DictionaryOfNewZealandEnglish import public, user, headword
-from DictionaryOfNewZealandEnglish.headword import attribute
+from DictionaryOfNewZealandEnglish.headword import attribute, citation, flag, register
 
 
 def create_app(config_object=ProdConfig):
@@ -51,6 +51,9 @@ def register_blueprints(app):
     app.register_blueprint(user.views.blueprint)
     app.register_blueprint(headword.views.blueprint)
     app.register_blueprint(attribute.views.blueprint)
+    app.register_blueprint(citation.views.blueprint)
+    app.register_blueprint(flag.views.blueprint)
+    app.register_blueprint(register.views.blueprint)
     return None
 
 
