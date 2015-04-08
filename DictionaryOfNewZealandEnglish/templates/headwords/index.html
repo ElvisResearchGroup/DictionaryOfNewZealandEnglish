@@ -1,0 +1,27 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<div class="body-content">
+    <div class="row">
+      <h1>Search</h1>
+    </div>
+
+<br><h4>Seed data contains 'test' and 'cat'.</h4><br><br>
+
+    <form id="searchForm" method="POST" class="" action="show" role="search">
+      <!-- form.hidden_tag() -->
+        <div class="form-group">
+
+          <div class="form-group">
+            {{ form.headword.label }}
+            {{ form.headword (placeholder="Headword",
+                              autofocus="autofocus",  class_="form-control") }}
+          </div>
+
+        </div>
+      <button type="submit" class="btn btn-primary">Search</button>
+    </form>
+
+</div>
+{% endblock %}
+

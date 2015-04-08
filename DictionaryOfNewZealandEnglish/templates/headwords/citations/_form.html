@@ -1,0 +1,115 @@
+<!-- Citations form -->
+{% block content %}
+
+{% if form_type == 'create' %}
+    {% set action_url = "{0}?headword={1}".format(form_type, headword) %}
+{% else %}
+    {% set action_url = "{0}?headword={1}&citation_id={2}".format(form_type, 
+                                                                  headword, 
+                                                                 citation_id) %}
+{% endif %}
+
+    <form id="insertForm" 
+        method="POST" 
+        class="" 
+        action= "{{action_url}}"
+        role="insert">
+      <div class="form-group">
+
+        <table class="edit_citation">
+          <tr>
+            <td>
+              <div class="form-group">
+                <!-- Source select element -->
+                {{ form.getattr('source').label }}
+                <span class="nzdc-required-field"> 
+                  {{ form.getattr('source').errors[0] }} 
+                </span>
+                <!-- a link to manage Source elements -->
+                <a 
+          href="/headwords/attributes/index?table=Source&headword={{headword}}">
+                  edit
+                </a>
+                {{ form.getattr('source')
+                             (placeholder='[None]',
+                               autofocus="autofocus",  class_="form-control") }}
+              </div>
+            </td><td>
+              <div class="form-group">
+                <!-- Date text box -->
+                {{ form.getattr('date').label }} 
+
+                <span class="nzdc-required-field"> 
+                  {{ form.getattr('date').errors[0] }} 
+                </span>
+          
+
+                {{ form.getattr('date')
+                            (placeholder='dd/mm/yyyy', class_="form-control") }}
+              </div>
+            </td><td>
+
+              <span>
+                <span class="form-group">
+                  <!-- Circa checkbox -->
+                  {{ form.getattr('circa')
+                            ( class_="form-control", style="display:inline;") }}
+                  {{ form.getattr('circa').label }} 
+                </span>
+
+                {% if form_type == "edit" %}
+                <span class="form-group" style="margin-left:6em;">
+                  <!-- Archive checkbox -->
+                  {{ form.getattr('archived').label }} 
+                  {{ form.getattr('archived')( class_="form-control", 
+                                               style="display:inline;") }}
+                </span>
+                {% endif %}
+              </span>
+            </td>
+          </tr><tr>
+            <td>
+        <!-- create multiple fields -->
+        {% for element in ['Author', 'Vol/Page', 'Edition'] %}
+          
+          {% set snake_case = element.lower().replace('/', '_') %}
+
+          <div class="form-group">
+            <!-- {{element}} field -->
+            {{ form.getattr(snake_case).label }}
+            <span class="nzdc-required-field"> 
+              {{ form.getattr(snake_case).errors[0] }}
+            </span>
+            {{ form.getattr(snake_case)
+                                 (placeholder=element, class_="form-control") }}
+          </div>
+          </td><td>
+        {% endfor %}
+
+            </td>
+          </tr><tr>
+            <td colspan='3'>
+                      <div class="form-group">
+            <!-- Quote text area-->
+            {{ form.getattr('quote').label }}
+            {{ form.getattr('quote')
+                                 (placeholder='Quote', class_="form-control") }}
+          </div>
+            </td>
+          </tr><tr>
+            <td colspan='3'>
+                      <div class="form-group">
+            <!-- Notes text area -->
+            {{ form.getattr('notes').label }}
+            {{ form.getattr('notes')
+                                 (placeholder='Notes', class_="form-control") }}
+          </div>
+            </td>
+          </tr>
+        </table>
+
+      </div>
+      <button class="btn btn-primary" type="submit" >{{form_type}}</button>
+    </form>
+{% endblock %}
+

@@ -1,0 +1,110 @@
+<!-- Headword form -->
+{% block content %}
+
+    <form id="insertForm" 
+          method="POST" 
+          class="" 
+          action="{{form_type}}?headword={{form.headword.data}}" 
+          role="insert">
+
+      <div class="form-group">
+        <div class="headword-see">
+
+          <!-- headword field -->
+          <div class="form-group">
+            {{ form.getattr('headword').label }}
+            <span class="nzdc-required-field"> 
+              {{ form.getattr('headword').errors[0] }} 
+            </span>
+            {{ form.getattr('headword')
+                               (placeholder='Headword', 
+                               autofocus="autofocus", class_="form-control") }}
+          </div>
+
+          <!-- see field -->
+          <div class="form-group">
+            {{ form.getattr('see').label }}
+            <span class="nzdc-required-field"> 
+              {{ form.getattr('see').errors[0] }} 
+            </span>
+            {{ form.getattr('see')
+                               (placeholder='See', class_="form-control") }}
+          </div>
+
+        </div><!-- end headword-see -->
+
+        {% if form_type != "create" %}
+          {# should not need to archive a new headword #}
+          <!-- archived checkbox -->
+          <div class="headword-see-archived form-group">
+            {{ form.getattr('archived').label }}
+            {{ form.getattr('archived')
+                            (style="display:inline;", class_="form-control") }}
+          </div>
+        {% endif %}
+
+
+        <!-- create multiple text entry fields -->
+        {% for element in ['Pronunciation', 'Definition', 'Notes'] %}
+
+          {% set snake_case = element.lower().replace(' ', '_') %}
+
+          <!-- {{element}} field -->
+          <div class="form-group">
+            {{ form.getattr(snake_case).label }}
+            <span class="nzdc-required-field"> 
+              {{ form.getattr(snake_case).errors[0] }} 
+            </span>
+            {{ form.getattr(snake_case)
+                               (placeholder=element, class_="form-control") }}
+          </div>
+        {% endfor %}
+
+
+        <!-- create multiple select entries-->
+        <table class="edit_headword">
+          <tr>
+            {% for element in ['Word class', 'Data set', 'Sense number', 'tr',
+                               'Homonym_number', 'Origin', 'Register', 'tr',
+                               'Domain', 'Region', 'Flag'] %} 
+              {% if element == 'tr' %}
+                {# three elements to a row #}
+                </tr><tr>
+              {% else %}
+                {% set snake_case = element.lower().replace(' ', '_') %}
+                <td>
+
+                    <!-- {{element}} field -->
+                    <div class="form-group">
+                      {{ form.getattr(snake_case).label }}
+                      <span class="nzdc-required-field"> 
+                        {{ form.getattr(snake_case).errors[0] }} 
+                      </span>
+
+                      {% if form_type != "create" %}
+                        {# not included in new actions as inputed data is lost 
+                           on navigating away. This solution forces a save 
+                           before getting access to adjust attributes. #}
+
+                        <!-- a link to manage the element -->
+                        <a 
+    href="/headwords/attributes/index?table={{element}}&headword={{headword}}">
+                          edit
+                        </a>
+                      {% endif %}
+
+                      {{ form.getattr(snake_case)
+                               (placeholder=element, class_="form-control") }}
+                    </div>
+
+                </td>
+              {% endif %}
+            {% endfor %}
+          </tr>
+        </table>
+
+      </div>
+      <button class="btn btn-primary" type="submit" >{{form_type}}</button>
+    </form>
+{% endblock %}
+

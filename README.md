@@ -5,6 +5,34 @@ A web interface to the "Dictionary of New Zealand English", managed and run by t
 
 Development notes and stuff I do not wish to commit to memory.
 
+### Outstanding tasks
+
+#### Plumbing
+* use Date objects in Citations
+* Template Headwords, limit to 30 per page
+* Template 3 Headword displays (eg: {name, definition fields only}, {all citations}, {first & last citations})
+* Display Headwords by Attribute or headword search (plus 'all' option)
+* add validations to views & forms
+* XSS & SQL injection defence
+* Dockerise the app
+* a coders HISTORY.md file to credit previous coding efforts
+
+#### Client supplying text for
+* Hover help text (explaining uncommon terms)
+* History page
+* New text for front page
+
+#### Migrate data
+
+Deserves its own section. To be discussed with Andre & David closer to the time.
+
+
+### Reset Database
+
+    python manage.py resetdb
+
+NOTE: Comment this out in manage.py for production!!!
+or add "if production return" to the first line if that capability is in Python
 
 ## Project set-up
 
@@ -79,15 +107,26 @@ Note that a database has not yet been added.
 
 Visit localhost:5000 on your server and you should see a lovely Welcome page.
 
+Now start up the database and restart the server.
+
+### Database
 If you have already installed your database.
 
-    $ python manage.py db init
+    $ python manage.py db init      
     $ python manage.py db migrate
     $ python manage.py db upgrade
+
+    Stop the server using Ctl-c
     $ python manage.py server
 
-Note: these worked after half an hour without having to do anything more. It seems the database is installed, it must be magic... ...adding to this, after a similar problem I think the shell needed to be restarted.
+The 'init' creates the database 'dev.db' and the migration folder & contents.
+The 'migrate' will generate a new migration script.
+And 'upgrade' applies the migration.
 
+Seed data has been added to manage.py
+This populates all the secondary tables and provides sufficient data for testing for the main two tables (Headword and Citations).
+
+    $ python manage.py seed
 
 ### fabric
 ref: http://www.jeffknupp.com/blog/2012/02/09/starting-a-django-project-the-right-way/
@@ -112,10 +151,6 @@ NB: I may remove this.
             local('/my/command/to/restart/webserver')
 
 
-## README storage space
-
-These are copied from the cookiecutter readme file. Placed here until I can better put them into a setup context.
-
 ### Deployment
 
 In your production environment, make sure the ``DNZE_ENV`` environment variable is set to ``"prod"``.
@@ -124,32 +159,124 @@ Remember to set the secret key to something hard to guess.
 
 ### Shell
 
-To open the interactive shell, run ::
-
     $ python manage.py shell
 
 By default, you will have access to ``app``, ``db``, and the ``User`` model.
 
 
-### Running Tests
-
-To run all tests, run ::
+### Run all Tests
 
     $ python manage.py test
 
+### App Time
 
-### Migrations
+Use UTC time throughout to avoid international time zone issues.
+eg: datetime.datetime.utcnow instead of datetime.datetime.now
 
-Whenever a database migration needs to be made. Run the following commmands:
 
-    $ python manage.py db migrate
+## Database overview
+As at March 2015
 
-This will generate a new migration script. Then run:
+Each table also has entries for created_at, last_update_at, last_update_by.
 
-    $ python manage.py db upgrade
+###### User
 
-To apply the migration.
+| field                | type     | stuff            |
+|----------------------|----------|------------------|
+| id                   | int      | pk               |
+| username             | char(80) | unique, not null |
+| email                | char(80) | unique, not null |
+| first_name           | char(30) |                  |
+| last_name            | char(30) |                  |
+| institution          | char(50) |                  |
+| country              | char(50) |                  |
+| interest             | text     |                  |
+| password             | char(128)| hashed password  |
+| active               | boolean  | default=false    |
+| is_admin             | boolean  | default=false    |
+| created_at           | date     | default=now      | 
+| updated_at           | date     | not null         |
 
-For a full migration command reference, run ``python manage.py db --help``. 
+
+###### Headword
+
+| field                | type     | stuff         |
+|----------------------|----------|---------------|
+| id                   | int      | pk            |
+| name                 | char(50) | not null      |
+| definition           | text     | not null      |
+| see                  | text     |               |
+| pronunciation        | text     |               |
+| notes                | text     |               |
+| archived             | boolean  | default=false |
+| data_set_id          | int      | fk            |
+| homonym_number_id    | int      | fk            |
+| word_class_id        | int      | fk            |
+| sense_number_id      | int      | fk            |
+| origin_id            | int      | fk            |
+| domain_id            | int      | fk            |
+| region_id            | int      | fk            |
+| created_at           | date     | default=now   | 
+| updated_at           | date     | not null      |
+| updated_by           | char(80) | not null      |
+
+
+###### Citation
+
+| field                | type     | stuff         |
+|----------------------|----------|---------------|
+| id                   | int      | pk            |
+| date                 | date     | not null      |
+| circa                | boolean  | default=false |
+| author               | char(50) | not null      |
+| source_id            | int      | fk            |
+| vol_page             | char(50) |               |
+| edition              | char(50) |               |
+| quote                | text     |               |
+| notes                | text     |               |
+| created_at           | date     | default=now   |
+| updated_at           | date     | not null      |
+| updated_by           | char(80) | not null      |
+
+
+##### Secondary tables
+This format is used by 10 tables; homonym_numbers, word_classes, sense_numbers, registers, domains, regions, origins, sources, flags, data_sets.
+
+| field                | type     | stuff         |
+|----------------------|----------|---------------|
+| id                   | int      | pk            |
+| name                 | char(50) | not null      |
+| notes                | text     |               |
+| created_at           | date     | default=now   |
+
+
+##### Many to Many join tables
+
+###### headword_citations
+
+| field                | type     | stuff    |
+|----------------------|----------|----------|
+| headword_id          | int      | fk       |
+| citation_id          | int      | fk       |
+
+
+###### headword_flags
+
+| field                | type     | stuff    |
+|----------------------|----------|----------|
+| headword_id          | int      | fk       |
+| flag_id              | int      | fk       |
+
+
+###### headword_registers
+
+| field                | type     | stuff    |
+|----------------------|----------|----------|
+| headword_id          | int      | fk       |
+| register_id          | int      | fk       |
+
+
+
+
 
 

@@ -1,0 +1,49 @@
+<h3>{{headword.headword}}</h3>
+
+  <table class="show-headword">
+    <tr>
+      <th style="width:10em;">Headword</th><th>{{headword.headword}}</th>
+    </tr><tr>
+      <td>Definition    </td><td>{{headword.definition}}         </td> </tr><tr>
+      <td>See           </td><td>{{headword.see}}                </td> </tr><tr>
+      <td>Pronunciation </td><td>{{headword.pronunciation}}      </td> </tr><tr>
+      <td>Notes         </td><td>{{headword.notes}}              </td> </tr><tr>
+      <td>Data_set      </td><td>{{headword.data_set.name}}      </td> </tr><tr>
+
+      <td>Word_class    </td><td>{{headword.word_class.name}}    </td> </tr><tr>
+      <td>Homonym_number</td><td>{{headword.homonym_number.name}}</td> </tr><tr>
+      <td>Sense_number  </td><td>{{headword.sense_number.name}}  </td> </tr><tr>
+      <td>Origin        </td><td>{{headword.origin.name}}        </td> </tr><tr>
+
+      <td>Registers      </td><td>{{headword.registers}}          </td> </tr><tr>
+      <td>Domain        </td><td>{{headword.domain.name}}        </td> </tr><tr>
+      <td>Region        </td><td>{{headword.region.name}}        </td> </tr><tr>
+      <td>Flags         </td><td>{{headword.flags}}              </td> </tr><tr>
+      <td>Archived      </td><td>{{headword.archived}}           </td> </tr><tr>
+
+      <td>Created at    </td><td>{{headword.created_at}}         </td> </tr><tr>
+      <td>Updated at    </td><td>{{headword.updated_at}}         </td> </tr><tr>
+      <td>Updated_by    </td><td>{{headword.updated_by}}         </td> 
+    </tr><tr>
+      <td colspan="2">
+        <br>
+        <a href="/headwords/edit?headword={{headword.headword}}" 
+           class="btn btn-primary btn-large">edit
+        </a><a 
+           href="/headwords/citations/new?headword={{headword.headword}}" 
+           class="btn btn-primary btn-large">new citation
+        </a><a 
+           href="/headwords/attributes/index?table=Register&headword={{headword.headword}}" 
+           class="btn btn-primary btn-large">delete register
+        </a><a 
+           href="/headwords/attributes/index?table=Flag&headword={{headword.headword}}" 
+           class="btn btn-primary btn-large">delete flag
+        </a>
+      </td>
+    </tr><tr>
+      <td>
+        <br>
+        <a href="/headwords/index">back to search</a>
+      </td>
+    </tr>
+  </table>

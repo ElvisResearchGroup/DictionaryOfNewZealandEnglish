@@ -1,0 +1,47 @@
+<!-- edit attributes -->
+{% extends "layout.html" %}
+
+{% block content %}
+
+{% set var = "table={0}&headword={1}".format(table, headword) %}
+
+<div class="body-content">
+    <div class="row">
+      <h1>Edit {{table}}</h1>
+      <br>
+    </div>
+
+
+    <form id="insertForm" 
+          method="POST" 
+          class="" 
+          action="/headwords/attributes/edit?name={{name}}&{{var}}" >
+        {{ form.hidden_tag() }}
+        <div class="form-group">
+
+            <div class="form-group">
+                {{ form.name.label }}
+                {{ form.name (value=name, class_="form-control") }}
+            </div>
+            <div class="form-group">
+                {{ form.notes.label }}
+                {{ form.notes (value=data.notes, class_="form-control") }}
+            </div>
+            <div class="form-group dnze-checkbox">
+                {{ form.archived.label }}
+                {{ form.archived (checked=data.archived, class_="form-control") }}
+            </div>
+
+        </div>
+        <button class="btn btn-primary" type="submit" >edit</button>
+    </form>
+
+    <br><a href="/headwords/attributes/index?{{var}}">
+                back to list of 
+                {{table}}{% if table.endswith("class") %}es
+                         {% else %}s
+                         {% endif %}</a>
+
+</div>
+{% endblock %}
+

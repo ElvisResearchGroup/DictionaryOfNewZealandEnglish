@@ -12,7 +12,8 @@ from DictionaryOfNewZealandEnglish.extensions import (
     migrate,
     debug_toolbar,
 )
-from DictionaryOfNewZealandEnglish import public, user
+from DictionaryOfNewZealandEnglish import public, user, headword
+from DictionaryOfNewZealandEnglish.headword import attribute, citation, flag, register
 
 
 def create_app(config_object=ProdConfig):
@@ -27,6 +28,10 @@ def create_app(config_object=ProdConfig):
     register_extensions(app)
     register_blueprints(app)
     register_errorhandlers(app)
+#    with app.app_context():
+        # Extensions like Flask-SQLAlchemy now know what the "current" app
+        # is while within this block. Therefore, you can now run........
+#        db.create_all()
     return app
 
 
@@ -44,6 +49,11 @@ def register_extensions(app):
 def register_blueprints(app):
     app.register_blueprint(public.views.blueprint)
     app.register_blueprint(user.views.blueprint)
+    app.register_blueprint(headword.views.blueprint)
+    app.register_blueprint(attribute.views.blueprint)
+    app.register_blueprint(citation.views.blueprint)
+    app.register_blueprint(flag.views.blueprint)
+    app.register_blueprint(register.views.blueprint)
     return None
 
 

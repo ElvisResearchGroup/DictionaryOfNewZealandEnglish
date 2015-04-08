@@ -1,0 +1,46 @@
+<!-- show citations -->
+{% block content %}
+
+
+  <h3>Citations</h3>
+
+  <table class="show-citations">
+    
+    {% for citation in citations %}
+      {% set edit_link = "/headwords/citations/edit?" +
+                    "headword={0}&citation_id={1}".format(headword.headword, 
+                                                          citation.id) %}
+
+      {% set circa = "" %}
+      {% if citation.circa %}
+        {% set circa = "circa " %}
+      {% endif %}
+
+      <tr>
+        <td>Date       </td><td>{{circa}}{{citation.date}} </td> </tr><tr>
+        <td>Source     </td><td>{{citation.source.name}}   </td> </tr><tr>
+        <td>Author     </td><td>{{citation.author}}        </td> </tr><tr>
+        <td>Vol/Page   </td><td>{{citation.vol_page}}      </td> </tr><tr>
+        <td>Edition    </td><td>{{citation.edition}}       </td> </tr><tr>
+        <td>Quote      </td><td>{{citation.quote}}         </td> </tr><tr>
+        <td>Notes      </td><td>{{citation.notes}}         </td> </tr><tr>
+        <td>Archived   </td><td>{{citation.archived}}      </td> </tr><tr>
+
+        <td>Created at </td><td>{{citation.created_at}}    </td> </tr><tr>
+        <td>Updated at </td><td>{{citation.updated_at}}    </td> </tr><tr>
+        <td>Updated_by </td><td>{{citation.updated_by}}    </td> </tr><tr>
+
+        <td>
+          <a href= {{edit_link}}
+               class="btn btn-primary btn-large">edit</a>
+          <a href="/headwords/citations/delete?citation_id={{citation.id}}&headword={{headword.headword}}"  
+             data-confirm="Are you sure you wish to delete this citation?"
+             class="btn btn-primary btn-large">delete citation
+          </a>  
+        </td>
+      </tr> 
+    {% endfor %}
+    
+  </table>
+
+{% endblock %}

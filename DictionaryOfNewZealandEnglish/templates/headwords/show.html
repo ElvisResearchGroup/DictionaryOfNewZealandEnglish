@@ -1,0 +1,28 @@
+<!-- show headword and citations -->
+{% extends "layout.html" %}
+
+{% block content %}
+<div class="body-content">
+    <div class="row">
+      <h1>Search result</h1>
+    </div>
+
+  <table class="headword-column">
+    <tr>
+      <td valign="top">
+
+       <!-- headword details -->
+       {% include "headwords/_headword.html" %}
+
+      </td><td valign="top" style="padding-left:50px;">
+
+        <!-- the headword's citations -->
+       {% include "headwords/citations/_citations.html" %}
+
+      </td>
+    </tr>
+  </table>
+
+</div>
+{% endblock %}
+

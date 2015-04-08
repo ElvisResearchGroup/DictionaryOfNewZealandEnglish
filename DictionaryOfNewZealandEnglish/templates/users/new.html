@@ -1,0 +1,64 @@
+
+{% extends "layout.html" %}
+{% block content %}
+<div class="container-narrow">
+  <h1>Register</h1>
+  <small>All fields are compulsory</small>
+    <br/>
+    <form id="registerForm" class="form form-register" method="POST" action="" role="form">
+            {{ form.hidden_tag() }}
+            <div class="form-group">
+                {{form.username.label}}
+                <span class="nzdc-required-field"> 
+                  {{ form.getattr('headword').errors[0] }} 
+                </span>
+                {{form.username(placeholder="Username", class_="form-control")}}
+            </div>
+            <div class="form-group">
+                {{form.email.label}}
+                <span class="nzdc-required-field"> 
+                  {{ form.getattr('headword').errors[0] }} 
+                </span>
+                {{form.email(placeholder="Email", class_="form-control")}}
+            </div>
+            <div class="form-group">
+                {{form.institution.label}}
+                <span class="nzdc-required-field"> 
+                  {{ form.getattr('headword').errors[0] }} 
+                </span>
+                {{form.institution(placeholder="eg: Victoria University", class_="form-control")}}
+            </div>
+            <div class="form-group">
+                {{form.country.label}}
+                <span class="nzdc-required-field"> 
+                  {{ form.getattr('headword').errors[0] }} 
+                </span>
+                {{form.country(placeholder="eg: New Zealand", class_="form-control")}}
+            </div>
+            <div class="form-group">
+                {{form.interest.label}}
+                <span class="nzdc-required-field"> 
+                  {{ form.getattr('headword').errors[0] }} 
+                </span>
+                {{form.interest(placeholder="Why do you find this data of interest?", class_="form-control")}}
+            </div>
+            <div class="form-group">
+                {{form.password.label}}
+                <span class="nzdc-required-field"> 
+                  {{ form.getattr('headword').errors[0] }} 
+                </span>
+                {{form.password(placeholder="Password", class_="form-control")}}
+            </div>
+            <div class="form-group">
+                {{form.confirm.label}}
+                <span class="nzdc-required-field"> 
+                  {{ form.getattr('headword').errors[0] }} 
+                </span>
+                {{form.confirm(placeholder="Password (again)", class_="form-control")}}
+            </div>
+            <p><input class="btn btn-default btn-submit" type="submit" value="Register"></p>
+    </form>
+    <p><em>Already registered?</em> Click <a href="/">here</a> to login.</p>
+</div>
+{% endblock %}
+
