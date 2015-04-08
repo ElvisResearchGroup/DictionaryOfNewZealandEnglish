@@ -14,33 +14,36 @@ from DictionaryOfNewZealandEnglish.database import (
 )
 
 
-class Role(SurrogatePK, Model):
-    __tablename__ = 'roles'
-    name = Column(db.String(80), unique=True, nullable=False)
-    user_id = ReferenceCol('users', nullable=True)
-    user = relationship('User', backref='roles')
-
-    def __init__(self, name, **kwargs):
-        db.Model.__init__(self, name=name, **kwargs)
-
-    def __repr__(self):
-        return '<Role({name})>'.format(name=self.name)
-
 class User(UserMixin, SurrogatePK, Model):
 
     __tablename__ = 'users'
-    username = Column(db.String(80), unique=True, nullable=False)
-    email = Column(db.String(80), unique=True, nullable=False)
-    #: The hashed password
-    password = Column(db.String(128), nullable=True)
-    created_at = Column(db.DateTime, nullable=False, default=dt.datetime.utcnow)
-    first_name = Column(db.String(30), nullable=True)
-    last_name = Column(db.String(30), nullable=True)
-    active = Column(db.Boolean(), default=False)
-    is_admin = Column(db.Boolean(), default=False)
+    username =    Column(db.String(80), unique=True, nullable=False)
+    email =       Column(db.String(80), unique=True, nullable=False)
+    first_name =  Column(db.String(30), nullable=True)
+    last_name =   Column(db.String(30), nullable=True)
+    institution = Column(db.String(50), nullable=True)
+    country =     Column(db.String(50), nullable=True)
+    interest =    Column(db.Text,       nullable=True)
 
-    def __init__(self, username, email, password=None, **kwargs):
-        db.Model.__init__(self, username=username, email=email, **kwargs)
+    password =    Column(db.String(128), nullable=True) # The hashed password
+    active =      Column(db.Boolean(), default=False) 
+    
+    is_admin =    Column(db.Boolean(), default=False)
+
+    created_at = Column(db.DateTime, default=dt.datetime.utcnow)
+    updated_at = Column(db.DateTime, nullable=False)
+
+    def __init__(self, username, email, institution, country, interest, updated_at, password=None, active=False, is_admin=False):
+
+        db.Model.__init__(self, 
+                          username=username, 
+                          email=email, 
+                          institution=institution,
+                          country=country,
+                          interest=interest,
+													updated_at=updated_at,
+                          active=active,
+                          is_admin=is_admin)
         if password:
             self.set_password(password)
         else:
@@ -59,21 +62,6 @@ class User(UserMixin, SurrogatePK, Model):
     def __repr__(self):
         return '<User({username!r})>'.format(username=self.username)
 
-class Citation(SurrogatePK, Model):
-    
-    __tablename__ = "citations"
-    #_id = Column(db.Integer, primary_key=True)
-    author = Column(db.String(80), nullable=False)
-    source = Column(db.String(80), nullable=False)
-    date = Column(db.DateTime)
 
-    def __init__(self, author, source, date, **kwargs):
-        db.Model.__init__(self, author=author, source=source, date=date, **kwargs)
 
-    @property
-    def cite(self):
-        return "{0} {1} {2}".format(self.author, self.citation, self.date)
-
-    def __repr__(self):
-        return '<Citation({citeme})>'.format(citeme=cite(self))
 

@@ -25,13 +25,24 @@ textarea {
   max-width: 700px;
 }
 
+.nzdc-required-field{
+  color: red;
+  font-size: smaller;
+}
+
+input[type="checkbox"]{
+  width: 1em;
+  height: 1em;
+  box-shadow: none;
+  -webkit-box-shadow: none;
+}
+
 /* Forms */
 
 .navbar-form input[type="text"],
 .navbar-form input[type="password"] {
   width: 180px;
 }
-
 
 .form-register {
   width: 50%;
@@ -46,6 +57,13 @@ textarea {
      -moz-box-sizing: border-box;
           box-sizing: border-box;
 }
+
+.dnze-checkbox{
+  width: 100px;
+}
+
+
+
 
 /* footer */
 
@@ -84,3 +102,91 @@ footer .footer-nav {
   margin-right: 25px;
   list-style: none;
 }
+
+/* tables */
+//.show-headword btn{
+//  line-height: 5;
+//}
+.show-headword a{
+  display:inline;
+  margin-top:1em;
+  margin-right:0.3em;
+  margin-bottom:2em;
+}
+
+.edit_headword table{
+  width: 100%;
+}
+.edit_headword td{
+  width: 30%;
+  padding-left: 1.666%;
+  padding-right: 1.666%;
+}
+
+
+
+.headword-see{
+  display: inline-block;
+  width: 90%;
+}
+.headword-see div{
+  display: inline-block;
+  width: 49%;
+  padding-right: 3.333%;
+}
+.headword-see-archived{
+  display: inline;
+}
+
+.show-citations td{
+  padding-right:2em;
+}
+.show-citations a{
+  margin-top:1em;
+  margin-bottom:2em;
+}
+
+.edit_citation table{
+  width: 100%;
+}
+
+.edit_citation td{
+  width: 30%;
+  padding-left: 1.666%;
+  padding-right: 1.666%;
+}
+
+.show-member td{
+  padding-left: 40px;
+}
+
+
+/* errors and messages */
+.alert{
+  font-size: large;
+}
+.alert-message{
+  color: orange;
+}
+
+/* delete dialog */
+#dataConfirmModal{
+  background-color: white;
+  height: 240px;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 300px;
+  border-radius: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+

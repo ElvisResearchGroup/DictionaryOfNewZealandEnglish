@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<div class="body-content">
+    <div class="row">
+      <h1>New Headword</h1>
+    </div>
+
+
+    {% set form_type = "create" %}
+    {% include "headwords/_form.html" %}
+
+</div>
+{% endblock %}
+

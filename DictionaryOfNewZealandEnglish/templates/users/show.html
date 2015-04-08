@@ -1,0 +1,40 @@
+
+{% extends "layout.html" %}
+{% block content %}
+  <!-- template suggested session.username, but not working. Changed to current_user.username-->
+  <h1>Welcome {{ current_user.username }}</h1>
+
+  <h3>These are the details you have provided.</h3>
+
+
+  <b>
+    <ul>
+      <li>TODO - add form to allow changing details and password;
+      <li>TODO - allow admins page to change the contact email
+    </ul>
+  </b>
+  <br>
+
+  <table class="show-member">
+    <tr>
+      <td>your name  </td><td>{{ current_user.username }}</td>
+    </tr><tr>
+      <td>email      </td><td>{{ current_user.email }}</td>
+    </tr><tr>
+      <td>institution</td><td>{{ current_user.institution }}</td>
+    </tr><tr>
+      <td>country    </td><td>{{ current_user.country }}</td>
+    </tr><tr>
+      <td>interest   </td><td>{{ current_user.interest }}</td>
+    </tr><tr>
+      <td>password   </td><td>{{ current_user.password }}</td>
+    </tr><tr>
+      <td>created    </td><td>{{ current_user.created_at }}</td>
+    </tr><tr>
+      <td>update    </td><td>{{ current_user.updated_at }}</td>
+    </tr>
+  </table>
+
+
+{% endblock %}
+

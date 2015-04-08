@@ -1,12 +1,14 @@
 # -*- coding: utf-8 -*-
 #from flask import Blueprint, render_template
-from flask import (Blueprint, request, render_template, flash, url_for,
-                    redirect, session)
-from flask.ext.login import login_required
+from flask import (Blueprint, request, render_template, flash, 
+                   url_for, redirect, session, g)
+from flask.ext.login import login_required, current_user, login_user, logout_user
+from flask_wtf import Form
+from DictionaryOfNewZealandEnglish.user.forms import RegisterForm
+from DictionaryOfNewZealandEnglish.utils import flash_errors
+from DictionaryOfNewZealandEnglish.user.models import User
+from datetime import datetime
 
-from DictionaryOfNewZealandEnglish.user.forms import DataForm
-from DictionaryOfNewZealandEnglish.user.models import Citation
-import datetime
 
 blueprint = Blueprint("user", __name__, url_prefix='/users',
                         static_folder="../static")
@@ -15,56 +17,33 @@ blueprint = Blueprint("user", __name__, url_prefix='/users',
 @blueprint.route("/")
 @login_required
 def members():
-    return render_template("users/members.html")
+    return render_template("users/show.html")
 
 
-
-@blueprint.route("/insert/", methods=["GET", "POST"])
-def insert():
-    form = DataForm(request.form, used_as="insert_data")
-    return render_template("users/insert.html", form=form)
-
-
-
-
-@blueprint.route("/insert/db", methods=["GET", "POST"])
-def insertdb():
-    
-    form = DataForm(request.form, used_as="insert_data")
-    if form.validate():
-      flash('Inserting data, in theory - still working on this. Validations are turned off.')
-    else:
-      flash('Inserting data, in theory - still working on this. Validate == FALSE ')
-
-    date_obj = datetime.datetime.strptime(form.date.data, '%d/%m/%Y').date()
-    citation = Citation.create(author = form.author.data,
-                               source = form.source.data,
-                               date   = date_obj )
-
-    return render_template("users/insert.html", form=form)
-
-
-
-
-
-@blueprint.route("/search/", methods=["GET", "POST"])
+@blueprint.route('/logout/')
 @login_required
-def search():
-    # logged in users arrive here
-
-    # Handle search
-    #if request.method == 'POST':
-    #    if form.validate_on_submit():
-    form = DataForm(request.form, "search_data")
+def logout():
+    logout_user()
+    flash('You are logged out.', 'info')
+    return redirect(url_for('public.home'))
 
 
-     #   else:
-      #      flash_errors(form)
-    return render_template("users/search.html", form=form)
+@blueprint.route("/register", methods=['GET', 'POST'])
+def register():
+    form = RegisterForm(request.form, csrf_enabled=False)
+    if form.validate_on_submit():
+        new_user = User.create(username=form.username.data,
+                        email=form.email.data,
+                        institution=form.institution.data,
+                        country=form.country.data,
+                        interest=form.interest.data,
+                        updated_at=datetime.utcnow(),
+                        password=form.password.data,
+                        active=True)
+        flash("Thank you for registering. You can now log in.", 'success')
+        return redirect(url_for('public.home'))
+    else:
+        flash_errors(form)
+        return render_template('users/new.html', form=form)
 
 
-@blueprint.route("/search/db", methods=["GET", "POST"])
-def searchdb():
-    flash('Searching data - this page should display responses, but doesn\'t yet.')
-    form = DataForm(request.form, "display_data")
-    return render_template("users/search.html", form=form)

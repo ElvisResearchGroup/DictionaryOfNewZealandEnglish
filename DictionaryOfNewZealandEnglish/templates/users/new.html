@@ -3,6 +3,7 @@
 {% block content %}
 <div class="container-narrow">
   <h1>Register</h1>
+  <small>All fields are compulsory</small>
     <br/>
     <form id="registerForm" class="form form-register" method="POST" action="" role="form">
             {{ form.hidden_tag() }}
@@ -13,6 +14,18 @@
             <div class="form-group">
                 {{form.email.label}}
                 {{form.email(placeholder="Email", class_="form-control")}}
+            </div>
+            <div class="form-group">
+                {{form.institution.label}}
+                {{form.institution(placeholder="eg: Victoria University", class_="form-control")}}
+            </div>
+            <div class="form-group">
+                {{form.country.label}}
+                {{form.country(placeholder="eg: New Zealand", class_="form-control")}}
+            </div>
+            <div class="form-group">
+                {{form.interest.label}}
+                {{form.interest(placeholder="Why do you find this data of interest?", class_="form-control")}}
             </div>
             <div class="form-group">
                 {{form.password.label}}
