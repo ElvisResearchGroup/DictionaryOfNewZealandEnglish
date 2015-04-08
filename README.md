@@ -199,7 +199,7 @@ Each table also has entries for created_at, last_update_at, last_update_by.
 
 ###### Headword
 
-|                      |          |               |
+| field                | type     | stuff         |
 |----------------------|----------|---------------|
 | id                   | int      | pk            |
 | name                 | char(50) | not null      |
@@ -222,8 +222,8 @@ Each table also has entries for created_at, last_update_at, last_update_by.
 
 ###### Citation
 
-|                      |          |               |
----------------------------------------------------
+| field                | type     | stuff         |
+|----------------------|----------|---------------|
 | id                   | int      | pk            |
 | date                 | date     | not null      |
 | circa                | boolean  | default=false |
@@ -241,6 +241,7 @@ Each table also has entries for created_at, last_update_at, last_update_by.
 ##### Secondary tables
 This format is used by 10 tables; homonym_numbers, word_classes, sense_numbers, registers, domains, regions, origins, sources, flags, data_sets.
 
+| field                | type     | stuff         |
 |----------------------|----------|---------------|
 | id                   | int      | pk            |
 | name                 | char(50) | not null      |
@@ -252,24 +253,24 @@ This format is used by 10 tables; homonym_numbers, word_classes, sense_numbers, 
 
 ###### headword_citations
 
-|                      |          |          |
-----------------------------------------------
+| field                | type     | stuff    |
+|----------------------|----------|----------|
 | headword_id          | int      | fk       |
 | citation_id          | int      | fk       |
 
 
 ###### headword_flags
 
-|                      |          |          |
-----------------------------------------------
+| field                | type     | stuff    |
+|----------------------|----------|----------|
 | headword_id          | int      | fk       |
 | flag_id              | int      | fk       |
 
 
 ###### headword_registers
 
-|                      |          |          |
-----------------------------------------------
+| field                | type     | stuff    |
+|----------------------|----------|----------|
 | headword_id          | int      | fk       |
 | register_id          | int      | fk       |
 
