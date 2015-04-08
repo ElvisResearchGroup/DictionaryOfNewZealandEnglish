@@ -41,6 +41,7 @@ class Secondary_values():
     def __repr__(self):
         return "<%s (%s, '%s')>" % (self.__name__, self.id, self.name)
 
+
 ####################
 # attributes #
 class Word_class(Secondary_values, SurrogatePK, Model):

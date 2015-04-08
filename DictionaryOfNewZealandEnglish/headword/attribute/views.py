@@ -28,7 +28,7 @@ def index():
     table = request.args.get('table')
     headword = request.args.get('headword')
     headword = Headword.query.filter_by(headword=headword).first()
-    data = get_data_for_table_rowname(table, 'all')
+    data = __get_data_for_table_rowname(table, 'all')
     form = TableEditForm(request.form, "edit_table")
     return render_template("headwords/attributes/index.html", table=table,
                                                               headword=headword, 
@@ -46,8 +46,8 @@ def create():
     headword = request.args.get('headword')
     headword = Headword.query.filter_by(headword=headword).first()
     name = form.name.data
-    create_row_in_table_for_name(table, form)
-    data = get_data_for_table_rowname(table, 'all')
+    __create_row_in_table_for_name(table, form)
+    data = __get_data_for_table_rowname(table, 'all')
     form.name.data = ""
 
     return render_template("headwords/attributes/index.html", table=table, 
@@ -64,7 +64,7 @@ def destroy():
     table = request.args.get('table')
     name = request.args.get('name')
     headword = request.args.get('headword')
-    data = get_data_for_table_rowname(table, name)
+    data = __get_data_for_table_rowname(table, name)
 
     # data == None if user has refreshed view after delete has been completed
     if data != None:
@@ -85,13 +85,13 @@ def destroy():
         count = Headword.query.filter(headword_attribute_id == _table.id).count()
       
       if count == 0:
-          data = delete_row_in_table(table, name)
+          data = __delete_row_in_table(table, name)
       else:
           flash("Cannot delete %s as it is in use by %s headwords" % (name, count)) 
           # TODO render a page with list of (max 30?) headwords that will be affected
           # yet to create one for displaying all headwords, should be able to re-use
 
-    data = get_data_for_table_rowname(table, 'all')
+    data = __get_data_for_table_rowname(table, 'all')
     form = TableEditForm(request.form, "edit_table")
     headword = Headword.query.filter_by(headword=headword).first()
     return render_template("headwords/attributes/index.html", table=table, 
@@ -101,6 +101,7 @@ def destroy():
                                                               Register=Register,
                                                               form=form)
 
+
 @blueprint.route("/edit", methods=["GET", "POST"])
 @login_required
 def edit():
@@ -108,20 +109,22 @@ def edit():
     name = request.args.get('name')
     headword = request.args.get('headword')
     form = TableEditForm(request.form, "edit_table")
+
     if request.method == "GET":
-      data = get_data_for_table_rowname(table, name)
+      data = __get_data_for_table_rowname(table, name)
       return render_template("headwords/attributes/edit.html", 
                               table = table, 
                               name  = name, 
                               headword=headword,
                               data  = data, 
                               form  = form)
+
     if request.method == "POST":
       data = set_data_for_table_rowname(table, name, form)
       flash("Edit of %s is saved." % data.name, 'success')
       if isinstance(data, basestring):
         flash(data)
-        data = get_data_for_table_rowname(table, name)
+        data = __get_data_for_table_rowname(table, name)
       else:
         name = data.name
 
@@ -131,11 +134,10 @@ def edit():
 
 #############################################################################
 # private methods #
-# TODO find way to make these a private methods
 
 module_name = "DictionaryOfNewZealandEnglish.headword.attribute.models"
 
-def create_row_in_table_for_name(table, form):
+def __create_row_in_table_for_name(table, form):
 
     name=form.name.data
     _class = str_to_class(module_name, table)
@@ -154,9 +156,9 @@ def create_row_in_table_for_name(table, form):
         return "Database integrety constraint: %s already exists in the database" % name
 
     flash("%s inserted into database: " % name, 'success')
-    return get_data_for_table_rowname(table, name)
+    return __get_data_for_table_rowname(table, name)
 
-def delete_row_in_table(table, name):
+def __delete_row_in_table(table, name):
 
     _class = str_to_class(module_name, table)
     db_row = _class.query.filter_by(name=name).first()
@@ -169,10 +171,10 @@ def delete_row_in_table(table, name):
         return "Database integrety constraint: %s has a problem" % name
 
     flash("%s deleted from database: " % name, 'success')
-    return get_data_for_table_rowname(table, 'all')
+    return __get_data_for_table_rowname(table, 'all')
 
 
-def get_data_for_table_rowname(table, name):
+def __get_data_for_table_rowname(table, name):
 
     _class = str_to_class(module_name, table)
 
@@ -202,7 +204,7 @@ def set_data_for_table_rowname(table, name, form):
         db.session.rollback()
         return "Database integrety constraint - %s already exists in the database" % new_name
 
-    return get_data_for_table_rowname(table, new_name)
+    return __get_data_for_table_rowname(table, new_name)
 
 
 # TODO move to utils.py

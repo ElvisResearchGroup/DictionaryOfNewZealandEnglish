@@ -15,9 +15,9 @@ class CitationForm(Form):
     author   = TextField('Author',       validators=[ DataRequired(),
                                                      Length(max=50) ])
     source = QuerySelectField(
-                   query_factory=lambda: db.session.query(Source).all(),
-                   get_pk=lambda a: a.id,
-                   get_label=lambda a: a.name )
+                   query_factory = lambda: db.session.query(Source).all(),
+                   get_pk        = lambda a: a.id,
+                   get_label     = lambda a: a.name )
     vol_page = TextField('Volume/Page',  validators=[ Length(max=10) ])
     edition  = TextField('Edition',      validators=[ Length(max=10) ])
     quote    = TextAreaField('Quote',    validators=[ ])

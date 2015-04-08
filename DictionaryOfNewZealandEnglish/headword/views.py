@@ -54,7 +54,7 @@ def edit():
     form = HeadwordForm(request.form, obj=headword)
 
     if request.method == "POST" and form.validate():
-      data = set_data_for_headword(headword, form)
+      data = __set_data_for_headword(headword, form)
       flash("Edit of %s is saved." % data.headword, 'success')
       
     return render_template("headwords/edit.html", 
@@ -73,7 +73,7 @@ def new():
 def create():
     form = HeadwordForm(request.form)
     if form.validate():
-      create_headword(form)
+      __create_headword(form)
       flash("New headword created: %s" % form.headword.data, 'success')
       headword = Headword.query.filter_by(headword=form.headword.data).first()
       return render_template("headwords/show.html", form=form, headword=headword)
@@ -84,9 +84,8 @@ def create():
 
 #############################################################################
 ### Private
-# TODO find way to make these private methods...
 
-def create_headword(form):
+def __create_headword(form):
         h = Headword.create(
                         headword          = form.headword.data,
                         definition        = form.definition.data,
@@ -98,18 +97,17 @@ def create_headword(form):
                         word_class_id     = form.word_class.data.id, 
                         sense_number_id   = form.sense_number.data.id, 
                         origin_id         = form.origin.data.id,
-                        #register_id       = form.register.data.id, 
                         domain_id         = form.domain.data.id, 
                         region_id         = form.region.data.id, 
                         updated_at        = dt.datetime.utcnow(),
                         updated_by        = current_user.username    )
 
-        set_join_tables(h, form)
+        __set_join_tables(h, form)
 
         return Headword.query.filter_by(headword=form.headword.data).first()
 
 
-def set_data_for_headword(headword, form):
+def __set_data_for_headword(headword, form):
     try:
         h = Headword.update(headword,
                         headword          = form.headword.data,
@@ -122,14 +120,13 @@ def set_data_for_headword(headword, form):
                         word_class_id     = form.word_class.data.id, 
                         sense_number_id   = form.sense_number.data.id, 
                         origin_id         = form.origin.data.id,
-                        #register_id       = form.register.data.id, 
                         domain_id         = form.domain.data.id, 
                         region_id         = form.region.data.id, 
                         updated_at        = dt.datetime.utcnow(),
                         updated_by        = current_user.username, 
                         archived          = form.archived.data      )
 
-        set_join_tables(h, form)
+        __set_join_tables(h, form)
 
     except (IntegrityError, InvalidRequestError):
         db.session.rollback()
@@ -138,7 +135,7 @@ def set_data_for_headword(headword, form):
     return Headword.query.filter_by(headword=form.headword.data).first()
 
 
-def set_join_tables(headword, form):
+def __set_join_tables(headword, form):
         register = form.register.data.name
         register = Register.query.filter_by(name=register).first()
         if register not in headword.registers and register.name != "[none]":

@@ -10,24 +10,6 @@ from DictionaryOfNewZealandEnglish.database import db
 
 
 class HeadwordForm(Form):
-                       #headword, 
-                       #definition, 
-                       #see, 
-                       #pronunciation, 
-                       #notes, 
-                       #archived, 
-                       #data_set_id, 
-                       #homonym_number_id, 
-                       #word_class_id, 
-                       #sense_number_id, 
-                       #origin_id, 
-                       #register_id, 
-                       #domain_id, 
-                       #region_id, 
-                       #headword_citation, 
-                       #headword_flag, 
-                       #updated_by
-
     headword      = TextField('Headword',       validators=[DataRequired(), 
                                                 Length(max=50)])
     definition    = TextAreaField('Definition', validators=[DataRequired()])
@@ -36,43 +18,42 @@ class HeadwordForm(Form):
     notes         = TextAreaField('Notes',      validators=[])
     archived      = BooleanField('Archived')
     
-    # TODO place [none] option first
     word_class = QuerySelectField(
                    query_factory=lambda: db.session.query(Word_class).all(),
-                   get_pk=lambda a: a.id,
-                   get_label=lambda a: a.name )
+                   get_pk       =lambda a: a.id,
+                   get_label    =lambda a: a.name )
     data_set = QuerySelectField(
                    query_factory=lambda: db.session.query(Data_set).all(),
-                   get_pk=lambda a: a.id,
-                   get_label=lambda a: a.name )
+                   get_pk       =lambda a: a.id,
+                   get_label    =lambda a: a.name )
     homonym_number = QuerySelectField(
                    query_factory=lambda: db.session.query(Homonym_number).all(),
-                   get_pk=lambda a: a.id,
-                   get_label=lambda a: a.name )
+                   get_pk       =lambda a: a.id,
+                   get_label    =lambda a: a.name )
     sense_number = QuerySelectField(
                    query_factory=lambda: db.session.query(Sense_number).all(),
-                   get_pk=lambda a: a.id,
-                   get_label=lambda a: a.name )
+                   get_pk       =lambda a: a.id,
+                   get_label    =lambda a: a.name )
     origin = QuerySelectField(
                    query_factory=lambda: db.session.query(Origin).all(),
-                   get_pk=lambda a: a.id,
-                   get_label=lambda a: a.name )
+                   get_pk       =lambda a: a.id,
+                   get_label    =lambda a: a.name )
     register = QuerySelectField(
                    query_factory=lambda: db.session.query(Register).all(),
-                   get_pk=lambda a: a.id,
-                   get_label=lambda a: a.name )
+                   get_pk       =lambda a: a.id,
+                   get_label    =lambda a: a.name )
     domain = QuerySelectField(
                    query_factory=lambda: db.session.query(Domain).all(),
-                   get_pk=lambda a: a.id,
-                   get_label=lambda a: a.name )
+                   get_pk       =lambda a: a.id,
+                   get_label    =lambda a: a.name )
     region = QuerySelectField(
                    query_factory=lambda: db.session.query(Region).all(),
-                   get_pk=lambda a: a.id,
-                   get_label=lambda a: a.name )
+                   get_pk       =lambda a: a.id,
+                   get_label    =lambda a: a.name )
     flag = QuerySelectField(
                    query_factory=lambda: db.session.query(Flag).all(),
-                   get_pk=lambda a: a.id,
-                   get_label=lambda a: a.name )
+                   get_pk       =lambda a: a.id,
+                   get_label    =lambda a: a.name )
 
 
     def getattr(self, name):

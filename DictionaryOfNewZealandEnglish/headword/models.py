@@ -77,9 +77,6 @@ class Headword(SurrogatePK, Model):
                              backref=db.backref('headwords'),
                              order_by='Register.name')
 
-    #register_id =       ReferenceCol('registers', nullable=True)
-    #register = relationship('Register', uselist=False, backref='headwords', foreign_keys=[register_id])
-
     created_at = Column(db.DateTime, default=dt.datetime.utcnow)
     updated_at = Column(db.DateTime, nullable=False)
     updated_by = Column(db.String(80), nullable=False)
@@ -95,7 +92,6 @@ class Headword(SurrogatePK, Model):
                        word_class_id, 
                        sense_number_id, 
                        origin_id, 
-                       #register_id, 
                        domain_id, 
                        region_id, 
  										   updated_at,
@@ -111,8 +107,7 @@ class Headword(SurrogatePK, Model):
                                 homonym_number_id=homonym_number_id, 
                                 word_class_id    =word_class_id, 
                                 sense_number_id  =sense_number_id, 
-                                origin_id        =origin_id, 
-                                #register_id      =register_id,          
+                                origin_id        =origin_id,      
                                 domain_id        =domain_id, 
                                 region_id        =region_id, 
                                 updated_at       =updated_at,

@@ -12,6 +12,7 @@ Development notes and stuff I do not wish to commit to memory.
 * Template Headwords, limit to 30 per page
 * Template 3 Headword displays (eg: {name, definition fields only}, {all citations}, {first & last citations})
 * Display Headwords by Attribute or headword search (plus 'all' option)
+* add validations to views & forms
 * XSS & SQL injection defence
 * Dockerise the app
 * a coders HISTORY.md file to credit previous coding efforts
