@@ -128,7 +128,6 @@ def edit():
       else:
         name = data.name
 
-      headword = Headword.query.filter_by(headword=headword).first()
       return redirect("headwords/attributes/index?table={0}&headword={1}".format(table, headword))
 
 
@@ -179,8 +178,9 @@ def __get_data_for_table_rowname(table, name):
     _class = str_to_class(module_name, table)
 
     if name == "all":
-        l =  _class.query.order_by('archived').all()
+        l =  _class.query.all()
         l = sorted(l, key=lambda origin: origin.name.lower() )
+        l = sorted(l, key=lambda origin: origin.archived )
         return l
     else: 
         return _class.query.filter_by(name=name).first()

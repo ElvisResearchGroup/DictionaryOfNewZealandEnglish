@@ -9,9 +9,7 @@ from DictionaryOfNewZealandEnglish.utils import flash_errors
 from DictionaryOfNewZealandEnglish.user.models import User
 from datetime import datetime
 
-from DictionaryOfNewZealandEnglish.user.forms import DataForm
-from DictionaryOfNewZealandEnglish.user.models import Citation
-import datetime
+
 blueprint = Blueprint("user", __name__, url_prefix='/users',
                         static_folder="../static")
 
