@@ -9,6 +9,23 @@ import sys
 from DictionaryOfNewZealandEnglish.database import db
 
 
+class SearchForm(Form):
+    headword         = TextField('Headword',    validators=[DataRequired(), 
+                                                Length(max=50)])
+    output = RadioField('Output', 
+                        choices=[('definition_only', 'definition only'),
+                                 ('sample_citations', 'sample citations'),
+                                 ('all_citations', 'all citations')],
+                        default = 'sample_citations')
+
+    def getattr(self, name):
+        return getattr(self, name)    
+
+    def __init__(self, *args, **kwargs):
+        super(SearchForm, self).__init__(*args, **kwargs)
+        self.user = None
+
+
 class HeadwordForm(Form):
     headword      = TextField('Headword',       validators=[DataRequired(), 
                                                 Length(max=50)])

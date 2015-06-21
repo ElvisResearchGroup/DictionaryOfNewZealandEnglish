@@ -20,6 +20,10 @@ textarea {
   resize: vertical;
 }
 
+.nzdc-text li{
+  font-size:21px;
+}
+
 .container-narrow{
   margin: 0 auto;
   max-width: 700px;
@@ -35,6 +39,13 @@ input[type="checkbox"]{
   height: 1em;
   box-shadow: none;
   -webkit-box-shadow: none;
+}
+
+/* hover hint */
+.nzdc-hover-hint{
+  background-color:lightblue; 
+  display:inline-block; 
+  //padding-right:0.2em;
 }
 
 /* Forms */
@@ -60,6 +71,16 @@ input[type="checkbox"]{
 
 .dnze-checkbox{
   width: 100px;
+}
+
+.dnze-inline li{
+  display: inline;
+  margin-left: 2em;
+}
+
+.dnze-letters li{
+  display: inline;
+  margin-left: 1em;
 }
 
 

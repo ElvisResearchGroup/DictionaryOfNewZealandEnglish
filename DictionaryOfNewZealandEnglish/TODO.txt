@@ -1,3 +1,0 @@
- List of TODO tasks
-
-[001] Tooltip on remember-me checkbox, nav.html ~ln 51 (or remove) 

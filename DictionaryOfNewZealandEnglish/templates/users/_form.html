@@ -1,0 +1,58 @@
+
+
+    <form id="registerForm" class="form form-register" method="POST" action="{{action}}" role="form">
+            {{ form.hidden_tag() }}
+            <div class="form-group">
+                {{form.username.label}}
+                <span class="nzdc-required-field"> 
+                  {{ form.getattr('username').errors[0] }} 
+                </span>
+                {{form.username(placeholder="Username", class_="form-control")}}
+            </div>
+            <div class="form-group">
+                {{form.email.label}}
+                <span class="nzdc-required-field"> 
+                  {{ form.getattr('email').errors[0] }} 
+                </span>
+                {{form.email(placeholder="Email", class_="form-control")}}
+            </div>
+            <div class="form-group">
+                {{form.institution.label}}
+                <span class="nzdc-required-field"> 
+                  {{ form.getattr('institution').errors[0] }} 
+                </span>
+                {{form.institution(placeholder="eg: Victoria University", class_="form-control")}}
+            </div>
+            <div class="form-group">
+                {{form.country.label}}
+                <span class="nzdc-required-field"> 
+                  {{ form.getattr('country').errors[0] }} 
+                </span>
+                {{form.country(placeholder="eg: New Zealand", class_="form-control")}}
+            </div>
+            <div class="form-group">
+                {{form.interest.label}}
+                <span class="nzdc-required-field"> 
+                  {{ form.getattr('interest').errors[0] }} 
+                </span>
+                {{form.interest(placeholder="Why do you find this data of interest?", class_="form-control")}}
+            </div>
+            <div class="form-group">
+                {{form.password.label}}
+                <span class="nzdc-required-field"> 
+                  {{ form.getattr('password').errors[0] }} 
+                </span>
+                {{form.password(placeholder="Password", class_="form-control")}}
+            </div>
+            <div class="form-group">
+                {{form.confirm.label}}
+                <span class="nzdc-required-field"> 
+                  {{ form.getattr('confirm').errors[0] }} 
+                </span>
+                {{form.confirm(placeholder="Password (again)", class_="form-control")}}
+            </div>
+            
+            <button class="btn btn-primary" type="submit" >{{submit_button}}</button>
+            
+    </form>
+

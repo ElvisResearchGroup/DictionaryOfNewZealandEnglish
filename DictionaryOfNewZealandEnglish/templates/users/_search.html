@@ -1,0 +1,17 @@
+
+
+    <form id="searchForm" class="form form-register" method="POST" action="{{action}}" role="form">
+            {{ form.hidden_tag() }}
+            
+            <div class="form-group">
+                {{form.email.label}}
+                <span class="nzdc-required-field"> 
+                  {{ form.getattr('email').errors[0] }} 
+                </span>
+                {{form.email(placeholder="Email", class_="form-control")}}
+            </div>
+            
+            <button class="btn btn-primary" type="submit" >{{submit_button}}</button>
+            
+    </form>
+

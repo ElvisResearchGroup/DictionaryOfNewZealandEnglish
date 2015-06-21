@@ -11,8 +11,20 @@
       <td>Data_set      </td><td>{{headword.data_set.name}}      </td> </tr><tr>
 
       <td>Word_class    </td><td>{{headword.word_class.name}}    </td> </tr><tr>
-      <td>Homonym_number</td><td>{{headword.homonym_number.name}}</td> </tr><tr>
-      <td>Sense_number  </td><td>{{headword.sense_number.name}}  </td> </tr><tr>
+      <td>
+        Homonym_number
+        <div class="nzdc-hover-hint"
+             title="Homonym: a word of the same spelling or sound as another but of different meaning: a homograph e.g. run (noun and verb) or homophone. e.g. cheque/check.">
+          ?
+        </div>
+      </td><td>{{headword.homonym_number.name}}</td> </tr><tr>
+      <td>
+        Sense_number  
+        <div class="nzdc-hover-hint"
+             title="Sense: a meaning; the way a word is meant to be understood, as in: the sense of the word is clear; I mean that in the literal sense. ">
+          ?
+        </div>
+      </td><td>{{headword.sense_number.name}}  </td> </tr><tr>
       <td>Origin        </td><td>{{headword.origin.name}}        </td> </tr><tr>
 
       <td>Registers      </td><td>{{headword.registers}}          </td> </tr><tr>
@@ -24,26 +36,30 @@
       <td>Created at    </td><td>{{headword.created_at}}         </td> </tr><tr>
       <td>Updated at    </td><td>{{headword.updated_at}}         </td> </tr><tr>
       <td>Updated_by    </td><td>{{headword.updated_by}}         </td> 
-    </tr><tr>
+    </tr>
+
+    {% if current_user.is_admin %}
+    <!-- admin only functions -->
+    <tr>
       <td colspan="2">
         <br>
-        <a href="/headwords/edit?headword={{headword.headword}}" 
+        <a href="/headwords/edit?headword={{headword.url_name}}" 
            class="btn btn-primary btn-large">edit
         </a><a 
-           href="/headwords/citations/new?headword={{headword.headword}}" 
-           class="btn btn-primary btn-large">new citation
-        </a><a 
-           href="/headwords/attributes/index?table=Register&headword={{headword.headword}}" 
+           href="/headwords/attributes/index?table=Register&headword={{headword.url_name}}" 
            class="btn btn-primary btn-large">delete register
         </a><a 
-           href="/headwords/attributes/index?table=Flag&headword={{headword.headword}}" 
+           href="/headwords/attributes/index?table=Flag&headword={{headword.url_name}}" 
            class="btn btn-primary btn-large">delete flag
         </a>
       </td>
-    </tr><tr>
+    </tr>
+    {% endif %}
+
+    <tr>
       <td>
         <br>
-        <a href="/headwords/index">back to search</a>
+        <a href="/headwords/index?letter=1">back to all words</a>
       </td>
     </tr>
   </table>

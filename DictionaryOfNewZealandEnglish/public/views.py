@@ -31,17 +31,23 @@ def home():
             return redirect(redirect_url)
         else:
             flash_errors(login_form)
-    return render_template("public/nzdchome.html", login_form=login_form)
+    return render_template("public/home.html", login_form=login_form)
 
 @blueprint.route("/search/")
 def search():
     login_form = LoginForm(request.form)
     return render_template("public/search.html", login_form=login_form)
 
-#@blueprint.route("/about/")
-#def about():
-#    form = LoginForm(request.form)
-#    return render_template("public/about.html", title="Fred", form=form)
+@blueprint.route("/history")
+def history():
+    login_form = LoginForm(request.form)
+    return render_template("public/history.html", login_form=login_form)
+
+@blueprint.route("/publications")
+def publications():
+    login_form = LoginForm(request.form)
+    return render_template("public/publications.html", login_form=login_form)
+
 
 
 

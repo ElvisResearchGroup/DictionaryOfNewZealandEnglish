@@ -1,0 +1,33 @@
+
+
+{% block content %}
+<div class="body-content">
+    <div class="row">
+      <h1>{{title}}</h1>
+    </div>
+    <br>
+
+    <ul class="dnze-letters">
+      {% for letter in counts.keys() %}
+          {% if counts[letter] > 0 %}
+            <li><a href="/headwords/index?letter={{letter}}"><b>{{letter}}</b>
+                <span style="font-size:70%;">x{{counts[letter]}}</span></a>
+          {% else %}
+            <li><a href="/headwords/index?letter={{letter}}">{{letter}}</a>
+          {% endif %}
+      {% endfor %}
+    </ul>
+    <br>
+
+    <table>
+      <tr>
+        {% for headword in headwords %}
+          {% include "headwords/_definition_only.html" %}
+          </tr><tr>
+        {% endfor %}
+      </tr>
+    </table
+
+</div>
+{% endblock %}
+

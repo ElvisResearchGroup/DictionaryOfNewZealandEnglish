@@ -1,0 +1,31 @@
+<!-- admin page -->
+
+{% extends "layout.html" %}
+
+{% block content %}
+{% set submit_button = "search" %}
+
+  <div class="container-narrow">
+
+  <h1>Admin page</h1>
+  Search for user by email address.
+  <br><br>
+
+  {% include "users/_search.html" %}
+
+
+  {% if user %}
+    {% set submit_button = "commit" %}
+    <br><br><br><br>
+
+    Found user: {{user.username}}<br>  
+    {% include "users/_add_admin.html" %}
+
+  {% else %}
+    <br>
+    Email address not found.
+  {% endif %}
+
+  </div>
+{% endblock %}
+

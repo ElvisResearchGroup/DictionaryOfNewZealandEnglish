@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#from flask import Blueprint, render_template
+# headwords
 from flask import (Blueprint, request, render_template, flash, url_for,
                     redirect, session, g)
 from flask.ext.login import login_required, current_user
@@ -7,7 +7,9 @@ from flask_wtf import Form
 import DictionaryOfNewZealandEnglish.utils as utils
 import logging
 import sys
+import string
 from sqlalchemy.exc import IntegrityError, InvalidRequestError
+from sqlalchemy.sql.expression import bindparam
 from DictionaryOfNewZealandEnglish.database import db
 from DictionaryOfNewZealandEnglish.headword.forms import *
 from DictionaryOfNewZealandEnglish.public.forms import LoginForm
@@ -24,8 +26,41 @@ blueprint = Blueprint("headword", __name__, url_prefix='/headwords',
 @blueprint.route("/index", methods=["GET"])
 @login_required
 def index():
+    if request.args.get('letter'):
+        headwords = []
+        if request.args.get('letter') == 'attribute':
+            table = request.args.get('table')       # attribute table
+            name  = request.args.get('name')        # attribute name
+            name_id  = request.args.get('name_id')  # attribute id
+
+            if table == "Register":
+              register = Register.query.filter_by(name=name).first()
+              headwords = register.headwords              
+            elif table == "Flag":
+              flag = Flag.query.filter_by(name=name).first()
+              headwords = flag.headwords
+            else:
+              attribute_id = table.replace(' ', '_').lower()+"_id"
+              headwords = Headword.query.filter(
+                                  getattr(Headword, attribute_id) == name_id)
+            title = "Words for {1}, {0}".format(name, table)
+        else:
+            letter = request.args.get('letter')
+            headwords = Headword.query.filter(
+                                  Headword.headword.startswith(letter)).all()
+            title = "All words"
+
+        counts = {}
+        for letter in string.ascii_uppercase:
+            counts[letter] = Headword.query.filter(Headword.headword.startswith(letter)).count()
+
+        return render_template("headwords/index.html", letter=request.args.get('letter'),
+                                                       title=title,
+                                                       counts=counts,
+                                                       headwords=headwords)
+
     # logged in users arrive here
-    form = HeadwordForm(request.form, "search_data")
+    form = SearchForm(request.form, "search_data")
     return render_template("headwords/index.html", form=form)
 
 
@@ -34,21 +69,47 @@ def index():
 def show():
     if request.method == "GET":
       headword = request.args.get('headword')
-    if request.method == "POST":
+      output = 'sample_citations'
+      if request.args.get('output'):
+        output = request.args.get('output')
+      
+    if request.method == "POST":             # TODO from search form, want a list of results
       headword = request.form['headword']
+      output  = request.form['output']
 
-    headword = Headword.query.filter_by(headword=headword).first()
+    headword = Headword.query.filter_by(headword=headword).first() 
     if headword == None:
       return redirect("headwords/index")
 
-    citations = headword.citations
+    more_citations = False
+    citations = []
+    if   output == 'all_citations':
+      citations = headword.citations
+    elif output == 'sample_citations':
+      # Python InstrumentedList objects do not have a size function
+      size = 0 
+      for c in headword.citations:
+        size = size + 1
+
+      if size > 0:
+        citations.append( headword.citations[0] )
+      if size > 1:
+        citations.append( headword.citations[-1] )
+      if size > 2: # sample citations return only two citations
+        more_citations = True
+
     return render_template("headwords/show.html", headword=headword,
-                                                  citations=citations)
+                                                  output=output,
+                                                  citations=citations,
+                                                  more_citations=more_citations)
 
 
 @blueprint.route("/edit", methods=["GET", "POST"])
 @login_required
 def edit():
+    if not current_user.is_admin:
+        return redirect(url_for('public.home'))
+        
     headword = request.args.get('headword')
     headword = Headword.query.filter_by(headword=headword).first()
     form = HeadwordForm(request.form, obj=headword)
@@ -64,6 +125,9 @@ def edit():
 @blueprint.route("/new", methods=["GET"])
 @login_required
 def new():
+    if not current_user.is_admin:
+        return redirect(url_for('public.home'))
+
     form = HeadwordForm(request.form)
     return render_template("headwords/new.html", form=form)
 
@@ -71,6 +135,9 @@ def new():
 @blueprint.route("/create", methods=["POST"])
 @login_required
 def create():
+    if not current_user.is_admin:
+        return redirect(url_for('public.home'))
+
     form = HeadwordForm(request.form)
     if form.validate():
       __create_headword(form)

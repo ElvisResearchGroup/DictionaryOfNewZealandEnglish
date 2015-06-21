@@ -25,6 +25,9 @@ blueprint = Blueprint("attribute", __name__, url_prefix='/headwords/attributes',
 @blueprint.route("/index", methods=["GET"])
 @login_required
 def index():
+    if not current_user.is_admin:
+        return redirect(url_for('public.home'))
+
     table = request.args.get('table')
     headword = request.args.get('headword')
     headword = Headword.query.filter_by(headword=headword).first()
@@ -41,6 +44,9 @@ def index():
 @blueprint.route("/create", methods=["POST"])
 @login_required
 def create():
+    if not current_user.is_admin:
+        return redirect(url_for('public.home'))
+
     table = request.args.get('table')
     form = TableEditForm(request.form, "edit_table")
     headword = request.args.get('headword')
@@ -61,6 +67,9 @@ def create():
 @blueprint.route("/delete", methods=["GET"])
 @login_required
 def destroy():
+    if not current_user.is_admin:
+        return redirect(url_for('public.home'))
+
     table = request.args.get('table')
     name = request.args.get('name')
     headword = request.args.get('headword')
@@ -72,24 +81,22 @@ def destroy():
       if table == 'Register' or table == 'Flag':
         register = Register.query.filter_by(name=name).first()
 
-        # cannot believe there is no count() method for this in Python!
+        # TODO adopt a better count method
         headwords = register.headwords
         count = 0
         for i in headwords:
           count += 1
 
-        print "#### %s", headwords
+        #print "#### %s", headwords
       else:
         _table = str_to_class(module_name, table).query.filter_by(name=name).first()
-        headword_attribute_id    = getattr(Headword,'%s_id' % table.lower())
+        headword_attribute_id    = getattr(Headword,'%s_id' % table.lower().replace(' ', '_'))
         count = Headword.query.filter(headword_attribute_id == _table.id).count()
       
       if count == 0:
           data = __delete_row_in_table(table, name)
       else:
-          flash("Cannot delete %s as it is in use by %s headwords" % (name, count)) 
-          # TODO render a page with list of (max 30?) headwords that will be affected
-          # yet to create one for displaying all headwords, should be able to re-use
+          flash("Cannot delete %s as it is in use by %s headwords" % (name, count), 'warning') 
 
     data = __get_data_for_table_rowname(table, 'all')
     form = TableEditForm(request.form, "edit_table")
@@ -105,6 +112,9 @@ def destroy():
 @blueprint.route("/edit", methods=["GET", "POST"])
 @login_required
 def edit():
+    if not current_user.is_admin:
+        return redirect(url_for('public.home'))
+
     table = request.args.get('table')
     name = request.args.get('name')
     headword = request.args.get('headword')

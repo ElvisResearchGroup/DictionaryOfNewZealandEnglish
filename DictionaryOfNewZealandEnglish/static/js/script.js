@@ -1,4 +1,6 @@
 $(document).ready(function() {
+
+    // confirmation box
     $('a[data-confirm]').click(function(ev) {
         var href = $(this).attr('href');
 
@@ -12,6 +14,11 @@ $(document).ready(function() {
         $('#dataConfirmModal').modal({show:true});
         return false;
     });
+
+
+
+
+
 });
 
 

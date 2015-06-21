@@ -15,6 +15,7 @@
     {% set var = "table={0}&name={1}&headword={2}".format(table, d.name, headword.headword) %}
     {% set link_edit = "/headwords/attributes/edit?{0}".format(var) %}
     {% set link_delete = "/headwords/attributes/delete?%s" % var %}
+    {% set link_headwords = "/headwords/index?letter=attribute&table={0}&name=".format(table) %}
     <tr>
     {% if d.name != "[none]": %}
       <td style="padding-right:2em">
@@ -35,9 +36,9 @@
 
         {% if (item in list) %}
           <td style="padding-right:2em">
-            <a href="/headwords/{{'%ss' % table.lower()}}/delete?{{table.lower()}}={{item.name}}&headword={{headword.headword}}" 
-              data-confirm="This will delete {{item.name}} from the headword {{headword.headword}}.">
-                delete from headword {{headword.headword}}
+            <a href="/headwords/{{'%ss' % table.lower()}}/delete?{{table.lower()}}={{item.name}}&headword={{headword.url_name}}" 
+              data-confirm="This will remove {{item.name}} from the headword {{headword.headword}}.">
+                remove from {{headword.headword}}
             </a>
           </td>
         {% else %}
@@ -52,6 +53,8 @@
       </td><td style="padding-right:2em">
         <a href="{{link_delete}}" 
            data-confirm="This will delete {{d.name}} from the list of attributes for {{table}}.">delete</a>
+      </td><td style="padding-right:2em">
+        <a href="{{link_headwords + '{0}&name_id={1}'.format(d.name, d.id)}}">headwords using {{d.name}}</a>
       </td>
 
     {% endif %}
@@ -65,7 +68,7 @@
     <form id="insertForm" 
           method="POST" 
           class="" 
- action="/headwords/attributes/create?table={{table}}&headword={{headword.headword}}">
+ action="/headwords/attributes/create?table={{table}}&headword={{headword.url_name}}">
         {{ form.hidden_tag() }}
         <div class="form-group">
 
@@ -85,11 +88,11 @@
 <br>
 
 {% if table == "Source" %}
-  <a href="/headwords/citations/new?headword={{headword.headword}}">
-    back to new citation for {{headword}}
+  <a href="/headwords/citations/new?headword={{headword.url_name}}">
+    back to new citation for {{headword.headword}}
   </a>
 {% else %}
-  <a href="/headwords/edit?headword={{headword.headword}}">
+  <a href="/headwords/edit?headword={{headword.url_name}}">
     back to editing headword {{headword.headword}}
   </a>
 {% endif %}

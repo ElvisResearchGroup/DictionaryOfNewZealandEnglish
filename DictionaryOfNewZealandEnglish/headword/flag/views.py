@@ -24,6 +24,9 @@ blueprint = Blueprint("flag", __name__, url_prefix='/headwords/flags',
 @blueprint.route("/delete", methods=["GET"])
 @login_required
 def delete():
+    if not current_user.is_admin:
+        return redirect(url_for('public.home'))
+
     flag     = request.args.get('flag')
     headword = request.args.get('headword')
     flag     = Flag.query.filter_by(name=flag).first()

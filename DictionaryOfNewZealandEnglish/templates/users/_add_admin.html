@@ -1,0 +1,32 @@
+
+
+    <form id="adminForm" class="form form-register" method="POST" action="{{action}}" role="adminForm">
+            {{ adminForm.hidden_tag() }}
+            {{ adminForm.email(default=user.email) }}
+            <div>
+              <span class="form-group">
+                <table><tr>
+                  <td style="padding-right:1em;">{{adminForm.is_admin.label}}</td>
+                  <td>{{adminForm.is_admin(checked=user.is_admin, class_="form-control")}}</td>
+                </tr></table>
+              </span>
+              <span class="nzdc-required-field"> 
+                {{ adminForm.getattr('is_admin').errors[0] }} 
+              </span>
+            </div>
+
+            <div>
+              <span class="form-group">
+                <table><tr>
+                  <td style="padding-right:1em;">{{adminForm.delete_user.label}}</td>
+                  <td>{{adminForm.delete_user(class_="form-control")}}</td>
+                </tr></table>
+              </span>
+            </div>
+
+            <br>
+
+            <button class="btn btn-primary" type="submit" >{{submit_button}}</button>
+            
+    </form>
+

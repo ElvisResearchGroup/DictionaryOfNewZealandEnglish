@@ -118,6 +118,10 @@ class Headword(SurrogatePK, Model):
     def full_name(self):
         return "Headword is {0}".format(self.headword)
 
+    @property
+    def url_name(self):
+        return self.headword.replace(' ', '%20')
+
     def __repr__(self):
         return '<Headword ({name!r})>'.format(name=self.headword)
 

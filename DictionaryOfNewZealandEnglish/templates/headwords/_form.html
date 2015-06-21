@@ -1,4 +1,10 @@
 <!-- Headword form -->
+
+{% set submit_button = form_type %}
+{% if submit_button == "edit" %}
+  {% set submit_button = "commit" %}
+{% endif %}
+
 {% block content %}
 
     <form id="insertForm" 
@@ -76,16 +82,19 @@
 
                     <!-- {{element}} field -->
                     <div class="form-group">
-                      {{ form.getattr(snake_case).label }}
+                      {% if snake_case in ["register", "flag"] %}
+                        <b>{{ "Add " + snake_case }}</b>
+                      {% else %}
+                        {{ form.getattr(snake_case).label }}
+                      {% endif %}
                       <span class="nzdc-required-field"> 
                         {{ form.getattr(snake_case).errors[0] }} 
                       </span>
 
                       {% if form_type != "create" %}
-                        {# not included in new actions as inputed data is lost 
-                           on navigating away. This solution forces a save 
-                           before getting access to adjust attributes. #}
-
+        {# This link is not included in new actions as inputed data is lost 
+                        on navigating away. This solution forces a save 
+                        before getting access to edit available attributes. #}
                         <!-- a link to manage the element -->
                         <a 
     href="/headwords/attributes/index?table={{element}}&headword={{headword}}">
@@ -104,7 +113,7 @@
         </table>
 
       </div>
-      <button class="btn btn-primary" type="submit" >{{form_type}}</button>
+      <button class="btn btn-primary" type="submit" >{{submit_button}}</button>
     </form>
 {% endblock %}
 

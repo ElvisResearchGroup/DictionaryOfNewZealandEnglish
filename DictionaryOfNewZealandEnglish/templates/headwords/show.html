@@ -9,19 +9,33 @@
 
   <table class="headword-column">
     <tr>
+
+       {% if output == 'definition_only' %}
+
+         {% include "headwords/_definition_only.html" %}
+
+       {% else %}
+
       <td valign="top">
+         <!-- headword details -->
+         {% include "headwords/_headword.html" %}
 
-       <!-- headword details -->
-       {% include "headwords/_headword.html" %}
+         </td><td valign="top" style="padding-left:50px;">
 
-      </td><td valign="top" style="padding-left:50px;">
-
-        <!-- the headword's citations -->
-       {% include "headwords/citations/_citations.html" %}
+         <!-- the headword's citations -->
+         {% include "headwords/citations/_citations.html" %}
 
       </td>
+       {% endif %}
+
     </tr>
+    
   </table>
+
+  {% if output == 'definition_only' %}
+    <br>
+    <a href="/headwords/index">back to search</a>
+  {% endif %}
 
 </div>
 {% endblock %}

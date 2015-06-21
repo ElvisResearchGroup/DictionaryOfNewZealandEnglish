@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 '''The app module, containing the app factory function.'''
-from flask import Flask, render_template
+from flask import Flask, render_template, g
 
 from DictionaryOfNewZealandEnglish.settings import ProdConfig
 from DictionaryOfNewZealandEnglish.assets import assets

@@ -24,7 +24,7 @@ citation_source = db.Table('citation_source',
 class Citation(SurrogatePK, Model):
     
     __tablename__ = "citations"
-    date =       Column(db.String(20),   nullable=False)
+    date =       Column(db.DateTime,   nullable=False)
     # per expert, circa needed as not all dates are accurate
     circa =      Column(db.Boolean,      default=False)
     author =     Column(db.String(80),   nullable=False)
@@ -43,7 +43,7 @@ class Citation(SurrogatePK, Model):
     updated_by = Column(db.String(80),   nullable=False)
 
 
-    def __init__(self, date, 
+    def __init__(self, day, month, year, 
                        circa, 
                        author, 
                        source_id, 
@@ -56,7 +56,7 @@ class Citation(SurrogatePK, Model):
                        updated_by
                        ):
 
-        db.Model.__init__(self, date              = date, 
+        db.Model.__init__(self, date              = dt.datetime(year, month, day), 
                                 circa             = circa, 
                                 author            = author, 
                                 source_id         = source_id, 
@@ -72,6 +72,10 @@ class Citation(SurrogatePK, Model):
     @property
     def full_name(self):
         return "Citation is {0}".format(self.author)
+
+    @property
+    def length(self):
+        return len(self)
 
     def __repr__(self):
         return '<Citation ({0}, {1})>'.format(self.author, self.date)
