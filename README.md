@@ -16,17 +16,8 @@ Development notes and stuff I do not wish to commit to memory.
 * Dockerise the app
 * a coders HISTORY.md file to credit previous coding efforts
 
-#### Client supplying text for
-* Hover help text (explaining uncommon terms)
-* History page
-* New text for front page
 
-#### Migrate data
-
-Deserves its own section. To be discussed with Andre & David closer to the time.
-
-
-### Reset Database
+### Reset Test Database - Not for production
 
     python manage.py resetdb
 
@@ -81,7 +72,7 @@ Add the venv folder to .git ignore
 
 Test by cd-ing out of file and back in.
 
-TODO: The shell script is not great, it calls activate on every sub folder... Will find solution later.
+NB: The shell script is not great, it calls activate on every sub folder.
 
 
 ### cookiecutter
