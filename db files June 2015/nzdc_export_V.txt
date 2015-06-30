@@ -137,7 +137,7 @@ Source: Grey River Argus
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: We are pleased the “Vag” is contributing to our Labour paper, and trust that he will long continue his good advice to “Henry.”
+Quote: We are pleased the "Vag" is contributing to our Labour paper, and trust that he will long continue his good advice to "Henry."
 Notes: 
 
 Date: 2/9/1922 
@@ -145,7 +145,7 @@ Source: NZ Truth
 Author: 
 Vol / Page: 4
 Edition: 
-Quote: In the official organ of Labor, “The Vag” tells the workers that wages will be knocked sidewards, “unless you give us more representatives in Parliament …”
+Quote: In the official organ of Labor, "The Vag" tells the workers that wages will be knocked sidewards, "unless you give us more representatives in Parliament ..."
 Notes: 
 
 vag
@@ -199,7 +199,7 @@ Source: NZ Truth
 Author: 
 Vol / Page: 4
 Edition: 
-Quote: Last Friday, before Mr. Bartholomew, S.M., a batch of Dunedin’s touts and vags. stood in succession in the dock.
+Quote: Last Friday, before Mr. Bartholomew, S.M., a batch of Dunedin's touts and vags. stood in succession in the dock.
 Notes: 
 
 vag
@@ -229,7 +229,7 @@ Source: NZ Truth
 Author: 
 Vol / Page: 7
 Edition: 
-Quote: Another old street pest, Mary Bond, alias Parker, came up to see Magistrate Riddell on Saturday last about a charge of “vag.”
+Quote: Another old street pest, Mary Bond, alias Parker, came up to see Magistrate Riddell on Saturday last about a charge of "vag."
 Notes: 
 
 Date: 30/10/1894 
@@ -237,7 +237,7 @@ Source: Otago Witness
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: As regards the hermit of Island Bay, he probably prefers a hermit’s cell, being not plagued by restrictions, to a cell in the Hotel de Garvey under the ‘vag.’
+Quote: As regards the hermit of Island Bay, he probably prefers a hermit's cell, being not plagued by restrictions, to a cell in the Hotel de Garvey under the 'vag.'
 Notes: 
 
 Date: 25/6/1910 
@@ -245,7 +245,7 @@ Source: NZ Truth
 Author: 
 Vol / Page: 6
 Edition: 
-Quote: One has only to visit the Magistrate’s Court when an individual charged under the vag. denies the allegation of “consorting.”
+Quote: One has only to visit the Magistrate's Court when an individual charged under the vag. denies the allegation of "consorting."
 Notes: 
 
 vag
@@ -585,7 +585,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2033
 Edition: 
-Quote: Van´.de-mo´.ni-an, a. 1. of or pertaining to a white inhabitant of Van Diemen's Land. [Obs.] 2. Specifically, of or pertaining to a convict in Van Diemen's Land; hence, violent or ruffianly :  as, Vandemonian conduct.
+Quote: Van'.de-mo'.ni-an, a. 1. of or pertaining to a white inhabitant of Van Diemen's Land. [Obs.] 2. Specifically, of or pertaining to a convict in Van Diemen's Land; hence, violent or ruffianly :  as, Vandemonian conduct.
 Notes: 
 
 Date: 26/1/1861 
@@ -593,7 +593,7 @@ Source: Hawke's Bay Herald
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: This was an action between two carters at Napier – nominally brought to recover damages for an assault, but virtually instituted to enable the plaintiff to deny on oath the aspersion cast upon him by the defendant, when addressing him as a “Vandemonian lag.”
+Quote: This was an action between two carters at Napier - nominally brought to recover damages for an assault, but virtually instituted to enable the plaintiff to deny on oath the aspersion cast upon him by the defendant, when addressing him as a "Vandemonian lag."
 Notes: 
 
 Vandemonian
@@ -615,7 +615,7 @@ Source: Otago Witness
 Author: 
 Vol / Page: 18
 Edition: 
-Quote: We had a different class of prisoners to deal with here than in any other gaol in the Colony – Vandemonians and Victorians, who had committed outrages in other parts of the Colony and were sent here.
+Quote: We had a different class of prisoners to deal with here than in any other gaol in the Colony - Vandemonians and Victorians, who had committed outrages in other parts of the Colony and were sent here.
 Notes: 
 
 Date: 17/12/1863 
@@ -631,7 +631,7 @@ Source: Ohinemuri Gazette
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: Each side had its barrackers and you would hear all around case hardened old Vandemonians and grog-blossomed topers quoting Daniel and the Revelations over their long beers and nobblers of brandy, until the bars and hotels seemed a sort of trans-styxian Spurgeon’s College.
+Quote: Each side had its barrackers and you would hear all around case hardened old Vandemonians and grog-blossomed topers quoting Daniel and the Revelations over their long beers and nobblers of brandy, until the bars and hotels seemed a sort of trans-styxian Spurgeon's College.
 Notes: 
 
 Vandemonish
@@ -1037,7 +1037,7 @@ Source: Wanganui Herald
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: Professor Fidget, an attempt to portray an Oxford Don, a character not well acquainted with Wanganui, nor familiar thereto;  with but two or three exceptions, there are no varsity men here, Mr Cotterrell could chalk and q.e.d. his simple equations, (very simple) with great éclat.
+Quote: Professor Fidget, an attempt to portray an Oxford Don, a character not well acquainted with Wanganui, nor familiar thereto;  with but two or three exceptions, there are no varsity men here, Mr Cotterrell could chalk and q.e.d. his simple equations, (very simple) with great eclat.
 Notes: 
 
 Date: 12/2/1881 
@@ -1045,7 +1045,7 @@ Source: Observer (Auckland)
 Author: 
 Vol / Page: 219
 Edition: 
-Quote: [Why has not Mr. Surtees, of Katikati, who was in the ’Varsity Eleven, when at Oxford, been asked to play in this match? – ED. OBS.]
+Quote: [Why has not Mr. Surtees, of Katikati, who was in the 'Varsity Eleven, when at Oxford, been asked to play in this match? - ED. OBS.]
 Notes: 
 
 Date: 7/6/1890 
@@ -1053,7 +1053,7 @@ Source: Colonist (Nelson)
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: Boys’ Navy Blue Varsity Cap, 1s.
+Quote: Boys' Navy Blue Varsity Cap, 1s.
 Notes: 
 
 Date: 30/11/1945 
@@ -1069,7 +1069,7 @@ Source: Otago Witness
 Author: 
 Vol / Page: 28
 Edition: 
-Quote: The Kaikorai forwards rushed the ball to the ‘Varsity quarters.	
+Quote: The Kaikorai forwards rushed the ball to the 'Varsity quarters.	
 Notes: 
 
 varsity
@@ -1214,12 +1214,12 @@ Edition:
 Quote: Everyone goes to varsity or to Training College.
 Notes: a1964 Texidor in 1987 In Fifteen Minutes
 
-Date: 1/8/19338 
+Date: 1/8/1938 
 Source: Evening Post
 Author: 
 Vol / Page: 5
 Edition: 
-Quote: Men’s senior hockey matches played on Saturday resulted:- ’Varsity 1, Sydenham 0 …
+Quote: Men's senior hockey matches played on Saturday resulted:- 'Varsity 1, Sydenham 0 ...
 Notes: 
 
 Date: 26/11/1877 
@@ -1227,7 +1227,7 @@ Source: Otago Daily Times
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: Paramor and Hewat batted well for the ’Varsity, the former appearing quite at home on the quick ground.
+Quote: Paramor and Hewat batted well for the 'Varsity, the former appearing quite at home on the quick ground.
 Notes: 
 
 Date: 22/11/1880 
@@ -1235,7 +1235,7 @@ Source: Timaru Herald
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: It is astonishing how much the esprit de corps, once so noticeable a feature in the professions, is dying out.   It survives in the Army, the Navy, and the ’Varsity, and a phantom of it lingers among the lawyers and doctors.
+Quote: It is astonishing how much the esprit de corps, once so noticeable a feature in the professions, is dying out.   It survives in the Army, the Navy, and the 'Varsity, and a phantom of it lingers among the lawyers and doctors.
 Notes: 
 
 Date: 12/6/1890 
@@ -1243,7 +1243,7 @@ Source: Otago Witness
 Author: 
 Vol / Page: 28
 Edition: 
-Quote: In 1888, one match was played, which, thanks to the efforts of Cook and Thomson, the ’Varsity won by a goal and a try to nothing.
+Quote: In 1888, one match was played, which, thanks to the efforts of Cook and Thomson, the 'Varsity won by a goal and a try to nothing.
 Notes: 
 
 VD and Scar
@@ -1311,7 +1311,7 @@ Source: Nelson Evening Mail
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: Palings – V.D.L., 6ft., 22s.;  5 ft., 18s.   Shingles – V.D.L., 22s 6d.
+Quote: Palings - V.D.L., 6ft., 22s.;  5 ft., 18s.   Shingles - V.D.L., 22s 6d.
 Notes: 
 
 Date: 23/1/1900 
@@ -1349,7 +1349,7 @@ Source: Timaru Herald
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: JOHN JACKSON .. HAS FOR SALE .. 60,000 feet V.D.L. Timber …
+Quote: JOHN JACKSON .. HAS FOR SALE .. 60,000 feet V.D.L. Timber ...
 Notes: 
 
 Date: 2/4/1892 
@@ -1357,7 +1357,7 @@ Source: North Otago Times
 Author: 
 Vol / Page: 1
 Edition: 
-Quote: M‘CALLUM AND CO. .. ARE NOW LANDING .. 1,500 V.D.L. POSTS …
+Quote: M'CALLUM AND CO. .. ARE NOW LANDING .. 1,500 V.D.L. POSTS ...
 Notes: 
 
 Date: 6/9/1900 
@@ -1365,7 +1365,7 @@ Source: Ellesmere Guardian
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: The chief points in the report were .. that a piece of v.d.l. fencing be erected in line with the back of the produce shed to give protection to the poultry and dogs …
+Quote: The chief points in the report were .. that a piece of v.d.l. fencing be erected in line with the back of the produce shed to give protection to the poultry and dogs ...
 Notes: 
 
 Date: 9/3/1943 
@@ -1373,7 +1373,7 @@ Source: Ellesmere Guardian
 Author: 
 Vol / Page: 1
 Edition: 
-Quote: Car Trailer with v.d.l. sides …
+Quote: Car Trailer with v.d.l. sides ...
 Notes: 
 
 vealer
@@ -1687,7 +1687,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 12
 Edition: 
-Quote: A ripping section that will grow your fancies in “vegies” or beautiful flowers;  close to school and tram.
+Quote: A ripping section that will grow your fancies in "vegies" or beautiful flowers;  close to school and tram.
 Notes: 
 
 Date: 7/12/1922 
@@ -1695,23 +1695,23 @@ Source: Evening Post
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: Buy your home now and grow your own “Vegies”!
+Quote: Buy your home now and grow your own "Vegies"!
 Notes: 
 
-Date: 232/3/1931 
+Date: 23/3/1931 
 Source: Evening Post
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: Super-Bungalow, 4 rooms and kitchenette, lovely grounds (room for tennis), lawns, flowers, “vegies,” carrara ceilings, built-in wardrobes (something to be proud of).
-Notes: 
+Quote: Super-Bungalow, 4 rooms and kitchenette, lovely grounds (room for tennis), lawns, flowers, "vegies," carrara ceilings, built-in wardrobes (something to be proud of).
+Notes:
 
 Date: 12/11/1941 
 Source: Evening Post
 Author: 
 Vol / Page: 6
 Edition: 
-Quote: The vegies in indignant mood/Convened a protest meeting/Concerning ramps in garden food/And cost of vegie eating …
+Quote: The vegies in indignant mood/Convened a protest meeting/Concerning ramps in garden food/And cost of vegie eating ...
 Notes: 
 
 Date: 0/0/1988 
@@ -1913,7 +1913,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2033
 Edition: 
-Quote: Veg´.e-ta´.ble (v&ebreve.j´.è.-t&adot.-b'l), a. [Add.] Vegetable caterpillar (Bot.), the aweto. See AWETO. 
+Quote: Veg'.e-ta'.ble (v&ebreve.j'.e.-t&adot.-b'l), a. [Add.] Vegetable caterpillar (Bot.), the aweto. See AWETO. 
 Notes: 
 
 Date: 23/1/1890 
@@ -2421,7 +2421,7 @@ Source: Daily Telegraph
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: The quaint exhibit from Mount Cook and Mount Egmont – Alpine heights of 12,000 feet – called by the learned Raoulia eximia, and by plain people, vegetable sheep, introduces us to the timbers, and prepares the visitor for new and strange things.
+Quote: The quaint exhibit from Mount Cook and Mount Egmont - Alpine heights of 12,000 feet - called by the learned Raoulia eximia, and by plain people, vegetable sheep, introduces us to the timbers, and prepares the visitor for new and strange things.
 Notes: 
 
 Date: 6/3/1918 
@@ -2507,7 +2507,7 @@ Source: Otago Witness
 Author: 
 Vol / Page: 73
 Edition: 
-Quote: “Vegetable silk braid is one of the new trimmings …”
+Quote: "Vegetable silk braid is one of the new trimmings ..."
 Notes: 
 
 Date: 27/6/1918 
@@ -2515,7 +2515,7 @@ Source: Poverty Bay Herald
 Author: 
 Vol / Page: 1
 Edition: 
-Quote: Guthrie and Maddock have just landed a large assortment of Ladies’ Vegetable Silk Scarves, in all colors;  special prices 2/11, 3/6, 3/11, 4/6, 5/6, 6/11, to 18/6.
+Quote: Guthrie and Maddock have just landed a large assortment of Ladies' Vegetable Silk Scarves, in all colors;  special prices 2/11, 3/6, 3/11, 4/6, 5/6, 6/11, to 18/6.
 Notes: 
 
 Date: 14/1/1920 
@@ -2523,7 +2523,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 15
 Edition: 
-Quote: Let us explain how the “Peerless” Mattress is made:- the centre is filled with carefully selected Horsehair, Coir Fibre or cleaned N.Z. Flax, according to quality number.   The top and bottom are overlaid with the best cleaned Samarang Kapok in sections of even thickness.   Samarang is an East India vegetable silk of extremely elastic fibre, which, owing to its peculiar nature has never been known to attract any kind of insect life.
+Quote: Let us explain how the "Peerless" Mattress is made:- the centre is filled with carefully selected Horsehair, Coir Fibre or cleaned N.Z. Flax, according to quality number.   The top and bottom are overlaid with the best cleaned Samarang Kapok in sections of even thickness.   Samarang is an East India vegetable silk of extremely elastic fibre, which, owing to its peculiar nature has never been known to attract any kind of insect life.
 Notes: 
 
 Date: 21/11/1925 
@@ -2637,7 +2637,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: The larva of one form is the “vegetating caterpillar” in whose body germinates and grows to maturity the curious fungus so much sought for by curio hunters.
+Quote: The larva of one form is the "vegetating caterpillar" in whose body germinates and grows to maturity the curious fungus so much sought for by curio hunters.
 Notes: 
 
 Date: 6/6/1846 
@@ -2653,7 +2653,7 @@ Source: West Coast Times
 Author: 
 Vol / Page: 4
 Edition: 
-Quote: All About the Vegetating Caterpillar .. The following embodies what is known as to this very interesting natural phenomenon, called by the Maoris in the north “Hotete,” and in the south “Weri.”
+Quote: All About the Vegetating Caterpillar .. The following embodies what is known as to this very interesting natural phenomenon, called by the Maoris in the north "Hotete," and in the south "Weri."
 Notes: 
 
 vegetation
@@ -2937,7 +2937,7 @@ Source:
 Author: 
 Vol / Page: 
 Edition: 
-Quote: Hawke’s Bay Today Oct 31. 15 The National Velveting Standards Body, which runs the certification scheme, has sent out a blunt warning that farmers who do not comply risk being suspended, thus losing the right to velvet their own deer. Any velveter who does not complete one or more of the requirements by the due dates will not be allowed to velvet next season.
+Quote: Hawke's Bay Today Oct 31. 15 The National Velveting Standards Body, which runs the certification scheme, has sent out a blunt warning that farmers who do not comply risk being suspended, thus losing the right to velvet their own deer. Any velveter who does not complete one or more of the requirements by the due dates will not be allowed to velvet next season.
 Notes: 
 
 Date: 16/5/2003 
@@ -3095,7 +3095,7 @@ Source:
 Author: 
 Vol / Page: 
 Edition: 
-Quote: Hawke’s Bay Today Oct 31.15 Deer farmers have to be trained by vets to be certified for velveting .. two deer farmers were prosecuted for illegal velveting last year.
+Quote: Hawke's Bay Today Oct 31.15 Deer farmers have to be trained by vets to be certified for velveting .. two deer farmers were prosecuted for illegal velveting last year.
 Notes: 
 
 VEN
@@ -3213,7 +3213,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2033
 Edition: 
-Quote: <i> Ve´.nus </i>(v&emacr.´.n&ubreve.s),<i> n. [Add.] Venus's ear (Zoö.l.), the shell of the mutton fish </i> (Haliotis); the ear-shell. 
+Quote: <i> Ve'.nus </i>(v&emacr.'.n&ubreve.s),<i> n. [Add.] Venus's ear (Zoo.l.), the shell of the mutton fish </i> (Haliotis); the ear-shell. 
 Notes: 
 
 Date: 0/0/1840 
@@ -3315,7 +3315,7 @@ Source: Wanganui Herald
 Author: 
 Vol / Page: 5
 Edition: 
-Quote: “.. The owner of a verandah overhanging Willis street or Manners street occupies public airspace by sufferance only …”
+Quote: ".. The owner of a verandah overhanging Willis street or Manners street occupies public airspace by sufferance only ..."
 Notes: 
 
 Date: 12/7/1913 
@@ -3347,7 +3347,7 @@ Source: Auckland  Star
 Author: 
 Vol / Page: 5
 Edition: 
-Quote: A MOST exciting bolt occurred in the Great North Road about six o’clock last night, in the course of which an affrighted horse harnessed to a vehicle knocked over the verandahs of two shops, smashed the windows and fittings of the same, tore along the road at a break-neck speed for about half a mile, finally ending his mad career in the entanglements of a barbed wire fence.
+Quote: A MOST exciting bolt occurred in the Great North Road about six o'clock last night, in the course of which an affrighted horse harnessed to a vehicle knocked over the verandahs of two shops, smashed the windows and fittings of the same, tore along the road at a break-neck speed for about half a mile, finally ending his mad career in the entanglements of a barbed wire fence.
 Notes: 
 
 Date: 5/12/1934 
@@ -3479,7 +3479,7 @@ Source: Star, The
 Author: 
 Vol / Page: 1
 Edition: 
-Quote: £450 – St Albans – 4 rooms, verandah, scullery, bathroom, well built and splendidly finished.
+Quote: GBP450 - St Albans - 4 rooms, verandah, scullery, bathroom, well built and splendidly finished.
 Notes: 
 
 Date: 2/10/1911 
@@ -3503,7 +3503,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 1
 Edition: 
-Quote: 2 Flats, with vacant possession of top flat, consisting of 4 large rooms, large glassed-in verandah, kitchenette, and bathroom;  lower flat let at £2 15s per week:  beautifully sunny position;  price £4250, or near offer.
+Quote: 2 Flats, with vacant possession of top flat, consisting of 4 large rooms, large glassed-in verandah, kitchenette, and bathroom;  lower flat let at GBP2 15s per week:  beautifully sunny position;  price GBP4250, or near offer.
 Notes: 
 
 Date: 0/0/1988 
@@ -3551,7 +3551,7 @@ Pronunciation:
 Notes:
 Citations 
 Date: 0/0/1874 
-Source: Crusts: a settler’s fare due south
+Source: Crusts: a settler's fare due south
 Author: KENNAWAY
 Vol / Page: 225
 Edition: 
@@ -3563,7 +3563,7 @@ Source: NZ Illustrated Magazine
 Author: 
 Vol / Page: 433
 Edition: 
-Quote: 433   Sunday morning though it was, we were fortunately able to get the food we needed at Paemako:  one nice-looking meeting-house on the right, one pretty verandah’d cottage and one tiniest of stores on the left, and farmhouses in the vicinity.
+Quote: 433   Sunday morning though it was, we were fortunately able to get the food we needed at Paemako:  one nice-looking meeting-house on the right, one pretty verandah'd cottage and one tiniest of stores on the left, and farmhouses in the vicinity.
 Notes: 
 
 Date: 30/1/1873 
@@ -3571,7 +3571,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: A considerable portion of this front (which is 217 feet wide) is verandah’d, and the windows are all fitted with outside venetian blinds.
+Quote: A considerable portion of this front (which is 217 feet wide) is verandah'd, and the windows are all fitted with outside venetian blinds.
 Notes: 
 
 verbal
@@ -4381,7 +4381,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 4
 Edition: 
-Quote: “It will be agreed by all medical authorities that the speed at which successive draughts of alcohol are consumed is a more potent factor in conducing to inebriacy than the actual quantity taken, and if some means could be devised whereby the concentrated ‘vertical swilling’ which now takes place could be avoided a reduction in drunkenness would inevitably follow.   The system of bar parlours such as obtain in English and the Continent are designed to discourage this objectionable vertical drinking, but it would seem to be unavoidable if the bulk of the public are obliged to satisfy their requirements between 5 and 6 p.m.”
+Quote: "It will be agreed by all medical authorities that the speed at which successive draughts of alcohol are consumed is a more potent factor in conducing to inebriacy than the actual quantity taken, and if some means could be devised whereby the concentrated 'vertical swilling' which now takes place could be avoided a reduction in drunkenness would inevitably follow.   The system of bar parlours such as obtain in English and the Continent are designed to discourage this objectionable vertical drinking, but it would seem to be unavoidable if the bulk of the public are obliged to satisfy their requirements between 5 and 6 p.m."
 Notes: 
 
 vertical grazing
@@ -4425,7 +4425,7 @@ Source: Grog's Own Country
 Author: BOLLINGER
 Vol / Page: 97
 Edition: 
-Quote: First target [sc. of the campaign against six o'clock closing] was the ‘vertical swill' type of bar.
+Quote: First target [sc. of the campaign against six o'clock closing] was the 'vertical swill' type of bar.
 Notes: 
 
 verticals
@@ -4919,7 +4919,7 @@ Quote: Many of the first habitations were of the most primitive description, som
 Notes: 
 
 Date: 0/0/1874 
-Source: Crusts: a settler’s fare due south
+Source: Crusts: a settler's fare due south
 Author: KENNAWAY
 Vol / Page: 89
 Edition: 
@@ -4947,7 +4947,7 @@ Source: Star, The
 Author: 
 Vol / Page: 1
 Edition: 
-Quote: Mrs Buchanan’s first experience of colonial life was in a V hut built by her father, with such materials as could be procured at the time, but in the absence of timber the hut was very primitive.
+Quote: Mrs Buchanan's first experience of colonial life was in a V hut built by her father, with such materials as could be procured at the time, but in the absence of timber the hut was very primitive.
 Notes: 
 
 Date: 17/11/1928 
@@ -5021,7 +5021,7 @@ Source: Morrieson's Motel
 Author: McLauchlan ed.
 Vol / Page: 146
 Edition: 
-Quote: He was a member of the vice-chancellor’s industry advisory panel at Vic...
+Quote: He was a member of the vice-chancellor's industry advisory panel at Vic...
 Notes: 
 
 vice-regal
@@ -5043,7 +5043,7 @@ Source: Pictures by Goya
 Author: O'Sullivan
 Vol / Page: 130
 Edition: 
-Quote: ‘Lucy,’ she had said, ‘I have the vice-regal ear, which I’m afraid you don’t. I’ve dined I don’t know how many times at Premier House.'
+Quote: 'Lucy,' she had said, 'I have the vice-regal ear, which I'm afraid you don't. I've dined I don't know how many times at Premier House.'
 Notes: 
 
 Victoria
@@ -5399,7 +5399,7 @@ Source: Auckland  Star
 Author: 
 Vol / Page: 8
 Edition: 
-Quote: NEW 6-roomed Villa, Bellevue, Mt. Eden, good elevation, only £420 …
+Quote: NEW 6-roomed Villa, Bellevue, Mt. Eden, good elevation, only GBP420 ...
 Notes: 
 
 Date: 22/9/1910 
@@ -5415,7 +5415,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 1
 Edition: 
-Quote: WELLINGTON SOUTH, vicinity Hospital – Villa, 6 rooms, k’ette, £1300 (suitable sub-letting).
+Quote: WELLINGTON SOUTH, vicinity Hospital - Villa, 6 rooms, k'ette, GBP1300 (suitable sub-letting).
 Notes: 
 
 Date: 0/0/2007 
@@ -5423,7 +5423,7 @@ Source: Six Pack 2, The
 Author: Elizabeth Smither
 Vol / Page: 47
 Edition: 
-Quote: Above the lake is a café in a large, old-fashioned house, a villa with bay windows and white verandahs.
+Quote: Above the lake is a cafe in a large, old-fashioned house, a villa with bay windows and white verandahs.
 Notes: 
 
 Date: 0/0/1978 
@@ -6007,7 +6007,7 @@ Source: Feilding Star
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: Of the Wellington district, he goes on to say, that it has now the largest number of settlers, under village settlement conditions, of any in the colony.   They number 529, with an area of 9,216 acres;  the annual rent and interest if £1582.
+Quote: Of the Wellington district, he goes on to say, that it has now the largest number of settlers, under village settlement conditions, of any in the colony.   They number 529, with an area of 9,216 acres;  the annual rent and interest if GBP1582.
 Notes: 
 
 Date: 16/1/1919 
@@ -6015,7 +6015,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 8
 Edition: 
-Quote: Mr. Lawrence went on to say that, as many soldiers had become accustomed to an outdoor life, it will be natural that they will wish to settle on the land.   But, as they expect to have some of the advantages and benefits of town dwellers, it would appear that it will be necessary to establish soldiers’ village settlements.
+Quote: Mr. Lawrence went on to say that, as many soldiers had become accustomed to an outdoor life, it will be natural that they will wish to settle on the land.   But, as they expect to have some of the advantages and benefits of town dwellers, it would appear that it will be necessary to establish soldiers' village settlements.
 Notes: 
 
 Date: 27/10/1920 
@@ -6023,7 +6023,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 20
 Edition: `
-Quote: Provision is included for any incorporated society of officers in the permanent employ of the Crown not only to form a “village settlement” (as under the old Act) but to promote a registered company amongst themselves for that purpose.
+Quote: Provision is included for any incorporated society of officers in the permanent employ of the Crown not only to form a "village settlement" (as under the old Act) but to promote a registered company amongst themselves for that purpose.
 Notes: 
 
 Date: 22/10/1932 
@@ -6087,7 +6087,7 @@ Source: Daily Southern Cross
 Author: 
 Vol / Page: 4
 Edition: 
-Quote: MANGAWAI AND ARAI. ..Passing these locations, we are fairly in the river, which is here of great width; to the left we have a low sandy shore with mangroves; on the right, in contrast, high banks — the land laid out by government for a village settlement.
+Quote: MANGAWAI AND ARAI. ..Passing these locations, we are fairly in the river, which is here of great width; to the left we have a low sandy shore with mangroves; on the right, in contrast, high banks - the land laid out by government for a village settlement.
 Notes: 
 
 Date: 24/7/1879 
@@ -6349,7 +6349,7 @@ Source: Southland Times
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: The native violet (Viola Cunninghamii) paler than its European cousin, is still archly smiling, faintly conquettish [sic], reminding one of evanescent beauty …
+Quote: The native violet (Viola Cunninghamii) paler than its European cousin, is still archly smiling, faintly conquettish [sic], reminding one of evanescent beauty ...
 Notes: 
 
 Date: 18/2/1897 
@@ -6815,7 +6815,7 @@ Source: Hutt News
 Author: 
 Vol / Page: 9
 Edition: 
-Quote: The strong growing varieties of Clematis (virgin’s bower), Lonicera (honeysuckle), Bignonia (Tecoma), Jasminum, and the beautiful blue convolvulous-like [sic] flowers of Ipomaea Learii are seen at their best grown on arches of fairly large dimensions.
+Quote: The strong growing varieties of Clematis (virgin's bower), Lonicera (honeysuckle), Bignonia (Tecoma), Jasminum, and the beautiful blue convolvulous-like [sic] flowers of Ipomaea Learii are seen at their best grown on arches of fairly large dimensions.
 Notes: 
 
 visiting teacher
@@ -7141,7 +7141,7 @@ Source: Rodney and Otamatea Times
 Author: 
 Vol / Page: 7
 Edition: 
-Quote: The section was one of seven acres, adjoining the township sites, facing the main road, “a very fine section, commanding a beautiful sea view, rich volcanic land, lying well to the sun, will grow anything.   Shall we say £40 an acre for a start?”
+Quote: The section was one of seven acres, adjoining the township sites, facing the main road, "a very fine section, commanding a beautiful sea view, rich volcanic land, lying well to the sun, will grow anything.   Shall we say GBP40 an acre for a start?"
 Notes: 
 
 Date: 21/6/1861 
@@ -7181,7 +7181,7 @@ Source: Observer (Auckland)
 Author: 
 Vol / Page: 10
 Edition: 
-Quote: This Estate comprises about 40 acres of Rich Volcanic Land, free from Stone, and is subdivided into Lots from ¾-acre to 4½ acres.	1916 Northern Advocate 16 October. 4   Good volcanic land, standing well up above the town level with good sites for several homesteads if required in the future.
+Quote: This Estate comprises about 40 acres of Rich Volcanic Land, free from Stone, and is subdivided into Lots from  3/4-acre to 4 1/2 acres.	1916 Northern Advocate 16 October. 4   Good volcanic land, standing well up above the town level with good sites for several homesteads if required in the future.
 Notes: 
 
 Date: 16/10/1916 
@@ -7251,7 +7251,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 7
 Edition: 
-Quote: Recent tests conducted under the auspices of the Department of Scientific and Industrial Research indicate that certain of the soft vitric tuffs of the Dominion’s central North island volcanic plateau make excellent pozzolana, better even than most of those in Italy, Greece, and other countries.
+Quote: Recent tests conducted under the auspices of the Department of Scientific and Industrial Research indicate that certain of the soft vitric tuffs of the Dominion's central North island volcanic plateau make excellent pozzolana, better even than most of those in Italy, Greece, and other countries.
 Notes: 
 
 Date: 19/2/1941 
@@ -7398,8 +7398,9 @@ Edition:
 Quote: voluntary unionism NZ system under which employees are not obliged to join a trade union. 
 Notes: nf. 1982 Collins Concise Eng. Dict
 
+
 Volunteer
-Homonym Number: 
+Homonym Number:
 Word Class:noun
 Sense Number:
 Definition:
@@ -7493,7 +7494,7 @@ Source: Colonist (Nelson)
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: No. 1 Volunteer Company took some time to fill up its ranks, and No. 2 was completely in abeyance till an order arrived to embody the Militia;  when, from a horror of blue frocks, highlows, and other “vulgaw” matters, a rush was made to swear loyalty to our government, and thus No. 2 was quickly filled to the bung;  no samples have yet been taken.
+Quote: No. 1 Volunteer Company took some time to fill up its ranks, and No. 2 was completely in abeyance till an order arrived to embody the Militia;  when, from a horror of blue frocks, highlows, and other "vulgaw" matters, a rush was made to swear loyalty to our government, and thus No. 2 was quickly filled to the bung;  no samples have yet been taken.
 Notes: 
 
 Date: 27/6/1885 
@@ -7509,7 +7510,7 @@ Source: Wanganui Chronicle
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: THERE can be no doubt that a second Volunteer Company can be supported in our growing town, and judging by the enthusiasm displayed at Monday night’s meeting we should say it will soon be in working order and rivaling our crack corps – the Wanganui Rifles.
+Quote: THERE can be no doubt that a second Volunteer Company can be supported in our growing town, and judging by the enthusiasm displayed at Monday night's meeting we should say it will soon be in working order and rivaling our crack corps - the Wanganui Rifles.
 Notes: 
 
 Date: 8/12/1908 

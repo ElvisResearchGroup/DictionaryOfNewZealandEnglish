@@ -295,7 +295,7 @@ Source: Ellesmere Guardian
 Author: 
 Vol / Page: 5
 Edition: 
-Quote: The struggling toilers in the slums/For winter coughs and colds assure,/They wisely save in “zacks” and “scrums”/For Woods’ Great Peppermint Cure.
+Quote: The struggling toilers in the slums/ For winter coughs and colds assure,/ They wisely save in "zacks" and "scrums"/ For Woods' Great Peppermint Cure.
 Notes: 
 
 Date: 4/12/1930 
@@ -303,7 +303,7 @@ Source: NZ Truth
 Author: 
 Vol / Page: 14
 Edition: 
-Quote: THOSE who deem themselves shrewd will be saving the “trays” and “zacs” from the old plum duff for one little put-in at the Christmas meeting in Auckland.
+Quote: THOSE who deem themselves shrewd will be saving the "trays" and "zacs" from the old plum duff for one little put-in at the Christmas meeting in Auckland.
 Notes: 
 
 Zambuck
@@ -581,7 +581,7 @@ Source: NZ Truth
 Author: 
 Vol / Page: 9
 Edition: 
-Quote: Another matter that should be attended to is the providing of oilcoats and rubber boots to the ambulance men – “Zambuks” – and the line umpires.
+Quote: Another matter that should be attended to is the providing of oilcoats and rubber boots to the ambulance men - "Zambuks" - and the line umpires.
 Notes: 
 
 Zam-Buk
@@ -1027,7 +1027,7 @@ Source: Daily Telegraph
 Author: 
 Vol / Page: 4
 Edition: 
-Quote: ZEALANDIA BOOTS. – Quality Guaranteed at E. W. KNOWLES’ Boot Warehouse, Hastings-street.
+Quote: ZEALANDIA BOOTS. - Quality Guaranteed at E. W. KNOWLES' Boot Warehouse, Hastings-street.
 Notes: 
 
 Date: 8/7/1901 
@@ -1035,7 +1035,7 @@ Source: Ashburton Guardian
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: WONDERFUL value for little money at MELLOR’S Zealandia Boot Store.
+Quote: WONDERFUL value for little money at MELLOR'S Zealandia Boot Store.
 Notes: 
 
 Date: 19/3/1915 
@@ -1251,7 +1251,7 @@ Source: Daily Southern Cross
 Author: 
 Vol / Page: 5
 Edition: 
-Quote: He ceased his song, and now no more among the woods is heard/The nightly-hooted cadence of this old Zealandian bird …
+Quote: He ceased his song, and now no more among the woods is heard/The nightly-hooted cadence of this old Zealandian bird ...
 Notes: 
 
 Date: 15/2/1878 
@@ -1275,7 +1275,7 @@ Source: Mataura Ensign
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: At present he is bubbling over with humptiousness and assertive egotism, and nothing short of the discovery while at Home that a mere colonial Premier, when included among a brilliant throng of the world’s foremost thinkers, speakers, and men of action, is particularly small potatoes, will convince him that he is not the dog which wags the Zealandian tail, but is instead the tail which is wagged by the Zealandian dog.
+Quote: At present he is bubbling over with humptiousness and assertive egotism, and nothing short of the discovery while at Home that a mere colonial Premier, when included among a brilliant throng of the world's foremost thinkers, speakers, and men of action, is particularly small potatoes, will convince him that he is not the dog which wags the Zealandian tail, but is instead the tail which is wagged by the Zealandian dog.
 Notes: 
 
 Date: 17/2/1900 
@@ -1283,7 +1283,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: Miss Celia Dampier’s many friends and admirers in New Zealand will be interested to hear and pleased to learn that the first concert given by the gifted young Zealandian violiniste proved very successful financially, as well as musically.
+Quote: Miss Celia Dampier's many friends and admirers in New Zealand will be interested to hear and pleased to learn that the first concert given by the gifted young Zealandian violiniste proved very successful financially, as well as musically.
 Notes: 
 
 Zebo
@@ -1729,7 +1729,7 @@ Source: NZ Truth
 Author: 
 Vol / Page: 4
 Edition: 
-Quote: He is one of the most popular ‘old young men’ in Pahiatua, and although one of the city greybeards he doesn’t sport a ziff.
+Quote: He is one of the most popular 'old young men' in Pahiatua, and although one of the city greybeards he doesn't sport a ziff.
 Notes: 
 
 Date: 22/9/1923 
@@ -1745,7 +1745,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 8
 Edition: 
-Quote: Avoid quips about the foliage – the ziff, I mean – and any too drastic criticism of the persona grata generally …
+Quote: Avoid quips about the foliage - the ziff, I mean - and any too drastic criticism of the persona grata generally ...
 Notes: 
 
 zigzag
@@ -2019,7 +2019,7 @@ Source: Gold in the Creek
 Author: McGill
 Vol / Page: 39
 Edition: 
-Quote: The Zip was shrieking. ‘Why don’t you make the tea, Ron,’ Jack said rudely.
+Quote: The Zip was shrieking. 'Why don't you make the tea, Ron,' Jack said rudely.
 Notes: 
 
 Date: 0/11/1989 
@@ -2760,4 +2760,11 @@ Edition:
 Quote: Our nearness to Australia also resulted in our adoption of slang words in use there. Examples of these include goldie for  sovereign, and little goldie for a half sovereign.  A colonial robert is obviously a play on the English slang bob for a shilling. (Colonial robert was in use in New Zealand before the turn of the century, and was also recorded about the time of the first World War.)
 Notes: 
 
+Date: 0/10/1977 
+Source: DUMMY ENTRY -- as last entry not captured in db
+Author: 
+Vol / Page:
+Edition: 
+Quote: DUMMY ENTRY
+Notes: DUMMY ENTRY
 

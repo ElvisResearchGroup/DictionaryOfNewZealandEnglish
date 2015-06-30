@@ -1960,7 +1960,7 @@ Source:  Weekly News
 Author:  
 Vol / Page:  39
 Edition:  
-Quote:  My father already had the gallows ready, complete with ropes, pulleys and a ‘gamble'.
+Quote:  My father already had the gallows ready, complete with ropes, pulleys and a 'gamble'.
 
 
 Notes:  
@@ -2400,7 +2400,7 @@ Source:  Questionnaire Respondents (DB)
 Author:  
 Vol / Page:  
 Edition:  
-Quote:  a person in charge of a team of rural workers – a ganger.
+Quote:  a person in charge of a team of rural workers - a ganger.
 Notes:  
 
 ganger
@@ -2408,6 +2408,9 @@ ganger
 Word Class: noun
 Sense Number: 
 Definition: [sp. use] a person in charge of a shearing gang. 
+
+
+
 
 
 
@@ -3404,6 +3407,7 @@ Notes:
 
 gardening
  Homonym Number:  
+
 Word Class: noun
 Sense Number: 
 Definition: digging or cutting footholds in ice.
@@ -4631,7 +4635,7 @@ Source:  Questionnaire Respondents (DB)
 Author:  
 Vol / Page:  
 Edition:  
-Quote:  general farm helper: gate-opener. A cadet from England – a gateopener.
+Quote:  general farm helper: gate-opener. A cadet from England - a gateopener.
 Notes:  
 
 gate-rafters
@@ -5059,7 +5063,7 @@ Source:  Internet - see Notes
 Author:  
 Vol / Page:  -
 Edition:  
-Quote:  In response to 2006 being a huge year for the Gay, Bi, Lesbian and Transgender (“GBLT”) calendar, a group has been formed in Wellington & Christchurch named the Gay Blacks. This group consists of those intending to travel to the Gay Games, Chicago and Outgames, Montreal in July/August 2006. 
+Quote:  In response to 2006 being a huge year for the Gay, Bi, Lesbian and Transgender (GBLT) calendar, a group has been formed in Wellington & Christchurch named the Gay Blacks. This group consists of those intending to travel to the Gay Games, Chicago and Outgames, Montreal in July/August 2006. 
 
 
 
@@ -6047,6 +6051,7 @@ Register:
 Register 2: 
 Domain: [none]
 Region: [none]
+
 See: gem iron
 Pronunciation: 
 Notes: 
@@ -7117,7 +7122,7 @@ Domain: [none]
 Region: [none]
 See: 
 Pronunciation: 
-Notes: 
+Notes:
  Citations 
 Date:  0/0/1869 
 Source:  TrNZI
@@ -7994,6 +7999,7 @@ Sense Number: 2
 Definition: 
 Origin: [none]
 Register: 
+
 Register 2: 
 Domain: [none]
 Region: [none]
@@ -8547,6 +8553,7 @@ Source:  Away from Home
 Author:  MacDONALD
 Vol / Page:  13
 Edition:  
+
 Quote:  [The ghari] carries eight Kiwis, one of whom dethrones `George'. ... [These] chariot races ... [are] highly dangerous to the `georges.'
 Notes:  
 
@@ -10097,7 +10104,7 @@ Source:  High Country Family
 Author:  DICK
 Vol / Page:  64
 Edition:  
-Quote:  Life had been tame for the dogs for many miles, so, heedless of their masters' cries to 'Wayleggo there, Tip', 'Get in behind, Jock ...’ they rushed madly hither and thither.
+Quote:  Life had been tame for the dogs for many miles, so, heedless of their masters' cries to 'Wayleggo there, Tip', 'Get in behind, Jock ...' they rushed madly hither and thither.
 Notes:  
 
 Date:  0/0/1974 
@@ -10105,7 +10112,7 @@ Source:  Kingdom in the Hills
 Author:  MCLEOD
 Vol / Page:  86
 Edition:  
-Quote:  The only speech would be a sharp command to dogs to ‘get in behind’ or some muttered oath as a foot slipped in mud or tripped on rock.
+Quote:  The only speech would be a sharp command to dogs to 'get in behind' or some muttered oath as a foot slipped in mud or tripped on rock.
 Notes:  
 
 Date:  9/9/1989 
@@ -10159,7 +10166,7 @@ Source:  NZ Truth
 Author:  
 Vol / Page:  291/6/5
 Edition:  
-Quote:  ‘I've  no doubt the old josser who got in on me for my `print' makes a practice of getting his paper that way every day - it looked like it from what the other fellow in the carriage told me. 
+Quote:  'I've  no doubt the old josser who got in on me for my `print' makes a practice of getting his paper that way every day - it looked like it from what the other fellow in the carriage told me. 
 
 
 Notes:  
@@ -10316,6 +10323,9 @@ Author:  BEATON
 Vol / Page:  50
 Edition:  
 Quote:  HELEN: ... You know, I'm too scared to talk to half the women in here just in case I get mugged for gettin' it on with someone's girl. <i>Ibid </i>86 SANDY: ... Although, last year was grouse when the Virgin Mary got stuck into Joseph for tryin' to get it on with one of them Wise Kings. 
+
+
+
 
 <i>Ibid </i> Glossary 109  Get it on with: to have an affair with; fuck. 
 
@@ -11605,7 +11615,7 @@ Source:  Geological Society of NZ Newsletter
 Author:  
 Vol / Page:  66/49
 Edition:  
-Quote:  An actively forming apron of siliceous sinter surrounds the geysers and upon it are found New Zealand’s best examples of geyserite and “geyser eggs”.
+Quote:  An actively forming apron of siliceous sinter surrounds the geysers and upon it are found New Zealand's best examples of geyserite and 'geyser eggs'.
 Notes:  
 
 geyser field
@@ -11776,6 +11786,7 @@ Word Class: noun
 Sense Number: 
 Definition: 
 Origin: 
+
 Register: 
 Register 2: 
 Domain: [none]
@@ -11861,7 +11872,7 @@ Source:  Ashburton Guardian
 Author:  
 Vol / Page:  4
 Edition:  
-Quote:  Five specimens of the “ghost shark,” scientifically known as Chimaera Monstrosa, were also forwarded to the museum, the fish being about 2ft. 8½in. long. An interesting feature of these fish is that they have a filament on the end of the tail like a whip.
+Quote:  Five specimens of the 'ghost shark,' scientifically known as Chimaera Monstrosa, were also forwarded to the museum, the fish being about 2ft. 8in. long. An interesting feature of these fish is that they have a filament on the end of the tail like a whip.
 Notes:  
 
 giant
@@ -12417,7 +12428,7 @@ Source:  North Otago Times
 Author:  
 Vol / Page:  2
 Edition:  
-Quote:  A fine specimen of the giant Petrel (ossifragus giganteus), the largest of all the true Petrels— and whose proper haunts are these tempestuous seas that rage around Cape Horn — was caught the other day at Moeraki ...
+Quote:  A fine specimen of the giant Petrel (ossifragus giganteus), the largest of all the true Petrels- and whose proper haunts are these tempestuous seas that rage around Cape Horn - was caught the other day at Moeraki ...
 
 
 Notes:  
@@ -12901,7 +12912,7 @@ Source:  Evening Post
 Author:  
 Vol / Page:  17
 Edition:  
-Quote:  Meanwhile, a plate showing New Zealand’s giant weta, also the small big-headed weta Hemideina megacephala Buller, catches the eye.   The giant, Deinacride heteracantha, “has a body 4 inches long and long spiny legs;  it is practically extinct.
+Quote:  Meanwhile, a plate showing New Zealand's giant weta, also the small big-headed weta Hemideina megacephala Buller, catches the eye.   The giant, Deinacride heteracantha, 'has a body 4 inches long and long spiny legs;  it is practically extinct.
 Notes:  
 
 Date:  5/12/1934 
@@ -13109,7 +13120,7 @@ Source:  Listener (New Zealand Listener)
 Author:  
 Vol / Page:  9
 Edition:  
-Quote:  Winstone Wallboards Limited is the owner of a number of registered trademarks including the word GIB®, which is often incorrectly used as an alternative to the word plasterboard or drywall as a verb or proper noun. Examples of incorrect uses of the word GIB® would be, "gib stopper, gibbing, gib stopping, or gib plastering." In these examples the correct term would be "plasterboard stopper, plastering, plasterboard stopping or plasterboard plastering".
+Quote:  Winstone Wallboards Limited is the owner of a number of registered trademarks including the word GIB, which is often incorrectly used as an alternative to the word plasterboard or drywall as a verb or proper noun. Examples of incorrect uses of the word GIB would be, "gib stopper, gibbing, gib stopping, or gib plastering." In these examples the correct term would be "plasterboard stopper, plastering, plasterboard stopping or plasterboard plastering".
 Notes:  
 
 GIB
@@ -13262,6 +13273,7 @@ gibbed
  Homonym Number:  
 Word Class: adjective
 Sense Number: 
+
 Definition: lined with Gib board.
 Origin: [none]
 Register: 
@@ -13639,6 +13651,7 @@ Source:  Supper Waltz Wilson
 Author:  MARSHALL
 Vol / Page:  21
 Edition:  
+
 Quote:  `Gidday,' said a voice behind him and Deaker turned to find a grinning Maori boy in khaki shorts.
 Notes:  
 
@@ -13729,7 +13742,7 @@ Source:  Listener (New Zealand Listener)
 Author:  
 Vol / Page:  29
 Edition:  
-Quote:  "I stopped, said, ‘Gidday', and chatted to him.
+Quote:  "I stopped, said, 'Gidday', and chatted to him.
 Notes:  
 
 Date:  1/9/2001 
@@ -14250,7 +14263,7 @@ Source:  Independent Business Weekly
 Author:  
 Vol / Page:  19
 Edition:  
-Quote:  Gimblett Gravels is an 800-hectare piece of rocky dirt in the Gimblett Road/Roy's Hill area of Hawke's Bay.. Does Gimblett Gravels wine justify its already exalted price?.. Gimblett Gravels.. are between 2ºC and 3ºC hotter than many other winegrowing districts of Hawke's Bay. As a result Gimblett Gravels grapes tend to ripen earlier.
+Quote:  Gimblett Gravels is an 800-hectare piece of rocky dirt in the Gimblett Road/Roy's Hill area of Hawke's Bay.. Does Gimblett Gravels wine justify its already exalted price?.. Gimblett Gravels.. are between 2C and 3C hotter than many other winegrowing districts of Hawke's Bay. As a result Gimblett Gravels grapes tend to ripen earlier.
 Notes:  
 
 Date:  3/3/2001 
@@ -14341,7 +14354,7 @@ Source:  Destinations
 Author:  
 Vol / Page:  Autumn 145
 Edition:  
-Quote:  His Trinty Hill ripe, nutty syrah from the Gimblett Gravels region of Hawke’s Bay sells half that.
+Quote:  His Trinty Hill ripe, nutty syrah from the Gimblett Gravels region of Hawke's Bay sells half that.
 Notes:  
 
 Date:  22/3/2002 
@@ -15417,7 +15430,7 @@ Source:  Listener (New Zealand Listener)
 Author:  
 Vol / Page:  27
 Edition:  
-Quote:  Thousands of Queenslanders and expat Kiwis, cans of the sponsor's product held high in the air, all screaming, "Give ‘em a taste of ... "
+Quote:  Thousands of Queenslanders and expat Kiwis, cans of the sponsor's product held high in the air, all screaming, "Give 'em a taste of ... "
 Notes:  
 
 Date:  0/0/1991 
@@ -16164,7 +16177,7 @@ Source:  Uncle's Story, The
 Author:  Ihimaera
 Vol / Page:  277
 Edition:  
-Quote:  Obviously, you’ve helped him to the point where he’s been able to give me the flick.
+Quote:  Obviously, you've helped him to the point where he's been able to give me the flick.
 Notes:  
 
 Date:  10/12/2002 
@@ -17944,13 +17957,14 @@ Source:  NZ Observer
 Author:  
 Vol / Page:  1
 Edition:  
-Quote:  Globo has been floated, and the Bank of New Zealand has received £1,125,000 for its mass of landed securities.
+Quote:  Globo has been floated, and the Bank of New Zealand has received GBP1,125,000 for its mass of landed securities.
 Notes:  
 
 Date:  20/9/1890 
 Source:  North & South
 Author:  
 Vol / Page:  6
+
 Edition:  
 
 Quote:  There is no doubt that the whole 'Globo' interest will be exerted to the utmost to prevent the return of land-taxers to our next Parliament. <i>Ibid.</i>. 9 'Globo assets' - 4,000,000 acres of New Zealand sold or pawned to London brokers who have been so very kind as to advance the bank enough money to keep the tottering concern afloat a little longer... Two of New Zealand's 'rulers and statesmen' are included in the 'globo'.
@@ -18853,7 +18867,7 @@ Source:  Questionnaire Respondents (DB)
 Author:  
 Vol / Page:  
 Edition:  
-Quote:  a sticky sheep – a gluey.
+Quote:  a sticky sheep - a gluey.
 Notes:  
 
 glut
@@ -18993,6 +19007,7 @@ Sense Number:
 Definition: go for, attack
 Origin: [none]
 Register: 
+
 Register 2: 
 Domain: [none]
 Region: [none]
@@ -19411,6 +19426,7 @@ Quote:  ... open the proceedings by calling out `Go ahead!'
 Notes:  
 
 Date:  0/0/1880 
+
 Source:  We Four
 Author:  LAPHAM
 Vol / Page:  40
@@ -19878,7 +19894,7 @@ Source:  Six Pack 3, The
 Author:  David Geary
 Vol / Page:  116
 Edition:  
-Quote:  He’d gone bush by then - moving from hut to hut, living off tucker that trampers left behind.
+Quote:  He'd gone bush by then - moving from hut to hut, living off tucker that trampers left behind.
 Notes:  
 
 Date:  23/11/1955 
@@ -20091,6 +20107,7 @@ Notes:
 
 Date:  3/11/1906 
 Source:  NZ Truth
+
 Author:  
 Vol / Page:  72/5/8
 Edition:  
@@ -20600,7 +20617,7 @@ Source:  Evening Post
 Author:  
 Vol / Page:  6
 Edition:  
-Quote:  In the second half of the big match, several Australian players illustrated perfectly the expression “To go for a skate.”
+Quote:  In the second half of the big match, several Australian players illustrated perfectly the expression 'To go for a skate.'
 Notes:  
 
 go for one's/your life
@@ -22991,6 +23008,7 @@ Quote:  go-ashore. `An iron pot or cauldron, with three iron-feet, and two ears,
 S.E. Ex Maori  kohua by `Hobson-Jobson'.
 Notes:  
 
+
 Date:  0/0/1937 
 Source:  Dictionary of Slang
 Author:  PARTRIDGE
@@ -23131,7 +23149,7 @@ Goashore
  Homonym Number:  
 Word Class: noun
 Sense Number: 
-Definition: whalers' alteration of a Maori place name on Banks Peninsula (?influenced by popularity of goashore n².)
+Definition: whalers' alteration of a Maori place name on Banks Peninsula (?influenced by popularity of goashore n2.)
 Origin: [none]
 Register: 
 Register 2: 
@@ -23209,7 +23227,7 @@ go-ashore
  Homonym Number:  
 Word Class: noun
 Sense Number: 
-Definition: Various sailors anglicisations or re-formations of Maori proper (or place) names, probably in contexts of English goashore, go on shore; given probably as nicknames of people. (For possible phonology, see GOASHORE n².
+Definition: Various sailors anglicisations or re-formations of Maori proper (or place) names, probably in contexts of English goashore, go on shore; given probably as nicknames of people. (For possible phonology, see GOASHORE n2.
 Origin: [none]
 Register: 
 Register 2: 
@@ -24742,7 +24760,7 @@ Source:  Listener (New Zealand Listener)
 Author:  
 Vol / Page:  48
 Edition:  
-Quote:  We need to bear in mind that [Bracken]  was writing both poetry and a prayer in his anthem, and might have sought a symbol that included the concept of a country blessed by God. Or, as we say today, ‘Godzone.'
+Quote:  We need to bear in mind that [Bracken]  was writing both poetry and a prayer in his anthem, and might have sought a symbol that included the concept of a country blessed by God. Or, as we say today, 'Godzone.'
 
 
 Notes:  
@@ -24855,7 +24873,7 @@ GOFD test
  Homonym Number:  
 Word Class: noun
 Sense Number:  1
-Definition: a ‘germination only field dressed’ test that indicates healthy germination of field-dressed seed. 
+Definition: a 'germination only field dressed' test that indicates healthy germination of field-dressed seed. 
 
 
 Origin: [none]
@@ -26212,7 +26230,7 @@ Source:  Thames Star
 Author:  
 Vol / Page:  2
 Edition:  
-Quote:  A small leader has been cut in the company’s workings beyond the slide which is showing good gold.
+Quote:  A small leader has been cut in the company's workings beyond the slide which is showing good gold.
 Notes:  
 
 Date:  26/7/1887 
@@ -26228,7 +26246,7 @@ Source:  Auckland  Star
 Author:  
 Vol / Page:  8
 Edition:  
-Quote:  “Obtained 26lb picked stone from workings above No. 3 level;  gold showing.”
+Quote:  'Obtained 26lb picked stone from workings above No. 3 level;  gold showing.'
 Notes:  
 
 Date:  11/8/1909 
@@ -26539,6 +26557,7 @@ Source:  Exiles of Asbestos Cottage, The
 Author:  HENDERSON
 Vol / Page:  80
 Edition:  
+
 Quote:  He was gold-digging there.
 Notes:  
 
@@ -26623,7 +26642,7 @@ Quote:  Why shouldn't he, the first arrival, have the right to take up his pre-e
 Notes:  1863 Feb W.G. Rees in 1971 Griffiths King Wakatip 97
 
 Date:  0/0/1874 
-Source:  Crusts: a settler’s fare due south
+Source:  Crusts: a settler's fare due south
 Author:  KENNAWAY
 Vol / Page:  229
 Edition:  
@@ -27101,7 +27120,7 @@ Source:  Huia 4: Contemp. Maori Fiction
 Author:  
 Vol / Page:  92
 Edition:  
-Quote:  ‘When you win the Golden Kiwi you can buy yourself a big house with a dozen bedrooms,’ she’d say.
+Quote:  'When you win the Golden Kiwi you can buy yourself a big house with a dozen bedrooms,' she'd say.
 Notes:  
 
 Date:  0/0/1981 
@@ -27186,6 +27205,7 @@ Source:  Dominion Post
 Author:  
 Vol / Page:  B5
 Edition:  
+
 Quote:  The Labour party can call John's "golden koha" an elephant for all I care.
 Notes:  
 
@@ -27846,6 +27866,7 @@ Quote:  Golden Snapper <i>Centroberyx affinis </i> (Gunther)
 Notes:  1955 Whitley Namelist in 1956 Graham NZ Fishes 404
 
 Date:  0/0/1956 
+
 Source:  NZ Fishes: An Identification Guide
 Author:  GRAHAM
 Vol / Page:  175
@@ -28024,7 +28045,7 @@ Source:  Evening Post
 Author:  
 Vol / Page:  7
 Edition:  
-Quote:  Conspicuous in the basket, which was arranged by Miss Black, were Chatham Island lilies, clusters of Golden Tainui, red and white cleanthus, clematis, and yellow kowhai, most of which was obtained from Mr. O’Connor’s property at Wilton’s Bush.
+Quote:  Conspicuous in the basket, which was arranged by Miss Black, were Chatham Island lilies, clusters of Golden Tainui, red and white cleanthus, clematis, and yellow kowhai, most of which was obtained from Mr. O'Connor's property at Wilton's Bush.
 Notes:  
 
 Date:  18/10/1933 
@@ -28165,6 +28186,7 @@ Domain: [none]
 Region: [none]
 See: 
 Pronunciation: 
+
 Notes: 
  Citations 
 Date:  11/11/2003 
@@ -28399,7 +28421,7 @@ Source:  Grey River Argus
 Author:  
 Vol / Page:  2
 Edition:  
-Quote:  Now, it must be remembered that a Goldfields Warden has large discretionary powers – for if he was to be guided by law, and law only, he would be unfit for his position, for the exigencies of a goldfield, especially on new rushes, calls forth the exercise of that valuable commodity called “common sense,” though in many instances this may seem opposed to the strict reading of the law, therefore a Goldfields Warden is allowed some latitude in what may be called the equities of a case.
+Quote:  Now, it must be remembered that a Goldfields Warden has large discretionary powers - for if he was to be guided by law, and law only, he would be unfit for his position, for the exigencies of a goldfield, especially on new rushes, calls forth the exercise of that valuable commodity called 'common sense,' though in many instances this may seem opposed to the strict reading of the law, therefore a Goldfields Warden is allowed some latitude in what may be called the equities of a case.
 Notes:  
 
 Date:  9/5/1900 
@@ -28463,7 +28485,7 @@ Source:  Otago Witness
 Author:  
 Vol / Page:  17
 Edition:  
-Quote:  . . anad so it was contended that if Government were established the gold-getter would be quite content to sell his winnings to them for, say, £4 1s per ounce, and if no expense were entailed in the purchase, the 2s over would give the Government about £20,000 per annum . . .
+Quote:  . . anad so it was contended that if Government were established the gold-getter would be quite content to sell his winnings to them for, say, GBP4 1s per ounce, and if no expense were entailed in the purchase, the 2s over would give the Government about GBP20,000 per annum . . .
 Notes:  
 
 Date:  0/0/1939 
@@ -28732,8 +28754,8 @@ See:
 Pronunciation: 
 Notes: 
  Citations 
-Date:  0/0/0 
-Source:  NZ Herald
+Date:  10/9/1897
+Source:  The West Coast
 Author:  
 Vol / Page:  
 Edition:  
@@ -29396,7 +29418,7 @@ Source:  Watch of Gryphons
 Author:  Owen Marshall
 Vol / Page:  215
 Edition:  
-Quote:  ‘If we don’t come up with something soon,’ he said, ‘we’re gone-burgers, dog tucker, dead meat.’
+Quote:  'If we don't come up with something soon,' he said, 'we're gone-burgers, dog tucker, dead meat.'
 Notes:  
 
 Date:  5/10/2000 
@@ -29551,6 +29573,7 @@ goob
  Homonym Number:  
 Word Class: noun
 Sense Number: 
+
 Definition: A gob of spit, phlegm; an oyster;  a gooby [? goo + gob.]
 Origin: [none]
 Register: 
@@ -29772,7 +29795,7 @@ Source:  Living As A Moon
 Author:  Owen Marshall
 Vol / Page:  242
 Edition:  
-Quote:  ‘Hunky dory?’ ‘Right as rain. Good as gold,’ I said, setting off down the corridor. It occurred to me that alliteration plays a considerable part in the formation of our idioms.
+Quote:  'Hunky dory?' 'Right as rain. Good as gold,' I said, setting off down the corridor. It occurred to me that alliteration plays a considerable part in the formation of our idioms.
 Notes:  
 
 Date:  3/9/2005 
@@ -29990,7 +30013,7 @@ Source:  Independent (Auckland)
 Author:  
 Vol / Page:  28
 Edition:  
-Quote:  The <i>pièce de resistance</i> of the new Bill is good faith bargaining.
+Quote:  The <i>piece de resistance</i> of the new Bill is good faith bargaining.
 Notes:  
 
 Date:  1/4/2000 
@@ -30076,7 +30099,7 @@ Source:  Diggers' Story, The
 Author:  PFAFF
 Vol / Page:  56
 Edition:  
-Quote:  There were over a thousand diggers ... waiting to see the result of the prospect when we bottomed. We ... struck very good gold ... We built a paddock, rigged up a windlass, and got several very good washings out of this shaft ... <i>Ibid.</i> 64 There was no ground to be got there. ... There was good gold there, but the claims were all taken up. <i>Ibid.</i> 142 From there [Molyneux] I went to Gabriel's Gully, where I opened a claim and got good gold. ‘
+Quote:  There were over a thousand diggers ... waiting to see the result of the prospect when we bottomed. We ... struck very good gold ... We built a paddock, rigged up a windlass, and got several very good washings out of this shaft ... <i>Ibid.</i> 64 There was no ground to be got there. ... There was good gold there, but the claims were all taken up. <i>Ibid.</i> 142 From there [Molyneux] I went to Gabriel's Gully, where I opened a claim and got good gold. '
 
 
 Notes:  
@@ -30254,7 +30277,7 @@ Source:  Kiwi
 Author:  WOLFE
 Vol / Page:  53
 Edition:  
-Quote:  The evolution of the Kiwi bloke has been one of rapprochement and training of the wild beats within - taking the ‘hard' out of the good, keen, hard man.
+Quote:  The evolution of the Kiwi bloke has been one of rapprochement and training of the wild beats within - taking the 'hard' out of the good, keen, hard man.
 Notes:  
 
 Date:  3/9/2005 
@@ -32588,7 +32611,7 @@ Source:  Evening Post
 Author:  
 Vol / Page:  2
 Edition:  
-Quote:  Dr. Hector has just received from Mr. E. M. Edgcumbe a photogram of the supposed moa’s head, 3ft. in length, lately found near Tauranga.   It proves to be the skull of the goose-beak whale (<i>Epiodon</i>)
+Quote:  Dr. Hector has just received from Mr. E. M. Edgcumbe a photogram of the supposed moa's head, 3ft. in length, lately found near Tauranga.   It proves to be the skull of the goose-beak whale (<i>Epiodon</i>)
 Notes:  
 
 Date:  16/9/1904 
@@ -32596,7 +32619,7 @@ Source:  Feilding Star
 Author:  
 Vol / Page:  3
 Edition:  
-Quote:  Finding that “Pelorus Jack” has been wrongly classified in the genus beluga as a “white whale,” he has transferred the creature to the genus Ziphius Cavirostris, believing him to be a “goose-beak whale.”
+Quote:  Finding that 'Pelorus Jack' has been wrongly classified in the genus beluga as a 'white whale,' he has transferred the creature to the genus Ziphius Cavirostris, believing him to be a 'goose-beak whale.'
 Notes:  
 
 Date:  3/3/1914 
@@ -32962,7 +32985,7 @@ Quote:  [North Auckland Timber-Workers] Men in
 
 charge of main goose-saws, 7s... saw-
 
-doctor, £3 per week.
+doctor, GBP3 per week.
 
 
 
@@ -33206,7 +33229,7 @@ Quote:  ... the picturesque tents in the deep mountain gorge ...
 Notes:  
 
 Date:  0/0/1874 
-Source:  Crusts: a settler’s fare due south
+Source:  Crusts: a settler's fare due south
 Author:  KENNAWAY
 Vol / Page:  184
 Edition:  
@@ -33340,7 +33363,7 @@ Source:  Calling the Station Home
 Author:  DOMINY
 Vol / Page:  138
 Edition:  
-Quote:  Runholders say that in sharing notions of ‘front’ and ‘back’, the ‘gorge runs are similar from one end of the South Island to the other’ …
+Quote:  Runholders say that in sharing notions of 'front' and 'back', the 'gorge runs are similar from one end of the South Island to the other' 
 Notes:  
 
 gorge station
@@ -33882,7 +33905,7 @@ Source:  Southern Gentry
 Author:  ELDRED-GRIGG
 Vol / Page:  121
 Edition:  
-Quote:  Contractors did all the multifarious jobs of Southern estates – chaff cutting, mangold hoeing, gorse grubbing.
+Quote:  Contractors did all the multifarious jobs of Southern estates - chaff cutting, mangold hoeing, gorse grubbing.
 Notes:  
 
 gorse hedge
@@ -33972,7 +33995,7 @@ Origin: [none]
 Register: 
 Register 2: 
 Domain: [none]
-Region: New Zealand (southern South Island)
+Region: New Zealand (Southern South Island)
 See: 
 Pronunciation: 
 Notes: 
@@ -34231,7 +34254,9 @@ Notes:  Pearson Glossary
 
 goulash
  Homonym Number:  
+
 Word Class: noun
+
 Sense Number: 
 Definition: A rough stew, carelessly concocted.
 Origin: 
@@ -35133,7 +35158,7 @@ Source:  Merriam-Webster Third International
 Author:  
 Vol / Page:  2023
 Edition:  
-Quote:  Gov´.ern-ment (g&ubreve.v´.&etilde.rn-ment), n. [Add.] Government man, an Australian convict, esp. an assigned servant. [Obs.] "A few prisoners, or government men, as the convict servants are uniformly designated by courtesy." J. D. Lang (1834). - Government stroke, the leisurely manner of working thought to be a characteristic of civil servants. [Colloq.]  
+Quote:  GovZ.ern-ment (g&ubreve.vZ.&etilde.rn-ment), n. [Add.] Government man, an Australian convict, esp. an assigned servant. [Obs.] "A few prisoners, or government men, as the convict servants are uniformly designated by courtesy." J. D. Lang (1834). - Government stroke, the leisurely manner of working thought to be a characteristic of civil servants. [Colloq.]  
 
 
 Notes:  
@@ -35186,9 +35211,7 @@ Author:  LAWLOR
 Vol / Page:  65
 Edition:  
 Quote:  The first golden rule of the "Government Strokist" is that he must never, under any circumstances, commence work at the stroke of nine.
-
-
-Notes:  In 1935 edition
+Notes: In 1935 edition
 
 Government transfer
  Homonym Number:  
@@ -35453,7 +35476,7 @@ Source:  Landfall
 Author:  
 Vol / Page:  5(2)18 : 87
 Edition:  
-Quote:  ‘Every night we have some gozinters'... ‘Gozinters?' ‘You know - division.'
+Quote:  'Every night we have some gozinters'... 'Gozinters?' 'You know - division.'
 Notes:  
 
 Date:  0/0/2001 
@@ -35593,7 +35616,7 @@ Source:  NZ Dairy Exporter
 Author:  
 Vol / Page:  49
 Edition:  
-Quote:  The silorator further revolutionised silage making. We have come a long way since those days when silage was made in the stack with a ‘grab stacker’.
+Quote:  The silorator further revolutionised silage making. We have come a long way since those days when silage was made in the stack with a 'grab stacker'.
 Notes:  
 
 grab-arse
@@ -35655,7 +35678,7 @@ Source:  NZ Farmer
 Author:  
 Vol / Page:  20
 Edition:  
-Quote:  The method was what was known to musterers as ‘grabbing’. A small mob would be collected as conditions permitted with the heading dog …
+Quote:  The method was what was known to musterers as 'grabbing'. A small mob would be collected as conditions permitted with the heading dog 
 Notes:  
 
 grabbing
@@ -39439,7 +39462,7 @@ Quote:  <I>Danthonia</I> [spp.] Snow grasses.
 Notes:  (Buchanan Botany Otago)
 
 Date:  0/0/1874 
-Source:  Crusts: a settler’s fare due south
+Source:  Crusts: a settler's fare due south
 Author:  KENNAWAY
 Vol / Page:  40
 Edition:  
@@ -39454,6 +39477,7 @@ Author:
 Vol / Page:  497
 Edition:  
 Quote:  The above three species [of Danthonia] are the chief `snowgrasses' of the South Island 
+
 
 
 Notes:  Kirk
@@ -43652,9 +43676,11 @@ Author:
 Vol / Page:  48
 Edition:  
 Quote:  <i>meadow foxtail [s] Alopecurus pratensis</i> L.
+
 Notes:  
 
 Date:  0/0/1981 
+
 Source:  Weeds of Roadsides
 Author:  TAYLOR
 Vol / Page:  93
@@ -44468,6 +44494,7 @@ Date:  0/0/1906
 Source:  Manual NZ Flora
 Author:  CHEESEMAN
 Vol / Page:  589
+
 Edition:  
 Quote:  <i>P[olygonum] aviculare</i>, Linn. ... A glabrous rigid and wiry prostrate annual, ... Roadsides and waste places ... Most probably an immigrant. ...  Knot-grass; Makakaka. 
 
@@ -48331,7 +48358,7 @@ Pronunciation:
 Notes: 
  Citations 
 Date:  0/0/1874 
-Source:  Crusts: a settler’s fare due south
+Source:  Crusts: a settler's fare due south
 Author:  KENNAWAY
 Vol / Page:  40
 Edition:  
@@ -48423,7 +48450,7 @@ Source:  MAF Agricultural Glossary
 Author:  MAF
 Vol / Page:  28
 Edition:  
-Quote:  Grass fence: Fence made by two electric fence wires at the same height and 1 metre apart – where the herbage grows between wires.
+Quote:  Grass fence: Fence made by two electric fence wires at the same height and 1 metre apart - where the herbage grows between wires.
 Notes:  
 
 grass fence
@@ -48859,7 +48886,7 @@ Quote:  Newman was staggered when a group of Maoris turned up to collect 'grass 
 Notes:  
 
 Date:  0/0/1976 
-Source:  History of Hawke’s Bay
+Source:  History of Hawke's Bay
 Author:  WILSON
 Vol / Page:  212
 Edition:  
@@ -50973,7 +51000,7 @@ Source:  NZ Journal of Science & Technology
 Author:  
 Vol / Page:  4/119
 Edition:  
-Quote:  PROTOTROCTES OXYRHYNCHUS Günther. <i>Grayling; Upokororo</i>. Still to be found in a number of streams in the west coast of the South Island. Highly esteemed as a food fish by Maoris and settlers. An example has recently been taken from a stream in Taranaki. ... Distribution: New Zealand rivers and streams. 
+Quote:  PROTOTROCTES OXYRHYNCHUS Gunther. <i>Grayling; Upokororo</i>. Still to be found in a number of streams in the west coast of the South Island. Highly esteemed as a food fish by Maoris and settlers. An example has recently been taken from a stream in Taranaki. ... Distribution: New Zealand rivers and streams. 
 
 
 Notes:  Phillipps Notes on the Edible Fishes
@@ -51156,13 +51183,13 @@ Edition:
 Quote:  It is unprofitable to graze-off drystock when pasture on the home farm is being poorly utilised.
 Notes:  
 
-Date:  31/4/1968 
+Date:  30/4/1968 
 Source:  NZ Journal of Agriculture
 Author:  
 Vol / Page:  
 Edition:  
 Quote:  If a dairy farmer has the facilities, in labour and shed capacity to handle more cows, the finance to get these cows, and is fully stocked up, it will pay him to graze his heifers off. 1977 NZ Farmer Jan 13. 5 The policies of grazing young stock off and buying in hay seem sensible considering the size of the farm.
-Notes:  
+Notes:  Date input incorrectly as "31/4/1968", changed to "30/4/1968" without verifying correctness.
 
 Date:  0/12/1988 
 Source:  Dairy Exporter (NZ)
@@ -51378,6 +51405,7 @@ Notes:
 
 grazer
  Homonym Number:  
+
 Word Class: noun
 Sense Number:  1
 Definition: a farm animal brought in (hired) to graze surplus pasture. 
@@ -51972,7 +52000,7 @@ Source:  NZ Journal of Agriculture
 Author:  
 Vol / Page:  7
 Edition:  
-Quote:  Of all those stations possessing country above 3,000 ft, the grazing-ground is more or less sharply divided off into what is called ‘summer country’ and ‘winter country.’
+Quote:  Of all those stations possessing country above 3,000 ft, the grazing-ground is more or less sharply divided off into what is called 'summer country' and 'winter country.'
 Notes:  
 
 grazing-value
@@ -52194,7 +52222,7 @@ Source:  Dominion
 Author:  
 Vol / Page:  1
 Edition:  
-Quote:  [Hdg] Taking the grease out of ‘greasies'. Health experts are out to cut the grease from the Friday night "greasies". [They] are starting a national survey of chip cooking practices.
+Quote:  [Hdg] Taking the grease out of 'greasies'. Health experts are out to cut the grease from the Friday night "greasies". [They] are starting a national survey of chip cooking practices.
 
 
 Notes:  
@@ -52382,7 +52410,7 @@ Source:  Questionnaire Respondents (DB)
 Author:  
 Vol / Page:  
 Edition:  
-Quote:  greasy – a station cook.
+Quote:  greasy - a station cook.
 Notes:  
 
 greasy
@@ -52406,7 +52434,7 @@ Source:  Questionnaire Respondents (DB)
 Author:  
 Vol / Page:  
 Edition:  
-Quote:  greasy – sheep with wool with plenty of grease.
+Quote:  greasy - sheep with wool with plenty of grease.
 Notes:  
 
 greasy
@@ -52430,7 +52458,7 @@ Source:  Questionnaire Respondents (DB)
 Author:  
 Vol / Page:  
 Edition:  
-Quote:  greasy – a shearer.
+Quote:  greasy - a shearer.
 Notes:  
 
 greasy
@@ -53426,7 +53454,7 @@ Source:  North & South
 Author:  
 Vol / Page:  96
 Edition:  
-Quote:  In the 1950s, he [Bill Pearson] wrote .. Coal Flat, which many people thought was the “great New Zealand novel” the country had been waiting for.  
+Quote:  In the 1950s, he [Bill Pearson] wrote .. Coal Flat, which many people thought was the 'great New Zealand novel' the country had been waiting for.  
 
 
 Notes:  
@@ -53489,6 +53517,7 @@ Word Class: noun
 Sense Number: 
 Definition: great white shark
 Origin: [none]
+
 Register: 
 Register 2: 
 Domain: [none]
@@ -54511,7 +54540,7 @@ Source:  New Zealander, The
 Author:  
 Vol / Page:  3
 Edition:  
-Quote:  We looked in vain to see what is said to be seen on the hard sand between Opotiki and Wakatane — a green and white penguin, the Korora, (sphemscus minor) taking a pipi shell to a great height, from whence it lets it fall on the beach, and then descends itself to pick out the flesh from the broken fragments of the shell.
+Quote:  We looked in vain to see what is said to be seen on the hard sand between Opotiki and Wakatane - a green and white penguin, the Korora, (sphemscus minor) taking a pipi shell to a great height, from whence it lets it fall on the beach, and then descends itself to pick out the flesh from the broken fragments of the shell.
 Notes:  
 
 green bag
@@ -54601,7 +54630,7 @@ Source:  Geological Society of NZ Newsletter
 Author:  
 Vol / Page:  31/9
 Edition:  
-Quote:  The most detailed account will of course be in the Initial Report, one of the now well-known “green books”.
+Quote:  The most detailed account will of course be in the Initial Report, one of the now well-known 'green books'.
 Notes:  
 
 green cart
@@ -55049,6 +55078,7 @@ Source:  Encyclopaedia of New Zealand, An
 Author:  McLINTOCK
 Vol / Page:  3/705-712
 Edition:  
+
 Quote:  Green mussel .. .. kuku, kutai .. .. <i>Perna canaliculus </i>
 Notes:  
 
@@ -55539,7 +55569,7 @@ Source:  Evening Post
 Author:  
 Vol / Page:  17
 Edition:  
-Quote:  The birds reported by Mr. Handley in 1895 were:  Harrier, plentiful;  bush hawk, tolerably numerous .. green wren and rock wren, on back ranges …
+Quote:  The birds reported by Mr. Handley in 1895 were:  Harrier, plentiful;  bush hawk, tolerably numerous .. green wren and rock wren, on back ranges 
 Notes:  
 
 greenback
@@ -56832,7 +56862,7 @@ Source:  Geological Society of NZ Newsletter
 Author:  
 Vol / Page:  44/27
 Edition:  
-Quote:  … Pete Koons is studying the origin of the pounamus and Dave Craw is beginning a study of greenschists and related rocks in the Mt Aspiring region.
+Quote:   Pete Koons is studying the origin of the pounamus and Dave Craw is beginning a study of greenschists and related rocks in the Mt Aspiring region.
 Notes:  
 
 Date:  3/11/1979 
@@ -57050,7 +57080,7 @@ Source:  Questionnaire Respondents (DB)
 Author:  
 Vol / Page:  
 Edition:  
-Quote:  dags – greenstone.
+Quote:  dags - greenstone.
 Notes:  
 
 greenstone
@@ -57164,6 +57194,7 @@ Quote:  He showed me several beautiful mats, kaitaka and parawai cloaks made of 
 
 
 Notes:  
+
 
 greenstone club
  Homonym Number:  
@@ -57564,7 +57595,7 @@ Source:  Dawn Beloved
 Author:  DEVANNY
 Vol / Page:  163
 Edition:  
-Quote:  Sometimes two pennies are filed down to half their thickness and then joined together. A double-tailer is called a ‘grey'; a double-header a ‘nob.
+Quote:  Sometimes two pennies are filed down to half their thickness and then joined together. A double-tailer is called a 'grey'; a double-header a 'nob.
 
 
 Notes:  
@@ -58784,7 +58815,7 @@ Source:  Merriam-Webster Third International
 Author:  
 Vol / Page:  2033
 Edition:  
-Quote:   <i>Warì.bler </i>(warì.bl&etilde.r), <i>n. [Add.]</i> In New Zealand various species of the genus <i>Gerygone</i> are called <i>bush warblers, gray warblers,</i> etc. See under GERYGONE.
+Quote:   <i>Wari.bler </i>(wari.bl&etilde.r), <i>n. [Add.]</i> In New Zealand various species of the genus <i>Gerygone</i> are called <i>bush warblers, gray warblers,</i> etc. See under GERYGONE.
 Notes:  
 
 Date:  0/0/1873 
@@ -58876,7 +58907,7 @@ Source:  Evening Post
 Author:  
 Vol / Page:  3
 Edition:  
-Quote:  In an address at New Plymouth on “The Song Birds of New Zealand,” Mr. Johannes C. Andersen said that although he had written down 100 songs of the tuis, sixty of the bell-birds, and fifty of the grey warblers, these were only a fraction of the songs it was possible to record.
+Quote:  In an address at New Plymouth on 'The Song Birds of New Zealand,' Mr. Johannes C. Andersen said that although he had written down 100 songs of the tuis, sixty of the bell-birds, and fifty of the grey warblers, these were only a fraction of the songs it was possible to record.
 Notes:  
 
 Date:  13/4/1922 
@@ -59027,8 +59058,11 @@ Quote:  15. XENICUS STOKESII. Gray. Grey Wren. Stripe-faced Wren. Rifleman. <i>.
 Notes:  
 
 Grey, the
+
  Homonym Number:  
+
 Word Class: noun
+
 Sense Number: 
 Definition: a name for Greymouth
 Origin: [none]
@@ -60001,7 +60035,7 @@ Source:  NZ Slang
 Author:  BAKER
 Vol / Page:  26
 Edition:  
-Quote:  .. the intervening land was rendered useless to another prospective settler and might be bought at the gridironer’s leisure.
+Quote:  .. the intervening land was rendered useless to another prospective settler and might be bought at the gridironer's leisure.
 Notes:  
 
 gridironing
@@ -60263,6 +60297,7 @@ Author:
 Vol / Page:  2
 Edition:  
 Quote:  The country has had quite enough of government by the Canterbury squatters, with their notorious gridironing system of land monopoly.
+
 
 
 Notes:  
@@ -61648,6 +61683,7 @@ Notes:
 
 Date:  0/0/1905 
 Source:  NZ Truth
+
 Author:  
 Vol / Page:  21/1/8
 Edition:  
@@ -62661,7 +62697,7 @@ Source:  Six Pack 2, The
 Author:  Tracey Slaughter
 Vol / Page:  156
 Edition:  
-Quote:  There weren’t many people down there: a couple of grommets wagging school to surf...
+Quote:  There weren't many people down there: a couple of grommets wagging school to surf...
 Notes:  
 
 Date:  22/2/2003 
@@ -62696,6 +62732,7 @@ Register:
 Register 2: 
 Domain: [none]
 Region: [none]
+
 See: 
 Pronunciation: 
 Notes: 
@@ -63306,6 +63343,7 @@ Notes:
 
 Date:  0/0/1945 
 Source:  Maori Place-Names of Canterbury
+
 Author:  BEATTIE
 Vol / Page:  61
 Edition:  
@@ -64515,7 +64553,7 @@ Source:  Geological Society of NZ Newsletter
 Author:  
 Vol / Page:  50/88
 Edition:  
-Quote:  In their never-ending search to augment NZ’s hydrocarbon reserves and slow the inevitable decline of the West, seismic stratigraphers from the NZGS recently conducted ground-truth data acquisition in the Hakataramea Valley in South Canterbury and discovered what may prove to be New Zealand’s best hope for petro-independence.
+Quote:  In their never-ending search to augment NZ's hydrocarbon reserves and slow the inevitable decline of the West, seismic stratigraphers from the NZGS recently conducted ground-truth data acquisition in the Hakataramea Valley in South Canterbury and discovered what may prove to be New Zealand's best hope for petro-independence.
 Notes:  
 
 Date:  0/3/1987 
@@ -64523,7 +64561,7 @@ Source:  Geological Society of NZ Newsletter
 Author:  
 Vol / Page:  75/5
 Edition:  
-Quote:  Let’s get back to “ground truth”.
+Quote:  Let's get back to 'ground truth'.
 Notes:  
 
 Date:  0/8/1988 
@@ -64531,7 +64569,7 @@ Source:  Geological Society of NZ Newsletter
 Author:  
 Vol / Page:  81/26
 Edition:  
-Quote:  Consequently, high-resolution 3.5 kHz sub-bottom profilers, air-gun seismics, gravity and magnetics were run alongside GLORIA to provide “ground-truth” for the sonographs.
+Quote:  Consequently, high-resolution 3.5 kHz sub-bottom profilers, air-gun seismics, gravity and magnetics were run alongside GLORIA to provide 'ground-truth' for the sonographs.
 Notes:  
 
 ground weta
@@ -65341,6 +65379,7 @@ Register 2:
 Domain: [none]
 Region: [none]
 See: 
+
 Pronunciation: 
 Notes: 
  Citations 
@@ -66304,7 +66343,7 @@ Source:  Six Pack 3, The
 Author:  Marisa Maepu
 Vol / Page:  25
 Edition:  
-Quote:  Mum didn’t growl me about the trousers. She didn’t even growl me for saying bloody.
+Quote:  Mum didn't growl me about the trousers. She didn't even growl me for saying bloody.
 Notes:  
 
 growler
@@ -66714,7 +66753,7 @@ Source:  Questionnaire Respondents (DB)
 Author:  
 Vol / Page:  
 Edition:  
-Quote:  a sticky sheep – a grubber.
+Quote:  a sticky sheep - a grubber.
 Notes:  
 
 grubber
@@ -67642,7 +67681,7 @@ Source:  Questionnaire Respondents (DB)
 Author:  
 Vol / Page:  
 Edition:  
-Quote:  wild pig – grunter.
+Quote:  wild pig - grunter.
 Notes:  
 
 Date:  0/0/1992 
@@ -67734,7 +67773,7 @@ Source:  Man of the People, A
 Author:  Geary
 Vol / Page:  97
 Edition:  
-Quote:  When I cleaned Mum’s stuff out of the house, I found heaps of old undies that were Dad’s. Holey gruts.
+Quote:  When I cleaned Mum's stuff out of the house, I found heaps of old undies that were Dad's. Holey gruts.
 Notes:  
 
 Date:  3/11/2000 
@@ -67826,6 +67865,7 @@ Notes:
 Date:  25/10/1986 
 Source:  Listener (New Zealand Listener)
 Author:  
+
 Vol / Page:  48
 Edition:  
 Quote:  I read in the paper the other day of a man who was fined $100 with court costs $35, and was then donged $3.50 GST on the court costs. 
@@ -68250,7 +68290,7 @@ Pronunciation:
 Notes: 
  Citations 
 Date:  0/0/1874 
-Source:  Crusts: a settler’s fare due south
+Source:  Crusts: a settler's fare due south
 Author:  KENNAWAY
 Vol / Page:  169
 Edition:  
@@ -68484,6 +68524,7 @@ Quote:  We shook these in the water and chased the fish downstream. In this way 
 Notes:  >1890 Akaroa in Sutton-Smith History of Children's Play (1981) 133
 
 Date:  0/0/1944 
+
 Source:  Whitcombe's Modern Junior Dictionary (8th edn)
 Author:  
 Vol / Page:  190
@@ -68966,7 +69007,7 @@ Source:  BLANK ENTRY
 Author:  
 Vol / Page:  218
 Edition:  
-Quote:  Colson asked Hinde £300 for his 37 and a half acres of gulley.
+Quote:  Colson asked Hinde GBP300 for his 37 and a half acres of gulley.
 Notes:  in SCHOLEFIELD (1960) Richmond-Atkinson Papers I
 
 Date:  0/2/1993 
@@ -69439,6 +69480,7 @@ Date:  0/0/1883
 Source:  Ranolf and Amohia
 Author:  DOMETT
 Vol / Page:  1/122
+
 Edition:  
 Quote:  The narrowed gully - just a ditch/  With flowering koromiko rich -/ [fn] Veronica.
 Notes:  
@@ -69692,7 +69734,7 @@ Source:  Taranaki Daily News
 Author:  
 Vol / Page:  20
 Edition:  
-Quote:  Fundamental difference between ‘gully screamer’ (sheep/beef farmer) and ‘gumbooter’ (dairy farmer).
+Quote:  Fundamental difference between 'gully screamer' (sheep/beef farmer) and 'gumbooter' (dairy farmer).
 Notes:  
 
 gully trap
@@ -69781,6 +69823,7 @@ Definition: [used elsewhere but sp. to NZ pastoral high country]  erosion on ste
 
 
 Origin: [none]
+
 Register: 
 Register 2: 
 Domain: Rural
@@ -70060,7 +70103,7 @@ Source:  Questionnaire Respondents (DB)
 Author:  
 Vol / Page:  
 Edition:  
-Quote:  a shepherd – a gullyrunner.
+Quote:  a shepherd - a gullyrunner.
 Notes:  
 
 gully-seamed
@@ -70791,7 +70834,7 @@ Source:  Stories
 Author:  MANSFIELD
 Vol / Page:  458
 Edition:  (1984 Alpers)
-Quote:  She pulled up her gloves, hummed to herself and said to the distant gum-tree, `Shan't be long now.' But that was hardly company. ‘
+Quote:  She pulled up her gloves, hummed to herself and said to the distant gum-tree, `Shan't be long now.' But that was hardly company. '
 Notes:  
 
 Date:  0/0/1966 
@@ -71492,6 +71535,7 @@ Sense Number:
 Definition: a quirky annual community celebration (in Taihape)
 Origin: [none]
 Register: 
+
 Register 2: 
 Domain: [none]
 Region: [none]
@@ -73011,7 +73055,7 @@ Source:  Brighter Britain
 Author:  HAY
 Vol / Page:   II 14
 Edition:  
-Quote:  Gum-fields are poor lands usually …
+Quote:  Gum-fields are poor lands usually 
 Notes:  
 
 Date:  0/0/1902 
@@ -74160,7 +74204,7 @@ Source:  Elements
 Author:  
 Vol / Page:  12
 Edition:  
-Quote:  …… many urban children rarely get the opportunity to slip on a pair of gummies and spend time on a farm –– let alone get close to some of the animals.
+Quote:   many urban children rarely get the opportunity to slip on a pair of gummies and spend time on a farm -- let alone get close to some of the animals.
 Notes:  
 
 Date:  0/9/1985 
@@ -75109,7 +75153,7 @@ Source:  Taranaki Daily News
 Author:  
 Vol / Page:  13
 Edition:  
-Quote:  Many of the students he has trained have gone on to become full-time shearers, some of them reaching the open class in competitive shearing, a level at which they can be regarded in the ‘gun’ category.
+Quote:  Many of the students he has trained have gone on to become full-time shearers, some of them reaching the open class in competitive shearing, a level at which they can be regarded in the 'gun' category.
 Notes:  
 
 gun
@@ -75984,6 +76028,7 @@ Notes:
  Citations 
 Date:  0/5/2004 
 Source:  Footnotes
+
 Author:  
 Vol / Page:  No. 21/8
 
@@ -76531,6 +76576,7 @@ Notes:  Acland Glossary
 
 Date:  0/0/1907 
 Source:  Tracks  We Tread
+
 Author:  LANCASTER
 Vol / Page:  161
 Edition:  
@@ -76702,7 +76748,7 @@ Source:  Shepherd's Year,  A
 Author:  HALL
 Vol / Page:  56
 Edition:  
-Quote:  Out of scrubby guts, from high terraces, out of the bush and from the large snow tussocks on the river bed they came …
+Quote:  Out of scrubby guts, from high terraces, out of the bush and from the large snow tussocks on the river bed they came 
 Notes:  
 
 Date:  0/0/1996 
@@ -76872,6 +76918,7 @@ Quote:  gutsful more than enough; phr. had a gutsful; eg `I've had a gutsful of 
 
 
 Notes:  
+
 
 Date:  8/6/2006 
 Source:  NZ Herald
@@ -78001,3 +78048,5 @@ Vol / Page:  IV/47 : 253
 Edition:  
 Quote:  The "givor" that kid puts on, you would think he was a captain at least.
 Notes:  
+
+

@@ -341,7 +341,7 @@ Source: Auckland  Star
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: All Nature smiles in glad array:/She knows ’tis our Regatta Day./He starts.   Ah! there the yachties go,/They really form a splendid show.
+Quote: All Nature smiles in glad array:/She knows 'tis our Regatta Day./He starts.   Ah! there the yachties go,/They really form a splendid show.
 Notes: 
 
 yack/yak
@@ -777,7 +777,7 @@ Source: NZ Tablet
 Author: 
 Vol / Page: 19
 Edition: 
-Quote: The most brilliant orator in the House, excepting alone the venerable Premier, is one of “the Yahoos who follow Mr. Parnell.”
+Quote: The most brilliant orator in the House, excepting alone the venerable Premier, is one of "the Yahoos who follow Mr. Parnell."
 Notes: 
 
 Date: 5/3/1897 
@@ -801,7 +801,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 11
 Edition: 
-Quote: “.. He is the head of a gang of ‘yahoos,’” said the Senior Sergeant at the Magistrate’s Court to-day, when referring to Herbert Harding, who pleaded guilty to using obscene language.
+Quote: ".. He is the head of a gang of 'yahoos,'" said the Senior Sergeant at the Magistrate's Court to-day, when referring to Herbert Harding, who pleaded guilty to using obscene language.
 Notes: 
 
 Date: 26/9/1902 
@@ -853,7 +853,7 @@ Source: Nelson Evening Mail
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: A crowd of dancing apes would have knocked out better wit, fun and point than all the yahooing, howling and slishslush emitted by these “intelligent electors.”
+Quote: A crowd of dancing apes would have knocked out better wit, fun and point than all the yahooing, howling and slishslush emitted by these "intelligent electors."
 Notes: 
 
 yahooism
@@ -1083,8 +1083,8 @@ Source: New Zealand Gazette & Wellington Spectator
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: The marketable produce of these islands, and of the seas over which they are so widely scattered, consists cheifly [sic] of bêche de la mer .. besides vegetable productions, such as the yam, the sugar-cane, the bread-fruit, and the cocoa-nut, which denote a soil and climate similar to those of our most valuable Tropical possessions.
-Notes: (Reprinted from Jameson’s Travels in New Zealand, South Australia and New South Wales)
+Quote: The marketable produce of these islands, and of the seas over which they are so widely scattered, consists cheifly [sic] of beche de la mer .. besides vegetable productions, such as the yam, the sugar-cane, the bread-fruit, and the cocoa-nut, which denote a soil and climate similar to those of our most valuable Tropical possessions.
+Notes: (Reprinted from Jameson's Travels in New Zealand, South Australia and New South Wales)
 
 yam
 Homonym Number: 
@@ -1349,7 +1349,7 @@ Source: Poverty Bay Herald
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: SHARP’S YANKEE AXES, HATCHETS.
+Quote: SHARP'S YANKEE AXES, HATCHETS.
 Notes: 
 
 Date: 11/12/1903 
@@ -1357,7 +1357,7 @@ Source: Bay of Plenty Times
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: Mann’s 3½, 4, 4½ and 5lb Georgia and Felling Yankee Axes.
+Quote: Mann's 3 1/2, 4, 4 1/2 and 5lb Georgia and Felling Yankee Axes.
 Notes: 
 
 Yankee clock
@@ -1375,7 +1375,7 @@ Pronunciation:
 Notes:
 Citations 
 Date: 0/0/1874 
-Source: Crusts: a settler’s fare due south
+Source: Crusts: a settler's fare due south
 Author: KENNAWAY
 Vol / Page: 92
 Edition: 
@@ -1387,7 +1387,7 @@ Source: Nelson Examiner and New Zealand Chronicle
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: G. COATES has just received a FRESH SUPPLY of his very sound and useful LEVER WATCHES, made to order, and two years’ warrantry [sic] given;  likewise YANKEE CLOCKS, at 12s. 6d. each …
+Quote: G. COATES has just received a FRESH SUPPLY of his very sound and useful LEVER WATCHES, made to order, and two years' warrantry [sic] given;  likewise YANKEE CLOCKS, at 12s. 6d. each ...
 Notes: 
 
 Date: 1/11/1867 
@@ -1395,7 +1395,7 @@ Source: West Coast Times
 Author: 
 Vol / Page: 7
 Edition: 
-Quote: Every description of diggers’ tools and mining materials, furnishing and builders’ ironmongery, guns, power, shot, &c.; cutlery in great variety, Yankee clocks and other notions …
+Quote: Every description of diggers' tools and mining materials, furnishing and builders' ironmongery, guns, power, shot, &c.; cutlery in great variety, Yankee clocks and other notions ...
 Notes: 
 
 Date: 2/8/1881 
@@ -1411,7 +1411,7 @@ Source: Observer (Auckland)
 Author: 
 Vol / Page: 19
 Edition: 
-Quote: I don’t know whether you have noticed that many of our public schools are content with cheap Yankee clocks worth, perhaps, 15/ each.
+Quote: I don't know whether you have noticed that many of our public schools are content with cheap Yankee clocks worth, perhaps, 15/ each.
 Notes: 
 
 Yankee grab
@@ -1465,7 +1465,7 @@ Source: Otago Daily Times
 Author: 
 Vol / Page: 7
 Edition: 
-Quote: .. on his return he stopped at the Volunteer Hotel, and met there two acquaintances, named Sloane and Puddie, and commenced to play “Yankee Grab” with Sloane, and lost.
+Quote: .. on his return he stopped at the Volunteer Hotel, and met there two acquaintances, named Sloane and Puddie, and commenced to play "Yankee Grab" with Sloane, and lost.
 Notes: 
 
 Date: 14/9/1905 
@@ -1489,7 +1489,7 @@ Source: Poverty Bay Herald
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: YANKEE GRAB.   A special committee set up by the Auckland Chamber of Commerce has presented a valuable report upon legislation recently passed in America, having for its object the capture of the world’s markets.
+Quote: YANKEE GRAB.   A special committee set up by the Auckland Chamber of Commerce has presented a valuable report upon legislation recently passed in America, having for its object the capture of the world's markets.
 Notes: fig
 
 Date: 10/6/1939 
@@ -1497,7 +1497,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 17
 Edition: 
-Quote: “.. Not long ago one of them caused intense amusement by requesting an explanation of the mysteries of Yankee grab …”
+Quote: ".. Not long ago one of them caused intense amusement by requesting an explanation of the mysteries of Yankee grab ..."
 Notes: 
 
 Yankee shout
@@ -1527,7 +1527,7 @@ Source: NZ Truth
 Author: 
 Vol / Page: 14
 Edition: 
-Quote: Nowadays, with the incessant dancing at cabarets, etc., it is fortunate for the young men that a different fashion prevails, and the “Yankee shout” is the most usual thing.   The girls independently get their dance tickets, making up parties without any obligation being incurred.
+Quote: Nowadays, with the incessant dancing at cabarets, etc., it is fortunate for the young men that a different fashion prevails, and the "Yankee shout" is the most usual thing.   The girls independently get their dance tickets, making up parties without any obligation being incurred.
 Notes: 
 
 Date: 17/12/1931 
@@ -1535,7 +1535,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 8
 Edition: 
-Quote: An’ make it, dear, a “Yankee shout.”
+Quote: An' make it, dear, a "Yankee shout."
 Notes: 
 
 Yankee start
@@ -1709,7 +1709,7 @@ Source: Colonist (Nelson)
 Author: 
 Vol / Page: 5
 Edition: 
-Quote: The weather was perfect for the Yankee tournament played on the Brook Club’s courts on Saturday, and the lawns were in fine condition.
+Quote: The weather was perfect for the Yankee tournament played on the Brook Club's courts on Saturday, and the lawns were in fine condition.
 Notes: 
 
 Date: 28/9/1920 
@@ -1901,7 +1901,7 @@ Source: Taranaki Herald
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: Some horses and 7 working bullocks belonging to the rebel natives were driven in and yarded by the mounted guides …
+Quote: Some horses and 7 working bullocks belonging to the rebel natives were driven in and yarded by the mounted guides ...
 Notes: 
 
 yard
@@ -1993,7 +1993,7 @@ Source: New Zealand Gazette & Wellington Spectator
 Author: 
 Vol / Page: 1
 Edition: 
-Quote: MESSRS. JOHN and GEORGE WADE have the honour to announce, that they have received instructions to submit to public competition, to-morrow, Thursday, the 21st instant, at 1 o’clock, by permission of G. Hunter, Esq., at the yards of Mesrs. Willis and Co., between Pah Te Aro and the swamp, the whole of the grown cattle, ex Winwick, from Twofold Bay, consisting of – 15 FAT BULLOCKS, and 30 SUPERIOR MILCH COWS in CALF.
+Quote: MESSRS. JOHN and GEORGE WADE have the honour to announce, that they have received instructions to submit to public competition, to-morrow, Thursday, the 21st instant, at 1 o'clock, by permission of G. Hunter, Esq., at the yards of Mesrs. Willis and Co., between Pah Te Aro and the swamp, the whole of the grown cattle, ex Winwick, from Twofold Bay, consisting of - 15 FAT BULLOCKS, and 30 SUPERIOR MILCH COWS in CALF.
 Notes: 
 
 Date: 10/9/1902 
@@ -2147,7 +2147,7 @@ Source: Auckland  Star
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: His sagacious yard dog saw the fierce fight, parted the combatants, drove his master’s home, and shut the outer gate.
+Quote: His sagacious yard dog saw the fierce fight, parted the combatants, drove his master's home, and shut the outer gate.
 Notes: 
 
 Date: 9/10/1884 
@@ -2155,7 +2155,7 @@ Source: Timaru Herald
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: The Mail suggests that the only condition of escape from the maximum tax should be actual employment in working stock, unless indeed a bonâ fide yard dog in a town, who has too often a practical business to attend to, should be put upon the same footing as his industrious cousin in the country.
+Quote: The Mail suggests that the only condition of escape from the maximum tax should be actual employment in working stock, unless indeed a bona fide yard dog in a town, who has too often a practical business to attend to, should be put upon the same footing as his industrious cousin in the country.
 Notes: 
 
 Date: 2/5/1903 
@@ -2325,7 +2325,7 @@ Source: Marlborough Express
 Author: 
 Vol / Page: 8
 Edition: 
-Quote: No doubt they will tell the story many a time and oft:  “How we yard up the deer with dogs at Hillersden.”
+Quote: No doubt they will tell the story many a time and oft:  "How we yard up the deer with dogs at Hillersden."
 Notes: 
 
 Date: 3/1/1931 
@@ -2715,7 +2715,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 4
 Edition: 
-Quote: Tenders to be endorsed “Tender for Yarding and Slaughtering of Stock, Municipal Abattoir.”
+Quote: Tenders to be endorsed "Tender for Yarding and Slaughtering of Stock, Municipal Abattoir."
 Notes: 
 
 Date: 12/1/1937 
@@ -2917,7 +2917,7 @@ Quote: A mile or so distant [from the homestead] was the pool where the sheep we
 Notes: 
 
 Date: 0/0/1874 
-Source: Crusts: a settler’s fare due south
+Source: Crusts: a settler's fare due south
 Author: KENNAWAY
 Vol / Page: 73
 Edition: 
@@ -3039,7 +3039,7 @@ Source: New Zealand Gazette & Wellington Spectator
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: Since my yarn last week, we have had an arrival from the “land of promise” (don’t say a word about “performance,” or else our Emigrants won’t leave us).
+Quote: Since my yarn last week, we have had an arrival from the "land of promise" (don't say a word about "performance," or else our Emigrants won't leave us).
 Notes: 
 
 yarn
@@ -3061,7 +3061,7 @@ Source: Auckland  Star
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: ‘Rock her!’ she cried, “and darn the socks/With yarn, while you are yarning!’
+Quote: 'Rock her!' she cried, "and darn the socks/With yarn, while you are yarning!'
 Notes: 
 
 Date: 0/0/1873 
@@ -3591,7 +3591,7 @@ Source: Internet - see Notes
 Author: 
 Vol / Page: 00
 Edition: 
-Quote: This yellow admiral butterfly (Vanessa itea) is feeding on nectar. Specimens were first collected in 1769–70, when Captain James Cook circumnavigated New Zealand in the Endeavour. These butterflies are strong fliers, and are found throughout most of the country, including Stewart Island. They also occur in Australia, and it is thought that they make regular crossings of the Tasman Sea.
+Quote: This yellow admiral butterfly (Vanessa itea) is feeding on nectar. Specimens were first collected in 1769-70, when Captain James Cook circumnavigated New Zealand in the Endeavour. These butterflies are strong fliers, and are found throughout most of the country, including Stewart Island. They also occur in Australia, and it is thought that they make regular crossings of the Tasman Sea.
 Notes: http://www.teara.govt.nz/en/butterflies-and-moths/2/1
 
 Date: 0/0/2009 
@@ -4195,7 +4195,7 @@ Source: NZ Memories
 Author: 
 Vol / Page: No. 45/55
 Edition: 
-Quote: With visions of the colony being overtaken by the "Yellow Peril" or "Mongolian Horde", the government, in 1881, passed a law making Chinese migrants pay a poll tax of £10 before they could enter New Zealand.
+Quote: With visions of the colony being overtaken by the "Yellow Peril" or "Mongolian Horde", the government, in 1881, passed a law making Chinese migrants pay a poll tax of GBP10 before they could enter New Zealand.
 Notes: 
 
 Date: 17/5/1913 
@@ -5825,7 +5825,7 @@ Source: Timaru Herald
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: The following is a list of the birds and animals that are to come within the operation of the [Protection of Animals] Act:- Pheasants, quails, hares, partridges, snipe .. yellowhead or native canary, common fantail, fern bird …
+Quote: The following is a list of the birds and animals that are to come within the operation of the [Protection of Animals] Act:- Pheasants, quails, hares, partridges, snipe .. yellowhead or native canary, common fantail, fern bird ...
 Notes: 
 
 Date: 11/7/1888 
@@ -5833,7 +5833,7 @@ Source: Otago Daily Times
 Author: 
 Vol / Page: 4
 Edition: 
-Quote: The paper gave a good deal of interesting information regarding the habits of the kakapo, bushhawk, kea, New Zealand cuckoos .. yellowhead, bittern, and crested grebe …
+Quote: The paper gave a good deal of interesting information regarding the habits of the kakapo, bushhawk, kea, New Zealand cuckoos .. yellowhead, bittern, and crested grebe ...
 Notes: 
 
 Date: 2/9/1903 
@@ -5841,7 +5841,7 @@ Source: Otago Witness
 Author: 
 Vol / Page: 55
 Edition: 
-Quote: Prohibition under the Animals’ Protection Act to take effect in Akaroa and Mount Herbert Counties, Canterbury, has been proclaimed against the killing of bittern, kaka .. yellowhead, swamp crake, and striped rail.
+Quote: Prohibition under the Animals' Protection Act to take effect in Akaroa and Mount Herbert Counties, Canterbury, has been proclaimed against the killing of bittern, kaka .. yellowhead, swamp crake, and striped rail.
 Notes: 
 
 Date: 9/8/1930 
@@ -7205,7 +7205,7 @@ Source: Hawke's Bay Herald
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: Having yoked up a pair of Mr Smellie’s well-known draughts, Mr Perceval (the expert in charge) started on a preliminary round, followed by several well-known Taieri farmers, each of whom watched its performance narrowly.
+Quote: Having yoked up a pair of Mr Smellie's well-known draughts, Mr Perceval (the expert in charge) started on a preliminary round, followed by several well-known Taieri farmers, each of whom watched its performance narrowly.
 Notes: 
 
 Date: 24/2/1909 
@@ -7237,7 +7237,7 @@ Source: Wanganui Chronicle
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: Mr McLean, the owner of the land opposite Livingstone’s, elected to head the party, who were to remove the Maoris at noon;  but when they saw the Maoris destroying Livingstone’s lawn, they could wait no longer, but yoked up their bullocks and carted all off to the Waimate Plains.
+Quote: Mr McLean, the owner of the land opposite Livingstone's, elected to head the party, who were to remove the Maoris at noon;  but when they saw the Maoris destroying Livingstone's lawn, they could wait no longer, but yoked up their bullocks and carted all off to the Waimate Plains.
 Notes: 
 
 Date: 26/12/1889 
@@ -7753,7 +7753,7 @@ Source: Manawatu Times
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: The disturbing elements in this theory (as far as temperance goes) are that young Colonials growing up to man’s estate are not all sober, and many who like Colonial beer continue to get as drunk upon it as upon other methods of satisfying the drink craving.
+Quote: The disturbing elements in this theory (as far as temperance goes) are that young Colonials growing up to man's estate are not all sober, and many who like Colonial beer continue to get as drunk upon it as upon other methods of satisfying the drink craving.
 Notes: 
 
 Date: 10/6/1920 
@@ -8051,7 +8051,7 @@ Source: Wanganui Chronicle
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: The end of this week will see in our midst representative young Maoris from many of the Native Colleges throughout the North Island, who have banded themselves together under the name of the Young Maori Party to do their utmost, by God’s help, to preserve their race.
+Quote: The end of this week will see in our midst representative young Maoris from many of the Native Colleges throughout the North Island, who have banded themselves together under the name of the Young Maori Party to do their utmost, by God's help, to preserve their race.
 Notes: 
 
 Date: 19/2/1940 
@@ -8679,7 +8679,7 @@ Source: Dominion Post
 Author: 
 Vol / Page: F6
 Edition: 
-Quote: It is stark, with its white–painted tongue-and-groove walls, down-to-native bare boards and wooden-topped tables, but its comfy feel is made up by nice friendly types like "youse" and me, claiming space with the congenial young floor walkers.
+Quote: It is stark, with its white-painted tongue-and-groove walls, down-to-native bare boards and wooden-topped tables, but its comfy feel is made up by nice friendly types like "youse" and me, claiming space with the congenial young floor walkers.
 Notes: 
 
 Date: 0/0/1981 
@@ -8815,7 +8815,7 @@ Source: Star, The
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: Little Danny:  “Father, what is the poppilation av the world?”   Mr Gregan:  “Phwat’s that to youse.   They’re mostly foraigners ahnyway.”
+Quote: Little Danny:  "Father, what is the poppilation av the world?"   Mr Gregan:  "Phwat's that to youse.   They're mostly foraigners ahnyway."
 Notes: 
 
 Date: 18/8/1906 
@@ -8823,7 +8823,7 @@ Source: Observer (Auckland)
 Author: 
 Vol / Page: 16
 Edition: 
-Quote: Mrs Muldoon:  Are yous the woman that’s expecting a a washin’ lady?   If so, I’m it.
+Quote: Mrs Muldoon:  Are yous the woman that's expecting a a washin' lady?   If so, I'm it.
 Notes: 
 
 youth
@@ -8905,7 +8905,7 @@ Source: Dominion Post
 Author: 
 Vol / Page: A1
 Edition: 
-Quote: [Hdg] Forecasters warn of yo-yo summer. We’ve all heard of “El Nino” and more recently the ‘weather bomb” - now we can look forward to the “yo-yo” summer. MetService spokesman Bob McDavitt says that the front that has brought heavy rain and strong winds over the North Island is part of a “yo-yo” summer. Like a yo-yo, the weather goes up and goes down.
+Quote: [Hdg] Forecasters warn of yo-yo summer. We've all heard of "El Nino" and more recently the 'weather bomb" - now we can look forward to the "yo-yo" summer. MetService spokesman Bob McDavitt says that the front that has brought heavy rain and strong winds over the North Island is part of a "yo-yo" summer. Like a yo-yo, the weather goes up and goes down.
 Notes: 
 
 Date: 31/1/2004 
@@ -8913,7 +8913,7 @@ Source: Dominion Post
 Author: 
 Vol / Page: E11
 Edition: 
-Quote: This year’s “yo-yo” summer (or is it just a wet summer?) is proving a mixed blessing with gardens.
+Quote: This year's "yo-yo" summer (or is it just a wet summer?) is proving a mixed blessing with gardens.
 Notes: 
 
 Date: 2/2/2004 

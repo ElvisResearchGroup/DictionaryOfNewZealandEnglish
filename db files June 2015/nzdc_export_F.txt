@@ -1094,6 +1094,8 @@ F69
  Edition:  
 
 
+
+
  Quote:  Each time I get off, I face-plant into the snow or almost do the splits. The only consolation is when I ride next to a girl who is carrying her board. When I ask why, she says she fell over so many times when getting off, she gave up.
  Notes:  
 
@@ -1364,7 +1366,7 @@ F69
  Notes: 
  Citations 
  Date:  0/0/1874  
- Source:  Crusts: a settler’s fare due south
+ Source:  Crusts: a settler's fare due south
  Author:  KENNAWAY
  Vol / Page:  143
  Edition:  
@@ -1456,7 +1458,7 @@ F69
  Notes:  
 
  Date:  0/0/1874  
- Source:  Crusts: a settler’s fare due south
+ Source:  Crusts: a settler's fare due south
  Author:  KENNAWAY
  Vol / Page:  143
  Edition:  
@@ -1558,7 +1560,7 @@ F69
  Author:  
  Vol / Page:  2
  Edition:  
- Quote:  The Directors informed the milk suppliers that they would have to reduce the price of the milk supplied to the Factory to 3¼d the gallon or 10½ lb.
+ Quote:  The Directors informed the milk suppliers that they would have to reduce the price of the milk supplied to the Factory to 3d the gallon or 10 1/2 lb.
 
 
  Notes:  
@@ -1680,7 +1682,7 @@ the factory hands.
  Author:  
  Vol / Page:  42
  Edition:  
- Quote:  The factory lorry comes swift and soon, / Like hell down the road, ‘twixt midnight and noon'.
+ Quote:  The factory lorry comes swift and soon, / Like hell down the road, 'twixt midnight and noon'.
 
 
  Notes:  
@@ -3805,7 +3807,7 @@ hundreds and thousands.
  Author:  
  Vol / Page:  9
  Edition:  
- Quote:  According to the observations of Mr. A. C. O’Connor, of Wellington, the fairy tern, black-fronted tern, and black-billed gulls have been seen by him in the North Island during the past few years.
+ Quote:  According to the observations of Mr. A. C. O'Connor, of Wellington, the fairy tern, black-fronted tern, and black-billed gulls have been seen by him in the North Island during the past few years.
  Notes:  
 
  Date:  0/6/2007  
@@ -7675,6 +7677,7 @@ This year Mr Simpson said it was expected that there would be about 120 cadets t
  Quote:  Farm foresters descended on Hawke's Bay last week for their national conference ...
  Notes:  
 
+
  Date:  22/5/1969  
  Source:  NZ Farmer
  Author:  
@@ -8980,7 +8983,7 @@ The decision by the Christchurch City Council to cease its major clean-up operat
  Author:  
  Vol / Page:  4
  Edition:  
- Quote:  He proposed that he and Mr Morrison should be empowered to expend £8 in fascining the road.
+ Quote:  He proposed that he and Mr Morrison should be empowered to expend GBP8 in fascining the road.
  Notes:  
 
  fash
@@ -9234,7 +9237,7 @@ thousands of these large fat sheep ... are boiled down.
  Author:  
  Vol / Page:  2
  Edition:  
- Quote:  A FAT LOT.- We hear that a sale of 2000 wethers, from the station of the Hon., Ernest Gray, was made by Messrs. Miles and Co. for the West Coast, the sheep averaging 62¼lbs in weight.
+ Quote:  A FAT LOT.- We hear that a sale of 2000 wethers, from the station of the Hon., Ernest Gray, was made by Messrs. Miles and Co. for the West Coast, the sheep averaging 62 1/4lbs in weight.
  Notes:  
 
  fat
@@ -10991,6 +10994,7 @@ longest continuous service.
  Homonym Number:  
  Word Class: noun
  Sense Number: 
+
  Definition: England.
  Origin: 
  Register: 
@@ -12717,7 +12721,7 @@ collision took place between the workers and the federationists.
  Notes:  
 
  Date:  0/0/1874  
- Source:  Crusts: a settler’s fare due south
+ Source:  Crusts: a settler's fare due south
  Author:  KENNAWAY
  Vol / Page:  140
  Edition:  
@@ -13659,7 +13663,7 @@ run country in its search for feed and consequently does not thrive.
  Author:  
  Vol / Page:  7
  Edition:  
- Quote:  Though pasture growth was spectacular in May, the farm’s feed wedge was more like an erratic staircase.
+ Quote:  Though pasture growth was spectacular in May, the farm's feed wedge was more like an erratic staircase.
  Notes:  
 
  feeder
@@ -13738,7 +13742,7 @@ run country in its search for feed and consequently does not thrive.
  Homonym Number:  
  Word Class: noun
  Sense Number: 
- Definition:  a farmer who grazes or supplies stock with feed.    
+ Definition:  a farmer who grazes or supplies stock with feed.
 
 
  Origin: [none]
@@ -14929,7 +14933,7 @@ mightily for almost 80 years.
  Author:  HARGREAVES
  Vol / Page:  57
  Edition:  
- Quote:  It’s a beautiful bay but there were problems there. Fellas were getting shot, pulling out other guys’ pots.
+ Quote:  It's a beautiful bay but there were problems there. Fellas were getting shot, pulling out other guys' pots.
  Notes:  
 
  Date:  0/0/1978  
@@ -16083,7 +16087,7 @@ Steeplechases.'
  Author:  CHUDLEIGH
  Vol / Page:  291
  Edition:  
- Quote:  Took a final walk to the contract fencers …
+ Quote:  Took a final walk to the contract fencers 
  Notes:  
 
  Date:  28/1/1965  
@@ -16099,7 +16103,7 @@ Steeplechases.'
  Author:  KERR
  Vol / Page:  73
  Edition:  
- Quote:  The fencers fenced, the paddock men mustered paddocks …
+ Quote:  The fencers fenced, the paddock men mustered paddocks 
  Notes:  
 
  fencer
@@ -16527,7 +16531,7 @@ in the years 1847-8; a few following in
  Author:  BATHGATE
  Vol / Page:  91
  Edition:  
- Quote:  Gilbert was much impressed with the beauty of the birch [beech] trees .. observing that there was a ‘deal of good fencing in them’.
+ Quote:  Gilbert was much impressed with the beauty of the birch [beech] trees .. observing that there was a 'deal of good fencing in them'.
  Notes:  
 
  Date:  0/0/1940  
@@ -18907,7 +18911,7 @@ in those times sheep could not be bought at that season of the year. The result 
  Author:  GUTHRIE-SMITH
  Vol / Page:  134
  Edition:  
- Quote:  The first care of the settler was to increase his area of grass by the operation known through Hawke’s Bay as fern-crushing or fern-grinding …
+ Quote:  The first care of the settler was to increase his area of grass by the operation known through Hawke's Bay as fern-crushing or fern-grinding 
  Notes:  
 
  Date:  0/0/1921  
@@ -20189,7 +20193,7 @@ fern-tree whare at Green Bushes ...
  Author:  
  Vol / Page:  2
  Edition:  
- Quote:  Fescue tussock.   (Festuca novae zealandiae). – This is the most common tussock, especially on the poorer land.
+ Quote:  Fescue tussock.   (Festuca novae zealandiae). - This is the most common tussock, especially on the poorer land.
  Notes:  
 
  fescue-paddock
@@ -20467,7 +20471,7 @@ Friday night to Sunday.  few: with a few in, after several drinks.
  Author:  LEITCH
  Vol / Page:  195
  Edition:  
- Quote:  The final death knell of the provincial expresses - the old ‘mail trains' that ran several times a week over all secondary main lines - was sounded by the arrival in 1954 of the first of Drewry Car Co's 88-seaters, generally called ‘The Fiats' because of their twin Fiat 700.040 horizontal six-cylinder diesel motors.
+ Quote:  The final death knell of the provincial expresses - the old 'mail trains' that ran several times a week over all secondary main lines - was sounded by the arrival in 1954 of the first of Drewry Car Co's 88-seaters, generally called 'The Fiats' because of their twin Fiat 700.040 horizontal six-cylinder diesel motors.
 
 
  Notes:  
@@ -22909,7 +22913,7 @@ allotment of twenty acres. (ii.) Fifty-acre sections at five shillings per acre.
  Author:  
  Vol / Page:  9
  Edition:  
- Quote:  The agreement follows, on the whole, familiar lines, and under it it will not be lawful to take .. fin whales of less than 55ft …
+ Quote:  The agreement follows, on the whole, familiar lines, and under it it will not be lawful to take .. fin whales of less than 55ft 
  Notes:  
 
  Date:  0/0/1838  
@@ -23399,8 +23403,7 @@ allotment of twenty acres. (ii.) Fifty-acre sections at five shillings per acre.
  Notes: 
  Citations 
  Date:  0/0/1862  
- Source:  Otago: Its Goldfields and Re
- Sources
+ Source:  Otago - Its Goldfields and Resources
  Author:  
  Vol / Page:  20
  Edition:  
@@ -26083,7 +26086,7 @@ connected with the movement of the marbles were: cannons, clears, dead-stick, do
  Author:  
  Vol / Page:  
  Edition:  
- Quote:  a rifle or shot-gun – a firestick. [firestick]
+ Quote:  a rifle or shot-gun - a firestick. [firestick]
  Notes:  
 
  firetree
@@ -26925,7 +26928,7 @@ black letters. It was placed across the entrance [322] to the workings as a warn
  Author:  SINCLAIR & HARREX
  Vol / Page:  215
  Edition:  
- Quote:  The troops left home in three ‘Echelons'. The first went to Egypt. As eager volunteers, they were labelled ‘the wife beaters and debt dodgers'.
+ Quote:  The troops left home in three 'Echelons'. The first went to Egypt. As eager volunteers, they were labelled 'the wife beaters and debt dodgers'.
 
 
  Notes:  
@@ -27541,7 +27544,7 @@ has always attached to those `first ships' and their sailors which left the shor
  Author:  
  Vol / Page:  5
  Edition:  
- Quote:  The honourable member for Wairarapa (Mr Bunny) had stated that the reason Wellington had not advanced as rapidly as the other Provinces was because there were too many educated men among its early settlers, and that these men either could not or would not work. Now he (Mr Buckland) had resided in Wellington for some months immediately after the arrival of its first settlers, and his impression was that there was a willingness and desire to work among all classes ….
+ Quote:  The honourable member for Wairarapa (Mr Bunny) had stated that the reason Wellington had not advanced as rapidly as the other Provinces was because there were too many educated men among its early settlers, and that these men either could not or would not work. Now he (Mr Buckland) had resided in Wellington for some months immediately after the arrival of its first settlers, and his impression was that there was a willingness and desire to work among all classes .
  Notes:  
 
  Date:  9/4/1881  
@@ -27561,7 +27564,7 @@ has always attached to those `first ships' and their sailors which left the shor
  Author:  
  Vol / Page:  19
  Edition:  
- Quote:  Now that there is a town of 1000 or more inhabitants within a few miles of the Knapdale homestead, a railway within three or four miles, and good roads all round the estate, it is not easy to imagine the difficulties and dangers that its first settler had to undergo — no neighbour for miles; no practising doctor for 100 miles, no help or comfort in any way whatever.
+ Quote:  Now that there is a town of 1000 or more inhabitants within a few miles of the Knapdale homestead, a railway within three or four miles, and good roads all round the estate, it is not easy to imagine the difficulties and dangers that its first settler had to undergo - no neighbour for miles; no practising doctor for 100 miles, no help or comfort in any way whatever.
  Notes:  
 
  Date:  3/7/1923  
@@ -30978,7 +30981,7 @@ like a big fizz boat."
  Homonym Number:  
  Word Class: noun
  Sense Number: 
- Definition:  sheepdog’s tail. 
+ Definition:  sheepdog's tail. 
 
 
  Origin: [none]
@@ -31787,7 +31790,7 @@ consisting of large rich dust and flakes, and exceedingly auriferous quartz (per
  Author:  HARGREAVES
  Vol / Page:  57
  Edition:  
- Quote:  They think I’m a flake because my name is Tangaroa Demant: I’ve got a Frog surname and a Maori first name.
+ Quote:  They think I'm a flake because my name is Tangaroa Demant: I've got a Frog surname and a Maori first name.
  Notes:  
 
  Date:  0/0/1992  
@@ -34191,7 +34194,7 @@ hurt anyone.'
  Author:  McGill
  Vol / Page:  178
  Edition:  
- Quote:  Bert said he was flat tack serving beer and she’d better return as soon as she could.
+ Quote:  Bert said he was flat tack serving beer and she'd better return as soon as she could.
  Notes:  
 
  flat tap
@@ -34325,7 +34328,7 @@ hurt anyone.'
  Author:  Ihimaera
  Vol / Page:  133
  Edition:  
- Quote:  ‘And I’ll have —’  ‘A flat white?’ I laughed. ‘Yes,’ she nodded. ‘A dead Pakeha.’
+ Quote:  'And I'll have -'  'A flat white?' I laughed. 'Yes,' she nodded. 'A dead Pakeha.'
  Notes:  
 
  Date:  7/6/1997  
@@ -40726,7 +40729,7 @@ put on my two station boys as fleece boys. The shed did not stop one minute. <i>
  Author:  ACLAND
  Vol / Page:  378
  Edition:  
- Quote:  fleece-pick: the verb to pick means ‘to be a fleece-picker’. In most sheds the fleece-picker also sweeps.
+ Quote:  fleece-pick: the verb to pick means 'to be a fleece-picker'. In most sheds the fleece-picker also sweeps.
  Notes:  
 
  fleece-picker
@@ -41110,6 +41113,8 @@ disorder of the great shed, streamed on.
  Author:  OWEN
  Vol / Page:  173
  Edition:  
+
+
  Quote:  A young Maori boy acted as `Fleece-oh!' ... He [?] flicked the fleece up in his arms when it was cut from the sheep, grasped it by its four ends, and flung it out for Loveluck to fold. 
 
 
@@ -41430,7 +41435,7 @@ disorder of the great shed, streamed on.
  Author:  HARGREAVES
  Vol / Page:  42
  Edition:  
- Quote:  When you’ve got a heap of mud in a trawl, you can’t get the whole net in because of the weight, so you’ve got to put a strop round it, lift a bit up, empty that, then put another strop on, and get that bit out, and so on. It’s called fleeting up, and you’ve got to do that about five times to get it all on board.
+ Quote:  When you've got a heap of mud in a trawl, you can't get the whole net in because of the weight, so you've got to put a strop round it, lift a bit up, empty that, then put another strop on, and get that bit out, and so on. It's called fleeting up, and you've got to do that about five times to get it all on board.
  Notes:  
 
  Date:  0/0/1969  
@@ -41694,7 +41699,7 @@ flesh  -->to remove flesh from hides for the processing of leather.
  Author:  Owen Marshall
  Vol / Page:  154
  Edition:  
- Quote:  ‘They’ll get a three-bedroom, brick place in one of the hill suburbs, and flick friends like us.’
+ Quote:  'They'll get a three-bedroom, brick place in one of the hill suburbs, and flick friends like us.'
  Notes:  
 
  flick one's wick
@@ -41968,8 +41973,7 @@ Flinch - Same as flense.
  Author:  
  Vol / Page:  No.4 (NS) 106
  Edition:  
- Quote:  At the intersections of cross-veins, flinties, and `flatheads', the mingling of waters that have come from different 
- Sources ... has resulted in precipitation of the gold and its associated minerals ... [173] ... In the lower levels the patches of highly auriferous ore generally occurred at the intersectons of `flinties' with the veins ...
+ Quote:  At the intersections of cross-veins, flinties, and `flatheads', the mingling of waters that have come from different sources ... has resulted in precipitation of the gold and its associated minerals ... [173] ... In the lower levels the patches of highly auriferous ore generally occurred at the intersectons of `flinties' with the veins ...
  Notes:  (Fraser and Adams, Coromandel)
 
  Date:  0/0/1912  
@@ -42909,7 +42913,7 @@ A Gun in My Hand. NZA.
  Notes:  
 
  Date:  0/0/1874  
- Source:  Crusts: a settler’s fare due south
+ Source:  Crusts: a settler's fare due south
  Author:  KENNAWAY
  Vol / Page:  46
  Edition:  
@@ -43581,8 +43585,8 @@ using this anachronism mars a splendid memorial. ... [12] Of all the thirteen te
  Author:  
  Vol / Page:  77/4
  Edition:  
- Quote:  AAPG Bulletin v. 70, no. 8, p. 970-976“Seismic Data Obtained Using .50-Calibre Machine Gun as High-Resolution Seismic 
- Source” – Michael D. Seeber and Don Steeples.- not flogged from Geolog.  (Ed.)
+ Quote:  AAPG Bulletin v. 70, no. 8, p. 970-976'Seismic Data Obtained Using .50-Calibre Machine Gun as High-Resolution Seismic 
+ Source' - Michael D. Seeber and Don Steeples.- not flogged from Geolog.  (Ed.)
  Notes:  
 
  Date:  0/0/1976  
@@ -44632,7 +44636,7 @@ waters.'] (iv) Yellow Flounder.
  Author:  Grace
  Vol / Page:  114
  Edition:  
- Quote:  At night they’d go floundering with lamps and toasting forks or table forks tied to sticks or wire forks that they made with number-eight borrowed from fences.
+ Quote:  At night they'd go floundering with lamps and toasting forks or table forks tied to sticks or wire forks that they made with number-eight borrowed from fences.
  Notes:  
 
  Date:  0/0/1967  
@@ -44685,6 +44689,7 @@ of fish for breakfast.'
  Sense Number: 
  Definition: 
  Origin: [none]
+
  Register: 
  Register 2: 
  Domain: [none]
@@ -44982,7 +44987,7 @@ of fish for breakfast.'
  Author:  
  Vol / Page:  
  Edition:  
- Quote:  an ineffective dog – a flower-pot.
+ Quote:  an ineffective dog - a flower-pot.
  Notes:  
 
  flow-on
@@ -45326,6 +45331,7 @@ on the brain, like smoke in a wheelbarrow' (Kaitaia), `Sheila, crow, bud, frig i
  Register: 
  Register 2: 
  Domain: [none]
+
  Region: [none]
  See: 
  Pronunciation: 
@@ -47857,7 +47863,7 @@ limpets, wilks, gigantic muscles, a foot in length, cockles, sea-ears, sea-eggs,
  Author:  
  Vol / Page:  XXIII 59
  Edition:  
- Quote:  Adam had rigged up two flying-floxes – two long wires across the valleys on which he sent the hay flying across to the ferny slopes on the other side where they fed the cattle. 2. 1982 MAF Agric. Glossary 28 Flying Fox: wire between two dead men used to carry fencing materials when laying out a line in steep hill country.
+ Quote:  Adam had rigged up two flying-floxes - two long wires across the valleys on which he sent the hay flying across to the ferny slopes on the other side where they fed the cattle. 2. 1982 MAF Agric. Glossary 28 Flying Fox: wire between two dead men used to carry fencing materials when laying out a line in steep hill country.
  Notes:  
 
  flying fox
@@ -48359,7 +48365,7 @@ shags. [In the Stout Collection copy, Victoria University Library, an early 19th
  Author:  WESTMACOTT
  Vol / Page:  28
  Edition:  
- Quote:  He had actually been on the flying survey in 1879 …
+ Quote:  He had actually been on the flying survey in 1879 
  Notes:  
 
  flying-camp
@@ -48934,6 +48940,7 @@ hospital staff.
 
  Date:  0/7/2005  
  Source:  Tearaway
+
  Author:  
  Vol / Page:  4
  Edition:  
@@ -50734,7 +50741,7 @@ enthusiastic "footer" man.
  Author:  
  Vol / Page:  [iii]
  Edition:  
- Quote:  Estimate for forming footpath from the corner of Sydney-st. to Willis-st. with stone curb, and totara posts, and thence to Ghuznee-st...£150.0.0
+ Quote:  Estimate for forming footpath from the corner of Sydney-st. to Willis-st. with stone curb, and totara posts, and thence to Ghuznee-st...GBP150.0.0
  Notes:  
 
  Date:  0/0/1928  
@@ -50869,7 +50876,7 @@ enthusiastic "footer" man.
  Homonym Number:  
  Word Class: noun
  Sense Number: 
- Definition:  a disease of cow’s feet [known elsewhere as ''foul-in-the-foot''.] 
+ Definition:  a disease of cow's feet [known elsewhere as ''foul-in-the-foot''.] 
 
 
  Origin: [none]
@@ -50930,6 +50937,7 @@ enthusiastic "footer" man.
  Date:  5/7/2003  
  Source:  Listener (New Zealand Listener)
  Author:  
+
  Vol / Page:  21
  Edition:  
  Quote:  "I mean, <i>Footrot Flats</i> did really well in Australia, but they thought that was theirs, because it plays in 120 newspapers a day."
@@ -52414,7 +52422,7 @@ mobs. They communicate with the forwarding yards, or diamond pens, which are muc
  Author:  ACLAND
  Vol / Page:  135
  Edition:  
- Quote:  ‘Billy Goosberry' afterwards became fordman at Coppin's Ford on the Rangitata.
+ Quote:  'Billy Goosberry' afterwards became fordman at Coppin's Ford on the Rangitata.
  Notes:  
 
  fore
@@ -52560,6 +52568,7 @@ mobs. They communicate with the forwarding yards, or diamond pens, which are muc
  Register: 
  Register 2: 
  Domain: [none]
+
  Region: [none]
  See: 
  Pronunciation: 
@@ -52836,6 +52845,7 @@ and are totally different in their appearance from those of New South Wales and 
  Domain: [none]
  Region: [none]
  See: 
+
  Pronunciation: 
  Notes: 
  Citations 
@@ -53046,7 +53056,7 @@ and are totally different in their appearance from those of New South Wales and 
  Author:  
  Vol / Page:  
  Edition:  
- Quote:  Their reward is seeing the return of native animals to the island, including kâkâriki, North Island robin, tuatara, giant weta, and forest geckos.
+ Quote:  Their reward is seeing the return of native animals to the island, including kakariki, North Island robin, tuatara, giant weta, and forest geckos.
  Notes:  
 
  forest park
@@ -54003,7 +54013,7 @@ and are totally different in their appearance from those of New South Wales and 
  Author:  ANDERSON
  Vol / Page:  99
  Edition:  
- Quote:  I was given a cheque for £70. The forkies got £70 too.
+ Quote:  I was given a cheque for GBP70. The forkies got GBP70 too.
  Notes:  
 
  Date:  0/0/1976  
@@ -54158,6 +54168,7 @@ and are totally different in their appearance from those of New South Wales and 
  Origin: 
  Register: 
  Register 2: 
+
  Domain: [none]
  Region: [none]
  See: 
@@ -54553,7 +54564,7 @@ and are totally different in their appearance from those of New South Wales and 
  Author:  BARRER
  Vol / Page:  33
  Edition:  
- Quote:  “The Britain of the South” with its vaunted climate and scenery attracted them, and especially the forty-acre system .. Disillusionment awaited them.
+ Quote:  'The Britain of the South' with its vaunted climate and scenery attracted them, and especially the forty-acre system .. Disillusionment awaited them.
  Notes:  
 
  forty-acre system
@@ -56010,7 +56021,7 @@ dares to voice a dissenting opinion.
  Author:  
  Vol / Page:  24
  Edition:  
- Quote:  [Caption] We had a little ‘billy-cart' - a box with a couple of wheels on it and a shaft - and we
+ Quote:  [Caption] We had a little 'billy-cart' - a box with a couple of wheels on it and a shaft - and we
 
 used to go down to the wharf when the coal boats were coming in, and take a length of four-by-two with us.
  Notes:  
@@ -56563,7 +56574,7 @@ sheep is a lamb until weaned. After weaning a lamb  is called a hogget until sho
  Author:  Geary, David
  Vol / Page:  69
  Edition:  
- Quote:  The other side of Courtenay Place is such an awful eyesore. — Yes, it’s like a huge molar has been pulled. — And the Fowl House looks like a set of false teeth. — Yes, yes, I suppose it does.
+ Quote:  The other side of Courtenay Place is such an awful eyesore. - Yes, it's like a huge molar has been pulled. - And the Fowl House looks like a set of false teeth. - Yes, yes, I suppose it does.
  Notes:  
 
  fowl-fucker
@@ -56920,6 +56931,7 @@ foxed.
  Region: [none]
  See: 
  Pronunciation: 
+
  Notes: 
  Citations 
  Date:  0/0/1919  
@@ -57063,7 +57075,7 @@ foxed.
  Author:  Owen Marshall
  Vol / Page:  146
  Edition:  
- Quote:  ‘He has these discussions with his dog, a runt of a fox terrier... He has discussion about politics, bowel movements and diet, leaving pauses for the foxie to reply, and then carrying on as if it has.’
+ Quote:  'He has these discussions with his dog, a runt of a fox terrier... He has discussion about politics, bowel movements and diet, leaving pauses for the foxie to reply, and then carrying on as if it has.'
  Notes:  
 
  Date:  0/2/1999  
@@ -57079,7 +57091,7 @@ foxed.
  Author:  
  Vol / Page:  40
  Edition:  
- Quote:  [Caption] The smooth-haired ‘foxie’ probably
+ Quote:  [Caption] The smooth-haired 'foxie' probably
 
 developed later than the wire-haired type.
  Notes:  
@@ -58367,7 +58379,7 @@ make up for the loss of customs revenues.
  Author:  
  Vol / Page:  1
  Edition:  
- Quote:  The Government must provide more funding for the Crown to buy out the lessee’s interest in those lease with outstanding conservation, landscape and recreation values, where there is little land suitable for freeholding.
+ Quote:  The Government must provide more funding for the Crown to buy out the lessee's interest in those lease with outstanding conservation, landscape and recreation values, where there is little land suitable for freeholding.
  Notes:  
 
  freeloader
@@ -60362,7 +60374,7 @@ Also known as Spotted Stargazer. <i>Ibid.</i> 100 FRENCHMAN Another name for Fla
  Author:  
  Vol / Page:  
  Edition:  
- Quote:  a newly shorn sheep – a fresh coat.
+ Quote:  a newly shorn sheep - a fresh coat.
  Notes:  
 
  fresh food section
@@ -61832,7 +61844,7 @@ and the Friendly Road.
  Author:  
  Vol / Page:  19
  Edition:  
- Quote:  I am a "Friendly Rodent." Pardon, I mean "Friendly Roadian." Perhaps if I keep following the Friendly Road, I'll get a job worth £1500 a year some day.
+ Quote:  I am a "Friendly Rodent." Pardon, I mean "Friendly Roadian." Perhaps if I keep following the Friendly Road, I'll get a job worth GBP1500 a year some day.
  Notes:  
 
  Date:  24/11/1937  
@@ -61840,7 +61852,7 @@ and the Friendly Road.
  Author:  
  Vol / Page:  1
  Edition:  
- Quote:  The Government had paid altogether £2100 for the Friendly Road Station, which, today, is 1ZB, a Government Commercial Station.
+ Quote:  The Government had paid altogether GBP2100 for the Friendly Road Station, which, today, is 1ZB, a Government Commercial Station.
  Notes:  
 
  Friendship
@@ -63348,7 +63360,7 @@ Labour president Mr Jim Knox said yesterday.
  Author:  
  Vol / Page:  5
  Edition:  
- Quote:  But he would venture to say that if they looked from the Three Kings to the Snares they would see a number of diverse interests which had sprung up under the provincial system – diverse but yet bearing close analogy – which could not have done so under any other system.
+ Quote:  But he would venture to say that if they looked from the Three Kings to the Snares they would see a number of diverse interests which had sprung up under the provincial system - diverse but yet bearing close analogy - which could not have done so under any other system.
  Notes:  
 
  Date:  0/0/1927  
@@ -63396,7 +63408,7 @@ Labour president Mr Jim Knox said yesterday.
  Notes: 
  Citations 
  Date:  0/0/1874  
- Source:  Crusts: a settler’s fare due south
+ Source:  Crusts: a settler's fare due south
  Author:  KENNAWAY
  Vol / Page:  216
  Edition:  
@@ -63780,7 +63792,7 @@ Labour president Mr Jim Knox said yesterday.
  Author:  ACLAND
  Vol / Page:  133
  Edition:  
- Quote:  The front-country runs south of the Rangitata were …
+ Quote:  The front-country runs south of the Rangitata were 
  Notes:  
 
  front hills
@@ -63976,7 +63988,7 @@ others drove an inclined drift from point to the southward of the back lead for 
  Notes: 
  Citations 
  Date:  0/0/1874  
- Source:  Crusts: a settler’s fare due south
+ Source:  Crusts: a settler's fare due south
  Author:  KENNAWAY
  Vol / Page:  143
  Edition:  
@@ -65343,7 +65355,7 @@ Frozen L&P and the Kiwi Brekkie McMuffin.
  Author:  Philippa Swan
  Vol / Page:  52
  Edition:  
- Quote:  ‘Becky, don’t you ever worry about the sort of people attracted to a life coach?’ ‘Fruitloops?’
+ Quote:  'Becky, don't you ever worry about the sort of people attracted to a life coach?' 'Fruitloops?'
  Notes:  
 
  Date:  20/9/2004  
@@ -66227,6 +66239,7 @@ sometimes more.
 
 
  Notes:  
+
 
  fuchsia
  Homonym Number:  
@@ -67217,7 +67230,7 @@ the branches in loose braids.
  Author:  ANDERSON
  Vol / Page:  42
  Edition:  
- Quote:  Each year it [sc. a sheep] cuts two more until it has eight teeth, which is a ‘full' mouth.
+ Quote:  Each year it [sc. a sheep] cuts two more until it has eight teeth, which is a 'full' mouth.
  Notes:  
 
  full mouth
@@ -69205,7 +69218,7 @@ the branches in loose braids.
  Author:  
  Vol / Page:  2
  Edition:  
- Quote:  It is pointed out that the monopoly protested against would curtail the means of employment of a number of residents of Stewart’s Island, Riverton, and the Bluff, who for years past have been accustomed to join in fur seal expeditions.
+ Quote:  It is pointed out that the monopoly protested against would curtail the means of employment of a number of residents of Stewart's Island, Riverton, and the Bluff, who for years past have been accustomed to join in fur seal expeditions.
  Notes:  
 
  Date:  19/10/1922  

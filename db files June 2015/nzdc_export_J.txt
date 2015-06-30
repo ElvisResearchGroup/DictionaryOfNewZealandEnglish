@@ -983,7 +983,7 @@ Source:  Shooting from the Lip
 Author:  HUGHES
 Vol / Page:  25
 Edition:  
-Quote:  As a safety precaution, the army permitted soldiers to carry their own food to add to the ration packs. These were colloquially known as ‘jack rations.'
+Quote:  As a safety precaution, the army permitted soldiers to carry their own food to add to the ration packs. These were colloquially known as 'jack rations.'
 
 
 Notes:  
@@ -1146,7 +1146,7 @@ jackass bird
  Homonym Number:  
 Word Class: noun
 Sense Number: 
-Definition: ?=jack--> n²., jack penguin.
+Definition: ?=jack--> n2., jack penguin.
 Origin: [none]
 Register: 
 Register 2: 
@@ -1307,7 +1307,7 @@ Source:  Merriam-Webster Third International
 Author:  
 Vol / Page:  2024
 Edition:  
-Quote:  <i>Jack´.bird´.</i> (j&abreve.k´.b&etilde.rd´.), n. (Zoö.l.) A passerine bird of New Zealand (<i>Creadion cinereus</I>), resembling the starling; also, less correctly, the saddleback (<I>C. carunculatus</I>), which was formerly supposed to be the adult form of <i> C. cinereus. </i>
+Quote:  <i>JackZ.birdZ.</i> (j&abreve.kZ.b&etilde.rdZ.), n. (Zoo.l.) A passerine bird of New Zealand (<i>Creadion cinereus</I>), resembling the starling; also, less correctly, the saddleback (<I>C. carunculatus</I>), which was formerly supposed to be the adult form of <i> C. cinereus. </i>
 
 
 Notes:  
@@ -2387,7 +2387,7 @@ Source:  Uncle's Story, The
 Author:  Ihimaera
 Vol / Page:  322
 Edition:  
-Quote:  ‘The whole conference is a jack-up,’ she said. ‘It’s been rigged and we’ve been hoodwinked into coming.’
+Quote:  'The whole conference is a jack-up,' she said. 'It's been rigged and we've been hoodwinked into coming.'
 Notes:  
 
 Date:  0/0/1980 
@@ -2970,6 +2970,8 @@ Notes:
 Date:  13/2/2004 
 Source:  Dominion Post
 Author:  
+
+
 
 
 Vol / Page:  B15
@@ -3666,6 +3668,7 @@ Source:  NZ Observer
 Author:  
 Vol / Page:  4
 Edition:  
+
 Quote:  G.F. Spooner, of Tauranga, is one of the modern types of jaipays.
 Notes:  
 
@@ -4832,7 +4835,7 @@ Source:  Huia 6: Contemp. Maori Fiction
 Author:  
 Vol / Page:  65
 Edition:  
-Quote:  I slip on my jandals, because it’s winter and I like people to know that I am strong and do not follow the closed-toed crowd.
+Quote:  I slip on my jandals, because it's winter and I like people to know that I am strong and do not follow the closed-toed crowd.
 
 
 Notes:  
@@ -5310,7 +5313,7 @@ Source:  Hooked
 Author:  JOHNSON
 Vol / Page:  242
 Edition:  
-Quote:  Two grades of snapper were now listed: premium (generally known as ‘Jap-pack’) and ordinary.<i>Ibid.</i>
+Quote:  Two grades of snapper were now listed: premium (generally known as 'Jap-pack') and ordinary.<i>Ibid.</i>
 
 305-6 By the time the fish was iced down it could be 10 or even 12 hours. By that time much of it was bruised and scaled, and as a result downgraded from Jap-pack to local snapper when it arrived at the factory.
 Notes:  
@@ -5934,10 +5937,8 @@ Source:  Dictionary of Slang
 Author:  PARTRIDGE
 Vol / Page:  435
 Edition:  
-Quote:  Jay. 3. A simpleton (occ. as j): coll. (- 1889); ob. (Ware dates it at 1880.) Punch, Feb. 22, 1890, `She must be a fair j as a mater.' The j prob. abbr. juggins. Its U.S. origin shows clearly in C. 20 nuance, a fool, and in the New Zealand  c. sense (-1932), an easy victim. 
-
-
-Notes:  
+Quote:  Jay. 3. A simpleton (occ. as j) coll. (- 1889); ob. (Ware dates it at 1880.) Punch, Feb. 22, 1890, `She must be a fair j as a mater.' The j prob. abbr. juggins. Its U.S. origin shows clearly in C. 20 nuance, a fool, and in the New Zealand  c. sense (-1932), an easy victim. 
+Notes:
 
 Date:  0/0/1949 
 Source:  Dictionary of the Underworld
@@ -6261,6 +6262,7 @@ Notes:
  Citations 
 Date:  17/12/2003 
 Source:  Dominion Post
+
 Author:  
 Vol / Page:  B3
 Edition:  
@@ -7924,7 +7926,7 @@ Source:  Looking Back
 Author:  SINCLAIR & HARREX
 Vol / Page:  92
 Edition:  
-Quote:  The crane [sc. for stacking hay] was called a ‘jib-stacker' and picked up the hay from the sleds with a metal ‘grab'.
+Quote:  The crane [sc. for stacking hay] was called a 'jib-stacker' and picked up the hay from the sleds with a metal 'grab'.
 
 
 Notes:  
@@ -7962,6 +7964,7 @@ Origin: [none]
 Register: 
 Register 2: 
 Domain: [none]
+
 Region: [none]
 See: 
 Pronunciation: 
@@ -8603,7 +8606,7 @@ Source:  NZ Memories
 Author:  
 Vol / Page:  74/34
 Edition:  
-Quote:  They [railway gangers] gave us a lift back up through the tunnel on their jigger to Arthur’s Pass.
+Quote:  They [railway gangers] gave us a lift back up through the tunnel on their jigger to Arthur's Pass.
 Notes:  
 
 Date:  20/5/2000 
@@ -9776,7 +9779,7 @@ Source:  Merriam-Webster Third International
 Author:  
 Vol / Page:  2024
 Edition:  
-Quote:  Jin´.gle (j&ibreve.n´.g'l), n. [Add.] 4. A kind of public vehicle, common in Melbourne about 1860-80, but now obsolete. The jingle was a two-wheeled car drawn by one horse. The front seat accomodated the driver and two passengers; the back seat carried three passengers, back to back with those in front, with their feet on a narrow footboard. The whole was covered by a tilt. 
+Quote:  JinZ.gle (j&ibreve.nZ.g'l), n. [Add.] 4. A kind of public vehicle, common in Melbourne about 1860-80, but now obsolete. The jingle was a two-wheeled car drawn by one horse. The front seat accomodated the driver and two passengers; the back seat carried three passengers, back to back with those in front, with their feet on a narrow footboard. The whole was covered by a tilt. 
 
 
 Notes:  
@@ -10152,7 +10155,7 @@ Source:  Merriam-Webster Third International
 Author:  
 Vol / Page:  2024
 Edition:  
-Quote:  Jink´.er (j&ibreve.nk´.&etilde.r), n. A two-wheeled or four-wheeled contrivance much used in the bush for carrying long trunks of trees.  In the four-wheeled jinker the hind wheels are much larger than the front pair and the two axles are joined by a central longitudinal beam, under which the tree trunk is slung by means of chains. The two-wheeled jinker has a bow-shaped axle, to which one end of the trunk is slung, the other being allowed to drag on the ground. The 
+Quote:  JinkZ.er (j&ibreve.nkZ.&etilde.r), n. A two-wheeled or four-wheeled contrivance much used in the bush for carrying long trunks of trees.  In the four-wheeled jinker the hind wheels are much larger than the front pair and the two axles are joined by a central longitudinal beam, under which the tree trunk is slung by means of chains. The two-wheeled jinker has a bow-shaped axle, to which one end of the trunk is slung, the other being allowed to drag on the ground. The 
 
 jinker, slightly modified, is sometimes used for moving wooden buildings. 
 
@@ -10766,7 +10769,7 @@ Source:  Speaking for Ourselves
 Author:  OWEN & PERKINS
 Vol / Page:  62
 Edition:  
-Quote:  If he wasn't a good man at the end of a saw - some blokes were ‘jockeys', they rode it - well, he wouldn't last long in the bush as far as his work was concerned.
+Quote:  If he wasn't a good man at the end of a saw - some blokes were 'jockeys', they rode it - well, he wouldn't last long in the bush as far as his work was concerned.
 
 
 Notes:  
@@ -12864,7 +12867,7 @@ Source:  Blindsight
 Author:  Gee
 Vol / Page:  171
 Edition:  
-Quote:  And no, she said, they hadn’t called the police: ‘We don’t go much on the John-hops round here.’
+Quote:  And no, she said, they hadn't called the police: 'We don't go much on the John-hops round here.'
 Notes:  
 
 Date:  12/10/1956 
@@ -13483,7 +13486,7 @@ Source:  Disputed Ground
 Author:  BODDY & MATTHEWS
 Vol / Page:  261
 Edition:  
-Quote:  ‘Johnny Gee' is the pet name of methylated spirits.
+Quote:  'Johnny Gee' is the pet name of methylated spirits.
 Notes:  This cit is from 1933 Observer 4 May page unknown
 
 Date:  0/0/1938 
@@ -14079,7 +14082,7 @@ Vol / Page:
 Edition:  
 Quote:  267 The basic principle was that joint ventures should fish stocks not already being taken by New Zealand fishermen, and not likely to be fished by them in the near future. The fishing of these stocks should require catching capacity and know-how beyond what was available in New Zealand.<i>Ibid.</i>
 
-268 The 72-metre <i>Banshu Maru</i> No. 8 began fishing offshore waters in 1979 for a joint venture between Watties and the Japanese fishing company Taiyo, and operations like this provided some fish for local processing and built up New Zealand’s offshore fish catch.
+268 The 72-metre <i>Banshu Maru</i> No. 8 began fishing offshore waters in 1979 for a joint venture between Watties and the Japanese fishing company Taiyo, and operations like this provided some fish for local processing and built up New Zealand's offshore fish catch.
 Notes:  
 
 Date:  11/5/2002 
@@ -14584,7 +14587,7 @@ Source:  English Language in Aust. & NZ, The
 Author:  
 Vol / Page:  124
 Edition:  
-Quote:  Among colloquialisms, joker (32)[per 500,000 counted words in Queensland] in the sense of `man' is not confined to Australia, though more frequent there than in England. In the Queenland count  it was less common than chap (409) or bloke (176), but it would be likely to rank higher in New Zealand, where it is very common not only alone but in the phrases  you jokers and a decent joker (a  general term of approval). It is used (repeated as he) as an equivalent  of an absolute indefinite pronoun, corresponding to standard one. `They ask one if one is serious' becomes `They ask a joker if he is serious'. With a negative verb it replaces no one. `No one can remember everything' would be colloquially `a joker can't remember everything' ‘
+Quote:  Among colloquialisms, joker (32)[per 500,000 counted words in Queensland] in the sense of `man' is not confined to Australia, though more frequent there than in England. In the Queenland count  it was less common than chap (409) or bloke (176), but it would be likely to rank higher in New Zealand, where it is very common not only alone but in the phrases  you jokers and a decent joker (a  general term of approval). It is used (repeated as he) as an equivalent  of an absolute indefinite pronoun, corresponding to standard one. `They ask one if one is serious' becomes `They ask a joker if he is serious'. With a negative verb it replaces no one. `No one can remember everything' would be colloquially `a joker can't remember everything' '
 
 
 Notes:  
@@ -14760,7 +14763,7 @@ Source:  Geological Society of NZ Newsletter
 Author:  
 Vol / Page:  45/7,9
 Edition:  
-Quote:  When the Canterbury Museum party was landed there it was with some puzzlement that we watched the two helicopter crews (6) and a total of 5 ‘jolly riders’ disappear to the four corners of the nunatak.  [9]  Although I have not visited the crater personally, I have heard from New Zealanders working there that American helicopter crews and ‘jolly riders’ seem to have an unfortunate habit of scooping up (sometimes with shovels) the crystals of Anorthoclase feldspar that are left around the vent after eruption.
+Quote:  When the Canterbury Museum party was landed there it was with some puzzlement that we watched the two helicopter crews (6) and a total of 5 'jolly riders' disappear to the four corners of the nunatak.  [9]  Although I have not visited the crater personally, I have heard from New Zealanders working there that American helicopter crews and 'jolly riders' seem to have an unfortunate habit of scooping up (sometimes with shovels) the crystals of Anorthoclase feldspar that are left around the vent after eruption.
 Notes:  
 
 jolt head nail
@@ -15126,6 +15129,7 @@ Notes:
 Date:  0/0/1989 
 Source:  Kiwi Baby Boomers
 Author:  McGILL
+
 Vol / Page:  80
 Edition:  
 Quote:  Birthdays were the only time we had cakes with bits of jubes stuck on them, among the hundreds and thousands.
@@ -15258,7 +15262,7 @@ Source:  Nelson Mail
 Author:  
 Vol / Page:  
 Edition:  
-Quote:  The sheep is a ‘pet’ sheep at the plant because it doesn’t go through the chain. Known as the Judas sheep, it instead leads the other lambs and sheep from the paddocks into the outside or covered yards before slaughter.
+Quote:  The sheep is a 'pet' sheep at the plant because it doesn't go through the chain. Known as the Judas sheep, it instead leads the other lambs and sheep from the paddocks into the outside or covered yards before slaughter.
 Notes:  
 
 judder bar
@@ -15673,7 +15677,9 @@ Author:
 Vol / Page:  1
 Edition:  
 Quote:  [Hdg] King of the jumps.
-Notes: June 1
+Notes: 
+
+June 1
  Homonym Number:  
 Word Class: noun
 Sense Number:  1
@@ -15777,7 +15783,7 @@ just job
  Homonym Number:  
 Word Class: noun
 Sense Number:  1
-Definition: a task done with short notice by on-call farm labour [ usually farmers’ wives.]
+Definition: a task done with short notice by on-call farm labour [ usually farmers' wives.]
 
 
 Origin: [none]
@@ -15912,3 +15918,5 @@ Vol / Page:  200
 Edition:  
 Quote:  There will be a decreased availability of the on-call farm labour (just-jobbers) which has hitherto been an essential ingredient of the farm labour force.
 Notes:  
+
+

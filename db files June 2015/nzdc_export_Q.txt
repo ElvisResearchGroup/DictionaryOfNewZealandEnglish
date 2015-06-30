@@ -239,7 +239,7 @@ Source: NZ Journal of Agriculture
 Author: 
 Vol / Page: 21
 Edition: 
-Quote: Quad Area on short head and yard courses - 20 metres by 5 metres - from where a competitor casts his dog. The dog, in turn, must pull the sheep into the quad. They must come in the front door - the front line of the quad, facing the pull …
+Quote: Quad Area on short head and yard courses - 20 metres by 5 metres - from where a competitor casts his dog. The dog, in turn, must pull the sheep into the quad. They must come in the front door - the front line of the quad, facing the pull...
 Notes: 
 
 Date: 0/3/1984 
@@ -840,20 +840,20 @@ Edition:
 Quote: <i>The Quail-hawk - Kare-wa-rewa ...</i> The Quail-hawk, a true Falcon, with a distinctly toothed bill, stands at the head of the diurnal birds of prey.
 Notes: 
 
-Date: 0/0/1929 
-Source: NZ Bird Songs
-Author: Duggan
-Vol / Page: 32
-Edition: 
-Quote: And worse than men, the quail-hawk, The bird that keeps no law.
-Notes: 
-
 Date: 17/4/1890 
 Source: Otago Witness
 Author: 
 Vol / Page: 18
 Edition: 
 Quote: The quail hawk (Hieracida novae zealandiae) is common over both islands, and at the Auckland Islands.
+Notes: 
+
+Date: 0/0/1929 
+Source: NZ Bird Songs
+Author: Duggan
+Vol / Page: 32
+Edition: 
+Quote: And worse than men, the quail-hawk, The bird that keeps no law.
 Notes: 
 
 quail on
@@ -1159,7 +1159,7 @@ Source: Grey River Argus
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: London, August 18 All reports from the Midlands testify that the corn harvest and root crops are likely to be exceptionally heavy. The State subsidy to enable the bakers to sell the quarter-loaf at 9d which was estimated at £40,000,000, has now reached £60,000,000.
+Quote: London, August 18 All reports from the Midlands testify that the corn harvest and root crops are likely to be exceptionally heavy. The State subsidy to enable the bakers to sell the quarter-loaf at 9d which was estimated at GBP40,000,000, has now reached GBP60,000,000.
 Notes: 
 
 Date: 12/3/1902 
@@ -1205,7 +1205,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 5
 Edition: 
-Quote: SALE OF BLENHEIM SECTIONS. Quarter-acre sections a mile and a half from town brought £50.
+Quote: SALE OF BLENHEIM SECTIONS. Quarter-acre sections a mile and a half from town brought GBP50.
 Notes: 
 
 Date: 10/12/1877 
@@ -1349,7 +1349,7 @@ Source: Wanganui Herald
 Author: 
 Vol / Page: 6
 Edition: 
-Quote: For Sale - 6-roomed House and full quarter acre, Harrison Street. £575. £50 cash.
+Quote: For Sale - 6-roomed House and full quarter acre, Harrison Street. GBP575. GBP50 cash.
 Notes: 
 
 Date: 0/10/1992 
@@ -1627,7 +1627,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 1
 Edition: 
-Quote: £150 DEPOSIT - 5-rd. Bungalow, ... 1/4-acre section; ...
+Quote: GBP150 DEPOSIT - 5-rd. Bungalow, ... 1/4-acre section; ...
 Notes: 
 
 Date: 0/0/1934 
@@ -1651,7 +1651,7 @@ Source: City of the Plains
 Author: BOYD
 Vol / Page: 27
 Edition: 
-Quote: The highest price for a 1/4-acre section, £52, was paid [on 19 August 1873] by the Napier merchant, S.T.K.Newton.
+Quote: The highest price for a 1/4-acre section, GBP52, was paid [on 19 August 1873] by the Napier merchant, S.T.K.Newton.
 Notes: 
 
 Date: 7/4/1987 
@@ -1899,7 +1899,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 11
 Edition: 
-Quote: Current prices for South Island: Farmers' lots, in average condition .. half or quarter bred, 56's quality, 11½d to 12½d.
+Quote: Current prices for South Island: Farmers' lots, in average condition .. half or quarter bred, 56's quality, 11 1/2d to 12 1/2d.
 Notes: 
 
 Date: 1/3/1900 
@@ -1907,7 +1907,7 @@ Source: Otago Witness
 Author: 
 Vol / Page: 30
 Edition: 
-Quote: Among our top prices are PL conjoined, 4 bales merino, 10¼d half circle overcross, 10 bales halfbred, 9d RBW, merino, 8¾d; A, 4 bales quarterbred, 9d AL, 1 bale halfbred, 8½d ...
+Quote: Among our top prices are PL conjoined, 4 bales merino, 10 1/4d half circle overcross, 10 bales halfbred, 9d RBW, merino, 8 3/4d; A, 4 bales quarterbred, 9d AL, 1 bale halfbred, 8 1/2d ...
 Notes: 
 
 Date: 0/0/1891 
@@ -4029,7 +4029,7 @@ Source: Hooked
 Author: JOHNSON
 Vol / Page: 370
 Edition: 
-Quote: Instead of [commercial fish] quotas being a by-product of a management plan, quotas in effect became the management plan. Although the term was not used immediately, the whole package was soon being described as the QMS – the quota management system.
+Quote: Instead of [commercial fish] quotas being a by-product of a management plan, quotas in effect became the management plan. Although the term was not used immediately, the whole package was soon being described as the QMS - the quota management system.
 Notes: 
 
 Date: 4/2/2002 

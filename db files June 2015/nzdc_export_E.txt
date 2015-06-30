@@ -471,7 +471,7 @@ Source: Norwester
 Author: 
 Vol / Page: 8
 Edition: 
-Quote: St Barnabas reverend Monty Black says it is not the church's intention to force the crèche to close, but that the church needs the building back, to open a full-time Early Childhood Centre next year.
+Quote: St Barnabas reverend Monty Black says it is not the church's intention to force the creche to close, but that the church needs the building back, to open a full-time Early Childhood Centre next year.
 Notes: 
 
 Early Childhood Council
@@ -687,7 +687,7 @@ Source: Lyttelton Times
 Author: 
 Vol / Page: 5
 Edition: 
-Quote: It is not in vanity that we dwell on these passing evidences of the social progress of our settlement, and the growth of the forms and fashions of civilization, — it is rather that these notices may tell our friends in England — friends who are watching our steps with anxious hope, that the trials and difficulties of the early settler's life, have not diminished our taste or capacity for enjoyment, nor wholly deprived us of means of obtaining it.
+Quote: It is not in vanity that we dwell on these passing evidences of the social progress of our settlement, and the growth of the forms and fashions of civilization, - it is rather that these notices may tell our friends in England - friends who are watching our steps with anxious hope, that the trials and difficulties of the early settler's life, have not diminished our taste or capacity for enjoyment, nor wholly deprived us of means of obtaining it.
 Notes: 
 
 Date: 2/12/1862 
@@ -703,7 +703,7 @@ Source: Otago Witness
 Author: 
 Vol / Page: 1
 Edition: 
-Quote: If to-morrow the whole country were thrown open to the  ‘free selector,' his privilege would comparatively be less extensive than that of the early settler who could take his pick of the ‘Otago Block,' or his successor to whom the best land of all the coast country was thrown open.
+Quote: If to-morrow the whole country were thrown open to the  'free selector,' his privilege would comparatively be less extensive than that of the early settler who could take his pick of the 'Otago Block,' or his successor to whom the best land of all the coast country was thrown open.
 Notes: 
 
 Date: 30/9/1891 
@@ -1175,7 +1175,7 @@ Source: Weather Permitting
 Author: HEBERLEY
 Vol / Page: 33
 Edition: 
-Quote: Earlier in the day my mother-in-law had remarked that it was earthquake weather. The day was still... ‘It's the eerie stillness.'
+Quote: Earlier in the day my mother-in-law had remarked that it was earthquake weather. The day was still... 'It's the eerie stillness.'
 Notes: 
 
 Date: 24/5/1986 
@@ -2919,7 +2919,7 @@ Source: NZ Journal of Agriculture
 Author: 
 Vol / Page: 55
 Edition: 
-Quote: Asked whether, in view of the present situation, he considered a farm of 420 acres an economic unit, Mr Harty said .. 'They are sold as an economic unit at the time of settlement, but many of the settlers have substantially increased the carrying capacity far beyond our dreams’ ...
+Quote: Asked whether, in view of the present situation, he considered a farm of 420 acres an economic unit, Mr Harty said .. 'They are sold as an economic unit at the time of settlement, but many of the settlers have substantially increased the carrying capacity far beyond our dreams' ...
 Notes: 
 
 Date: 0/0/1988 
@@ -4705,7 +4705,7 @@ Source: Codes for Species in NZ Waters
 Author: 
 Vol / Page: 
 Edition: 
-Quote: [species name] snubnosed eel .. [scientific name] <i>Simenmchelys parasiticus</i> .. [other name(s)] –
+Quote: [species name] snubnosed eel .. [scientific name] <i>Simenmchelys parasiticus</i> .. [other name(s)] -
 Notes: 
 
 Date: 0/0/1986 
@@ -7495,7 +7495,7 @@ Source: Get on the Waka
 Author: Ihimaera ed.
 Vol / Page: 117
 Edition: 
-Quote: ‘We all love you, e hoa, but your crazy antics...they’re tearing this family apart.’
+Quote: 'We all love you, e hoa, but your crazy antics...they're tearing this family apart.'
 Notes: (Kingi McKinnon)
 
 Date: 15/9/1916 
@@ -8437,7 +8437,7 @@ Source: Gold in the Creek
 Author: McGill
 Vol / Page: 3
 Edition: 
-Quote: Crazy boy, back with him off the streets of Whata, but not off the stuff...thought he didn’t know what they called it, the waccybaccy, electric puha...
+Quote: Crazy boy, back with him off the streets of Whata, but not off the stuff...thought he didn't know what they called it, the waccybaccy, electric puha...
 Notes: 
 
 Date: 6/12/2008 
@@ -8483,7 +8483,7 @@ Source: Otago Witness
 Author: 
 Vol / Page: 53
 Edition: 
-Quote: A large specimen of an electric ray was on view in Mr Stewart's fish shop in Princes street on Monday. It measured 30½in in length and 22in in breadth.
+Quote: A large specimen of an electric ray was on view in Mr Stewart's fish shop in Princes street on Monday. It measured 30 1/2in in length and 22in in breadth.
 Notes: 
 
 Date: 12/5/1883 
@@ -8545,7 +8545,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 6
 Edition: 
-Quote: An electric skate was caught in the Hauraki Gulf by the City Council’s trawler, Cowan, and brought to Auckland on Monday.
+Quote: An electric skate was caught in the Hauraki Gulf by the City Council's trawler, Cowan, and brought to Auckland on Monday.
 Notes: 
 
 Date: 11/4/1883 
@@ -10819,7 +10819,7 @@ Source: Watch of Gryphons
 Author: Owen Marshall
 Vol / Page: 126
 Edition: 
-Quote: In time, his father said, he’d move back into the main bedroom with its en suite and view over the sea, but not for a while.
+Quote: In time, his father said, he'd move back into the main bedroom with its en suite and view over the sea, but not for a while.
 Notes: 
 
 Date: 30/3/2002 
@@ -12578,7 +12578,7 @@ Edition:
 Quote: [Native name] Tawhai .. [Settlers' name] Entire-leaved birch .. [Family] Cupuliferae
 Notes: Kirk
 
-entrée
+entree
 Homonym Number: 
 Word Class:noun
 Sense Number:
@@ -12597,7 +12597,7 @@ Source: NZ Cook's Dictionary, The
 Author: GREIG & HADDAD
 Vol / Page: 147
 Edition: 
-Quote: entrée | FRENCH | In New Zealand an entrée is usually a dish served before the main course.  In a full French menu it is served between the fish and the roast. In America the entrée is usually the main course of a meal.
+Quote: entree | FRENCH | In New Zealand an entree is usually a dish served before the main course.  In a full French menu it is served between the fish and the roast. In America the entree is usually the main course of a meal.
 Notes: 
 
 Date: 0/7/1995 
@@ -12605,7 +12605,7 @@ Source: Cuisine
 Author: 
 Vol / Page: No. 51/104
 Edition: 
-Quote: The dishes are fresh, interesting and very good value with entrées from $8 to $16 and the main courses mainly priced under $20. [108] His menu is short - just six entrées, four mains and four puddings...
+Quote: The dishes are fresh, interesting and very good value with entrees from $8 to $16 and the main courses mainly priced under $20. [108] His menu is short - just six entrees, four mains and four puddings...
 Notes: 
 
 Date: 21/9/2003 
@@ -12613,7 +12613,7 @@ Source: Sunday (Sunday Star Times Magazine)
 Author: 
 Vol / Page: 17
 Edition: 
-Quote: From a brief range of entrées, I choose duck liver paté; he gets portobello mushroom ($12 each).
+Quote: From a brief range of entrees, I choose duck liver pate; he gets portobello mushroom ($12 each).
 Notes: 
 
 entrepreneurial worker
@@ -15345,7 +15345,7 @@ Source: Whakatane Beacon
 Author: 
 Vol / Page: 
 Edition: 
-Quote: The eWânanga International Computer Driving Licence (ICDL) is an internationally recognised qualification for anyone interested in developing their computer skills.
+Quote: The eWananga International Computer Driving Licence (ICDL) is an internationally recognised qualification for anyone interested in developing their computer skills.
 Notes: 
 
 ewe block
@@ -16833,7 +16833,7 @@ Source: Listener (New Zealand Listener)
 Author: 
 Vol / Page: 42
 Edition: 
-Quote: Thirty years ago I auditioned for my first university capping revue, the ‘69 Extravaganza... Vic's revues grew from a long tradition of Extravs filled with parody and bawdy humour.
+Quote: Thirty years ago I auditioned for my first university capping revue, the '69 Extravaganza... Vic's revues grew from a long tradition of Extravs filled with parody and bawdy humour.
 Notes: 
 
 Date: 0/0/1966 
@@ -16841,7 +16841,7 @@ Source: Cappicade
 Author: 
 Vol / Page: 9
 Edition: 
-Quote: Agitators generally provoke demonstrations under the guise of ‘Proceshes' and ‘Extravs.'
+Quote: Agitators generally provoke demonstrations under the guise of 'Proceshes' and 'Extravs.'
 Notes: 
 
 Date: 0/0/1978 
@@ -17313,7 +17313,7 @@ Source: Huia 5: Contemp. Maori Fiction
 Author: 
 Vol / Page: 236
 Edition: 
-Quote: ...he’s the best eye dog I’ve ever owned. Got eyeballs like dart-board bull’s eyes. Paralyses the sheep with them, stops them dead.
+Quote: ...he's the best eye dog I've ever owned. Got eyeballs like dart-board bull's eyes. Paralyses the sheep with them, stops them dead.
 Notes: 
 
 eye roll

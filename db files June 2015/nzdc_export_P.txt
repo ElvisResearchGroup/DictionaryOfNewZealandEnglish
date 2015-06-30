@@ -89,7 +89,7 @@ Source: Lucid
 Author: 
 Vol / Page: No. 9 : 14
 Edition: 
-Quote: Chances are they are into New Zealand's latest drug craze- methamphetamine... New Zealand is coming a of age and ‘P' is here to stay, not just for 2002, and is freely available in the ‘scene'.
+Quote: Chances are they are into New Zealand's latest drug craze- methamphetamine... New Zealand is coming a of age and 'P' is here to stay, not just for 2002, and is freely available in the 'scene'.
 Notes: 
 
 Date: 19/6/2003 
@@ -403,7 +403,7 @@ Source: Get on the Waka
 Author: Ihimaera ed.
 Vol / Page: 17
 Edition: 
-Quote: She had pored over pictures of Hokianga — a seascape of luminous dunes and tides, a landscape of pa sites and legends...
+Quote: She had pored over pictures of Hokianga - a seascape of luminous dunes and tides, a landscape of pa sites and legends...
 Notes: (Lindsay Charman-Love)
 
 Date: 0/0/1769 
@@ -2357,7 +2357,7 @@ Quote: Parks and wife left with 6 old bullocks for the bush, and also packed `Da
 Notes: 1879 Jan 29 T.C. Kiernan Diary in 1921 Guthrie-Smith Tutira 125
 
 Date: 0/0/1874 
-Source: Crusts: a settler’s fare due south
+Source: Crusts: a settler's fare due south
 Author: KENNAWAY
 Vol / Page: 58
 Edition: 
@@ -2435,7 +2435,7 @@ Quote: ... he said he could easily swim across, then I could fasten the packs to
 Notes: 1863 Lauper in 1960 Pascoe (ed) Over the Whitcombe Pass 44 
 
 Date: 0/0/1874 
-Source: Crusts: a settler’s fare due south
+Source: Crusts: a settler's fare due south
 Author: KENNAWAY
 Vol / Page: 187
 Edition: 
@@ -3654,13 +3654,13 @@ See:
 Pronunciation:
 Notes:
 Citations 
-Date: 31/6/1987 
+Date: 30/6/1987 
 Source: Personal Communication
 Author: L BAUER
 Vol / Page: 
 Edition: 
 Quote: Have you noticed the recent use of `pack rape' (e.g. this morning's Morning Report) to replace `gang rape'?
-Notes: 
+Notes: Date input incorrectly as "31/6/1987", changed to "30/6/1987" without verifying correctness.
 
 pack road
 Homonym Number: 
@@ -3953,7 +3953,7 @@ Source: West Coast Times
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: Open to all horses that have been packing regularly in the district for three months prior to the day of the race, and the <i>bonâ fide</i> property of packers living in the Grey Valley District.
+Quote: Open to all horses that have been packing regularly in the district for three months prior to the day of the race, and the <i>bona fide</i> property of packers living in the Grey Valley District.
 Notes: 
 
 Date: 5/1/1866 
@@ -4089,7 +4089,7 @@ Pronunciation:
 Notes:
 Citations 
 Date: 0/0/1874 
-Source: Crusts: a settler’s fare due south
+Source: Crusts: a settler's fare due south
 Author: KENNAWAY
 Vol / Page: 124
 Edition: 
@@ -5545,7 +5545,7 @@ Source: Geological Society of NZ Newsletter
 Author: 
 Vol / Page: 70/32
 Edition: 
-Quote: The valley apparently escaped any further geological attention until 1946 when Brian Mason examined the area by “following the pack trail from Kekerangu [sic] to Coverham, thence up the reiver the Quail Flat. . . .”  (Mason, B. 1958:  The intrusive rocks of the Kaikoura mountains, Marlborough, New Zealand.  Transactions of the Royal Society of New Zealand 85: 247 – 262.)
+Quote: The valley apparently escaped any further geological attention until 1946 when Brian Mason examined the area by "following the pack trail from Kekerangu [sic] to Coverham, thence up the reiver the Quail Flat. . . ."  (Mason, B. 1958:  The intrusive rocks of the Kaikoura mountains, Marlborough, New Zealand.  Transactions of the Royal Society of New Zealand 85: 247 - 262.)
 Notes: 
 
 Date: 0/0/1905 
@@ -5949,7 +5949,7 @@ Source: Waikaka Saga
 Author: EVANS
 Vol / Page: 15
 Edition: 
-Quote: When all the first area of wash had been put through the sluice box, they began on the second ‘paddock'.
+Quote: When all the first area of wash had been put through the sluice box, they began on the second 'paddock'.
 Notes: 
 
 Date: 0/11/1937 
@@ -6057,7 +6057,7 @@ Source: Listener (New Zealand Listener)
 Author: 
 Vol / Page: 4
 Edition: 
-Quote: ‘Creek’ and ‘paddock’ are New Zealandisms, because they mean something quite different in the English of England. It is of some significance that Katherine Mansfield uses both words only in their New Zealand sense.
+Quote: 'Creek' and 'paddock' are New Zealandisms, because they mean something quite different in the English of England. It is of some significance that Katherine Mansfield uses both words only in their New Zealand sense.
 Notes: 
 
 Date: 0/0/1963 
@@ -6567,7 +6567,7 @@ Source: Hawera Star
 Author: 
 Vol / Page: 12
 Edition: 
-Quote: Meaty works cows, paddock cows and fat cattle met spirited competition and prices realised showed a slight advancement on recent rates. Paddock cows, young and in good condition £4.
+Quote: Meaty works cows, paddock cows and fat cattle met spirited competition and prices realised showed a slight advancement on recent rates. Paddock cows, young and in good condition GBP4.
 Notes: 
 
 Date: 20/12/1951 
@@ -6575,7 +6575,7 @@ Source: NZ Farmer
 Author: 
 Vol / Page: 45
 Edition: 
-Quote: Sale realisations were paddock cows £9 to £11.
+Quote: Sale realisations were paddock cows GBP9 to GBP11.
 Notes: 
 
 Date: 30/5/2005 
@@ -7858,7 +7858,7 @@ paddock-grazed
 Homonym Number: 
 Word Class:adjective
 Sense Number: 1
-Definition:[of stock] allocated an entire paddock’s grazing for a short time. 
+Definition:[of stock] allocated an entire paddock's grazing for a short time. 
 Origin:[none]
 Register:
 Register 2:
@@ -8393,7 +8393,7 @@ Source: Railways of NZ
 Author: CHURCHMAN & HURST
 Vol / Page: 196
 Edition: 
-Quote: The mixed train which arrived at Rewanui about 11.30 p, Sunday to Thursday was known as the ‘Paddy Webb' or ‘Bob Semple' after the miners who became Cabinet Ministers in the first Labour Government, and who first arranged this train to make it easier for the miners changing shift at midnight.
+Quote: The mixed train which arrived at Rewanui about 11.30 p, Sunday to Thursday was known as the 'Paddy Webb' or 'Bob Semple' after the miners who became Cabinet Ministers in the first Labour Government, and who first arranged this train to make it easier for the miners changing shift at midnight.
 Notes: 
 
 Paddy's apple
@@ -8825,7 +8825,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2028
 Edition: 
-Quote: <i>Pah</i> (pä.), <i>n.; pl.</i> PAHS (pä.z). [Maori <i>pa</i>.] {Written also<i>a]. 1.</i> A Maori stronghold, fortified with stakes, fences, and ditches. <i>2</i>. A Maori village.
+Quote: <i>Pah</i> (pa.), <i>n.; pl.</i> PAHS (pa.z). [Maori <i>pa</i>.] {Written also<i>a]. 1.</i> A Maori stronghold, fortified with stakes, fences, and ditches. <i>2</i>. A Maori village.
 Notes: 
 
 Date: 2/1/1861 
@@ -10411,7 +10411,7 @@ Source: Poverty Bay Herald
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: At the City Court Fee Fook and Tu Tune were fined £20 or three months for keeping a gambling house where the game of pakapu was played.
+Quote: At the City Court Fee Fook and Tu Tune were fined GBP20 or three months for keeping a gambling house where the game of pakapu was played.
 Notes: 
 
 Date: 0/0/1891 
@@ -10663,7 +10663,7 @@ Source: Taranaki Herald
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: Three Chinese were to-day fined £25 each for selling pak-a-poo tickets.
+Quote: Three Chinese were to-day fined GBP25 each for selling pak-a-poo tickets.
 Notes: 
 
 pakaru
@@ -11175,7 +11175,7 @@ Source: Mana
 Author: 
 Vol / Page: 
 Edition: 
-Quote: Baxter was seeking to establish an alternative Pakeha community that could ‘learn from the Maori side of the fence’.
+Quote: Baxter was seeking to establish an alternative Pakeha community that could 'learn from the Maori side of the fence'.
 Notes: 
 
 Date: 0/0/2005 
@@ -12303,7 +12303,7 @@ Source: Tararua
 Author: 
 Vol / Page: 13/46
 Edition: 
-Quote: Pakihi has in the South Island been borrowed from the Maori for a patch of country naturally clear of bush and is applied particularly to the poor wet land, unsuitable for development, on the West Coast. Haast wrote of ‘pakis or open tracts of land.' in Nelson. As pakihis are frequently surrounded by bush, a bald spot on one's head may be called a pakihi, but that is slang.
+Quote: Pakihi has in the South Island been borrowed from the Maori for a patch of country naturally clear of bush and is applied particularly to the poor wet land, unsuitable for development, on the West Coast. Haast wrote of 'pakis or open tracts of land.' in Nelson. As pakihis are frequently surrounded by bush, a bald spot on one's head may be called a pakihi, but that is slang.
 Notes: 
 
 paki/pakihi
@@ -12593,7 +12593,7 @@ Source: Settler's Handbook of NZ, The
 Author: 
 Vol / Page: 21
 Edition: 
-Quote: On these plateaux are numerous ‘pakihis’ or natural clearings which are mostly extensive tracts of swampy lands ..
+Quote: On these plateaux are numerous 'pakihis' or natural clearings which are mostly extensive tracts of swampy lands ..
 Notes: 
 
 Date: 15/6/1910 
@@ -13131,7 +13131,7 @@ Source: 65 Years of Guides
 Author: 
 Vol / Page: 13/46
 Edition: 
-Quote: <I>Pakihi</I> has in the South Island been borrowed from the Maori for a patch of country naturally clear of bush and is applied particularly to the poor wet land, unsuitable for development, on the West Coast. Haast wrote of ‘pakis or open tracts of land.' in Nelson. As pakihis are frequently surrounded by bush, a bald spot on one's head may be called a pakihi, but that is slang.
+Quote: <I>Pakihi</I> has in the South Island been borrowed from the Maori for a patch of country naturally clear of bush and is applied particularly to the poor wet land, unsuitable for development, on the West Coast. Haast wrote of 'pakis or open tracts of land.' in Nelson. As pakihis are frequently surrounded by bush, a bald spot on one's head may be called a pakihi, but that is slang.
 Notes: 
 
 Date: 0/0/1851 
@@ -13147,7 +13147,7 @@ Source: AJHR
 Author: 
 Vol / Page: D.-4/210
 Edition: 
-Quote: These ‘pakihis" are valueless for agriculture. Absolutely so.
+Quote: These 'pakihis" are valueless for agriculture. Absolutely so.
 Notes: 
 
 Date: 0/0/1966 
@@ -13563,7 +13563,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2028
 Edition: 
-Quote:  Pa-ki&#769;.ri-ki&#769;.ri (pä.-k&emacr.&#769;.rè.-k&emacr.&#769;.rè.; -->colloq. p&adot.-k&ibreve.r&#769;.&ibreve.-k&ibreve.r&#769;.~i), <i>n. </i>[Maori.] <i>(Zoö.l.)</i> The blue cod of New Zealand. <i>[Local, N. Z.] See under COD. </i>
+Quote:  Pa-ki&#769;.ri-ki&#769;.ri (pa.-k&emacr.&#769;.re.-k&emacr.&#769;.re.; -->colloq. p&adot.-k&ibreve.r&#769;.&ibreve.-k&ibreve.r&#769;.~i), <i>n. </i>[Maori.] <i>(Zoo.l.)</i> The blue cod of New Zealand. <i>[Local, N. Z.] See under COD. </i>
 Notes: 
 
 Date: 7/3/1906 
@@ -13743,7 +13743,7 @@ Source: Geological Society of NZ Newsletter
 Author: 
 Vol / Page: 82/45
 Edition: 
-Quote: Starting with a brief account of the geology of this complex area and its significance as a source of pakohe (baked argillite) to Maori adze and tool makers Johnston goes on to give an account of the activities of various prospectors, promoters, business men, investors, and companies during the period that commenced with the discovery of copper in 1852 and ended with the auction of the Maoriland Copper Company’s assets in October 1911.
+Quote: Starting with a brief account of the geology of this complex area and its significance as a source of pakohe (baked argillite) to Maori adze and tool makers Johnston goes on to give an account of the activities of various prospectors, promoters, business men, investors, and companies during the period that commenced with the discovery of copper in 1852 and ended with the auction of the Maoriland Copper Company's assets in October 1911.
 Notes: 
 
 pakohikohi
@@ -14637,7 +14637,7 @@ Source: Six Pack, The
 Author: Philippa Swan
 Vol / Page: 37
 Edition: 
-Quote: I didn’t want Daishen getting the wrong idea about Palmy, you know, Lord of the Rings stuff.
+Quote: I didn't want Daishen getting the wrong idea about Palmy, you know, Lord of the Rings stuff.
 Notes: 
 
 Date: 21/3/2006 
@@ -14935,7 +14935,7 @@ Quote: We have not seen the staging in Wesley Hall so nicely draped before, dark
 Notes: 
 
 Date: 0/0/1874 
-Source: Crusts: a settler’s fare due south
+Source: Crusts: a settler's fare due south
 Author: KENNAWAY
 Vol / Page: 40
 Edition: 
@@ -17947,7 +17947,7 @@ Source: Mana
 Author: 
 Vol / Page: 85/37
 Edition: 
-Quote: Music, panui, and korero are delivered in a ‘whanau friendly’ format, keeping listeners up-to-date with what’s happening in their tribal areas, in both Maori & English.
+Quote: Music, panui, and korero are delivered in a 'whanau friendly' format, keeping listeners up-to-date with what's happening in their tribal areas, in both Maori & English.
 Notes: 
 
 Date: 24/2/2006 
@@ -18052,7 +18052,7 @@ Papa
 Homonym Number: 
 Word Class:noun
 Sense Number:
-Definition:earth goddess in Mâori creation myth, wife of Rangi the sky god.
+Definition:earth goddess in Maori creation myth, wife of Rangi the sky god.
 Origin:Maori
 Register:
 Register 2:
@@ -18741,7 +18741,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 5
 Edition: 
-Quote: The Harbour Board has accepted the tender of Mr. T. O'Connor, Auckland, at £4377, for the removal of papa rock to deepen the entrance to the inner harbour.
+Quote: The Harbour Board has accepted the tender of Mr. T. O'Connor, Auckland, at GBP4377, for the removal of papa rock to deepen the entrance to the inner harbour.
 Notes: 
 
 Date: 11/10/2003 
@@ -19075,7 +19075,7 @@ Source: Pu Kaea
 Author: 
 Vol / Page: 4
 Edition: 
-Quote: On the fifth and final wânanga which was on the 12th - 14th May we took the final journey to her papakâinga at Matahiwi Marae...
+Quote: On the fifth and final wananga which was on the 12th - 14th May we took the final journey to her papakainga at Matahiwi Marae...
 Notes: 
 
 Date: 0/0/1997 
@@ -19702,7 +19702,7 @@ Papatuanuku
 Homonym Number: 
 Word Class:noun
 Sense Number:
-Definition:earth goddess in Mâori creation myth, wife of Rangi(nui) the sky god.
+Definition:earth goddess in Maori creation myth, wife of Rangi(nui) the sky god.
 Origin:Maori
 Register:
 Register 2:
@@ -25539,7 +25539,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: A person sued another for £2 for the detention of a paroquet.   The defendant's counsel asked that the plaintiff be non-suited, on the ground that the paroquet came under the head of <i>ferae naturae</i>, and that any such bird on escaping from its custodian became <i>res nullius</i>, and could not be the subject of larceny or a civil action.
+Quote: A person sued another for GBP2 for the detention of a paroquet.   The defendant's counsel asked that the plaintiff be non-suited, on the ground that the paroquet came under the head of <i>ferae naturae</i>, and that any such bird on escaping from its custodian became <i>res nullius</i>, and could not be the subject of larceny or a civil action.
 Notes: 
 
 Date: 0/0/1872 
@@ -25563,7 +25563,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 4
 Edition: 
-Quote: Following is the prize-list for the Dominion Canary Specialist Club Show, held in St. Thomas's Hall, Newtown, on Saturday :— .. Paroquet. — Miss Petterson 1.
+Quote: Following is the prize-list for the Dominion Canary Specialist Club Show, held in St. Thomas's Hall, Newtown, on Saturday :- .. Paroquet. - Miss Petterson 1.
 Notes: 
 
 Date: 27/7/1905 
@@ -26005,7 +26005,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2028
 Edition: 
-Quote: <i>Par&#769;.rot</i> (p&abreve.r&#769;.r&ubreve.t), <i>n. [Add.] Mountain parrot. (Zoö.l.) </i>See KEA.
+Quote: <i>Par&#769;.rot</i> (p&abreve.r&#769;.r&ubreve.t), <i>n. [Add.] Mountain parrot. (Zoo.l.) </i>See KEA.
 Notes: 
 
 Date: 9/3/1826 
@@ -26643,7 +26643,7 @@ Source: Huia 4: Contemp. Maori Fiction
 Author: 
 Vol / Page: 76
 Edition: 
-Quote: Several times while I was inside Parry could have been the end. I didn’t care.
+Quote: Several times while I was inside Parry could have been the end. I didn't care.
 Notes: 
 
 PARS
@@ -27655,7 +27655,7 @@ Source: NZ Memories
 Author: 
 Vol / Page: 37/50
 Edition: 
-Quote: Conditions were daunting: "our ‘part-house' was small...there was an outside toilet, no house fence and no clothes line. ... (Part Houses were small two bedroom houses constructed on "Rehab" blocks. Many were later incorporated into larger dwellings.)
+Quote: Conditions were daunting: "our 'part-house' was small...there was an outside toilet, no house fence and no clothes line. ... (Part Houses were small two bedroom houses constructed on "Rehab" blocks. Many were later incorporated into larger dwellings.)
 Notes: 
 
 partial impact
@@ -27797,7 +27797,7 @@ Source: Hawera & Normanby Star
 Author: 
 Vol / Page: 8
 Edition: 
-Quote: The Cabinet has decided to aid Professor Bickerton, of Christchurch, to proceed to England and Europe to lay before scientists there his "partial impact theory," subsidising up to £300 any amount that may be raised by subscription.
+Quote: The Cabinet has decided to aid Professor Bickerton, of Christchurch, to proceed to England and Europe to lay before scientists there his "partial impact theory," subsidising up to GBP300 any amount that may be raised by subscription.
 Notes: 
 
 parting
@@ -27909,7 +27909,7 @@ Source: Huia 5: Contemp. Maori Fiction
 Author: 
 Vol / Page: 41
 Edition: 
-Quote: I was only part Maori - or that was how I saw myself. I didn’t know for sure, quarter or eighth.
+Quote: I was only part Maori - or that was how I saw myself. I didn't know for sure, quarter or eighth.
 Notes: 
 
 Date: 0/0/1964 
@@ -28061,7 +28061,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: [Hdg] ‘Kelly Browne' party draws teens... Hundreds of teenagers turned up at a Tawa party last night after it was broadcast on a radio station, creating a ‘Kelly Browne situation" police say.
+Quote: [Hdg] 'Kelly Browne' party draws teens... Hundreds of teenagers turned up at a Tawa party last night after it was broadcast on a radio station, creating a 'Kelly Browne situation" police say.
 Notes: 
 
 Date: 26/3/2000 
@@ -28401,7 +28401,7 @@ Source: Dogside Story
 Author: Grace
 Vol / Page: 100
 Edition: 
-Quote: ‘On the side of the road, clothes all paru, scratches all over, crying, dark...?’
+Quote: 'On the side of the road, clothes all paru, scratches all over, crying, dark...?'
 Notes: 
 
 paru
@@ -30025,7 +30025,7 @@ Source: Star, The
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: Pastoral licenses sold well, one of the Hummock runs, with the upset at £400, realising £790, and one at Nenthorn £1100.
+Quote: Pastoral licenses sold well, one of the Hummock runs, with the upset at GBP400, realising GBP790, and one at Nenthorn GBP1100.
 Notes: 
 
 Date: 16/9/1907 
@@ -30479,7 +30479,7 @@ Source: Politics, Economics & Pastoral Land
 Author: ACKROYD
 Vol / Page: 3
 Edition: 
-Quote: Today’s high country properties, or pastoral runs, comprise land held under an assemblage of titles.
+Quote: Today's high country properties, or pastoral runs, comprise land held under an assemblage of titles.
 Notes: 
 
 Date: 0/0/1902 
@@ -30495,7 +30495,7 @@ Source: MAF Agricultural Glossary
 Author: BELSHAW
 Vol / Page: 32
 Edition: 
-Quote: The ‘Pastoral Runs’ are the poorest of occupied land …
+Quote: The 'Pastoral Runs' are the poorest of occupied land ...
 Notes: 
 
 pastoral show
@@ -31671,7 +31671,7 @@ Source: After-Breakfast Cigar, The
 Author: WESTMACOTT
 Vol / Page: 14
 Edition: 
-Quote: He was only an occasional employee of Mac’s, at ten shillings a day, and this time was there to construct a pataka to store the food where the rats could not reach it.
+Quote: He was only an occasional employee of Mac's, at ten shillings a day, and this time was there to construct a pataka to store the food where the rats could not reach it.
 Notes: 
 
 Date: 0/0/1992 
@@ -32973,7 +32973,7 @@ Source: Wairarapa News
 Author: 
 Vol / Page: 20
 Edition: 
-Quote: The tukutuku is bound by the pâtiki or flounder resembling Wairarapa and an abundance of support...
+Quote: The tukutuku is bound by the patiki or flounder resembling Wairarapa and an abundance of support...
 Notes: 
 
 Date: 1/1/1910 
@@ -33077,7 +33077,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2028
 Edition: 
-Quote: <i>Pa&#769;.ti-ki</i> (pä.&#769;.tè.-kè.; <i>colloq.</i> p&abreve.t&#769;.&ibreve.-k&ibreve.),<i> n. (Zoö.l.) </i>[Maori.] The New Zealand flounder <i>(Rhombosolea monopus),</i> of the family <i>Pleuronectidae. [Local, N. Z.] </i>
+Quote: <i>Pa&#769;.ti-ki</i> (pa.&#769;.te.-ke.; <i>colloq.</i> p&abreve.t&#769;.&ibreve.-k&ibreve.),<i> n. (Zoo.l.) </i>[Maori.] The New Zealand flounder <i>(Rhombosolea monopus),</i> of the family <i>Pleuronectidae. [Local, N. Z.] </i>
 Notes: 
 
 Date: 0/0/1886 
@@ -33597,7 +33597,7 @@ Source: Otago Witness
 Author: 
 Vol / Page: 76
 Edition: 
-Quote: Where yellow patete* is spread to the sun / And yellow taukinae† where clear waters run . . . * Patete, tussock.  †Tuakinae, a native shrub.
+Quote: Where yellow patete* is spread to the sun / And yellow taukinae where clear waters run . . . * Patete, tussock. Tuakinae, a native shrub.
 Notes: 
 
 Date: 0/11/2003 
@@ -35129,7 +35129,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2028
 Edition: 
-Quote: <i>Pa&#769;.u-a</i> (pä.&#769;.u-&adot.;<i> colloq</i>. pä.&#769;.wä. or pou&#769;.&adot.), n. [Maori.] (<i>Zoö.l.</i>) The ear-shell (<i>Haliotis iris</i>); also, a fishhook made by the Maoris from this shell. <i>[Local, N. Z.] </i>
+Quote: <i>Pa&#769;.u-a</i> (pa.&#769;.u-&adot.;<i> colloq</i>. pa.&#769;.wa. or pou&#769;.&adot.), n. [Maori.] (<i>Zoo.l.</i>) The ear-shell (<i>Haliotis iris</i>); also, a fishhook made by the Maoris from this shell. <i>[Local, N. Z.] </i>
 Notes: 
 
 Date: 19/1/2002 
@@ -35175,7 +35175,7 @@ Source: Hooked
 Author: JOHNSON
 Vol / Page: 205
 Edition: 
-Quote: When it was time to pay the fees for [Chatham Islands] children who went to the mainland for secondary school, it was time to pick some paua. It was hardly necessary to get wet feet. Lifting them out of the rock pools was called ‘paua bending’.
+Quote: When it was time to pay the fees for [Chatham Islands] children who went to the mainland for secondary school, it was time to pick some paua. It was hardly necessary to get wet feet. Lifting them out of the rock pools was called 'paua bending'.
 Notes: 
 
 paua diver
@@ -35609,7 +35609,7 @@ Source: Get on the Waka
 Author: Ihimaera ed.
 Vol / Page: 147
 Edition: 
-Quote: Nanny’s eyes were famous - only special people had the blues and greens with, in some lights, the silvery pink sheen of the paua shell in their eyes.
+Quote: Nanny's eyes were famous - only special people had the blues and greens with, in some lights, the silvery pink sheen of the paua shell in their eyes.
 Notes: (Renee)
 
 Date: 0/0/1903 
@@ -36415,7 +36415,7 @@ Source: NZ Dairy Exporter
 Author: 
 Vol / Page: 13
 Edition: 
-Quote: Pawera red clover was sown last year …
+Quote: Pawera red clover was sown last year ...
 Notes: 
 
 Date: 0/9/1985 
@@ -36747,7 +36747,7 @@ Source: Observer (Auckland)
 Author: 
 Vol / Page: 18
 Edition: 
-Quote: WAIHI COMPANY'S return of £6,200 from 2000 tons of rock for the month and the opening up of a large block of pay rock at the lowest level has caused a considerable enquiry for shares at an advanced figure ...
+Quote: WAIHI COMPANY'S return of GBP6,200 from 2000 tons of rock for the month and the opening up of a large block of pay rock at the lowest level has caused a considerable enquiry for shares at an advanced figure ...
 Notes: 
 
 Date: 5/1/1872 
@@ -37123,7 +37123,7 @@ Source: Bay of Plenty Times
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: £1,000 REWARD FOR A PAYABLE GOLDFIELD.
+Quote: GBP1,000 REWARD FOR A PAYABLE GOLDFIELD.
 Notes: 
 
 Date: 15/4/1861 
@@ -38564,7 +38564,7 @@ peak rights
 Homonym Number: 
 Word Class:noun
 Sense Number: 1
-Definition:a penalising policy that limits farmer shareholders’ milk production. 
+Definition:a penalising policy that limits farmer shareholders' milk production. 
 Origin:[none]
 Register:
 Register 2:
@@ -40357,7 +40357,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 7
 Edition: 
-Quote: A tram conductor was charged in the Magistrate's Court to-day with having stolen a peggy bag containing £14 10s from a lady passenger.
+Quote: A tram conductor was charged in the Magistrate's Court to-day with having stolen a peggy bag containing GBP14 10s from a lady passenger.
 Notes: 
 
 Date: 10/1/1925 
@@ -41309,7 +41309,7 @@ Source: Kingdom in the Hills
 Author: MCLEOD
 Vol / Page: 84
 Edition: 
-Quote: In those days when men were glad of jobs, shearers used to write asking for a ‘pen’, just as the musterers did to ask for a ‘beat’ on the station of their choice.
+Quote: In those days when men were glad of jobs, shearers used to write asking for a 'pen', just as the musterers did to ask for a 'beat' on the station of their choice.
 Notes: 
 
 pen
@@ -42605,7 +42605,7 @@ Source: Hawera & Normanby Star
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: The owner of the schooner Gratitude, from Invercargill, has been fined £25, and the captain £5, for landing a cargo of penguin oil, wrongfully described as whale oil.
+Quote: The owner of the schooner Gratitude, from Invercargill, has been fined GBP25, and the captain GBP5, for landing a cargo of penguin oil, wrongfully described as whale oil.
 Notes: 
 
 penguin pub
@@ -44741,7 +44741,7 @@ Source: Six Pack 3, The
 Author: David Geary
 Vol / Page: 114
 Edition: 
-Quote: Turns out Gary wasn’t actually a fencing contractor in his own right...but he was making fences on a PEP scheme.
+Quote: Turns out Gary wasn't actually a fencing contractor in his own right...but he was making fences on a PEP scheme.
 Notes: 
 
 Date: 27/7/2000 
@@ -45949,7 +45949,7 @@ Source: Penguin History of New Zealand
 Author: Michael King
 Vol / Page: 410
 Edition: 
-Quote: The National Government initially accepted Hunn’s recommendation [1960] that suburban Maori houses should be ‘pepper-potted’ among general state houses, but later abandoned the policy...
+Quote: The National Government initially accepted Hunn's recommendation [1960] that suburban Maori houses should be 'pepper-potted' among general state houses, but later abandoned the policy...
 Notes: 
 
 Date: 8/9/2001 
@@ -46457,7 +46457,7 @@ Source: Geological Society of NZ Newsletter
 Author: 
 Vol / Page: 51/21
 Edition: 
-Quote: 1980 saw the introduction of a new stratigraphic parameter, the Percy.  No longer do geologists illustrate the scale of the outcrop photographs with such mundane objects as hammer, lens caps, 2 cent pieces and bananas.  If in the forefront of geological technique they now take as an essential item of field equipment, Percy Strong.  Such is Percy’s usefulness as a unit of stratigraphic thickness, and so great is the magnetism of his image on screen, that one lecturer introduced his choicest slide with the pronouncement “that’s Percy”, and only then proceeded to describe the rocks.  It is understood that Cathy, with callous disregard for the visual effect on her husband’s figure, is knitting for Percy a cap-a-pie jumpsuit with 100 horizontal stripes so that thin-bedded sequences may be measured in centi-Percies (cPe); and further that Percy himself now steers clear of field trips in areas of steeply-dipping strata, to avoid the necessity of being photographed in a horizontal position in stream beds.
+Quote: 1980 saw the introduction of a new stratigraphic parameter, the Percy.  No longer do geologists illustrate the scale of the outcrop photographs with such mundane objects as hammer, lens caps, 2 cent pieces and bananas.  If in the forefront of geological technique they now take as an essential item of field equipment, Percy Strong.  Such is Percy's usefulness as a unit of stratigraphic thickness, and so great is the magnetism of his image on screen, that one lecturer introduced his choicest slide with the pronouncement "that's Percy", and only then proceeded to describe the rocks.  It is understood that Cathy, with callous disregard for the visual effect on her husband's figure, is knitting for Percy a cap-a-pie jumpsuit with 100 horizontal stripes so that thin-bedded sequences may be measured in centi-Percies (cPe); and further that Percy himself now steers clear of field trips in areas of steeply-dipping strata, to avoid the necessity of being photographed in a horizontal position in stream beds.
 Notes: 
 
 pere
@@ -47187,7 +47187,7 @@ Source: NZ Memories
 Author: 
 Vol / Page: 74/34
 Edition: 
-Quote: David and I started off on the overnight Perishables Train from Christchurch bound for Arthur’s Pass.
+Quote: David and I started off on the overnight Perishables Train from Christchurch bound for Arthur's Pass.
 Notes: 
 
 Date: 30/10/2004 
@@ -48737,7 +48737,7 @@ Source: Casual Ramblings
 Author: [WICKHAM]
 Vol / Page: 87
 Edition: 
-Quote: The man who is out of candles or matches must ‘peter' out his nimble sixpence or go to bed in the dark.
+Quote: The man who is out of candles or matches must 'peter' out his nimble sixpence or go to bed in the dark.
 Notes: 
 
 Date: 0/0/1960 
@@ -49909,7 +49909,7 @@ Source: Taranaki Herald
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: A new mode of treating the <i>Phormium tenax</i> by steam had been discovered, by which flax can be made for sale for £15 a ton, at a large profit.
+Quote: A new mode of treating the <i>Phormium tenax</i> by steam had been discovered, by which flax can be made for sale for GBP15 a ton, at a large profit.
 Notes: 
 
 phosphorised oats
@@ -50971,7 +50971,7 @@ Source: Auckland Weekly News
 Author: 
 Vol / Page: 10
 Edition: 
-Quote: £2 an acre would be paid which was more than a man could make at pick-and-shovel work.
+Quote: GBP2 an acre would be paid which was more than a man could make at pick-and-shovel work.
 Notes: 
 
 pickaninny
@@ -51157,7 +51157,7 @@ Source: Timaru Herald
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: 15s to £1 is the general wages paid to pickers up, and a boy usually has to pick up, sweep and tar, for eight shearers.
+Quote: 15s to GBP1 is the general wages paid to pickers up, and a boy usually has to pick up, sweep and tar, for eight shearers.
 Notes: 
 
 Date: 21/1/1903 
@@ -51553,7 +51553,7 @@ Source: From the Top of a Hill
 Author: GASCOIGNE
 Vol / Page: 155
 Edition: 
-Quote: Manu and I waded through the massed sheep; we had already filled the 'crown' and 'picking' pens from the first mob in. The buyer was an old friend who had picked the lambs for me since I had started farming. The crown pen was designed to hold enough sheep to fill the two picking pens twice …
+Quote: Manu and I waded through the massed sheep; we had already filled the 'crown' and 'picking' pens from the first mob in. The buyer was an old friend who had picked the lambs for me since I had started farming. The crown pen was designed to hold enough sheep to fill the two picking pens twice ...
 Notes: 
 
 picking up
@@ -53853,7 +53853,7 @@ Source: Daily Southern Cross
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: Auckland Wools on the London Market .. scoured half-bred piece, U with I under, 3 bales, 1s 2½d...
+Quote: Auckland Wools on the London Market .. scoured half-bred piece, U with I under, 3 bales, 1s 2 1/2d...
 Notes: 
 
 piece of piss
@@ -54513,7 +54513,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 17
 Edition: 
-Quote: Mr. Boult’s list includes the following species:-  Rifleman (one small flock only, well up in the bush), silver-eye, pied tit, goldfinch …
+Quote: Mr. Boult's list includes the following species:-  Rifleman (one small flock only, well up in the bush), silver-eye, pied tit, goldfinch ...
 Notes: 
 
 pie-heap
@@ -55321,7 +55321,7 @@ Source: Huia 4: Contemp. Maori Fiction
 Author: 
 Vol / Page: 16
 Edition: 
-Quote: Byron picked a path amongst the pig fern and flax, through manuka and foliage where they wouldn’t leave tracks.
+Quote: Byron picked a path amongst the pig fern and flax, through manuka and foliage where they wouldn't leave tracks.
 Notes: 
 
 Date: 19/4/2003 
@@ -57423,7 +57423,7 @@ Source: Daily Southern Cross
 Author: 
 Vol / Page: 4
 Edition: 
-Quote: (Reprinted from the <i>Marlborough Express</i>) One pig-hunter last week earned over £15 at this very profitable calling.
+Quote: (Reprinted from the <i>Marlborough Express</i>) One pig-hunter last week earned over GBP15 at this very profitable calling.
 Notes: 
 
 Date: 4/9/1901 
@@ -57983,7 +57983,7 @@ Source: Drybread
 Author: Owen Marshall
 Vol / Page: 265
 Edition: 
-Quote: Dansey’s Pass often had heavy snow at that time of the year, so Theo took the route through Oamaru and then up the Pigroot from Palmerston.
+Quote: Dansey's Pass often had heavy snow at that time of the year, so Theo took the route through Oamaru and then up the Pigroot from Palmerston.
 Notes: 
 
 Date: 0/0/1889 
@@ -59611,7 +59611,7 @@ Source: Birds of New Zealand
 Author: BULLER
 Vol / Page: 1/63
 Edition: 
-Quote: <i>Anthus novae-zelandiae</i>, Gray, Voy. Ereb. and Terror, Birds, p. 4 (1844) ..Pihoihoi and Whioi; “Ground-Lark” of the colonists.
+Quote: <i>Anthus novae-zelandiae</i>, Gray, Voy. Ereb. and Terror, Birds, p. 4 (1844) ..Pihoihoi and Whioi; "Ground-Lark" of the colonists.
 Notes: 
 
 Date: 0/0/1820 
@@ -61057,7 +61057,7 @@ Source: Star, The
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: Mr Joseph Day, Sumner – Skeleton of Balænoptera Huttoni, male (Hutton’s pike whale), stranded on Sumner beach.
+Quote: Mr Joseph Day, Sumner - Skeleton of Balaenoptera Huttoni, male (Hutton's pike whale), stranded on Sumner beach.
 Notes: 
 
 Date: 16/6/1892 
@@ -63909,7 +63909,7 @@ Source: Mana
 Author: 
 Vol / Page: 84/67
 Edition: 
-Quote: Toss over a pillie, a jig or a soft bait and drift. More often than not you’ll catch a fish in such circumstances.
+Quote: Toss over a pillie, a jig or a soft bait and drift. More often than not you'll catch a fish in such circumstances.
 Notes: 
 
 pilot
@@ -65131,7 +65131,7 @@ Source: Press, The
 Author: 
 Vol / Page: 15
 Edition: 
-Quote: <i>~ Black p</i>. Podocarpus spicatus. Called <i>matai</i> in the North Island and, I am told, <i>red pine</i> in Nelson, Our <i>r.p. (Dacrydium cupressinum)</i> is <i>rimu</i> in the north and our white (<i>Podocarpus dacrydioides)</i> is <i>kahikatea</i>. ©.) eg 1841 Stephens Letters 22 Red and white pine.
+Quote: <i>~ Black p</i>. Podocarpus spicatus. Called <i>matai</i> in the North Island and, I am told, <i>red pine</i> in Nelson, Our <i>r.p. (Dacrydium cupressinum)</i> is <i>rimu</i> in the north and our white (<i>Podocarpus dacrydioides)</i> is <i>kahikatea</i>.) eg 1841 Stephens Letters 22 Red and white pine.
 Notes: Acland Glossary
 
 Date: 0/0/1966 
@@ -66717,7 +66717,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 6
 Edition: 
-Quote: Mr. Crompton Smith’s letter may have satisfied your readers that there is little likelihood of the Terraces at Rotomahana ever being seen again;  but I should like to supplement his letter with a description of the scene, Lake Rotomahana, immediately after the outburst.
+Quote: Mr. Crompton Smith's letter may have satisfied your readers that there is little likelihood of the Terraces at Rotomahana ever being seen again;  but I should like to supplement his letter with a description of the scene, Lake Rotomahana, immediately after the outburst.
 Notes: 
 
 Date: 0/9/2003 
@@ -66851,7 +66851,7 @@ Source: Man of the People, A
 Author: Geary
 Vol / Page: 12
 Edition: 
-Quote: I had a dream about a dero. He’d got pissed, and turned up too late to sleep at the night shelter. Had to break into a building site to bed down. Covered himself in Pink Batts.
+Quote: I had a dream about a dero. He'd got pissed, and turned up too late to sleep at the night shelter. Had to break into a building site to bed down. Covered himself in Pink Batts.
 Notes: 
 
 Date: 5/5/2001 
@@ -69847,7 +69847,7 @@ Source: Get on the Waka
 Author: 
 Vol / Page: Ihimaera ed.
 Edition: 155
-Quote: The pipi were delicious and salty, raw or cooked. The kuia had their backs to us, selling the rewena bread and pottles of pipi...and they didn’t see how much we ate.
+Quote: The pipi were delicious and salty, raw or cooked. The kuia had their backs to us, selling the rewena bread and pottles of pipi...and they didn't see how much we ate.
 Notes: (Alice Tawhai)
 
 Date: 0/0/1973 
@@ -70051,7 +70051,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 18
 Edition: 
-Quote: Indeed, pipis abounded in many places along the main beach, while other shellfish made their homes on the rocks, and even when the winning of land from the sea had removed some of the sources of supply there were — right up to less than two decades ago — well stocked pipi beds at Pipitea and Evans Bay, and in Oriental Bay, where Maoris used to improve the shining hour by obtaining supplies, not only for their own use but for European tables — it was a common sight to see Maori women carrying flax kits of pipis from house to house for sale.
+Quote: Indeed, pipis abounded in many places along the main beach, while other shellfish made their homes on the rocks, and even when the winning of land from the sea had removed some of the sources of supply there were - right up to less than two decades ago - well stocked pipi beds at Pipitea and Evans Bay, and in Oriental Bay, where Maoris used to improve the shining hour by obtaining supplies, not only for their own use but for European tables - it was a common sight to see Maori women carrying flax kits of pipis from house to house for sale.
 Notes: 
 
 Date: 27/12/1924 
@@ -71311,7 +71311,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2029
 Edition: 
-Quote: <i>Pi&#769;.ri-pi&#769;.ri</i> (p&emacr.&#769;.rè.-p&emacr.&#769;.r|e;<i> colloq</i>. p&ibreve.r&#769;.&ibreve.-p&ibreve.r&#769;.~i), <i>n</i>. [Maori.] <i>(Bot.)</i> A saxifragaceous tree of New Zealand <i>(Carodetus serratus)</i>; - called also <i>white mapau, white maple</i>, and <i>birch.</i> It bears a cluster of black berries, resembling those of the ivy, and called by settlers <i>biddy-biddy</i> or <i>biddy-bid</i>. See BIDDY-BID.
+Quote: <i>Pi&#769;.ri-pi&#769;.ri</i> (p&emacr.&#769;.re.-p&emacr.&#769;.r|e;<i> colloq</i>. p&ibreve.r&#769;.&ibreve.-p&ibreve.r&#769;.~i), <i>n</i>. [Maori.] <i>(Bot.)</i> A saxifragaceous tree of New Zealand <i>(Carodetus serratus)</i>; - called also <i>white mapau, white maple</i>, and <i>birch.</i> It bears a cluster of black berries, resembling those of the ivy, and called by settlers <i>biddy-biddy</i> or <i>biddy-bid</i>. See BIDDY-BID.
 Notes: 
 
 Date: 0/0/1853 
@@ -73819,7 +73819,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2029
 Edition: 
-Quote: <I>Pit&#769;.tos&#769;.po-rum</I> (p&ibreve.t-t&obreve.s&#769;.pò.-r&ubreve.m),<I> n</I>. [NL., fr. Gr. {pitta} pitch + {sporos} seed.] (Bot.) A genus of trees and shrubs, the type of the order <I>Pittosporeae. </I>The seeds, imbedded in a black gluten (whence the name) are contained in berries, which grow in clusters and are indehiscent. Of 55 species 9 are found in Australia and 6 in New Zealand. The scientific term is used as the vernacular name; but various species are also known by other names. Thus <I>Pittosporum undulatum </I>is called <I>native laurel</I> or <I>mock orange; P. tenuifolium, black mapou; P. eugenoides, tarata</I> or <I>white mapou; P. phillyraeoides, poison berry tree, butter bush, willow</I>, and <I>native willow</I>. See under LAUREL, MAPOU, POISON, and TARATA.
+Quote: <I>Pit&#769;.tos&#769;.po-rum</I> (p&ibreve.t-t&obreve.s&#769;.po.-r&ubreve.m),<I> n</I>. [NL., fr. Gr. {pitta} pitch + {sporos} seed.] (Bot.) A genus of trees and shrubs, the type of the order <I>Pittosporeae. </I>The seeds, imbedded in a black gluten (whence the name) are contained in berries, which grow in clusters and are indehiscent. Of 55 species 9 are found in Australia and 6 in New Zealand. The scientific term is used as the vernacular name; but various species are also known by other names. Thus <I>Pittosporum undulatum </I>is called <I>native laurel</I> or <I>mock orange; P. tenuifolium, black mapou; P. eugenoides, tarata</I> or <I>white mapou; P. phillyraeoides, poison berry tree, butter bush, willow</I>, and <I>native willow</I>. See under LAUREL, MAPOU, POISON, and TARATA.
 Notes: 
 
 Date: 29/7/1865 
@@ -74741,7 +74741,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2029
 Edition: 
-Quote: <i>Pi-wa&#769;.ka-wa&#769;.ka</i> (pè.-wä.&#769;.k&adot.-wä.&#769;.k&adot.; <i>colloq.</i> p&ibreve.-w&abreve.k&#769;.&adot.-w&abreve.k&#769;.&adot.), <i>n</i>. [Maori.] <i>(Zoö.l.) </i>The New Zealand fantail. See FANTAIL, in the Dictionary. <i>[Local, N. Z.]</I>
+Quote: <i>Pi-wa&#769;.ka-wa&#769;.ka</i> (pe.-wa.&#769;.k&adot.-wa.&#769;.k&adot.; <i>colloq.</i> p&ibreve.-w&abreve.k&#769;.&adot.-w&abreve.k&#769;.&adot.), <i>n</i>. [Maori.] <i>(Zoo.l.) </i>The New Zealand fantail. See FANTAIL, in the Dictionary. <i>[Local, N. Z.]</I>
 Notes: 
 
 Date: 0/0/1963 
@@ -76401,7 +76401,7 @@ Source: Hawera & Normanby Star
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: £200 worth of jewellery, stolen from the Wellington, has been found planted in Freeman's Bay.
+Quote: GBP200 worth of jewellery, stolen from the Wellington, has been found planted in Freeman's Bay.
 Notes: 
 
 Date: 0/0/1900 
@@ -78406,7 +78406,7 @@ play the piano
 Homonym Number: 
 Word Class:phrase
 Sense Number: 1
-Definition:to run fingers across a sheep’s back to assess the quality of fleece. 
+Definition:to run fingers across a sheep's back to assess the quality of fleece. 
 Origin:[none]
 Register:
 Register 2:
@@ -78725,7 +78725,7 @@ Source: Stories
 Author: MANSFIELD
 Vol / Page: 1984 Alpers
 Edition: 
-Quote: Playtime came and Isabel was surrounded. The girls of her class nearly fought to put their arms round her, ... to be her special friend. <i>"Playtime”</i> was giving way to<i> interval</i>, the word used by the teacher and the bigger boys.
+Quote: Playtime came and Isabel was surrounded. The girls of her class nearly fought to put their arms round her, ... to be her special friend. <i>"Playtime"</i> was giving way to<i> interval</i>, the word used by the teacher and the bigger boys.
 Notes: 
 
 Date: 0/0/1968 
@@ -79577,7 +79577,7 @@ Source: Dogside Story
 Author: Grace
 Vol / Page: 76
 Edition: 
-Quote: ‘My big mouth gets me in trouble sometimes when I’ve had a few. It just won’t shut up. I remember yesterday...still half plonked asking about your leg.’
+Quote: 'My big mouth gets me in trouble sometimes when I've had a few. It just won't shut up. I remember yesterday...still half plonked asking about your leg.'
 Notes: 
 
 Date: 0/0/1950 
@@ -80873,7 +80873,7 @@ Source: A to Z Glossary of Wool Terms
 Author: SQUIRE
 Vol / Page: 16
 Edition: 
-Quote: Dip – Plunge, spray, and pour-on are dipping systems.
+Quote: Dip - Plunge, spray, and pour-on are dipping systems.
 Notes: 
 
 plunge dip
@@ -83907,7 +83907,7 @@ Source: tlc creativity Newsletter
 Author: 
 Vol / Page: No. 25/1
 Edition: 
-Quote: Clean up your space, clean up any tools. Be a tidy kiwi. This may seem counteractive to letting creativity flow, but once you’ve been creative, if you don’t clean up after yourself, you could be destroying someone else’s flow by leaving pog (untidy mess) behind you.
+Quote: Clean up your space, clean up any tools. Be a tidy kiwi. This may seem counteractive to letting creativity flow, but once you've been creative, if you don't clean up after yourself, you could be destroying someone else's flow by leaving pog (untidy mess) behind you.
 Notes: http://www.tlc.ac.nz/newsletters/25_aug_04.htm
 
 pogie
@@ -83951,7 +83951,7 @@ Source: Shooting from the Lip
 Author: 
 Vol / Page: 40
 Edition: 
-Quote: There is a lot of gentle snobbery and stirring that goes on between the teeth arms and the service corps or ‘pogues' as they are known. (Americans call them ‘REMFs' - Rear Echelon Mother Fuckers).
+Quote: There is a lot of gentle snobbery and stirring that goes on between the teeth arms and the service corps or 'pogues' as they are known. (Americans call them 'REMFs' - Rear Echelon Mother Fuckers).
 Notes: 
 
 pogue central
@@ -83973,7 +83973,7 @@ Source: Shooting from the Lip
 Author: HUGHES
 Vol / Page: 131
 Edition: 
-Quote: I had to ask what a BAW was. It stood for ‘Base Area Wellington', an administrative grouping of the camps and units in that area... BAW comprised the inhabitants of Trentham Camp, Fort Dorset and other miscellaneous ordnance depots and TF units. It was quartered at Trentham, which was a crumbling old man's camp that housed a base workshop and a base supply battalion. It was pogue central.
+Quote: I had to ask what a BAW was. It stood for 'Base Area Wellington', an administrative grouping of the camps and units in that area... BAW comprised the inhabitants of Trentham Camp, Fort Dorset and other miscellaneous ordnance depots and TF units. It was quartered at Trentham, which was a crumbling old man's camp that housed a base workshop and a base supply battalion. It was pogue central.
 Notes: 
 
 poguery
@@ -84103,7 +84103,7 @@ Source: Huia 5: Contemp. Maori Fiction
 Author: 
 Vol / Page: 250
 Edition: 
-Quote: Uncle’s coming home from overseas. It might be a big pohiri because he was away for a long time.
+Quote: Uncle's coming home from overseas. It might be a big pohiri because he was away for a long time.
 Notes: 
 
 pohou
@@ -86339,7 +86339,7 @@ Source: Southland Times
 Author: 
 Vol / Page: 4
 Edition: 
-Quote: FOR SALE - Right to cut 200 acres good bush White Pine and Bokaka, ¾ mile from railway [s]iding; 2 to 3 years work.
+Quote: FOR SALE - Right to cut 200 acres good bush White Pine and Bokaka,  3/4 mile from railway [s]iding; 2 to 3 years work.
 Notes: 
 
 Date: 0/0/1845 
@@ -87479,7 +87479,7 @@ Source: Big Country of the North Island
 Author: NEWTON
 Vol / Page: 235
 Edition: 
-Quote: .. I gained some insight into the practice of planting "poles" for stabilisation purposes. These poles are straight lengths of willow or silver poplar up to ten feet in length and up to two inches in diameter which are simply sharpened and pushed a couple of feet or so into the ground. The planting of poles is common practice in the Gisborne districts .. along the roadsides one sees nursery blocks devoted entirely to producing these poles …
+Quote: .. I gained some insight into the practice of planting "poles" for stabilisation purposes. These poles are straight lengths of willow or silver poplar up to ten feet in length and up to two inches in diameter which are simply sharpened and pushed a couple of feet or so into the ground. The planting of poles is common practice in the Gisborne districts .. along the roadsides one sees nursery blocks devoted entirely to producing these poles ...
 Notes: 
 
 Date: 0/0/1973 
@@ -87802,7 +87802,7 @@ poler
 Homonym Number: 
 Word Class:noun
 Sense Number: 1
-Definition:one of a pair of bullocks in a bullock team [working on one side of the pole of a dray as ‘nearside poler’ on the left or ‘offside poler’ on the right.]
+Definition:one of a pair of bullocks in a bullock team [working on one side of the pole of a dray as 'nearside poler' on the left or 'offside poler' on the right.]
 Origin:[none]
 Register:
 Register 2:
@@ -87865,7 +87865,7 @@ Source: High Country: the evolution of a NZ Sheep Station
 Author: BURDON
 Vol / Page: 47
 Edition: 
-Quote: The poler’s yoke had a ring in the middle, fixed by means of two pins to the end of the pole.
+Quote: The poler's yoke had a ring in the middle, fixed by means of two pins to the end of the pole.
 Notes: 
 
 poler
@@ -88711,7 +88711,7 @@ Source: NZ Memories
 Author: 
 Vol / Page: No. 45/55
 Edition: 
-Quote: With visions of the colony being overtaken by the "Yellow Peril" or "Mongolian Horde", the government, in 1881, passed a law making Chinese migrants pay a poll tax of £10 before they could enter New Zealand... The situation improved with the abolition of the poll tax in 1944.
+Quote: With visions of the colony being overtaken by the "Yellow Peril" or "Mongolian Horde", the government, in 1881, passed a law making Chinese migrants pay a poll tax of GBP10 before they could enter New Zealand... The situation improved with the abolition of the poll tax in 1944.
 Notes: 
 
 pollard
@@ -90427,7 +90427,7 @@ Source: Speaking for Ourselves
 Author: OWEN & PERKINS
 Vol / Page: 78
 Edition: 
-Quote: We got into this hullabaloo with some poor damned immigrants. What system, they were brought out under, I don't know, but they were ‘Homeys' - the word ‘Pommy' wasn't in use then.
+Quote: We got into this hullabaloo with some poor damned immigrants. What system, they were brought out under, I don't know, but they were 'Homeys' - the word 'Pommy' wasn't in use then.
 Notes: 
 
 Date: 0/8/1994 
@@ -91919,7 +91919,7 @@ Source: Excuse my Feet!
 Author: THE SARGE
 Vol / Page: 130
 Edition: 
-Quote: "You can call me ‘chum', lad," he added, breaking into a broad Pongo dialect.
+Quote: "You can call me 'chum', lad," he added, breaking into a broad Pongo dialect.
 Notes: 
 
 Date: 0/0/1947 
@@ -92245,7 +92245,7 @@ Source: Gold in the Creek
 Author: McGill
 Vol / Page: 130
 Edition: 
-Quote: ‘As I was saying, poor show. Fellow came out here to learn his cricket, goes and plays for Pongolia. Not on what?’
+Quote: 'As I was saying, poor show. Fellow came out here to learn his cricket, goes and plays for Pongolia. Not on what?'
 Notes: 
 
 Date: 7/6/1985 
@@ -94079,7 +94079,7 @@ Source: Tui's Commonsense Cookery
 Author: 
 Vol / Page: 57
 Edition: 
-Quote: Liver Savoury (Poorman's Goose)... 1 lb. liver. 1 lb. potatoes. 4 oz. onion. 1 teaspoon salt. ½ teaspoon pepper. ½ pint water. Little powdered sage.
+Quote: Liver Savoury (Poorman's Goose)... 1 lb. liver. 1 lb. potatoes. 4 oz. onion. 1 teaspoon salt.  1/2 teaspoon pepper.  1/2 pint water. Little powdered sage.
 Notes: 
 
 poozle
@@ -94101,7 +94101,7 @@ Source: tlc creativity Newsletter
 Author: 
 Vol / Page: No. 25/1
 Edition: 
-Quote: Finally, beware of the big purple poozle person (to poozle is to snaffle; to take).Things do go missing if left lying around – that includes tools, resources, equipment, materials and artwork. Put things away, be conscious of what you’re using and where it comes from. If something disappears whilst you’re using it, let the tutor know. And don’t poozle other people’s stuff without asking, or the original owner might forget to look after you and may break some furniture in their effort to get at you.
+Quote: Finally, beware of the big purple poozle person (to poozle is to snaffle; to take).Things do go missing if left lying around - that includes tools, resources, equipment, materials and artwork. Put things away, be conscious of what you're using and where it comes from. If something disappears whilst you're using it, let the tutor know. And don't poozle other people's stuff without asking, or the original owner might forget to look after you and may break some furniture in their effort to get at you.
 Notes: http://www.tlc.ac.nz/newsletters/25_aug_04.htm
 
 Date: 24/8/2002 
@@ -96133,7 +96133,7 @@ Source: Star, The
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: The following papers have been read .. ‘On the occurrence of Lamna cornubica, the porbeagle shark in New Zealand,’ by Julius Haast, PhD., F.R.S …
+Quote: The following papers have been read .. 'On the occurrence of Lamna cornubica, the porbeagle shark in New Zealand,' by Julius Haast, PhD., F.R.S ...
 Notes: 
 
 porch
@@ -96564,7 +96564,8 @@ porina
 Homonym Number: 
 Word Class:noun
 Sense Number:
-Definition:\parOrigin:
+Definition:
+Origin:
 Register:
 Register 2:
 Domain:[none]
@@ -96976,7 +96977,7 @@ Source: Wanganui Herald
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: In those days £5 was the price of a bag of flour, which was then looked upon as a delicacy, pork and potatoes being the chief and often only food available.
+Quote: In those days GBP5 was the price of a bag of flour, which was then looked upon as a delicacy, pork and potatoes being the chief and often only food available.
 Notes: 
 
 Date: 20/3/1839 
@@ -97102,7 +97103,7 @@ Source: Uncle's Story, The
 Author: Ihimaera
 Vol / Page: 16
 Edition: 
-Quote: ‘I’ll bring our dinner in soon. It’s pork bones and puha.’ As it turned out dinner was actually a mussel bisque, followed by swordfish steaks...
+Quote: 'I'll bring our dinner in soon. It's pork bones and puha.' As it turned out dinner was actually a mussel bisque, followed by swordfish steaks...
 Notes: 
 
 Date: 7/8/1999 
@@ -97334,7 +97335,7 @@ Source: Te Ao Hou
 Author: 
 Vol / Page: 25: 49
 Edition: 
-Quote: But Sonny had already gone, charging through the brush, the ti-tree slapping and stinging at his face, his hands on the hocks and his head between the haunches of a Captain Cooker, almost as long as he was, five-foot-five. He’ll be a tough porker, this one, Sonny was thinking, but smoke him in manuka and he’ll keep the hui going for a day or two.
+Quote: But Sonny had already gone, charging through the brush, the ti-tree slapping and stinging at his face, his hands on the hocks and his head between the haunches of a Captain Cooker, almost as long as he was, five-foot-five. He'll be a tough porker, this one, Sonny was thinking, but smoke him in manuka and he'll keep the hui going for a day or two.
 Notes: 
 
 Date: 0/0/1986 
@@ -99002,7 +99003,7 @@ Source: Hooked
 Author: JOHNSON
 Vol / Page: 237
 Edition: 
-Quote: The Seamen’s Union represented the share fishermen in their negotiations. The 1938 award had left it to the parties to work out the prices on which the shares were based. This led to a schedule of species and port prices.
+Quote: The Seamen's Union represented the share fishermen in their negotiations. The 1938 award had left it to the parties to work out the prices on which the shares were based. This led to a schedule of species and port prices.
 Notes: 
 
 port sammy
@@ -100188,7 +100189,7 @@ Source: Anzac Book, The
 Author: 
 Vol / Page: 10
 Edition: 
-Quote: Jerry O'Dwyer had shot two crows from the new sniper's pozzy down at the creek. [Note: Pozzy or Possie - Australian warrior's short for "position", or lair. <i>Ibid.</i> 125 "Possie!" exclaimed the enquiring general. "What is a ‘Possie'?" "That, sir," said the C.o., "is Australian for recess, either firing or sleeping. It's a contraction of ‘position.".
+Quote: Jerry O'Dwyer had shot two crows from the new sniper's pozzy down at the creek. [Note: Pozzy or Possie - Australian warrior's short for "position", or lair. <i>Ibid.</i> 125 "Possie!" exclaimed the enquiring general. "What is a 'Possie'?" "That, sir," said the C.o., "is Australian for recess, either firing or sleeping. It's a contraction of 'position.".
 Notes: 
 
 Date: 27/4/1922 
@@ -100352,7 +100353,7 @@ Source: AA Directions
 Author: 
 Vol / Page: Winter : 17
 Edition: 
-Quote: The charismatic Maori driver of the Driving Creek train tells us that an ‘Eyeful Tower' will be built at the terminus, to overlook the stunning Hauraki Gulf and serve "possum sandwiches - nothing flash".
+Quote: The charismatic Maori driver of the Driving Creek train tells us that an 'Eyeful Tower' will be built at the terminus, to overlook the stunning Hauraki Gulf and serve "possum sandwiches - nothing flash".
 Notes: 
 
 possum
@@ -100446,7 +100447,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2029
 Edition: 
-Quote: <i>Pos&#769;.sum</i> (p`os&#769;.s`um), <i>n. (Zoö.l.) [Add.] 2</i>. A phalanger.<i> [Colloq.] See PHALANGER, in the Dictionary. </I>
+Quote: <i>Pos&#769;.sum</i> (p`os&#769;.s`um), <i>n. (Zoo.l.) [Add.] 2</i>. A phalanger.<i> [Colloq.] See PHALANGER, in the Dictionary. </I>
 Notes: 
 
 Date: 11/7/1921 
@@ -101372,7 +101373,7 @@ Source: North & South
 Author: 
 Vol / Page: 30
 Edition: 
-Quote: I had £7 10 shillings in my orange-covered Post Office Savings Book.
+Quote: I had GBP7 10 shillings in my orange-covered Post Office Savings Book.
 Notes: 
 
 Date: 0/0/1992 
@@ -101618,7 +101619,7 @@ Source: Otago Witness
 Author: 
 Vol / Page: 12
 Edition: 
-Quote: The issue of £5 postal notes is a further advance towards the establishment of a State-issued paper currency.
+Quote: The issue of GBP5 postal notes is a further advance towards the establishment of a State-issued paper currency.
 Notes: 
 
 Date: 6/11/1947 
@@ -102356,7 +102357,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 23
 Edition: 
-Quote: At present being built are 25 schools - 17 primary, seven intermediate and one postprimary... Postprimary schools may cost between £150,000 and £250,000. 
+Quote: At present being built are 25 schools - 17 primary, seven intermediate and one postprimary... Postprimary schools may cost between GBP150,000 and GBP250,000. 
 Notes: 
 
 post-Rogernomic
@@ -103236,7 +103237,7 @@ Source: Journal
 Author: STARK
 Vol / Page: 111
 Edition: 
-Quote: hat - pòtai [potae]
+Quote: hat - potai [potae]
 Notes: quote from 1827-28 BOULTBEE; grave accent on "o" of "potae"
 
 Date: 29/6/1912 
@@ -103848,7 +103849,7 @@ Source: Where the White Man Treads
 Author: BAUCKE
 Vol / Page: 149, 193
 Edition: 
-Quote: ‘And who may this upoko kohua (pot head) be?'
+Quote: 'And who may this upoko kohua (pot head) be?'
 Notes: Also in 1953 NZ Short Stories 88
 
 pothole
@@ -104742,7 +104743,7 @@ Source: Whakatane Beacon
 Author: 
 Vol / Page: 1
 Edition: 
-Quote: KOKOHINAU Marae in Te Teko had the honour of hosting, for the first time in the Mataatua area, the Maori King, Tuheitia on Sunday.... Mr Eruera said the king was attending a poukai, or assembly, and this was the 44th year it had been held at Kokohinau. ...  A copy of a publication celebrating the 44 years of the poukai being held at Kokohinau was also given to the king by Katerina Waiari. Teriaki Amoamo, on behalf of Whakatohea and Te Whanau-a-Apanui, presented a ceremonial hoe waka (canoe paddle).Mr Eruera said the open debate session, which is what a poukai is all about, raised a few issues. One of those issues was brought up earlier in the day by Whakatohea and Te Whanau-a-Apanui who requested to share the poukai in the future. Mr Eruera said the request would have to go to hapu members to consider.A restored flagpole was also erected – hapu members, under the direction of carver Graham Junior Niao, carried out the restoration on the carved pole – and the special poukai flag was flown. 
+Quote: KOKOHINAU Marae in Te Teko had the honour of hosting, for the first time in the Mataatua area, the Maori King, Tuheitia on Sunday.... Mr Eruera said the king was attending a poukai, or assembly, and this was the 44th year it had been held at Kokohinau. ...  A copy of a publication celebrating the 44 years of the poukai being held at Kokohinau was also given to the king by Katerina Waiari. Teriaki Amoamo, on behalf of Whakatohea and Te Whanau-a-Apanui, presented a ceremonial hoe waka (canoe paddle).Mr Eruera said the open debate session, which is what a poukai is all about, raised a few issues. One of those issues was brought up earlier in the day by Whakatohea and Te Whanau-a-Apanui who requested to share the poukai in the future. Mr Eruera said the request would have to go to hapu members to consider.A restored flagpole was also erected - hapu members, under the direction of carver Graham Junior Niao, carried out the restoration on the carved pole - and the special poukai flag was flown. 
 Notes: 
 
 poukatea
@@ -108134,7 +108135,7 @@ Source: Politics, Economics & Pastoral Land
 Author: ACKROYD
 Vol / Page: 11
 Edition: 
-Quote: A pastoral licensee could use his, and rarely her, pre-emptive rights to lock up the land along a mile of road for the cost of the fencing, say £60, when to buy the same land outright would cost a settler £600 .. in some cases huts and fences would be erected to obtain a pre-emptive right over the adjacent land after which they were pulled down and put up elsewhere to enable fresh claims to be made.
+Quote: A pastoral licensee could use his, and rarely her, pre-emptive rights to lock up the land along a mile of road for the cost of the fencing, say GBP60, when to buy the same land outright would cost a settler GBP600 .. in some cases huts and fences would be erected to obtain a pre-emptive right over the adjacent land after which they were pulled down and put up elsewhere to enable fresh claims to be made.
 Notes: 
 
 pre-emptive right
@@ -108612,7 +108613,7 @@ Source: Kingdom in the Hills
 Author: MCLEOD
 Vol / Page: 90
 Edition: 
-Quote: There was a time during the last war and just after when blade shearers became so scarce that it looked as if the art must die, but the advent of pre-lamb shearing revived the interest …
+Quote: There was a time during the last war and just after when blade shearers became so scarce that it looked as if the art must die, but the advent of pre-lamb shearing revived the interest ...
 Notes: 
 
 Date: 19/6/2001 
@@ -111766,7 +111767,7 @@ Source: NZ Statutes
 Author: 
 Vol / Page: 64 Vict. / 00
 Edition: 
-Quote: An Act to amend the Law relating to the Salaries and Allowances of Responsible Ministers of the Crown... There shall be payable.. the annual sum of eight thousand pounds for.. the annual salaries of Ministers, as follows:- The Prime Minister.. .. .. £1,600.
+Quote: An Act to amend the Law relating to the Salaries and Allowances of Responsible Ministers of the Crown... There shall be payable.. the annual sum of eight thousand pounds for.. the annual salaries of Ministers, as follows:- The Prime Minister.. .. .. GBP1,600.
 Notes: Check page
 
 Date: 0/0/1900 
@@ -111774,7 +111775,7 @@ Source: NZ Official Yearbook
 Author: 
 Vol / Page: 27
 Edition: 
-Quote: By another statute the annual appropriation for Ministers' Salaries is fixed at the sum of £8,900 of which £1,600 is for the Prime Minister... The Executive Council now consists of.. Right Honourable Richard John Seddon, P. C.., Prime Minister. Ibid. 27 Following previous practice, the wording is: 'Executive Council.. Rt. Hon. R.J. Seddon, P.C., LL.D., Premier.
+Quote: By another statute the annual appropriation for Ministers' Salaries is fixed at the sum of GBP8,900 of which GBP1,600 is for the Prime Minister... The Executive Council now consists of.. Right Honourable Richard John Seddon, P. C.., Prime Minister. Ibid. 27 Following previous practice, the wording is: 'Executive Council.. Rt. Hon. R.J. Seddon, P.C., LL.D., Premier.
 Notes: 
 
 prime off mother
@@ -111856,7 +111857,7 @@ Source: Syllabus of Instruction for Primary Schools
 Author: 
 Vol / Page: 55
 Edition: 
-Quote: In all schools teachersof Primer classes will use ‘Physical Exercises and Games for Infants’.. Where there are threeteachers: Primers do infant work; Squad I, Tables 1-36; [etc.].
+Quote: In all schools teachersof Primer classes will use 'Physical Exercises and Games for Infants'.. Where there are threeteachers: Primers do infant work; Squad I, Tables 1-36; [etc.].
 Notes: 
 
 Date: 0/0/1978 
@@ -111934,7 +111935,7 @@ Source: Syllabus of Instruction for Primary Schools
 Author: 
 Vol / Page: 55
 Edition: 
-Quote: In all schools teachers of Primer classes will use ‘Physical Exercises and Games for Infants’.. Where there are three teachers: Primers do infant work; Squad I, Tables 1-36; [etc.].
+Quote: In all schools teachers of Primer classes will use 'Physical Exercises and Games for Infants'.. Where there are three teachers: Primers do infant work; Squad I, Tables 1-36; [etc.].
 Notes: 
 
 Date: 0/0/1957 
@@ -112848,7 +112849,7 @@ Source: Star, The
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: The police state that a local firm posted a package containing £40 to a runholder at Tuparoa last week. This was placed in the latter's private bag, one key of which is kept at Gisborne and the other by the owner at Tuparoa.
+Quote: The police state that a local firm posted a package containing GBP40 to a runholder at Tuparoa last week. This was placed in the latter's private bag, one key of which is kept at Gisborne and the other by the owner at Tuparoa.
 Notes: 
 
 Date: 30/6/1909 
@@ -112872,7 +112873,7 @@ Source: Ashburton Guardian
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: Fees to a total amount of £4,187 10s were collected for 3717 private boxes and 301 private bags.
+Quote: Fees to a total amount of GBP4,187 10s were collected for 3717 private boxes and 301 private bags.
 Notes: 
 
 Date: 0/4/1919 
@@ -112918,7 +112919,7 @@ Source: Wanganui Herald
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: Intending buyers of a good private hotel should peruse an advertisement above our "Wanted Known" column inserted by Messrs Read Bros. The premises comprise about 40 rooms, and are well furnished throughout. £1100 is the price of furniture and goodwill of a long lease at a reasonable rent.
+Quote: Intending buyers of a good private hotel should peruse an advertisement above our "Wanted Known" column inserted by Messrs Read Bros. The premises comprise about 40 rooms, and are well furnished throughout. GBP1100 is the price of furniture and goodwill of a long lease at a reasonable rent.
 Notes: 
 
 Date: 17/3/1852 
@@ -113060,7 +113061,7 @@ Source: New Zealand Gazette & Wellington Spectator
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: † A private school for the superior classes. ‡ Principally for the children of the lower classes, paying about 6d. and 9d. per week, and private schools.
+Quote: 1) A private school for the superior classes. 2) Principally for the children of the lower classes, paying about 6d. and 9d. per week, and private schools.
 Notes: 
 
 Date: 29/6/1905 
@@ -113092,7 +113093,7 @@ Source: Wanganui Chronicle
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: What would it cost if they went to private schools? I don't think any private school would do it at £2 per head, per quarter - £24 per annum for the lot.
+Quote: What would it cost if they went to private schools? I don't think any private school would do it at GBP2 per head, per quarter - GBP24 per annum for the lot.
 Notes: 
 
 Date: 6/1/1871 
@@ -113682,7 +113683,7 @@ Source: Cappicade
 Author: 
 Vol / Page: 9
 Edition: 
-Quote: Agitators generally provoke demonstrations under the guise of ‘Proceshes' and ‘Extravs.'
+Quote: Agitators generally provoke demonstrations under the guise of 'Proceshes' and 'Extravs.'
 Notes: 
 
 Date: 0/0/1977 
@@ -114522,7 +114523,7 @@ Source: Taranaki Herald
 Author: 
 Vol / Page: 7
 Edition: 
-Quote: An elderly man from Inglewood was fined £1 (costs 9s), for procuring whisky at New Plymouth during the currency of a prohibition order.
+Quote: An elderly man from Inglewood was fined GBP1 (costs 9s), for procuring whisky at New Plymouth during the currency of a prohibition order.
 Notes: 
 
 Date: 7/1/1908 
@@ -114530,7 +114531,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 8
 Edition: 
-Quote: For having procured liquor during the currency of a prohibition order, Alfred Millen was fined £5; in default, 30 days' imprisonment.
+Quote: For having procured liquor during the currency of a prohibition order, Alfred Millen was fined GBP5; in default, 30 days' imprisonment.
 Notes: 
 
 Date: 18/6/1881 
@@ -114899,7 +114900,7 @@ Notes: London & the Diggings
 
 Date: 0/0/1998 
 Source: Yin & Tonic
-Author: RENÉE
+Author: RENeE
 Vol / Page: 110
 Edition: 
 Quote: The good old days:.. Props falling down from a line of newly-washed sheets so the sheets drag on the muddy ground.
@@ -115136,7 +115137,7 @@ Source: Otautau Standard & Wallace County Chronicle
 Author: 
 Vol / Page: 4
 Edition: 
-Quote: A. E. Austin, Tuatapere, offered £1 per annum for lease of unused roadline (2 acres) running through his property.
+Quote: A. E. Austin, Tuatapere, offered GBP1 per annum for lease of unused roadline (2 acres) running through his property.
 Notes: 
 
 Date: 0/0/1899 
@@ -116386,7 +116387,7 @@ Source: Grey River Argus
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: ½ share No 3 north-west of Prospecting Claim.
+Quote:  1/2 share No 3 north-west of Prospecting Claim.
 Notes: 
 
 Date: 28/1/1915 
@@ -116518,7 +116519,7 @@ Source: Otago Witness
 Author: 
 Vol / Page: 14
 Edition: 
-Quote: The natives are issuing prospecting licences at £1 per year.
+Quote: The natives are issuing prospecting licences at GBP1 per year.
 Notes: 
 
 Date: 31/8/1883 
@@ -116852,7 +116853,7 @@ Source: Waikato Times
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: In the Totara claim, adjoining the Prospectors' claim on the east, £200 is refused.
+Quote: In the Totara claim, adjoining the Prospectors' claim on the east, GBP200 is refused.
 Notes: 
 
 Date: 0/0/1974 
@@ -117584,7 +117585,7 @@ Source: New Zealand Gazette & Wellington Spectator
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: 100 acres of country land, 50 suburban acres and a town allotment of ONE ACRE in Nelson will be sold for £300 - Nelson will not be an obsure provincial town but in all probability will be the capital of the South Island.
+Quote: 100 acres of country land, 50 suburban acres and a town allotment of ONE ACRE in Nelson will be sold for GBP300 - Nelson will not be an obsure provincial town but in all probability will be the capital of the South Island.
 Notes: 
 
 Date: 16/12/1854 
@@ -117926,7 +117927,7 @@ Source: Grey River Argus
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: At a sale of city leasehold endowments to-day property leased by the Provincial Government 25 years ago at £100 a year realised an advance of 1600 per cent.
+Quote: At a sale of city leasehold endowments to-day property leased by the Provincial Government 25 years ago at GBP100 a year realised an advance of 1600 per cent.
 Notes: 
 
 Date: 21/8/1890 
@@ -119362,7 +119363,7 @@ Source: Dominion
 Author: 
 Vol / Page: 17
 Edition: 
-Quote: [Hdg] Pub English ‘lets down students'. English in New Zealand is developing into two languages - one for business letters and the other for the pub - Massey University associate professor Frank Sligo says.
+Quote: [Hdg] Pub English 'lets down students'. English in New Zealand is developing into two languages - one for business letters and the other for the pub - Massey University associate professor Frank Sligo says.
 Notes: 
 
 pub pet
@@ -119446,7 +119447,7 @@ Source: NZ Truth
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: Much large dampness during the week put Dunedin’s wickets out of action, so to speak, and players and public last Saturday afternoon spent their time in their favorite pubbery, or the Y.M.C.A., or meditating over the elections.
+Quote: Much large dampness during the week put Dunedin's wickets out of action, so to speak, and players and public last Saturday afternoon spent their time in their favorite pubbery, or the Y.M.C.A., or meditating over the elections.
 Notes: 
 
 public accountant
@@ -119800,7 +119801,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: The following contributions have been received by the Under-Secretary, Department of Internal Affairs, from the members of the Public Service during the month of May:- Belgian Relief Fund £1476 12s. 9d., Relief of the Poor of Great Britain and Ireland and Belgium Fund £13 16s. 6d.
+Quote: The following contributions have been received by the Under-Secretary, Department of Internal Affairs, from the members of the Public Service during the month of May:- Belgian Relief Fund GBP1476 12s. 9d., Relief of the Poor of Great Britain and Ireland and Belgium Fund GBP13 16s. 6d.
 Notes: 
 
 Date: 6/8/1999 
@@ -120138,7 +120139,7 @@ Source: Hawera & Normanby Star
 Author: 
 Vol / Page: 7
 Edition: 
-Quote: H. Oswin, a clerk in the Public Trust Office, New Plymouth, was committed for sentence this morning on a charge of the theft of £450, moneys [sic] of the Public Trust.
+Quote: H. Oswin, a clerk in the Public Trust Office, New Plymouth, was committed for sentence this morning on a charge of the theft of GBP450, moneys [sic] of the Public Trust.
 Notes: 
 
 Date: 16/4/1906 
@@ -120146,7 +120147,7 @@ Source: West Coast Times
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: The transactions of the Public Trust Office for the year just closed show the enormous total of over £3,500,000.
+Quote: The transactions of the Public Trust Office for the year just closed show the enormous total of over GBP3,500,000.
 Notes: 
 
 Date: 0/0/1936 
@@ -120272,7 +120273,7 @@ Source: Where the White Man Treads
 Author: BAUCKE
 Vol / Page: 235
 Edition: 
-Quote: He can entrust it to the enervating mediation of that passé invention, The Public Trustee, whose very mention dries up the blood in their veins.
+Quote: He can entrust it to the enervating mediation of that passe invention, The Public Trustee, whose very mention dries up the blood in their veins.
 Notes: check page 235, 236 or 237?
 
 Date: 0/0/1872 
@@ -120986,7 +120987,7 @@ Source: Nelson Examiner
 Author: 
 Vol / Page: 4
 Edition: 
-Quote: The advocates for sluicing believe that this is the only way that anything can be made out of the ground, while the puddler thinks if he can make, as a few are now doing, £8 or £10 a week ...
+Quote: The advocates for sluicing believe that this is the only way that anything can be made out of the ground, while the puddler thinks if he can make, as a few are now doing, GBP8 or GBP10 a week ...
 Notes: 
 
 Date: 29/3/1895 
@@ -121010,7 +121011,7 @@ Source: Nelson Evening Mail
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: The Greytown correspondent of the <i>Heathcote Advertiser</i> states that a miner in that town, named John Duvain, has come into the possession of £450,000. There are also two brothers, puddlers, of the same place, who have lately received the intelligence from America of a third brother having made provision for the annuity of £250 per annum for each of them for life.
+Quote: The Greytown correspondent of the <i>Heathcote Advertiser</i> states that a miner in that town, named John Duvain, has come into the possession of GBP450,000. There are also two brothers, puddlers, of the same place, who have lately received the intelligence from America of a third brother having made provision for the annuity of GBP250 per annum for each of them for life.
 Notes: 
 
 Date: 0/0/1943 
@@ -122346,7 +122347,7 @@ Source: Capital Times
 Author: 
 Vol / Page: 13
 Edition: 
-Quote: ‘Allo, kia ora, bon jour, tena koe,. Would you like puha on your baguette?
+Quote: 'Allo, kia ora, bon jour, tena koe,. Would you like puha on your baguette?
 Notes: 
 
 Date: 0/7/2005 
@@ -123130,7 +123131,7 @@ Source: Geological Society of NZ Newsletter
 Author: 
 Vol / Page: 47/4
 Edition: 
-Quote: Flat lying “puhoehoe” flows that bury the relief and have smooth, ropy or festooned surfaces.
+Quote: Flat lying "puhoehoe" flows that bury the relief and have smooth, ropy or festooned surfaces.
 Notes: 
 
 Puhoi
@@ -123578,7 +123579,7 @@ Source: Sunday (Sunday Star Times Magazine)
 Author: 
 Vol / Page: 47
 Edition: 
-Quote: Some things still get nipped - I used to have a puka (<i>Meryta sinclairii</i>) in a tub, but a minus 6ºC frost got that.
+Quote: Some things still get nipped - I used to have a puka (<i>Meryta sinclairii</i>) in a tub, but a minus 6C frost got that.
 Notes: 
 
 Date: 0/0/1878 
@@ -123738,7 +123739,7 @@ Source: Mana
 Author: 
 Vol / Page: 85/15
 Edition: 
-Quote: It’s about passing on knowledge. ... Knowledge that pukaea is for war, koauau for songs of love and putatara to call our tupuna.
+Quote: It's about passing on knowledge. ... Knowledge that pukaea is for war, koauau for songs of love and putatara to call our tupuna.
 Notes: 
 
 Date: 24/9/2004 
@@ -126140,7 +126141,7 @@ Source: Huia 4: Contemp. Maori Fiction
 Author: 
 Vol / Page: 29
 Edition: 
-Quote: There had been some wicked kai that day and Miro’s puku was feeling a little delicate.
+Quote: There had been some wicked kai that day and Miro's puku was feeling a little delicate.
 Notes: 
 
 Date: 28/4/2004 
@@ -127452,7 +127453,7 @@ Source: Tuapeka Times
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: Clutha Sheep Dog Trial Club .. Head, Pull, and Yard. About 500 yds; time, 10 minutes. Prizes - 1st £4, 2nd £3, 3rd £2, 4th £1. Points - Heading 8, command 8, pulling 8, style at yards 6, yarding 4.
+Quote: Clutha Sheep Dog Trial Club .. Head, Pull, and Yard. About 500 yds; time, 10 minutes. Prizes - 1st GBP4, 2nd GBP3, 3rd GBP2, 4th GBP1. Points - Heading 8, command 8, pulling 8, style at yards 6, yarding 4.
 Notes: 
 
 Date: 0/0/1947 
@@ -127942,7 +127943,7 @@ Source: Wanganui Chronicle
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: It is nearly 100 miles shorter than that <i>viâ</i> Mokau; it passes through good country almost the whole of its length, avoiding the inferior "pumice" land, and with the exception of a short distance it runs chiefly through ground purchased or leased by the Crown.
+Quote: It is nearly 100 miles shorter than that <i>via</i> Mokau; it passes through good country almost the whole of its length, avoiding the inferior "pumice" land, and with the exception of a short distance it runs chiefly through ground purchased or leased by the Crown.
 Notes: 
 
 Date: 10/4/1930 
@@ -130308,7 +130309,7 @@ Source: Daily Southern Cross
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: For the benefit of the inquirer, I may state that the pupurangi of the Maoris is Helix busber, and the largest land-snail in New Zealand. I have three specimens, and am willing to sell one or two at the price of £1 5s. each, having refused £1 1s. repeatedly.
+Quote: For the benefit of the inquirer, I may state that the pupurangi of the Maoris is Helix busber, and the largest land-snail in New Zealand. I have three specimens, and am willing to sell one or two at the price of GBP1 5s. each, having refused GBP1 1s. repeatedly.
 Notes: 
 
 Date: 0/6/1921 
@@ -130704,7 +130705,7 @@ Source: NZ Truth
 Author: 
 Vol / Page: 4
 Edition: 
-Quote: One of the army of eternal swishers of the unholy purge which steals a man’s brains - or, more correctly, which takes charge of the fool who has no brains - came before the Sphinx-like Riddell, S.M., who presides daily at the drunks levee in Wellington, on Wednesday.
+Quote: One of the army of eternal swishers of the unholy purge which steals a man's brains - or, more correctly, which takes charge of the fool who has no brains - came before the Sphinx-like Riddell, S.M., who presides daily at the drunks levee in Wellington, on Wednesday.
 Notes: 
 
 Date: 0/0/1976 
@@ -130778,7 +130779,7 @@ Source: Taranaki Herald
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: ACCEPTED TENDER. - Marsden and Penwarden: Fencing, 1s 8d per chain. Posts: Rimu, £1 17s 6d per 100; puriri, 5s each.
+Quote: ACCEPTED TENDER. - Marsden and Penwarden: Fencing, 1s 8d per chain. Posts: Rimu, GBP1 17s 6d per 100; puriri, 5s each.
 Notes: 
 
 Date: 28/10/1843 
@@ -130930,7 +130931,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2029
 Edition: 
-Quote: <i>Pu&#769;.ri-ri</i> (pu&#769;.rè.-rè.; <i>colloq.</i> pu-r&emacr.&#769;.rè.), <i>n</i>. [Maori.] <i>(Bot.)</i> A New Zealand verbenaceous tree (<i>vitex littoralis</i>); called also <i>bulreedy. [Local, N. Z.] </i>
+Quote: <i>Pu&#769;.ri-ri</i> (pu&#769;.re.-re.; <i>colloq.</i> pu-r&emacr.&#769;.re.), <i>n</i>. [Maori.] <i>(Bot.)</i> A New Zealand verbenaceous tree (<i>vitex littoralis</i>); called also <i>bulreedy. [Local, N. Z.] </i>
 Notes: 
 
 Date: 0/0/1963 
@@ -131642,7 +131643,7 @@ Source: Standard Common Names for Weeds
 Author: 
 Vol / Page: 8
 Edition: 
-Quote: <i>broom, purple </i>  [s] Polygala virgata </i>  Thunb. –<i>Ibid.</I>  62 <i>purple broom </i>  [s]<i> Polygala virgata </i> Thunb.
+Quote: <i>broom, purple </i>  [s] Polygala virgata </i>  Thunb. -<i>Ibid.</I>  62 <i>purple broom </i>  [s]<i> Polygala virgata </i> Thunb.
 Notes: 
 
 purple death
@@ -132478,7 +132479,7 @@ Source: Mana
 Author: 
 Vol / Page: 84/50
 Edition: 
-Quote: People don’t have to be in line for a gold medal to feel good when they push play.
+Quote: People don't have to be in line for a gold medal to feel good when they push play.
 Notes: 
 
 push shit uphill
@@ -133106,7 +133107,7 @@ Source: Dogside Story
 Author: Grace
 Vol / Page: 113
 Edition: 
-Quote: ...the falling-down house in the trees that Rua was giving up for the Friday night so that Maina could arrange a meeting that would put her husband’s pot on, and, she hoped, teach the no-good crook a lesson.
+Quote: ...the falling-down house in the trees that Rua was giving up for the Friday night so that Maina could arrange a meeting that would put her husband's pot on, and, she hoped, teach the no-good crook a lesson.
 Notes: 
 
 put (one's) weights up
@@ -133152,7 +133153,7 @@ Source: Dogside Story
 Author: Grace
 Vol / Page: 187
 Edition: 
-Quote: ...they’d been given everything they needed from Maina, who, once she’d decided to put her husband’s weights up, had done it in a big way.
+Quote: ...they'd been given everything they needed from Maina, who, once she'd decided to put her husband's weights up, had done it in a big way.
 Notes: 
 
 put a ring around
@@ -133560,7 +133561,7 @@ Source: Dominion
 Author: 
 Vol / Page: C6
 Edition: 
-Quote: Dry humour runs through this collection .. to put into neutral – to castrate male lambs or calves.
+Quote: Dry humour runs through this collection .. to put into neutral - to castrate male lambs or calves.
 Notes: 
 
 put in the bite
@@ -134136,7 +134137,7 @@ Source: Under the Bridge & Over the Moon
 Author: IRELAND
 Vol / Page: 41
 Edition: 
-Quote: ‘I'm as good as broke and I'd just come all the way back from England; and what's the first thing that happens?' my father says to me years later. ‘A homey comes up and puts the bite on me.'
+Quote: 'I'm as good as broke and I'd just come all the way back from England; and what's the first thing that happens?' my father says to me years later. 'A homey comes up and puts the bite on me.'
 Notes: 
 
 Date: 0/0/1951 
@@ -134534,7 +134535,7 @@ Source: Watch of Gryphons
 Author: Owen Marshall
 Vol / Page: 69
 Edition: 
-Quote: Michael told Rik that he’d thought he’d take in mainly women as flatmates, because if they got a bit behind in payments then he could put the hard word on them.
+Quote: Michael told Rik that he'd thought he'd take in mainly women as flatmates, because if they got a bit behind in payments then he could put the hard word on them.
 Notes: 
 
 put the needle in
@@ -136262,7 +136263,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: They consist of a cluster of Erina Autumnalis and rata blossoms, shown in the art collection of the recent Industrial Exhibition; flowering manuka— a picture which gained the first prize at the Auckland Fine Arts Exhibition ; a bunch of Alpine daisies, and a group of Clematis indivita, the native name for which is Puawhananga.
+Quote: They consist of a cluster of Erina Autumnalis and rata blossoms, shown in the art collection of the recent Industrial Exhibition; flowering manuka- a picture which gained the first prize at the Auckland Fine Arts Exhibition ; a bunch of Alpine daisies, and a group of Clematis indivita, the native name for which is Puawhananga.
 Notes: 
 
 Date: 24/11/1892 

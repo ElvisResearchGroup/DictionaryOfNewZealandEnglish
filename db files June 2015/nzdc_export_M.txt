@@ -363,7 +363,7 @@ Source:  Southern Cross (Wgton)
 Author:  
 Vol / Page:  9
 Edition:  
-Quote:  Each paid more than £25 on the win
+Quote:  Each paid more than GBP25 on the win
 
 machine.
 
@@ -861,7 +861,7 @@ Source:  NZ Journal of Agriculture
 Author:  
 Vol / Page:  313
 Edition:  
-Quote:  Would it be suitable in the MacKenzie country to prevent shalerock faces from slipping…?
+Quote:  Would it be suitable in the MacKenzie country to prevent shalerock faces from slipping?
 Notes:  
 
 Date:  0/0/1973 
@@ -2318,7 +2318,7 @@ Edition:
 Quote:  "What's the matter, Rastus?   You seem as mad as a wet hen."
 Notes:  
 
-Date:  8/10/18885 
+Date:  8/10/1885 
 Source:  Daily Telegraph
 Author:  
 Vol / Page:  4
@@ -6215,7 +6215,7 @@ Source:  Railways of NZ
 Author:  LEITCH
 Vol / Page:  195
 Edition:  
-Quote:  The final death knell of the provincial expresses - the old ‘mail trains' that ran several times a week over all secondary main lines - was sounded by the arrival in 1954 of the first of Drewry Car Co's 88-seaters, generally called ‘The Fiats' because of their twin Fiat 700.040 horizontal six-cylinder diesel motors.
+Quote:  The final death knell of the provincial expresses - the old 'mail trains' that ran several times a week over all secondary main lines - was sounded by the arrival in 1954 of the first of Drewry Car Co's 88-seaters, generally called 'The Fiats' because of their twin Fiat 700.040 horizontal six-cylinder diesel motors.
 
 
 Notes:  
@@ -6927,7 +6927,7 @@ Source:  Metro
 Author:  
 Vol / Page:  42
 Edition:  
-Quote:  The mains came with sautéed spinach and pumpkin, their price (and GST) happily included in the cost of the meal.
+Quote:  The mains came with sauteed spinach and pumpkin, their price (and GST) happily included in the cost of the meal.
 Notes:  
 
 Date:  0/7/1995 
@@ -7969,8 +7969,7 @@ Source:  Dominion Post
 Author:  
 Vol / Page:  A3
 Edition:  
-Quote:  As units closed, many special needs children were "maindumped" without adequate re
-Sources of support, Mr Minto said.
+Quote:  As units closed, many special needs children were "maindumped" without adequate resources of support, Mr Minto said.
 Notes:  
 
 Date:  7/1/2003 
@@ -7979,8 +7978,9 @@ Author:
 Vol / Page:  15
 Edition:  
 Quote:  The alternative of "maindumping" - putting special needs children in a  mainstream class without support - is unfair on the child and his or her peers as well as on the classroom teacher.
-Notes: Mainland
+Notes: 
 
+Mainland
  Homonym Number:  
 Word Class: noun
 Sense Number: 
@@ -8649,7 +8649,7 @@ Source:  Merriam-Webster Third International
 Author:  
 Vol / Page:  2026
 Edition:  
-Quote:   <i>Ma&#769;.i-re</i> (mä.&#769;.è.-r&amacr.; <i>colloq.</i> m&imacr.&#769;.r&emacr.),<i> n</i>. [Maori.]<i> (Bot.) Any one of several New Zealand trees : - (a) Olea lanceolata, of the order Jasmineae; -called white maire by Auckland bushmen. (b) Fusanus Cunninghamii,</i> of the order <i>Santalaceae</i>; called also <i>New Zealand sandalwood. (c) Olea Cunninghamii</i>, of the order<i> Jasmineae; - often called</i> black maire <i>by bushmen</i>. (d) Olea <i>apetala</i>, of the order <i>Jasmineae</i>; - called also <i>broad-leaved maire. (e) Olea montana</i>, of the order <i>Jasmineae</i>; - called also <i>narrow-leaved maire. (f) Eugenia maire</i>, of the order <i>LMyrtaceae</i>; - called by the Maoris <i>maire-tawhaka.</i>
+Quote:   <i>Ma&#769;.i-re</i> (ma.&#769;.e.-r&amacr.; <i>colloq.</i> m&imacr.&#769;.r&emacr.),<i> n</i>. [Maori.]<i> (Bot.) Any one of several New Zealand trees : - (a) Olea lanceolata, of the order Jasmineae; -called white maire by Auckland bushmen. (b) Fusanus Cunninghamii,</i> of the order <i>Santalaceae</i>; called also <i>New Zealand sandalwood. (c) Olea Cunninghamii</i>, of the order<i> Jasmineae; - often called</i> black maire <i>by bushmen</i>. (d) Olea <i>apetala</i>, of the order <i>Jasmineae</i>; - called also <i>broad-leaved maire. (e) Olea montana</i>, of the order <i>Jasmineae</i>; - called also <i>narrow-leaved maire. (f) Eugenia maire</i>, of the order <i>LMyrtaceae</i>; - called by the Maoris <i>maire-tawhaka.</i>
 Notes:  
 
 Date:  0/0/1898 
@@ -9548,6 +9548,7 @@ Edition:
 Quote:  Makaka [Maori name] .. Broom [Settlers' name] .. Carmichaelia Australis .. Shrub
 Notes:  
 
+
 Date:  0/0/1952 
 Source:  Chatham Islands
 Author:  RICHARDS
@@ -10317,7 +10318,7 @@ Source:  Nelson Evening Mail
 Author:  
 Vol / Page:  2
 Edition:  
-Quote:  Even the Australian aborigines can “make a smoke” eloquent.
+Quote:  Even the Australian aborigines can 'make a smoke' eloquent.
 Notes:  
 
 Date:  18/10/1907 
@@ -11681,11 +11682,11 @@ Source:  Talking about O'Dwyer
 Author:  STEAD
 Vol / Page:  47
 Edition:  
-Quote:  ‘What's a makutu?'
+Quote:  'What's a makutu?'
 
-‘It's a curse.'
+'It's a curse.'
 
-‘Why, what's he done?'
+'Why, what's he done?'
 
 
 Notes:  
@@ -13326,7 +13327,7 @@ Source:  Listener (New Zealand Listener)
 Author:  
 Vol / Page:  53
 Edition:  
-Quote:  But fortunes change, Man Alone clichés and thriller expectations are subverted and gender roles are picked up and dropped again with the ease of a game of charades...
+Quote:  But fortunes change, Man Alone cliches and thriller expectations are subverted and gender roles are picked up and dropped again with the ease of a game of charades...
 Notes:  
 
 Date:  31/7/1999 
@@ -13740,7 +13741,7 @@ Source:  Merriam-Webster Third International
 Author:  
 Vol / Page:  2026
 Edition:  
-Quote:  <i>Ma&#769;.na </i>(mä.&#769;.n&adot.), <i>n</i>. [Maori.] The authority, influence, or prestige enjoyed by a person on account of his rank, character, or success in life, or for any other reason. [<i>N. Z.</i> and <i>N. S. W</i>.] In its Maori use, <i>mana</i> has a wide signification and is applied to both persons and things. In English, it is technically used of the authority or prestige of a Maori chief, but is colloquially applied to other persons, esp. public officers and politicians.
+Quote:  <i>Ma&#769;.na </i>(ma.&#769;.n&adot.), <i>n</i>. [Maori.] The authority, influence, or prestige enjoyed by a person on account of his rank, character, or success in life, or for any other reason. [<i>N. Z.</i> and <i>N. S. W</i>.] In its Maori use, <i>mana</i> has a wide signification and is applied to both persons and things. In English, it is technically used of the authority or prestige of a Maori chief, but is colloquially applied to other persons, esp. public officers and politicians.
 Notes:  
 
 Date:  0/0/1907 
@@ -14048,7 +14049,7 @@ Source:  Merriam-Webster Third International
 Author:  
 Vol / Page:  2026
 Edition:  
-Quote:  <i>Ma&#769;.na </i>(mä.&#769;.n&adot.), <i>n</i>. [Maori.] The authority, influence, or prestige enjoyed by a person on account of his rank, character, or success in life, or for any other reason. [<i>N. Z. </i>and <i>N. S. W</i>.] In its Maori use, <i>mana</i> has a wide signification and is applied to both persons and things. In English, it is technically used of the authority or prestige of a Maori chief, but is colloquially applied to other persons, esp. public officers and politicians.
+Quote:  <i>Ma&#769;.na </i>(ma.&#769;.n&adot.), <i>n</i>. [Maori.] The authority, influence, or prestige enjoyed by a person on account of his rank, character, or success in life, or for any other reason. [<i>N. Z. </i>and <i>N. S. W</i>.] In its Maori use, <i>mana</i> has a wide signification and is applied to both persons and things. In English, it is technically used of the authority or prestige of a Maori chief, but is colloquially applied to other persons, esp. public officers and politicians.
 Notes:  
 
 Date:  0/0/1917 
@@ -14399,7 +14400,7 @@ Source:  Internet - see Notes
 Author:  
 Vol / Page:  
 Edition:  
-Quote:  Trainee Kaitohutohu Himiona Herbert approaches his career work with a strong Mâori perspective. He says his dealings with Mâori clients are based on the concept of manaakitanga – welcoming people in and making them feel at home with the same sense of warmth and connection that they would encounter on a marae.
+Quote:  Trainee Kaitohutohu Himiona Herbert approaches his career work with a strong Maori perspective. He says his dealings with Maori clients are based on the concept of manaakitanga - welcoming people in and making them feel at home with the same sense of warmth and connection that they would encounter on a marae.
 Notes:  from careers.govt.nz (Career Services publications Issue 10, July 2003)
 
 manager
@@ -15817,7 +15818,7 @@ Source:  Geological Society of NZ Newsletter
 Author:  
 Vol / Page:  82/36
 Edition:  
-Quote:  Another widespread silicic airall tephra reported from southern North Island is the Rangitawa Pumice and its possible correlatives, the Omahina Tephra (Pillans 1979), the Lower Finnie Road Ash (Seward 1974 ; Pillans & Kohn 1981), and the Mangaroa Ash (Neeser et al. 1980), all with fission-track dates in the two-standard deviation age range of 370 ± 70 ky BP (Pillans & Kohn 1981; Kyle & Seward 1984; Kohl 1986, oral presentation).
+Quote:  Another widespread silicic airall tephra reported from southern North Island is the Rangitawa Pumice and its possible correlatives, the Omahina Tephra (Pillans 1979), the Lower Finnie Road Ash (Seward 1974 ; Pillans & Kohn 1981), and the Mangaroa Ash (Neeser et al. 1980), all with fission-track dates in the two-standard deviation age range of 370 +/- 70 ky BP (Pillans & Kohn 1981; Kyle & Seward 1984; Kohl 1986, oral presentation).
 Notes:  
 
 Mangatainoku Celebrated Xmas Cake
@@ -16814,7 +16815,7 @@ Source:  Merriam-Webster Third International
 Author:  
 Vol / Page:  2026
 Edition:  
-Quote:  <i>Ma&#769;.ngo</i> (mä.&#769;.ngò.; <i>colloq</i>. m&adot.ng&#769;.ò.), <i>n</i>. [Maori.] (<i>Zoö.l.</i>) A kind of shark. See MAKO [Local, N. Z.]
+Quote:  <i>Ma&#769;.ngo</i> (ma.&#769;.ngo.; <i>colloq</i>. m&adot.ng&#769;.o.), <i>n</i>. [Maori.] (<i>Zoo.l.</i>) A kind of shark. See MAKO [Local, N. Z.]
 Notes:  
 
 Date:  0/0/1929 
@@ -17928,8 +17929,7 @@ Quote:   ...a group of conifers formerly included in <i>Dacrydium</i>; silver pi
 Notes:  
 
 Date:  0/0/1889 
-Source:  Canterbury (NZ): its re
-Sources and progress
+Source:  Canterbury (NZ): its resources and progress
 Author:  
 Vol / Page:  52
 Edition:  
@@ -19685,6 +19685,7 @@ Notes:
 Date:  0/0/1940 
 Source:  Tales of Pioneer Women
 Author:  
+
 Vol / Page:  152
 Edition:  1988
 Quote:  Mother would draw out the embers with a long scraper, and brush out the [153] oven with a big manuka broom dipped in cold water. ... After the bread came out, trays of apples ... would go in to bake, ... or a special `dog's cake' made of pollard, bran, suet, and butter-milk.
@@ -20269,7 +20270,7 @@ Source:  Through South Westland
 Author:  MORELAND
 Vol / Page:  51
 Edition:  
-Quote:  We entered on a dreary extent of moraine - a chaos of ridges and stones which filled the valley. In part it was overgrown by thickets of manuka scrub and tangles of hooked ‘lawyer'.
+Quote:  We entered on a dreary extent of moraine - a chaos of ridges and stones which filled the valley. In part it was overgrown by thickets of manuka scrub and tangles of hooked 'lawyer'.
 
 
 Notes:  
@@ -21136,6 +21137,7 @@ Notes:
 
 Date:  0/0/1851 
 Source:  Rovings In The Pacific
+
 Author:  LUCETT
 Vol / Page:  1
 Edition:  
@@ -24593,7 +24595,7 @@ Source:  Merriam-Webster Third International
 Author:  
 Vol / Page:  2019
 Edition:  
-Quote:  <I>Cabì.bage </I>(k&abreve.bì.bà.j), <I>n. [Add.] ... - Maori cabbage. (Bot)</I> See under MAORI. - <I>Native cabbage (Bot.)</I>, also, a New Zealand term for the Maori cabbage.
+Quote:  <I>Cabi.bage </I>(k&abreve.bi.ba.j), <I>n. [Add.] ... - Maori cabbage. (Bot)</I> See under MAORI. - <I>Native cabbage (Bot.)</I>, also, a New Zealand term for the Maori cabbage.
 Notes:  
 
 Date:  0/0/1903 
@@ -24671,7 +24673,7 @@ Source:  Merriam-Webster Third International
 Author:  
 Vol / Page:  2026
 Edition:  
-Quote:  <i>Ma&#769;.o-ri</i> (mä.&#769;.ò.-rè.),<i> n. & a. [Add.] </i><i>Maori cabbage (Bot.),</i> the wild cabbage of New Zealand, descended from cabbages planted by Captain Cook.
+Quote:  <i>Ma&#769;.o-ri</i> (ma.&#769;.o.-re.),<i> n. & a. [Add.] </i><i>Maori cabbage (Bot.),</i> the wild cabbage of New Zealand, descended from cabbages planted by Captain Cook.
 Notes:  
 
 Date:  0/0/1899 
@@ -26320,6 +26322,7 @@ Quote:  It is sometimes stated that a Maori child's spoken vocabulary often lack
 Notes:  
 
 Date:  0/5/1972 
+
 Source:  NZ Journal Educ. Studies
 Author:  
 Vol / Page:  
@@ -29102,7 +29105,7 @@ Source:  Aspects of Apostolates of Society of Mary
 Author:  
 Vol / Page:  29
 Edition:  
-Quote:  Hoani Papita seemed an appropriate name for this Marist missionary who was seen as the  herald of a new more hopeful era for the Catholic Maori mission in Wellington. <I>iBID.</I> ** The newly-ordained Soulas was appointed to the Hawke's Bay Maori mission at Meanee, following his arrival from France in 1879.<I> Ibid.</i>  40 Venning was the  first New Zealand Marist to be appointed  to  the Maori  mission. <i> Ibid.</i> 97 Haoto Paora College... was established from the vision and commitment of those in the  Maori Mission. <i>Ibid.</i> 99 Some of the Mission Areas changed the name of this Apostolate from 'Maori Mission' to ‘Maori  Pastoral Area'.
+Quote:  Hoani Papita seemed an appropriate name for this Marist missionary who was seen as the  herald of a new more hopeful era for the Catholic Maori mission in Wellington. <I>iBID.</I> ** The newly-ordained Soulas was appointed to the Hawke's Bay Maori mission at Meanee, following his arrival from France in 1879.<I> Ibid.</i>  40 Venning was the  first New Zealand Marist to be appointed  to  the Maori  mission. <i> Ibid.</i> 97 Haoto Paora College... was established from the vision and commitment of those in the  Maori Mission. <i>Ibid.</i> 99 Some of the Mission Areas changed the name of this Apostolate from 'Maori Mission' to 'Maori  Pastoral Area'.
 
 
 Notes:  
@@ -30783,7 +30786,7 @@ Source:  John Banks : A Biography
 Author:  GOLDSMITH
 Vol / Page:  229
 Edition:  
-Quote:  Banks' next misdemeanour was his use of the term ‘Maori PT' (Maori physical training) in Parliament... The Speaker, Peter Tapsell, came to Banks' defence, pointing out that both Maori and pakeha working in his shearing shed regularly used the term and that Banks' use of it had not harmed race relations.
+Quote:  Banks' next misdemeanour was his use of the term 'Maori PT' (Maori physical training) in Parliament... The Speaker, Peter Tapsell, came to Banks' defence, pointing out that both Maori and pakeha working in his shearing shed regularly used the term and that Banks' use of it had not harmed race relations.
 
 
 Notes:  
@@ -32949,7 +32952,7 @@ Source:  Hawera & Normanby Star
 Author:  
 Vol / Page:  4
 Edition:  
-Quote:  “The fish you forwarded is a kokopu or Maori trout …”
+Quote:  'The fish you forwarded is a kokopu or Maori trout '
 Notes:  
 
 Maori turnip
@@ -36071,7 +36074,7 @@ Source:  Pu Kaea
 Author:  
 Vol / Page:  10
 Edition:  
-Quote:  Mâorioke first went to air on Mâori Television in 2003.
+Quote:  Maorioke first went to air on Maori Television in 2003.
 Notes:  
 
 Maori-only
@@ -36575,7 +36578,7 @@ Source:  Carpathians, The
 Author:  FRAME
 Vol / Page:  84
 Edition:  
-Quote:  Then they get restless, they want to be somewhere else, they've had Maoritanga for the time being, thank you, and yet if you happen to be among a group of people at a function you hear the same people holding forth about having ‘been on the marae' and how wonderful it is.
+Quote:  Then they get restless, they want to be somewhere else, they've had Maoritanga for the time being, thank you, and yet if you happen to be among a group of people at a function you hear the same people holding forth about having 'been on the marae' and how wonderful it is.
 
 
 Notes:  
@@ -36917,7 +36920,7 @@ Source:  Merriam-Webster Third International
 Author:  
 Vol / Page:  2026
 Edition:  
-Quote:  <I>Ma&#769;.pa-u</I> (mä.&#769;.pä.-u; <I>colloq.</I> m&adot.&#769;.pou), <I> n</I>. [Maori] <I>Ma&#769;.po-u</I>(mä.&#769;.p&omacr.-u;<I> colloq</I>. m&adot.&#769;.pu), <I> (Bot.)</I> A New Zealand tree<I> Myrsine Urvillei</I>), of the order <I>Myrsineae</I>; called also <I>matapou, matapo, matipo,</I> and <I>maple. [Local, N. Z.] Black mapau, </I>name applied incorrectly by New Zealand settlers to the tree <I>Pittosporum tenuifolium</I>, of the order <I>Pittosporeae. - White mapau, (a) </I>The tarata <I>(Pittosporum eugenoides);</I> -called also <I>turpentine tree. (b) </I>The saxifragaceous tree piripiri <I>(Carpodetus serratus); called often mapou.</I> See PIRIPIRI.
+Quote:  <I>Ma&#769;.pa-u</I> (ma.&#769;.pa.-u; <I>colloq.</I> m&adot.&#769;.pou), <I> n</I>. [Maori] <I>Ma&#769;.po-u</I>(ma.&#769;.p&omacr.-u;<I> colloq</I>. m&adot.&#769;.pu), <I> (Bot.)</I> A New Zealand tree<I> Myrsine Urvillei</I>), of the order <I>Myrsineae</I>; called also <I>matapou, matapo, matipo,</I> and <I>maple. [Local, N. Z.] Black mapau, </I>name applied incorrectly by New Zealand settlers to the tree <I>Pittosporum tenuifolium</I>, of the order <I>Pittosporeae. - White mapau, (a) </I>The tarata <I>(Pittosporum eugenoides);</I> -called also <I>turpentine tree. (b) </I>The saxifragaceous tree piripiri <I>(Carpodetus serratus); called often mapou.</I> See PIRIPIRI.
 Notes:  
 
 Date:  0/0/1890 
@@ -37087,7 +37090,7 @@ Source:  Merriam-Webster Third International
 Author:  
 Vol / Page:  2026
 Edition:  
-Quote:  <i>Ma&#769;.pa-u</i> (mä.&#769;.pä.-u; <i>colloq</i>. m&adot.&#769;.pou), n. [Maori] <i>Ma&#769;.po-u</i> (mä.&#769;.p&omacr.-u; <i>colloq</i>. m&adot.&#769;.pu), (<i>Bot.</i>) A New Zealand tree <i>Myrsine Urvillei</i>), of the order <i>Myrsineae</i>; called also <i>matapou, matapo, matipo</i>, and <i>maple. [Local, N. Z.] Black mapau</i>, name applied incorrectly by New Zealand settlers to the tree <i>Pittosporum tenuifolium</i>, of the order <i>Pittosporeae. - White mapau, (a) </i>The tarata (<i>Pittosporum eugenoides</i>); -called also <i>turpentine tree. (b) </i>The saxifragaceous tree piripiri (<i>Carpodetus serratus); called often mapou</i>. See PIRIPIRI.
+Quote:  <i>Ma&#769;.pa-u</i> (ma.&#769;.pa.-u; <i>colloq</i>. m&adot.&#769;.pou), n. [Maori] <i>Ma&#769;.po-u</i> (ma.&#769;.p&omacr.-u; <i>colloq</i>. m&adot.&#769;.pu), (<i>Bot.</i>) A New Zealand tree <i>Myrsine Urvillei</i>), of the order <i>Myrsineae</i>; called also <i>matapou, matapo, matipo</i>, and <i>maple. [Local, N. Z.] Black mapau</i>, name applied incorrectly by New Zealand settlers to the tree <i>Pittosporum tenuifolium</i>, of the order <i>Pittosporeae. - White mapau, (a) </i>The tarata (<i>Pittosporum eugenoides</i>); -called also <i>turpentine tree. (b) </i>The saxifragaceous tree piripiri (<i>Carpodetus serratus); called often mapou</i>. See PIRIPIRI.
 Notes:  
 
 Date:  0/3/2009 
@@ -37650,7 +37653,7 @@ Source:  John Banks : A Biography
 Author:  GOLDSMITH
 Vol / Page:  64
 Edition:  
-Quote:  McCready was given to blunt language and word pictures; when discussing the new definition of a ‘Maori' in the Maori Affairs Amendment Bill, 1974, he produced the line, ‘It now appears that anyone who rides past a marae on a pushbike can claim to be a Maori.'
+Quote:  McCready was given to blunt language and word pictures; when discussing the new definition of a 'Maori' in the Maori Affairs Amendment Bill, 1974, he produced the line, 'It now appears that anyone who rides past a marae on a pushbike can claim to be a Maori.'
 
 
 Notes:  
@@ -37822,7 +37825,7 @@ Source:  Carpathians, The
 Author:  FRAME
 Vol / Page:  84
 Edition:  
-Quote:  Then they get restless, they want to be somewhere else, they've had Maoritanga for the time being, thank you, and yet if you happen to be among a group of people at a function you hear the same people holding forth about having ‘been on the marae' and how wonderful it is.
+Quote:  Then they get restless, they want to be somewhere else, they've had Maoritanga for the time being, thank you, and yet if you happen to be among a group of people at a function you hear the same people holding forth about having 'been on the marae' and how wonderful it is.
 
 
 Notes:  
@@ -38070,7 +38073,7 @@ Source:  Wel-com (Wellington)
 Author:  
 Vol / Page:  16
 Edition:  
-Quote:  <i>Märamatanga</i> literally means <i>enlightenment</I> or <i> understanding</i>. The people of the Märamatanga belong to a prophetic and religious movement who by faith, story, waiata and ritual have sustained their identity and autonomy in the face of an overwhelming Päkehä society.
+Quote:  <i>Maramatanga</i> literally means <i>enlightenment</I> or <i> understanding</i>. The people of the Maramatanga belong to a prophetic and religious movement who by faith, story, waiata and ritual have sustained their identity and autonomy in the face of an overwhelming Pakeha society.
 
 
 Notes:  
@@ -38862,7 +38865,7 @@ Source:  Questionnaire Respondents (DB)
 Author:  
 Vol / Page:  
 Edition:  
-Quote:  dags – marbles.
+Quote:  dags - marbles.
 Notes:  
 
 marble-top
@@ -39258,7 +39261,7 @@ Source:  Here & Now
 Author:  
 Vol / Page:  2(10) : 9
 Edition:  
-Quote:  The psychological explanation of the ‘marching girls' cult is probably complex.
+Quote:  The psychological explanation of the 'marching girls' cult is probably complex.
 
 
 Notes:  
@@ -40718,7 +40721,7 @@ Vol / Page:
 Edition:  
 Quote:  
 
-Marlborough mini (Hoplodactylus “Marlborough mini”) – only recently identified, and found between Houghton Bay and Sinclair Head.
+Marlborough mini (Hoplodactylus 'Marlborough mini') - only recently identified, and found between Houghton Bay and Sinclair Head.
 Notes:  http://www.wellington.govt.nz/services/gardens/pdfs/boautumn09.pdf 
 
   
@@ -41420,7 +41423,7 @@ Source:  Dominion
 Author:  
 Vol / Page:  C6
 Edition:  
-Quote:  It was time to take the maggot taxis up to the marrowbone country …
+Quote:  It was time to take the maggot taxis up to the marrowbone country 
 Notes:  
 
 Marseille tile
@@ -42328,7 +42331,7 @@ Source:  Wairarapa Daily
 Author:  
 Vol / Page:  2
 Edition:  
-Quote:  At Dunedin recently they gave' a "masher" concert for a charitable purpose and.. a net balance of £21 8s 6d was handed over. The balance is supposed to have been spent in mashing.
+Quote:  At Dunedin recently they gave' a "masher" concert for a charitable purpose and.. a net balance of GBP21 8s 6d was handed over. The balance is supposed to have been spent in mashing.
 
 
 Notes:  
@@ -42418,7 +42421,7 @@ Source:  Wairarapa Daily
 Author:  
 Vol / Page:  2
 Edition:  
-Quote:  At Dunedin recently they gave' a "masher" concert for a charitable purpose and.. a net balance of £21 8s 6d was handed over. The balance is supposed to have been spent in mashing.
+Quote:  At Dunedin recently they gave' a "masher" concert for a charitable purpose and.. a net balance of GBP21 8s 6d was handed over. The balance is supposed to have been spent in mashing.
 
 
 Notes:  
@@ -42956,7 +42959,7 @@ Author:  ELDRED-GRIGG
 Vol / Page:  
 Edition:  
 Quote:  137
-Notes:  In 1913 paramilitary cavalry units called ‘Massey's Cossacks' were formed by young men from the middle classes to put down another strike.
+Notes:  In 1913 paramilitary cavalry units called 'Massey's Cossacks' were formed by young men from the middle classes to put down another strike.
 
 
 
@@ -42965,7 +42968,7 @@ Source:  Speaking for Ourselves
 Author:  OWEN & PERKINS
 Vol / Page:  102
 Edition:  
-Quote:  [Caption] Strikers scattering as mounted ‘specials' (‘Massey's Cossacks') gallop up Featherston Street during the General Strike of 1913.
+Quote:  [Caption] Strikers scattering as mounted 'specials' ('Massey's Cossacks') gallop up Featherston Street during the General Strike of 1913.
 
 
 Notes:  
@@ -43831,6 +43834,7 @@ Notes:
 
 Date:  0/0/1975 
 Source:  Dictionary of the Maori Language
+
 Author:  WILLIAMS
 Vol / Page:  185
 Edition:  
@@ -46062,7 +46066,7 @@ Source:  Dominion Post
 Author:  
 Vol / Page:  C11
 Edition:  
-Quote:  Wai 262 is a claim to rights in respect of mätauranga Mäori or Mäori knowledge, and indigenous flora and fauna.
+Quote:  Wai 262 is a claim to rights in respect of matauranga Maori or Maori knowledge, and indigenous flora and fauna.
 Notes:  -
 
 Date:  25/11/2005 
@@ -46086,7 +46090,7 @@ Source:  Whakatane Beacon
 Author:  
 Vol / Page:  13
 Edition:  
-Quote:  Community education programmes develop and strengthen Mâori tikanga, âhuatanga and mâtauranga.
+Quote:  Community education programmes develop and strengthen Maori tikanga, ahuatanga and matauranga.
 Notes:  
 
 matawaka
@@ -48002,7 +48006,7 @@ Source:  Speaking for Ourselves
 Author:  OWEN & PERKINS
 Vol / Page:  176
 Edition:  
-Quote:  My sister Dororthy went to Nelson College for Girls and matriculated and came home, and she passed what was called a ‘D' certificate, the first of the teaching certificates.
+Quote:  My sister Dororthy went to Nelson College for Girls and matriculated and came home, and she passed what was called a 'D' certificate, the first of the teaching certificates.
 
 
 Notes:  
@@ -48278,7 +48282,7 @@ Source:  Questionnaire Respondents (DB)
 Author:  
 Vol / Page:  
 Edition:  
-Quote:  a very old cow – matron.
+Quote:  a very old cow - matron.
 Notes:  
 
 Matter of National Importance
@@ -48300,9 +48304,7 @@ Source:  NZ Heritage
 Author:  
 Vol / Page:  No. 90/9
 Edition:  
-Quote:  The amendments [to the Re
-Sources Management Act] elevate historic heritage to a Matter of National Importance, giving it the same recognition afforded such treasures as the coastal environment and areas of significant native flora and fauna. Anyone operating under the Re
-Sources Management Act must recognise and provide for the protection of historic heritage from inappropriate subdivision, use and development.
+Quote:  The amendments [to the Resources Management Act] elevate historic heritage to a Matter of National Importance, giving it the same recognition afforded such treasures as the coastal environment and areas of significant native flora and fauna. Anyone operating under the Resources Management Act must recognise and provide for the protection of historic heritage from inappropriate subdivision, use and development.
 Notes:  
 
 mattery-eye
@@ -48396,7 +48398,7 @@ Source:  Questionnaire Respondents (DB)
 Author:  
 Vol / Page:  
 Edition:  
-Quote:  a sticky sheep (shearing) – a matty.
+Quote:  a sticky sheep (shearing) - a matty.
 Notes:  
 
 matua
@@ -51235,7 +51237,7 @@ Source:  Railways of NZ
 Author:  LEITCH
 Vol / Page:  204
 Edition:  
-Quote:  For log traffic on the North Island logging branches, a special bogie wagon was developed..one of the few freight trains fitted with automatic knuckle couplers instead of the standard ‘meat chopper' single-centre buffer-coupler
+Quote:  For log traffic on the North Island logging branches, a special bogie wagon was developed..one of the few freight trains fitted with automatic knuckle couplers instead of the standard 'meat chopper' single-centre buffer-coupler
 Notes:  
 
 meat converter
@@ -51721,6 +51723,7 @@ Notes:
 Date:  0/0/1953 
 Source:  NZ Short Stories
 Author:  
+
 Vol / Page:  408
 Edition:  
 Quote:  
@@ -52960,7 +52963,7 @@ Source:  Geological Society of NZ Newsletter
 Author:  
 Vol / Page:  67/29
 Edition:  
-Quote:  Schuchert, a geologist of exceptionally wide interests, is one of that distinguished lineage of megathinkers in the earth sciences of whom the first, perhaps, was J D Dana [sic, no punct there] (1813 – 1895), the last is yet unborn.
+Quote:  Schuchert, a geologist of exceptionally wide interests, is one of that distinguished lineage of megathinkers in the earth sciences of whom the first, perhaps, was J D Dana [sic, no punct there] (1813 - 1895), the last is yet unborn.
 Notes:  
 
 Meggy-monny-legs
@@ -53898,6 +53901,7 @@ Notes:
 Date:  0/0/1905 
 Source:  Pagan's Love, A
 Author:  McADAM
+
 Vol / Page:  
 Edition:  
 Quote:  
@@ -55636,7 +55640,7 @@ Source:  Under the Bridge & Over the Moon
 Author:  IRELAND
 Vol / Page:  103
 Edition:  
-Quote:  He had a kind of bleary unfocused half-smile, as if He had just been clocked over the head or had been drinking out of a bottle wrapped in a paper bag, like the ‘methos' in Albert Park.
+Quote:  He had a kind of bleary unfocused half-smile, as if He had just been clocked over the head or had been drinking out of a bottle wrapped in a paper bag, like the 'methos' in Albert Park.
 
 
 Notes:  
@@ -55833,6 +55837,7 @@ Vol / Page:  48
 Edition:  
 Quote:  <i>Mexican poppy</i> [s] <i>Argemone ochroleuca </i>Sweet
 Notes:  
+
 
 Mexican tea
  Homonym Number:  
@@ -56707,7 +56712,7 @@ Notes:  1841 Apr 19 Joseph Somes to Lord John Russell in GBPP House of Commons 1
 
 Date:  0/0/1998 
 Source:  Yin & Tonic
-Author:  RENÉE
+Author:  RENeE
 Vol / Page:  133
 Edition:  
 Quote:  Strange, I thought. But then I thought, well, she's a Micky Doo Tommy Boy. I'm, a Methodist myself.
@@ -57028,7 +57033,7 @@ Source:  Southern Gentry
 Author:  ELDRED-GRIGG
 Vol / Page:  68
 Edition:  
-Quote:  By 1865 public men were referring to the South as a distinct economic and social unit - ‘the civilization of the Middle Island'.
+Quote:  By 1865 public men were referring to the South as a distinct economic and social unit - 'the civilization of the Middle Island'.
 
 
 Notes:  
@@ -57551,6 +57556,7 @@ Quote:  Workers' camps were seen as "essentially
 bad" for assimilation because the
 
 migrants formed groups.
+
 
 
 Notes:  
@@ -58484,7 +58490,7 @@ Source:  Daily Southern Cross
 Author:  
 Vol / Page:  4
 Edition:  
-Quote:  I hope that no very long time will elapse before the first of the men who are to compose this force may be sent;  and if it should be found that there is really the facility I expect in enrolling and sending to New Zealand military settlers on the plan I have described, the measure may hereafter be extended, and military settlements will probably be formed not only in the northern part of New Zealand, but also, in concert with the New Zealand Company, in the neighbourhood of Cook's Straits – I am, &c.
+Quote:  I hope that no very long time will elapse before the first of the men who are to compose this force may be sent;  and if it should be found that there is really the facility I expect in enrolling and sending to New Zealand military settlers on the plan I have described, the measure may hereafter be extended, and military settlements will probably be formed not only in the northern part of New Zealand, but also, in concert with the New Zealand Company, in the neighbourhood of Cook's Straits - I am, &c.
 Notes:  
 
 Date:  9/3/1870 
@@ -58676,7 +58682,7 @@ Source:  Nelson Evening Mail
 Author:  
 Vol / Page:  3
 Edition:  
-Quote:  The cost to the colony (£1092 5s) of the Naval and Military Settlers' Land Claims Commission was made up as follows...
+Quote:  The cost to the colony (GBP1092 5s) of the Naval and Military Settlers' Land Claims Commission was made up as follows...
 Notes:  
 
 Date:  21/6/1901 
@@ -60620,7 +60626,7 @@ Source:  Rangitikei Advocate
 Author:  
 Vol / Page:  3
 Edition:  
-Quote:  [Hdg] Milk-Walk. Doing over £700 a
+Quote:  [Hdg] Milk-Walk. Doing over GBP700 a
 
 year.
 Notes:  
@@ -65723,7 +65729,7 @@ Source:  Footnotes
 Author:  
 Vol / Page:  1
 Edition:  
-Quote:  Successional planting of such species as tôtara and miro is so labour intensive.
+Quote:  Successional planting of such species as totara and miro is so labour intensive.
 Notes:  
 
 Date:  0/0/1820 
@@ -66193,8 +66199,7 @@ Source:  Diary
 Author:  TUCKETT
 Vol / Page:  
 Edition:  
-Quote:  This is the locality [Mataura] for wonderful stories of wonderful beings; the Maories declare that there are hairy giants, who inhabit a mountain near these valleys; they call them Miroroi, and have a great dread of them; we were very anxious to procure a specimen, and quite willing to hazard the capture, thinking it would be a fine spec., other re
-Sources failing, to return to England with.
+Quote:  This is the locality [Mataura] for wonderful stories of wonderful beings; the Maories declare that there are hairy giants, who inhabit a mountain near these valleys; they call them Miroroi, and have a great dread of them; we were very anxious to procure a specimen, and quite willing to hazard the capture, thinking it would be a fine spec., other resources failing, to return to England with.
 Notes:  1844 May 13 Tuckett Diary in 1898 Hocken Contributions 220 
 
 
@@ -69967,7 +69972,7 @@ Quote:  It was horrible to see .... the puddled-up `mob' (as sheep en masse are 
 Notes:  
 
 Date:  0/0/1874 
-Source:  Crusts: a settler’s fare due south
+Source:  Crusts: a settler's fare due south
 Author:  KENNAWAY
 Vol / Page:  45
 Edition:  
@@ -70172,7 +70177,7 @@ Author:
 Vol / Page:  333/18
 
 Edition:  
-Quote:  When I was 10 years old I watched a mob of kea meticulously dismantle my grandmother’s windscreen wipers.
+Quote:  When I was 10 years old I watched a mob of kea meticulously dismantle my grandmother's windscreen wipers.
 Notes:  
 
 Date:  0/0/1860 
@@ -70991,7 +70996,7 @@ moccy
  Homonym Number:  
 Word Class: noun
 Sense Number:  1
-Definition: a sacking moccasin [traditional shearers’ footwear.] 
+Definition: a sacking moccasin [traditional shearers' footwear.] 
 
 
 Origin: [none]
@@ -71008,7 +71013,7 @@ Source:  Tales from the Shearing Shed
 Author:  WILLIAMS
 Vol / Page:  53
 Edition:  
-Quote:  In revenge the pressers will nail the shearers’ moccies (moccasins) to the floor and laugh when they don’t realize it …
+Quote:  In revenge the pressers will nail the shearers' moccies (moccasins) to the floor and laugh when they don't realize it 
 Notes:  
 
 Date:  0/0/1999 
@@ -71016,7 +71021,7 @@ Source:  Tales from the Shearing Shed
 Author:  WILLIAMS
 Vol / Page:  13
 Edition:  
-Quote:  Smoko time – the discarded ‘moccies’ awaiting the return of the shearers.
+Quote:  Smoko time - the discarded 'moccies' awaiting the return of the shearers.
 Notes:  
 
 Date:  0/0/1999 
@@ -71090,7 +71095,7 @@ Source:  Listener (New Zealand Listener)
 Author:  
 Vol / Page:  52
 Edition:  
-Quote:  As far as I know, ‘mock cream' cake fillings are indigenous to this country., There are no similar recipes in any of the English, Continental or American cook-books. Why we needed to invent imitation cream when there was always so much of the real thing around is a mystery to me.
+Quote:  As far as I know, 'mock cream' cake fillings are indigenous to this country., There are no similar recipes in any of the English, Continental or American cook-books. Why we needed to invent imitation cream when there was always so much of the real thing around is a mystery to me.
 
 
 Notes:  
@@ -71130,7 +71135,7 @@ Source:  Evening Post
 Author:  
 Vol / Page:  19
 Edition:  
-Quote:  Mock Whitebait. – Raw fish (any kind), 2 tablespoons flour, ½ teaspoon salt, cayenne, egg glazing, breadcrumbs, frying fat, lemon.   Free the fish from the bone, and cut into strips about one and a half inches long.   Mix flour, salt, and cayenne.   Dip the pieces of fish in the flour, then in egg, and coat with crumbs.   Fry a golden brown in hot fat.   Drain.   Serve piles high on a hot dish, garnished with slices of lemon.
+Quote:  Mock Whitebait. - Raw fish (any kind), 2 tablespoons flour, 1/2 teaspoon salt, cayenne, egg glazing, breadcrumbs, frying fat, lemon.   Free the fish from the bone, and cut into strips about one and a half inches long.   Mix flour, salt, and cayenne.   Dip the pieces of fish in the flour, then in egg, and coat with crumbs.   Fry a golden brown in hot fat.   Drain.   Serve piles high on a hot dish, garnished with slices of lemon.
 Notes:  
 
 Date:  0/0/1928 
@@ -72939,7 +72944,7 @@ Moke Valley gecko
  Homonym Number:  
 Word Class: noun
 Sense Number: 
-Definition: a newly differentiated sub species of gecko, closely related to the Roy’s Peak gecko, yet to be fully classified.
+Definition: a newly differentiated sub species of gecko, closely related to the Roy's Peak gecko, yet to be fully classified.
 Origin: [none]
 Register: 
 Register 2: 
@@ -73869,6 +73874,7 @@ Quote:   ...he was enabled to get (after navigating the lake on a moggie for two
 Notes:  1860 March 24 Otago Witness (guotes in 1947 Beattie Pioneers Explore Otago 55-56.
 
 Date:  0/0/1863 
+
 Source:  Letter
 Author:  LAUPER
 Vol / Page:  
@@ -74351,7 +74357,7 @@ Source:  Huia 7: Contemp. Maori Fiction
 Author:  
 Vol / Page:  136
 Edition:  
-Quote:  Eeeeee. Fancy mokos of our own! Remember when Kiri’s Riki brought her mokos last Christmas - that little Hemi - he loved you, Matai.
+Quote:  Eeeeee. Fancy mokos of our own! Remember when Kiri's Riki brought her mokos last Christmas - that little Hemi - he loved you, Matai.
 Notes:  
 
 Date:  20/11/1989 
@@ -74539,7 +74545,7 @@ Source:  Merriam-Webster Third International
 Author:  
 Vol / Page:  2027
 Edition:  
-Quote:  <I>Mo&#769;.ko&#769;.</I>, (m&omacr.&#769;.kò.&#769;.), n. [Maori.] The kind of tattooing practiced among the higher ranks of the Maoris. ... <i>Mo&#769;.ko, v. t.</i> To tattoo in the Maori manner. 
+Quote:  <I>Mo&#769;.ko&#769;.</I>, (m&omacr.&#769;.ko.&#769;.), n. [Maori.] The kind of tattooing practiced among the higher ranks of the Maoris. ... <i>Mo&#769;.ko, v. t.</i> To tattoo in the Maori manner. 
 
 
 Notes:  
@@ -75133,7 +75139,7 @@ Source:  Internet - see Notes
 Author:  
 Vol / Page:  
 Edition:  
-Quote:  .. Fanal Island, Mokohinau group (80–120 covers; Mokohinau and Duvaucel’s geckos present).
+Quote:  .. Fanal Island, Mokohinau group (80-120 covers; Mokohinau and Duvaucel's geckos present).
 
 
 Notes:  http://www.landcareresearch.co.nz/research/wildlifeecol/herpetology/projects.asp 
@@ -75345,7 +75351,7 @@ Source:  Merriam-Webster Third International
 Author:  
 Vol / Page:  2027
 Edition:  
-Quote:  <i>Mo&#769;.ko-mo&#769;.ko</i> (m&omacr.&#769;.kò.-m&omacr.&#769;.kò.), <i>n</i>. [Maori.]<i> (Zoö.l.) </i>A species of lizard <i>(Lygosoma ornatum</i> or <i>L. moko</i>), formerly very abundant in New Zealand but now extinct in the South Island.
+Quote:  <i>Mo&#769;.ko-mo&#769;.ko</i> (m&omacr.&#769;.ko.-m&omacr.&#769;.ko.), <i>n</i>. [Maori.]<i> (Zoo.l.) </i>A species of lizard <i>(Lygosoma ornatum</i> or <i>L. moko</i>), formerly very abundant in New Zealand but now extinct in the South Island.
 Notes:  
 
 mokopapa
@@ -76115,7 +76121,7 @@ Source:  Auckland Weekly News
 Author:  
 Vol / Page:  22
 Edition:  
-Quote:  Twenty years ago we lived in houses that only cost £10, and dressed in a blue shirt and moleskin trousers.
+Quote:  Twenty years ago we lived in houses that only cost GBP10, and dressed in a blue shirt and moleskin trousers.
 
 
 Notes:  
@@ -76918,7 +76924,7 @@ Source:  Tales from the Shearing Shed
 Author:  WILLIAMS
 Vol / Page:  17
 Edition:  
-Quote:  Then the shearer comes down the ‘money side’, the sheep’s last unshorn side.
+Quote:  Then the shearer comes down the 'money side', the sheep's last unshorn side.
 Notes:  
 
 Date:  0/0/1949 
@@ -77900,7 +77906,7 @@ Source:  Elizabeth of Lavington
 Author:  TRASK
 Vol / Page:  90
 Edition:  
-Quote:  I was exhorted to "lend a pound". This meant pulling on one of the ropes that elevated the ‘monkey'.. preparatory to letting it descend on the pipes.
+Quote:  I was exhorted to "lend a pound". This meant pulling on one of the ropes that elevated the 'monkey'.. preparatory to letting it descend on the pipes.
 
 
 Notes:  
@@ -79080,7 +79086,7 @@ Source:  NZ Green
 Author:  YSKA
 Vol / Page:  53
 Edition:  
-Quote:  By the mid-1950s moocha or muggles could be bought at Wellington's Regent Hotel from visiting seamen off ships that worked the Persian Gulf... "Muggles was the thing to do. You had to belong to the ‘in' crowd, and if you were not you were ‘out' man."
+Quote:  By the mid-1950s moocha or muggles could be bought at Wellington's Regent Hotel from visiting seamen off ships that worked the Persian Gulf... "Muggles was the thing to do. You had to belong to the 'in' crowd, and if you were not you were 'out' man."
 
 
 Notes:  
@@ -79351,7 +79357,9 @@ Date:  15/5/2004
 Source:  Dominion Post
 Author:  
 Vol / Page:  C1
+
 Edition:  
+
 Quote:  On these occasions, boat owners, skippers and crew rely on smaller, more abundant albacore tuna and bycatch of blue shark, mako shark, moonfish, bream and the relatively valuable broadbill or swordfish.
 Notes:  
 
@@ -81345,7 +81353,7 @@ Source:  Evening Post
 Author:  
 Vol / Page:  10
 Edition:  
-Quote:  You are such a busy person that I hesitate to tell you my latest form of entertainment.   It is morning tea, not a hasty impromptu cup, taken anyhow and anywhere – a sort of smoke oh! – but a regular function with invited guests, dainty cakes, a smart-capped maid to wait, and sprightly conversation.
+Quote:  You are such a busy person that I hesitate to tell you my latest form of entertainment.   It is morning tea, not a hasty impromptu cup, taken anyhow and anywhere - a sort of smoke oh! - but a regular function with invited guests, dainty cakes, a smart-capped maid to wait, and sprightly conversation.
 Notes:  
 
 Date:  14/10/1919 
@@ -81353,7 +81361,7 @@ Source:  Wanganui Chronicle
 Author:  
 Vol / Page:  4
 Edition:  
-Quote:  At 11 o’clock on Thursday morning Lady Liverpool will officially open the Stewart Home.   The public are invited to be present.   Morning tea will be provided.
+Quote:  At 11 o'clock on Thursday morning Lady Liverpool will officially open the Stewart Home.   The public are invited to be present.   Morning tea will be provided.
 Notes:  
 
 Date:  24/9/1935 
@@ -81369,7 +81377,7 @@ Source:  Huia 5: Contemp. Maori Fiction
 Author:  
 Vol / Page:  40
 Edition:  
-Quote:  ‘It’ll be done by smoko - give me a break.’ ‘That’s what it looks like you’re having, my lad. I’ll send Kyle over straight after morning tea then.’
+Quote:  'It'll be done by smoko - give me a break.' 'That's what it looks like you're having, my lad. I'll send Kyle over straight after morning tea then.'
 Notes:  
 
 Date:  17/7/1890 
@@ -83285,8 +83293,7 @@ Source:  New Zealanders at Gallipoli
 Author:  
 Vol / Page:  1
 Edition:  
-Quote:  A few weeks after the dreadful tragedy of Serajevo ... New Zealand placed all her re
-Sources at the disposal of the Mother Land.
+Quote:  A few weeks after the dreadful tragedy of Serajevo ... New Zealand placed all her resources at the disposal of the Mother Land.
 Notes:  
 
 mother-marking
@@ -83826,7 +83833,7 @@ Source:  Te Mana  Taiohi
 Author:  
 Vol / Page:  5
 Edition:  Summer
-Quote:  She also goes along to Kura Reo Mâori immersion classes around the motu.
+Quote:  She also goes along to Kura Reo Maori immersion classes around the motu.
 Notes:  
 
 Date:  12/7/2011 
@@ -83872,7 +83879,7 @@ Source:  Geological Society of NZ Newsletter
 Author:  
 Vol / Page:  13/3
 Edition:  
-Quote:  Vol. I, No.1 “An Occurrence of an Albion Ammonite in the Motuan stage in the Upper Awatere Valley” by Paul Vella
+Quote:  Vol. I, No.1 'An Occurrence of an Albion Ammonite in the Motuan stage in the Upper Awatere Valley' by Paul Vella
 Notes:  
 
 Motuekan
@@ -84362,7 +84369,7 @@ Source:  Huia 5: Contemp. Maori Fiction
 Author:  
 Vol / Page:  64
 Edition:  
-Quote:  Her father looked towards the hump of the Mount in the distance. ‘I think it’s time to go,’ he said...
+Quote:  Her father looked towards the hump of the Mount in the distance. 'I think it's time to go,' he said...
 Notes:  
 
 mountain
@@ -86348,7 +86355,7 @@ Source:  Huia 5: Contemp. Maori Fiction
 Author:  
 Vol / Page:  158
 Edition:  
-Quote:  Ata was born on a piece of bloodied sacking, sliding out warm and screaming, surrounded by scattered lambs’ tails and beside a bucket of mountain oysters.
+Quote:  Ata was born on a piece of bloodied sacking, sliding out warm and screaming, surrounded by scattered lambs' tails and beside a bucket of mountain oysters.
 Notes:  
 
 mountain oysters
@@ -87242,7 +87249,7 @@ Source:  Star, The
 Author:  
 Vol / Page:  2
 Edition:  
-Quote:  Of the mountain Totara – the most durable of its family – fine specimens are shown.
+Quote:  Of the mountain Totara - the most durable of its family - fine specimens are shown.
 Notes:  
 
 Date:  25/12/2011 
@@ -87364,7 +87371,7 @@ Source:  Evening Post
 Author:  
 Vol / Page:  14
 Edition:  
-Quote:  “.. And I have seen the kingfisher dart into the creek and take up a small mountain trout time and again.”
+Quote:  '.. And I have seen the kingfisher dart into the creek and take up a small mountain trout time and again.'
 Notes:  
 
 Date:  2/3/1842 
@@ -88200,6 +88207,7 @@ Vol / Page:  5
 Edition:  
 Quote:  Amazing mouthfeel, a fat smoky , multi-layered mid-palate, beautifully balanced, linear, elegant and stunningly styled.
 Notes:  
+
 
 Date:  9/11/2002 
 Source:  Dominion Post
@@ -89911,7 +89919,9 @@ Notes:
 
 mud volcano
  Homonym Number:  
+
 Word Class: noun
+
 Sense Number: 
 Definition: 
 Origin: [none]
@@ -90211,6 +90221,7 @@ Notes:
 
 Date:  0/0/1986 
 Source:  NZ Pocket Oxford Dictionary
+
 Author:  
 Vol / Page:  493
 Edition:  
@@ -91286,7 +91297,7 @@ Source:  Ask the Posts
 Author:  Ihimaera
 Vol / Page:  252
 Edition:  
-Quote:  ‘You will need stitches,’ Paraiti says. She makes a thread of muka and uses a wooden needle to sew the wound.
+Quote:  'You will need stitches,' Paraiti says. She makes a thread of muka and uses a wooden needle to sew the wound.
 Notes:  
 
 muka flax
@@ -91726,7 +91737,7 @@ Source:  Geological Society of NZ Newsletter
 Author:  
 Vol / Page:  30/11
 Edition:  
-Quote:  Such an article (Allan, 1952) of especial interest in this era of “Muldoonism” – a time when the role of the University in New Zealand and the subjects taught threin is [sic] under scrutiny – appeared in “Canta”, the newspaper of the Students’ Association of Canterbury University College (as it then was called), a response to a questionnaire sent to heads of departments to ascertain their views on the role of the particular subjects in the university curriculum and as a guidance to students trying to “justify their presence”.
+Quote:  Such an article (Allan, 1952) of especial interest in this era of 'Muldoonism' - a time when the role of the University in New Zealand and the subjects taught threin is [sic] under scrutiny - appeared in 'Canta', the newspaper of the Students' Association of Canterbury University College (as it then was called), a response to a questionnaire sent to heads of departments to ascertain their views on the role of the particular subjects in the university curriculum and as a guidance to students trying to 'justify their presence'.
 Notes:  
 
 Date:  12/3/2008 
@@ -91857,6 +91868,7 @@ Date:  1/3/2003
 Source:  Listener (New Zealand Listener)
 Author:  
 Vol / Page:  9
+
 Edition:  
 Quote:  Merino sheep are also subjected to mulesing... The Merino breed has folds of skin around the breech that trap dags and thus predispose it to fly strike. During the mulesing procedure, up to six deep cuts are made in the buttocks to smooth out the skin surface.
 Notes:  
@@ -92428,7 +92440,7 @@ Source:  Life of Richard Burgess
 Author:  BURGESS
 Vol / Page:  46
 Edition:  
-Quote:  ‘No b----y fear; I should know it was a lot of mullock they are telling, for you are not like this Jew.'
+Quote:  'No b----y fear; I should know it was a lot of mullock they are telling, for you are not like this Jew.'
 
 
 Notes:  
@@ -93733,7 +93745,7 @@ Source:  Man of the People, A
 Author:  Geary
 Vol / Page:  196
 Edition:  
-Quote:  The thief hasn’t heard me. He’s not very good. Gives up on the front door, having totally munted the lock.
+Quote:  The thief hasn't heard me. He's not very good. Gives up on the front door, having totally munted the lock.
 Notes:  
 
 munted
@@ -94137,7 +94149,7 @@ Source:  Evening Post
 Author:  
 Vol / Page:  1
 Edition:  
-Quote:  [Hdg] ‘Murder house' goes on the road .. The clinic - commonly known as the murder house - has treated the teeth of thousands of young Wellingtonians during its 60-year history.
+Quote:  [Hdg] 'Murder house' goes on the road .. The clinic - commonly known as the murder house - has treated the teeth of thousands of young Wellingtonians during its 60-year history.
 Notes:  
 
 Date:  8/4/2000 
@@ -94145,7 +94157,7 @@ Source:  Evening Post
 Author:  
 Vol / Page:  7
 Edition:  
-Quote:  [Hdg] Clinic replaced by mobile ‘murder house'. There will be no more visits to Wellington's old ‘murder house" - from now on dental treatment for Wellington City schoolchildren will be on wheels.
+Quote:  [Hdg] Clinic replaced by mobile 'murder house'. There will be no more visits to Wellington's old 'murder house" - from now on dental treatment for Wellington City schoolchildren will be on wheels.
 Notes:  
 
 Date:  0/0/1964 
@@ -94451,6 +94463,7 @@ Notes:
 Murrumbidgee whaler
  Homonym Number:  
 Word Class: noun
+
 Sense Number: 
 Definition: a sundowner
 Origin: 
@@ -98557,6 +98570,7 @@ Edition:
 Quote:  Across the road at Hellaby's they have a beef chain killing up to 850 a day, two mutton chains killing 3,200 each, and a workforce of 1100.
 Notes:  [mutton chain; beef chain]
 
+
 Date:  0/0/2007 
 Source:  Get on the Waka
 Author:  Ihimaera ed.
@@ -100517,7 +100531,7 @@ Source:  Questionnaire Respondents (DB)
 Author:  
 Vol / Page:  
 Edition:  
-Quote:  shepherd – muttoner.
+Quote:  shepherd - muttoner.
 Notes:  
 
 muttoner

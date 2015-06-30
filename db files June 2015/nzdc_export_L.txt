@@ -1581,7 +1581,7 @@ Source: NZ Memories
 Author: 
 Vol / Page: 74/53
 Edition: 
-Quote: A general invitation to all was given, in the Gordonton Hall, ‘Ladies a Plate’. (I was told about putting something on it, so thankfully that saved another blue.)
+Quote: A general invitation to all was given, in the Gordonton Hall, 'Ladies a Plate'. (I was told about putting something on it, so thankfully that saved another blue.)
 Notes: 
 
 Date: 0/0/1953 
@@ -2337,7 +2337,7 @@ Source: In the Grip of an Island
 Author: SANSOM
 Vol / Page: 76
 Edition: 
-Quote: In several letters written in 1898 by Burr Osborn who called himself `Yankee jack the lagger ..., I see that it was John Hunter who befriended this runaway sailor in 1845. ‘'‘'
+Quote: In several letters written in 1898 by Burr Osborn who called himself `Yankee jack the lagger ..., I see that it was John Hunter who befriended this runaway sailor in 1845. ''''
 Notes: 
 
 lagging
@@ -2832,7 +2832,7 @@ Notes:
 
 Date: 0/0/1998 
 Source: Yin & Tonic
-Author: RENÉE
+Author: RENeE
 Vol / Page: 27
 Edition: 
 Quote: Fostering her creativity had more to do with assisting Frank and Ernest in slugging back a daily liquid lahar of a certain beverage rather than nurturing Tit in her struggle to release the Frances Hodkins in herself.
@@ -3133,7 +3133,7 @@ Source: Brave Days: Pioneer Women of New Zealand
 Author: BARRER
 Vol / Page: 238
 Edition: 
-Quote: Colonel Western, her brother-in-law, had three cadets who were known as “Western’s Lambs”, because they were so unlike lambs. They were a terror to the district .. the dinner disappeared and so did the ‘lambs’.
+Quote: Colonel Western, her brother-in-law, had three cadets who were known as "Western's Lambs", because they were so unlike lambs. They were a terror to the district .. the dinner disappeared and so did the 'lambs'.
 Notes: 
 
 Date: 0/0/1940 
@@ -3787,7 +3787,7 @@ Source: Grey River Argus
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: A case cropped up at the S. M. Court onSaturday that serves to remind one of theold "lambing-down" days... An oldminer... placed £60 in the hands of thelandlord he put up with. He was arrestedon Friday for drunkenness... He had spent£36 12s for drink, while his board costhim £4 10s.
+Quote: A case cropped up at the S. M. Court onSaturday that serves to remind one of theold "lambing-down" days... An oldminer... placed GBP60 in the hands of thelandlord he put up with. He was arrestedon Friday for drunkenness... He had spentGBP36 12s for drink, while his board costhim GBP4 10s.
 Notes: 
 
 Date: 25/9/1912 
@@ -4443,7 +4443,7 @@ Source: Blindsight
 Author: Gee
 Vol / Page: 31
 Edition: 
-Quote: But the worst I ever did was tip Grandfather’s lamb’s fry and bacon in his lap and leave him to clean up the mess...
+Quote: But the worst I ever did was tip Grandfather's lamb's fry and bacon in his lap and leave him to clean up the mess...
 Notes: 
 
 Date: 18/7/2001 
@@ -4641,7 +4641,7 @@ Source: Added Value Economy, The
 Author: MOORE
 Vol / Page: 10
 Edition: 
-Quote: If we could negotiate with Kentucky Fried Chicken or McDonalds to sell one ‘lamburger' for every hundred hamburgers, or one milkshake for every hundred bottles of Coca-Cola we would be on the cow's back ... or, as I suggested in Parliament, we would become the 'Milk Sheiks" of the world!
+Quote: If we could negotiate with Kentucky Fried Chicken or McDonalds to sell one 'lamburger' for every hundred hamburgers, or one milkshake for every hundred bottles of Coca-Cola we would be on the cow's back ... or, as I suggested in Parliament, we would become the 'Milk Sheiks" of the world!
 Notes: 
 
 Date: 7/9/2005 
@@ -4813,7 +4813,7 @@ Source: Pictures by Goya
 Author: O'Sullivan
 Vol / Page: 67
 Edition: 
-Quote: He took up the cake-fork and drove its side against the lamington in front of him. ‘Not even half?’
+Quote: He took up the cake-fork and drove its side against the lamington in front of him. 'Not even half?'
 Notes: 
 
 Date: 0/0/1999 
@@ -6329,7 +6329,7 @@ Source: NZ Farmer
 Author: 
 Vol / Page: 12
 Edition: 
-Quote: Land booms are fatal to farming prosperity …
+Quote: Land booms are fatal to farming prosperity ...
 Notes: 
 
 land charge
@@ -6478,7 +6478,7 @@ Land Corps
 Homonym Number: 
 Word Class:noun
 Sense Number: 1
-Definition:See Women’s Land Corps. 
+Definition:See Women's Land Corps. 
 Origin:[none]
 Register:
 Register 2:
@@ -6571,7 +6571,7 @@ Source: Mate
 Author: 
 Vol / Page: 5/13
 Edition: 
-Quote: ‘Well... we have to write to the Land Court, find out.'<i>Ibid.</i> 14 ‘When we get home, you write to the Land Court, find out about that land.'<i>Ibid.</i> 19 ‘Letter today from the Land Court.' <i>Ibid.</i> 21 ‘Yes, that's the Land Court writings on the outside'.
+Quote: 'Well... we have to write to the Land Court, find out.'<i>Ibid.</i> 14 'When we get home, you write to the Land Court, find out about that land.'<i>Ibid.</i> 19 'Letter today from the Land Court.' <i>Ibid.</i> 21 'Yes, that's the Land Court writings on the outside'.
 Notes: 
 
 Date: 26/2/1887 
@@ -8157,7 +8157,7 @@ Source: Short History of New Zealand Life, A
 Author: MORRELL
 Vol / Page: 245
 Edition: 
-Quote: To compensate its settlers for the trials and disappointments they had endured, it [the NZ Co.] gave them the right to select more land. These rights were in the form of documents called ‘land scrip’.
+Quote: To compensate its settlers for the trials and disappointments they had endured, it [the NZ Co.] gave them the right to select more land. These rights were in the form of documents called 'land scrip'.
 Notes: 
 
 land seller
@@ -8225,7 +8225,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 9
 Edition: 
-Quote: Mr. Massey said: — "The Dominion may rest assured that the policy of the new Ministry will be both liberal and progressive in the highest and best sense of the terms. We intend to push land settlement for all we are worth. …”
+Quote: Mr. Massey said: - "The Dominion may rest assured that the policy of the new Ministry will be both liberal and progressive in the highest and best sense of the terms. We intend to push land settlement for all we are worth. ..."
 Notes: 
 
 Date: 20/10/1927 
@@ -8255,7 +8255,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: RETURNED SOLDIERS .. Establishing of Businesses. —The association asks that opportunity be given to suitable returned soldiers to establish themselves in business. In this, as in all other schemes, the keynote is the suitability of the individual. It is considered that this is the natural complement of the land settlement scheme at present in operation.
+Quote: RETURNED SOLDIERS .. Establishing of Businesses. -The association asks that opportunity be given to suitable returned soldiers to establish themselves in business. In this, as in all other schemes, the keynote is the suitability of the individual. It is considered that this is the natural complement of the land settlement scheme at present in operation.
 Notes: 
 
 Date: 8/3/1928 
@@ -8627,7 +8627,7 @@ Source: NZ Statutes
 Author: 
 Vol / Page: II 94/1084
 Edition: 
-Quote: ‘Court' means the Land Valuation Court.
+Quote: 'Court' means the Land Valuation Court.
 Notes: 
 
 Land Wars
@@ -8939,7 +8939,7 @@ Source: Empire of the Dairy Farmers
 Author: YEREX
 Vol / Page: 31
 Edition: 
-Quote: During the 1870s ‘land grabbing’ was rife and large areas had been locked up in the hands of wealthy individuals …
+Quote: During the 1870s 'land grabbing' was rife and large areas had been locked up in the hands of wealthy individuals ...
 Notes: 
 
 land-holder
@@ -9643,7 +9643,7 @@ Source: Hawera & Normanby Star
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: MORE LAND SHARKING .. An English Syndicate has purchased 40,000 acres of land at Taupo for £32,000. the negotiations were conducted by cablegrams, which alone cost £750.
+Quote: MORE LAND SHARKING .. An English Syndicate has purchased 40,000 acres of land at Taupo for GBP32,000. the negotiations were conducted by cablegrams, which alone cost GBP750.
 Notes: 
 
 Date: 5/10/1842 
@@ -9667,7 +9667,7 @@ Source: New Zealand and Its Six Colonies
 Author: 
 Vol / Page: 26
 Edition: 
-Quote: The Company was, therefore, say its advocates, ‘forced into the adoption of ‘land-sharking'".		
+Quote: The Company was, therefore, say its advocates, 'forced into the adoption of 'land-sharking'".		
 Notes: 
 
 Date: 21/11/1945 
@@ -10421,7 +10421,7 @@ Source: Internet - see Notes
 Author: 
 Vol / Page: 
 Edition: 
-Quote: Threat Classification.. Large Otago gecko <i>Hoplodactylus</i> “Otago large” 	GD [Chronically threatened, gradual decline] 
+Quote: Threat Classification.. Large Otago gecko <i>Hoplodactylus</i> "Otago large" 	GD [Chronically threatened, gradual decline] 
 Notes: http://www.biodiversity.govt.nz/pdfs/protecting-our-places-detail.pdf 
 
 Date: 0/4/2004 
@@ -11157,7 +11157,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2025
 Edition: 
-Quote: Lar´.ri-kin (l&abreve.r´.r&ibreve.´.k&ibreve.n), n. [Cf. prov. Eng. larrick lively, careless, larack to frolic, to romp. See Note below] 1. A street blackguard; a rowdy.  2. A hobbledehoy inclined to rough horseplay and practical joking. 3. In a general sense, an ill-bred or low-minded person; - often used merely as a contemptuous epithet.  4. A neglected boy who frequents the streets; a street Arab; a gutter snipe. Marcus Clarke.  In senses 1 and 2 this word has become common inEngland. Larrikin is thought to have come into use about 1870. Its origin, though much disputed, is commonly explained by the following anecdote : An Irish policeman at Melbourne, on bringing a notorious rough into court, was asked by the magistrate what the prisoner had been doing, and replied, "He was  a-larriki' [i. e., a-larking] about the streets." This story lacks confirmation, but the word may not improbably be connected with  lark to frolic, to which, indeed, the Prov. Eng. larrick and larrack are perhaps related. 
+Quote: Lar'.ri-kin (l&abreve.r'.r&ibreve.'.k&ibreve.n), n. [Cf. prov. Eng. larrick lively, careless, larack to frolic, to romp. See Note below] 1. A street blackguard; a rowdy.  2. A hobbledehoy inclined to rough horseplay and practical joking. 3. In a general sense, an ill-bred or low-minded person; - often used merely as a contemptuous epithet.  4. A neglected boy who frequents the streets; a street Arab; a gutter snipe. Marcus Clarke.  In senses 1 and 2 this word has become common inEngland. Larrikin is thought to have come into use about 1870. Its origin, though much disputed, is commonly explained by the following anecdote : An Irish policeman at Melbourne, on bringing a notorious rough into court, was asked by the magistrate what the prisoner had been doing, and replied, "He was  a-larriki' [i. e., a-larking] about the streets." This story lacks confirmation, but the word may not improbably be connected with  lark to frolic, to which, indeed, the Prov. Eng. larrick and larrack are perhaps related. 
 Notes: 
 
 Date: 0/0/1956 
@@ -13589,7 +13589,7 @@ Source: Nelson Evening Mail
 Author: 
 Vol / Page: 1
 Edition: 
-Quote: 2 year Lawsoniana, £3 per 100.
+Quote: 2 year Lawsoniana, GBP3 per 100.
 Notes: 
 
 Date: 0/0/1905 
@@ -13815,7 +13815,7 @@ Source: Through South Westland
 Author: MORELAND
 Vol / Page: 51
 Edition: 
-Quote: We entered on a dreary extent of moraine - a chaos of ridges and stones which filled the valley. In part it was overgrown by thickets of manuka scrub and tangles of hooked ‘lawyer'.
+Quote: We entered on a dreary extent of moraine - a chaos of ridges and stones which filled the valley. In part it was overgrown by thickets of manuka scrub and tangles of hooked 'lawyer'.
 Notes: Short for "bush lawyer"
 
 Date: 0/0/2001 
@@ -13919,7 +13919,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2026
 Edition: 
-Quote: <i> Law´.yer </i> (la´.y&etilde.r), <i> n.</i> [Add.] 3.  [Prov. Eng.<i>lawyer </i> a bramble, the thorny stem of a brier.] <i>(Bot.)</i> (a) In New Zealand, any one of various trailing brambles (esp. <i> Rubus australis </i>) which impede locomotion in the bush; - called also lawyer cane. (b) In Australia, the liliaceous plant Flagellaria Indica; - called also <i> lawyer vine </i>.  Both plants are called also <i> bush lawyer</i>.
+Quote: <i> Law'.yer </i> (la'.y&etilde.r), <i> n.</i> [Add.] 3.  [Prov. Eng.<i>lawyer </i> a bramble, the thorny stem of a brier.] <i>(Bot.)</i> (a) In New Zealand, any one of various trailing brambles (esp. <i> Rubus australis </i>) which impede locomotion in the bush; - called also lawyer cane. (b) In Australia, the liliaceous plant Flagellaria Indica; - called also <i> lawyer vine </i>.  Both plants are called also <i> bush lawyer</i>.
 Notes: 
 
 Date: 0/0/1898 
@@ -14771,7 +14771,7 @@ Source: NZ Journal of Agriculture
 Author: 
 Vol / Page: 90
 Edition: 
-Quote: For this reason special paspalum-paddocks should not be laid down with paspalum alone. In laying down a special paspalum-paddock …
+Quote: For this reason special paspalum-paddocks should not be laid down with paspalum alone. In laying down a special paspalum-paddock ...
 Notes: 
 
 Date: 0/0/1956 
@@ -16107,7 +16107,7 @@ Source: Press, The
 Author: 
 Vol / Page: 
 Edition: 
-Quote: The Government has its hands on a report that’s tipped to reveal the leaky home problem is vastly more serious than previously estimated.
+Quote: The Government has its hands on a report that's tipped to reveal the leaky home problem is vastly more serious than previously estimated.
 Notes: 
 
 Date: 15/2/2009 
@@ -17117,7 +17117,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 12
 Edition: 
-Quote: H ERNEST LEIGHTON has received instructions from Mr. W. B. Hardy, grower, Lower Hutt, to sell, as above — Ake ake, clematis, broom .. lilac, honeysuckle, spiraea, deutzia, leather leaf, creepers, snowberry .. and other choice varieties of hedge and garden plants.
+Quote: H ERNEST LEIGHTON has received instructions from Mr. W. B. Hardy, grower, Lower Hutt, to sell, as above - Ake ake, clematis, broom .. lilac, honeysuckle, spiraea, deutzia, leather leaf, creepers, snowberry .. and other choice varieties of hedge and garden plants.
 Notes: 
 
 leather-leaf fern
@@ -19575,7 +19575,7 @@ Source: Otago Boys' High School
 Author: McLEAN
 Vol / Page: 13
 Edition: 
-Quote: As officer commanding the school cadet corps, ‘Blobs", wearing the famous lemon-squeezer hat (sometimes back to front) was a force not to be reckoned with.
+Quote: As officer commanding the school cadet corps, 'Blobs", wearing the famous lemon-squeezer hat (sometimes back to front) was a force not to be reckoned with.
 Notes: 
 
 Date: 0/0/1980 
@@ -19773,7 +19773,7 @@ Source: Which Native Forest Plant?
 Author: Crowe
 Vol / Page: 45
 Edition: 
-Quote: The wood-boring grubs of the ‘lemon-tree borer’...tunnel in the branches [of korokio taranga]; in summer these develop into a conspicuous brown native longhorn beetle over 2 cm long.
+Quote: The wood-boring grubs of the 'lemon-tree borer'...tunnel in the branches [of korokio taranga]; in summer these develop into a conspicuous brown native longhorn beetle over 2 cm long.
 Notes: 
 
 lemonwood
@@ -21107,7 +21107,7 @@ Source: Three Sheep and a Dog
 Author: GORDON
 Vol / Page: 107
 Edition: 
-Quote: The three sheep stand waiting up to 800 metres away, in the liberation area, which is also known as the hook or ‘the strings.’
+Quote: The three sheep stand waiting up to 800 metres away, in the liberation area, which is also known as the hook or 'the strings.'
 Notes: 
 
 Date: 0/0/1998 
@@ -21137,7 +21137,7 @@ Source: Three Sheep and a Dog
 Author: GORDON
 Vol / Page: 151
 Edition: 
-Quote: I remember the zigzag course, no longer used, where the liberation pen was jammed under a tree …
+Quote: I remember the zigzag course, no longer used, where the liberation pen was jammed under a tree ...
 Notes: 
 
 liberator
@@ -24431,7 +24431,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 13
 Edition: 
-Quote: “He turned on his heel and went upstairs like one thing, and I told how to get out while the other poor fellow was waiting for his fifty pounds.”
+Quote: "He turned on his heel and went upstairs like one thing, and I told how to get out while the other poor fellow was waiting for his fifty pounds."
 Notes: 
 
 Date: 6/6/1931 
@@ -24577,7 +24577,7 @@ Quote: ... I found that [our provisions] would only last us ten days by confinin
 Notes: 
 
 Date: 0/0/1874 
-Source: Crusts: a settler’s fare due south
+Source: Crusts: a settler's fare due south
 Author: KENNAWAY
 Vol / Page: 147
 Edition: 
@@ -24653,7 +24653,7 @@ Source: Taranaki Punch
 Author: 
 Vol / Page: 8
 Edition: 
-Quote: Mr Punch will recommend that the guardians of little Master N.–d, when they next treat certain not over-respectable people with lilipi, shall at the same time treat Mrs Eng...d's brave-hearted soldiers - not exactly with lilipi, but.. "lilly pay".
+Quote: Mr Punch will recommend that the guardians of little Master N.-d, when they next treat certain not over-respectable people with lilipi, shall at the same time treat Mrs Eng...d's brave-hearted soldiers - not exactly with lilipi, but.. "lilly pay".
 Notes: 
 
 Date: 23/8/1862 
@@ -25287,7 +25287,7 @@ Source: NZ Free Lance
 Author: 
 Vol / Page: 35
 Edition: 
-Quote: The introduction of the Limited train between Auckland and Wellington made an immediate appeal to the popular imagination... The introduction of a summer running train, which took advantage of the daylight, was also ‘limited in its accommodation'... It brought about a desire for more specific titles, so "Daylight Limited" and "Night Limited" became the terms commonly used in referring to them.
+Quote: The introduction of the Limited train between Auckland and Wellington made an immediate appeal to the popular imagination... The introduction of a summer running train, which took advantage of the daylight, was also 'limited in its accommodation'... It brought about a desire for more specific titles, so "Daylight Limited" and "Night Limited" became the terms commonly used in referring to them.
 Notes: 
 
 Date: 0/0/1966 
@@ -27293,7 +27293,7 @@ Source: Letter
 Author: 
 Vol / Page: 
 Edition: 
-Quote: Just a small update on ‘helicopter heave'; my brother recently spoke to a member of the Massey University Students' Assn, and he confirmed that the term is still in use (at Massey anyway). It is particularly associated with the "chunder-mile," a rather ,messy capping event... "Technicolour yawn" is used for an instance of vomiting, as is "liquid laugh', I believe.
+Quote: Just a small update on 'helicopter heave'; my brother recently spoke to a member of the Massey University Students' Assn, and he confirmed that the term is still in use (at Massey anyway). It is particularly associated with the "chunder-mile," a rather ,messy capping event... "Technicolour yawn" is used for an instance of vomiting, as is "liquid laugh', I believe.
 Notes: 
 
 Date: 0/0/1988 
@@ -27420,13 +27420,13 @@ See:
 Pronunciation:
 Notes:
 Citations 
-Date: 31/9/2002 
+Date: 30/9/2002 
 Source: Listener (New Zealand Listener)
 Author: 
 Vol / Page: 11
 Edition: 
 Quote: He had been bumped from No 8 on the list to No 9 to make way for Metiria Turei.
-Notes: 
+Notes: Date originally entered as "31/9/2002"
 
 Date: 0/0/1993 
 Source: NZ Parliamentary Debates
@@ -27677,7 +27677,7 @@ Source: Forest & Bird
 Author: 
 Vol / Page: 333/9
 Edition: 
-Quote: Little blue penguins may look cute and cuddly, but they have sharp beaks and don’t take kindly to being pulled out of their burrows.
+Quote: Little blue penguins may look cute and cuddly, but they have sharp beaks and don't take kindly to being pulled out of their burrows.
 Notes: 
 
 Date: 0/11/2006 
@@ -28535,7 +28535,7 @@ Source: Star, The
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: “The white tern seen by the writer on the Ashburton and described by him in Transactions New Zealand Institute, vol.iii., is quietly placed by Dr Buller with S. nereis, to which he gives the name of the Little White Tern …”
+Quote: "The white tern seen by the writer on the Ashburton and described by him in Transactions New Zealand Institute, vol.iii., is quietly placed by Dr Buller with S. nereis, to which he gives the name of the Little White Tern ..."
 Notes: 
 
 Date: 0/0/1873 
@@ -29921,7 +29921,7 @@ Source: NZ Farmer
 Author: 
 Vol / Page: 46
 Edition: 
-Quote: For the relatively small outlay of just over £100, Mr Steve Algie, a town supply dairyman on the low-lying Taieri Plain, has provided a partly-covered loafing yard to keep his milkers off the pastures during the wet winter months. He decided to use a loafing yard.
+Quote: For the relatively small outlay of just over GBP100, Mr Steve Algie, a town supply dairyman on the low-lying Taieri Plain, has provided a partly-covered loafing yard to keep his milkers off the pastures during the wet winter months. He decided to use a loafing yard.
 Notes: 
 
 Date: 28/9/1961 
@@ -31717,7 +31717,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 14
 Edition: 
-Quote: [Hdg] After Twenty-Two years... ‘Log of Wood' comes back to Wellington.
+Quote: [Hdg] After Twenty-Two years... 'Log of Wood' comes back to Wellington.
 Notes: 
 
 Date: 17/10/1999 
@@ -32385,7 +32385,7 @@ Source: Looking Back
 Author: SINCLAIR & HARREX
 Vol / Page: 10
 Edition: 
-Quote: The commonest method of clearing bush..was simply to burn it off... The subsequent process of ‘stumping' and ‘logging up' could be prolonged.
+Quote: The commonest method of clearing bush..was simply to burn it off... The subsequent process of 'stumping' and 'logging up' could be prolonged.
 Notes: 
 
 logistocracy
@@ -32407,7 +32407,7 @@ Source: Geological Society of NZ Newsletter
 Author: 
 Vol / Page: 94/8
 Edition: 
-Quote: Such “short-termism” and narrow-mindedness is deplorable, but it is only to be expected in what has rapidly become a logistocracy.**  Lexicographers please note the neologism – logistocracy is a rule by accountants, a group which of course includes economists.
+Quote: Such "short-termism" and narrow-mindedness is deplorable, but it is only to be expected in what has rapidly become a logistocracy.**  Lexicographers please note the neologism - logistocracy is a rule by accountants, a group which of course includes economists.
 Notes: 
 
 log-rolling
@@ -32821,7 +32821,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2026
 Edition: 
-Quote: Lol´.ly (l&obreve.l´.l&ybreve.), n. [Cf. LOLLIPOP.] A lollipop; also, in general, any kind of sweetmeat or confectionery.
+Quote: Lol'.ly (l&obreve.l'.l&ybreve.), n. [Cf. LOLLIPOP.] A lollipop; also, in general, any kind of sweetmeat or confectionery.
 Notes: 
 
 Date: 0/0/1889 
@@ -33505,7 +33505,7 @@ Source: Southern Gentry
 Author: ELDRED-GRIGG
 Vol / Page: 80
 Edition: 
-Quote: Shepherds and cockatoo farmers came from miles away.. and amusements.. included a ‘lolly scramble' and a few boxing matches.
+Quote: Shepherds and cockatoo farmers came from miles away.. and amusements.. included a 'lolly scramble' and a few boxing matches.
 Notes: 
 
 lolly shop
@@ -35159,7 +35159,7 @@ Source: Otautau Standard & Wallace County Chronicle
 Author: 
 Vol / Page: 4
 Edition: 
-Quote: Long Pull for All-comers, head, pull, hold in the ring and yard, about half a mile - First £8, second £4, third £2.
+Quote: Long Pull for All-comers, head, pull, hold in the ring and yard, about half a mile - First GBP8, second GBP4, third GBP2.
 Notes: 
 
 long roughy
@@ -35279,7 +35279,7 @@ Source: Poverty Bay Herald
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: Next followed the two long sleevers of Marshall & Copeland, and again almost in the sounding of the trump, or the twinkling of an eye “nothing remained.”
+Quote: Next followed the two long sleevers of Marshall & Copeland, and again almost in the sounding of the trump, or the twinkling of an eye "nothing remained."
 Notes: 
 
 Date: 12/3/1910 
@@ -35347,7 +35347,7 @@ Source: Looking Back
 Author: SINCLAIR & HARREX
 Vol / Page: 75
 Edition: 
-Quote: The contents [sc. the auriferous pay dirt] were then tipped into a ‘cradle' or a ‘long tom' - both types of sluice boxes - to separate the gold from the soil.
+Quote: The contents [sc. the auriferous pay dirt] were then tipped into a 'cradle' or a 'long tom' - both types of sluice boxes - to separate the gold from the soil.
 Notes: 
 
 Date: 0/0/1909 
@@ -35385,7 +35385,7 @@ Source: Looking Back
 Author: SINCLAIR & HARREX
 Vol / Page:  75
 Edition: 
-Quote: The contents [sc. the auriferous pay dirt] were then tipped into a ‘cradle' or a ‘long tom' - both types of sluice boxes - to separate the gold from the soil.  
+Quote: The contents [sc. the auriferous pay dirt] were then tipped into a 'cradle' or a 'long tom' - both types of sluice boxes - to separate the gold from the soil.  
 Notes: 
 
 long tom
@@ -37205,7 +37205,7 @@ Source: Under the Bridge & Over the Moon
 Author: IRELAND
 Vol / Page: 67
 Edition: 
-Quote: Not a thing was smarmied over or concealed, in the way the teaching loopies of today take it on themselves to ‘protect' our children's imaginations by distrusting and debasing them [sc. Grimm's Fairy Tales]
+Quote: Not a thing was smarmied over or concealed, in the way the teaching loopies of today take it on themselves to 'protect' our children's imaginations by distrusting and debasing them [sc. Grimm's Fairy Tales]
 Notes: 
 
 Date: 20/10/2002 
@@ -37269,7 +37269,7 @@ Source: NZ Geographic
 Author: 
 Vol / Page: 102
 Edition: 
-Quote: But it is Christmas that brings the hordes to Golden Bay. ‘Loopies', the locals call them - holidaymakers, mostly from Christchurch, who descend like migrating birds on the beaches and cram the campgrounds to capacity.
+Quote: But it is Christmas that brings the hordes to Golden Bay. 'Loopies', the locals call them - holidaymakers, mostly from Christchurch, who descend like migrating birds on the beaches and cram the campgrounds to capacity.
 Notes: 
 
 Date: 26/6/2004 
@@ -38273,7 +38273,7 @@ Source: Huia 5: Contemp. Maori Fiction
 Author: 
 Vol / Page: 31
 Edition: 
-Quote: ‘Ah, they’ve probably gone to the pub, or the TAB, or the Lotto shop,’ I said. ‘They’ll be back...’
+Quote: 'Ah, they've probably gone to the pub, or the TAB, or the Lotto shop,' I said. 'They'll be back...'
 Notes: 
 
 Lotto ticket
@@ -38311,7 +38311,7 @@ Source: Morrieson's Motel
 Author: McLauchlan ed.
 Vol / Page: 215
 Edition: 
-Quote: ...Lisa’s life had done a U-turn back to Mum and humdrum domesticity, her major weekly excitement a Lotto ticket...
+Quote: ...Lisa's life had done a U-turn back to Mum and humdrum domesticity, her major weekly excitement a Lotto ticket...
 Notes: 
 
 Lotu Tamaiti
@@ -40033,7 +40033,7 @@ Source: Days of Fortune
 Author: STEWART
 Vol / Page: 41, 58
 Edition: 
-Quote: Those working on the wharves were called ‘lumpers' or ‘Holy Rollers' because so much of the cargo, especially wool, was lumped or rolled about... By now unions had been formed. A ‘Lumpers' Society' was set up first in Port Chalmers in 1873.
+Quote: Those working on the wharves were called 'lumpers' or 'Holy Rollers' because so much of the cargo, especially wool, was lumped or rolled about... By now unions had been formed. A 'Lumpers' Society' was set up first in Port Chalmers in 1873.
 Notes: 
 
 Date: 0/0/1948 
@@ -40929,7 +40929,7 @@ Source: Prisoner of Mother England
 Author: HALL
 Vol / Page: 21
 Edition: 
-Quote: Refused to ‘lux' the venetians.
+Quote: Refused to 'lux' the venetians.
 Notes: 
 
 Date: 0/0/1986 

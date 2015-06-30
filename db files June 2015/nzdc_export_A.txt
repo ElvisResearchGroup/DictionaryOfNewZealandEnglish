@@ -237,7 +237,7 @@ Source: Egmont Star
 Author: 
 Vol / Page: 7
 Edition: 
-Quote: A & P show: ladies’ horses’ leaping match.
+Quote: A & P show: ladies' horses' leaping match.
 Notes: 
 
 Date: 1/11/1953 
@@ -277,7 +277,7 @@ Source: Three Sheep and a Dog
 Author: GORDON
 Vol / Page: 27
 Edition: 
-Quote: Just as hunt, racing and football clubs were founded, so too were annual gatherings, such as dog trials, sports meetings and A & P shows, each bearing its district’s name.
+Quote: Just as hunt, racing and football clubs were founded, so too were annual gatherings, such as dog trials, sports meetings and A & P shows, each bearing its district's name.
 Notes: 
 
 A house
@@ -979,7 +979,7 @@ Source: NZ Dairy Exporter
 Author: 
 Vol / Page: 14
 Edition: 
-Quote: They’re just a mob of cows, but each one must be an individual to the AB man and the farmer.
+Quote: They're just a mob of cows, but each one must be an individual to the AB man and the farmer.
 Notes: 
 
 Abbotsford mudstone
@@ -2511,7 +2511,7 @@ Pronunciation:
 Notes:
 Citations 
 Date: 0/0/1874 
-Source: Crusts: a settler’s fare due south
+Source: Crusts: a settler's fare due south
 Author: KENNAWAY
 Vol / Page: 175
 Edition: 
@@ -3314,7 +3314,7 @@ acre
 Homonym Number: 
 Word Class:noun
 Sense Number:
-Definition:n.². -->[AND 1965.] A euphemism for arse.
+Definition: [AND 1965.] A euphemism for arse.
 Origin:
 Register:
 Register 2:
@@ -3374,7 +3374,7 @@ across the board
 Homonym Number: 
 Word Class:phrase
 Sense Number: 1
-Definition:in the act of shearing. [‘How many went across the board today?’ is used in lieu of ‘How many did you shear/were shorn today?’]
+Definition:in the act of shearing. ["How many went across the board today?" is used in lieu of "How many did you shear/were shorn today?"]
 Origin:[none]
 Register:
 Register 2:
@@ -3419,7 +3419,7 @@ Source: Press, The
 Author: 
 Vol / Page: 15
 Edition: 
-Quote: By the by, these brass boxes to hold tinder [on early sheep stations] were said to have been made originally for keeping the licenses of ticket-of-leave men across the water.`–<i>Out in the Open</i>, p.284.
+Quote: By the by, these brass boxes to hold tinder [on early sheep stations] were said to have been made originally for keeping the licenses of ticket-of-leave men across the water.`-<i>Out in the Open</i>, p.284.
 Notes: 
 
 Date: 10/8/1842 
@@ -3427,7 +3427,7 @@ Source: New Zealand Gazette & Wellington Spectator
 Author: 
 Vol / Page: 3
 Edition: 3
-Quote: .. he said to me at the Police-office, you have done a pretty thing my lady, take care you are not sent across the water, I said take care you are not sent across the water yourself …
+Quote: .. he said to me at the Police-office, you have done a pretty thing my lady, take care you are not sent across the water, I said take care you are not sent across the water yourself ...
 Notes: 
 
 Date: 19/6/1860 
@@ -3435,7 +3435,7 @@ Source: Daily Southern Cross
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: As will be seen from the following leader, taken from the ‘Sydney M. Herald’ of the 2nd inst., our friends across the water are suffering as much as ourselves from the prevailing epidemic.
+Quote: As will be seen from the following leader, taken from the 'Sydney M. Herald' of the 2nd inst., our friends across the water are suffering as much as ourselves from the prevailing epidemic.
 Notes: 
 
 Date: 12/9/1885 
@@ -3451,7 +3451,7 @@ Source: Poverty Bay Herald
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: This mare has been an inmate of the well-known Bundoora Park stud, which was the other day sold by public auction across the water by Messrs Yuille and Co., and on Mr Ormond’s instructions she was knocked down to him.
+Quote: This mare has been an inmate of the well-known Bundoora Park stud, which was the other day sold by public auction across the water by Messrs Yuille and Co., and on Mr Ormond's instructions she was knocked down to him.
 Notes: 
 
 Date: 17/7/1903 
@@ -3483,7 +3483,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 10
 Edition: 
-Quote: He and his wife are leaving shortly to live in Australia and wishes for good fortune in their life “across the water” were offered by the club.
+Quote: He and his wife are leaving shortly to live in Australia and wishes for good fortune in their life "across the water" were offered by the club.
 Notes: 
 
 across the way
@@ -4211,7 +4211,7 @@ Source: Huia 7: Contemp. Maori Fiction
 Author: Trish Fong
 Vol / Page: 22
 Edition: 
-Quote: ‘You know the legend of Ngahue and his jade fish Poutini, don’t you moko?’ ‘Ae.’
+Quote: 'You know the legend of Ngahue and his jade fish Poutini, don't you moko?' 'Ae.'
 Notes: 
 
 Date: 0/0/1973 
@@ -4344,7 +4344,7 @@ aerial packhorse
 Homonym Number: 
 Word Class:noun
 Sense Number: 1
-Definition:an aircraft or helicopter used to pack in hunters’provisions. 
+Definition:an aircraft or helicopter used to pack in hunters' provisions. 
 Origin:[none]
 Register:
 Register 2:
@@ -5513,7 +5513,7 @@ Source: Bruce Herald
 Author: 
 Vol / Page: 17
 Edition: 
-Quote: She declined all invitations for parties, however – indeed, she had none of the finery required for such occasions – but consented to join them now and then on the croquet-lawn and share their afternoon tea.
+Quote: She declined all invitations for parties, however - indeed, she had none of the finery required for such occasions - but consented to join them now and then on the croquet-lawn and share their afternoon tea.
 Notes: 
 
 Date: 4/9/1890 
@@ -5537,7 +5537,7 @@ Source: Huia 6: Contemp. Maori Fiction
 Author: 
 Vol / Page: 128
 Edition: 
-Quote: ‘I’ve left a tray on the bench for afternoon tea. He likes it at three o’clock. I’d better show you.’
+Quote: 'I've left a tray on the bench for afternoon tea. He likes it at three o'clock. I'd better show you.'
 Notes: 
 
 Date: 24/3/1928 
@@ -6255,7 +6255,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 25
 Edition: 
-Quote: Sandy says Wayne was ‘still a little bit aggro' about the fight.
+Quote: Sandy says Wayne was 'still a little bit aggro' about the fight.
 Notes: 
 
 agistment
@@ -7145,7 +7145,7 @@ Source: Pu Kaea
 Author: 
 Vol / Page: 4
 Edition: 
-Quote: A lot of emotions were visible and the âhua among us was tumeke.
+Quote: A lot of emotions were visible and the ahua among us was tumeke.
 Notes: 
 
 ahuatanga Maori
@@ -7183,7 +7183,7 @@ Source: Dominion Post
 Author: 
 Vol / Page: H6
 Edition: 
-Quote: We need a person who believes in traditional Maori values, e.g. wairuatanga, manaakitanga, and who has familiarity and empathy with âhuatanga Maori (the Maori dimension).
+Quote: We need a person who believes in traditional Maori values, e.g. wairuatanga, manaakitanga, and who has familiarity and empathy with ahuatanga Maori (the Maori dimension).
 Notes: 
 
 ahuru/ahuruhuru
@@ -8461,7 +8461,7 @@ Source: Encyclopaedia of New Zealand, An
 Author: McLINTOCK
 Vol / Page: 3/705-712
 Edition: 
-Quote: Akeake .. ake, akeake .. Dodonaea viscosa, Olearia spp. b. Anglicised pron. /æ.kiæ.k(i)/. Also usu. akeake or ake(-)ake occas. ake ake; early akey akey, akiaki, akki, akkio' (Polack, poss. indicating a redupl. ??/æ.kiok/, hakihaki. akeake. 		
+Quote: Akeake .. ake, akeake .. Dodonaea viscosa, Olearia spp. b. Anglicised pron. /ae.kiae.k(i)/. Also usu. akeake or ake(-)ake occas. ake ake; early akey akey, akiaki, akki, akkio' (Polack, poss. indicating a redupl. ??/ae.kiok/, hakihaki. akeake. 		
 Notes: 
 
 Date: 0/0/1841 
@@ -8525,7 +8525,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2017
 Edition: 
-Quote: A´.ke (ä.´.k&amacr.; colloq. ä.´.kè.) } n A´.ke-a´.ke (ä.´.k&amacr.macr.-ä.´.k&amacr.macr.;colloq. often &abreve.k´.è.-&abreve.k´.), } [Maori.] [The reduplicated form is more common.] (Bot.) A sapindaceous tree (Dodonaea viscosa) of New Zealand, one of the hop bushes. See under HOP. The name ake-ake is also given to two composite trees (Olearia avicennifolia and O. Traversii). [Local, N.Z.] 
+Quote: A'.ke (a.'.k&amacr.; colloq. a.'.ke.) } n A'.ke-a'.ke (a.'.k&amacr.macr.-a.'.k&amacr.macr.;colloq. often &abreve.k'.e.-&abreve.k'.), } [Maori.] [The reduplicated form is more common.] (Bot.) A sapindaceous tree (Dodonaea viscosa) of New Zealand, one of the hop bushes. See under HOP. The name ake-ake is also given to two composite trees (Olearia avicennifolia and O. Traversii). [Local, N.Z.] 
 Notes: 
 
 Date: 0/0/1841 
@@ -8737,7 +8737,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2017
 Edition: 
-Quote: A´.ke (ä.´.k&amacr.; colloq. ä.´.kè.) } n. A´.ke-a´.ke (ä.´.k&amacr.-ä.´.k&amacr.; colloq. often&abreve.k´.è.-&abreve.k´.), } [Maori.] [The reduplicated form is more common.]  (Bot.) A sapindaceous tree (Dodonaea viscosa) of New Zealand, one of the hop bushes. See under HOP. The name ake-ake is also given to two composite trees (Olearia avicennifolia and O. Traversii). [Local, N.Z.]
+Quote: A'.ke (a.'.k&amacr.; colloq. a.'.ke.) } n. A'.ke-a'.ke (a.'.k&amacr.-a.'.k&amacr.; colloq. often&abreve.k'.e.-&abreve.k'.), } [Maori.] [The reduplicated form is more common.]  (Bot.) A sapindaceous tree (Dodonaea viscosa) of New Zealand, one of the hop bushes. See under HOP. The name ake-ake is also given to two composite trees (Olearia avicennifolia and O. Traversii). [Local, N.Z.]
 Notes: 
 
 Date: 0/0/1906 
@@ -11105,7 +11105,7 @@ Source: Ask the Posts
 Author: Ihimaera
 Vol / Page: 66
 Edition: 
-Quote: The band dutifully played a waltz to begin with... Then Auntie Leah yelled out, ‘Gee, you boys sure play slow!’ and, next minute, it was all on.
+Quote: The band dutifully played a waltz to begin with... Then Auntie Leah yelled out, 'Gee, you boys sure play slow!' and, next minute, it was all on.
 Notes: 
 
 Date: 21/11/2004 
@@ -11967,7 +11967,7 @@ Source: Stick Out, Keep Left
 Author: THORN
 Vol / Page: 41
 Edition: 
-Quote: There were the Industrialists [in the Labour movement of the 1920s], advocates for ‘one big union' for each industry, grouped in the Alliance of Labour.
+Quote: There were the Industrialists [in the Labour movement of the 1920s], advocates for 'one big union' for each industry, grouped in the Alliance of Labour.
 Notes: 
 
 Date: 24/6/1919 
@@ -11975,7 +11975,7 @@ Source: Ashburton Guardian
 Author: 
 Vol / Page: 6
 Edition: 
-Quote: Among the remits to be considered at the annual conference of the United Federation of Labour, to be held on July 1, the following have been endorsed by the Canterbury District Trades and Labour Council:—From the Auckland District Council; “That a half-yearly universal union ticket be adopted, such to admit the holder to any union affiliated to the National Alliance of Labour." 
+Quote: Among the remits to be considered at the annual conference of the United Federation of Labour, to be held on July 1, the following have been endorsed by the Canterbury District Trades and Labour Council:-From the Auckland District Council; "That a half-yearly universal union ticket be adopted, such to admit the holder to any union affiliated to the National Alliance of Labour." 
 Notes: 
 
 Date: 9/9/1924 
@@ -12279,7 +12279,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2017
 Edition: 
-Quote: Al-lu´.vi-al (&abreve.l-l&umacr.´.v&ibreve.-al), n. Gold-bearing alluvial soil. Alluvial in this sense is in general use in Australia, where the term alluvion is never heard. 
+Quote: Al-lu'.vi-al (&abreve.l-l&umacr.'.v&ibreve.-al), n. Gold-bearing alluvial soil. Alluvial in this sense is in general use in Australia, where the term alluvion is never heard. 
 Notes: 
 
 Date: 0/0/1898 
@@ -13407,7 +13407,7 @@ Source: Colonist (Nelson)
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: I now have to refer to insects, or rather to one that I met with – the great Alpine Weta – whose bite is perhaps more dangerous than that of any other insect found in the forest .. It will be exhibited before the Natural History Society, Wellington, and named ‘Deinacrida Broughi.’”
+Quote: I now have to refer to insects, or rather to one that I met with - the great Alpine Weta - whose bite is perhaps more dangerous than that of any other insect found in the forest .. It will be exhibited before the Natural History Society, Wellington, and named 'Deinacrida Broughi.'"
 Notes: 
 
 Date: 0/0/1935 
@@ -13559,7 +13559,7 @@ Source: Otago Witness
 Author: 
 Vol / Page: 14
 Edition: 
-Quote: Section 64 — Amalgamation of claims. As section 112. Amendment: After "amalgamate the same," the following is added: "but always so that the amalgamated claim or holding shall not exceed in area the maximum area prescribed for claims or licensed holdings, respectively as the case may be."
+Quote: Section 64 - Amalgamation of claims. As section 112. Amendment: After "amalgamate the same," the following is added: "but always so that the amalgamated claim or holding shall not exceed in area the maximum area prescribed for claims or licensed holdings, respectively as the case may be."
 Notes: 
 
 Date: 25/12/1901 
@@ -13567,7 +13567,7 @@ Source: Otago Witness
 Author: 
 Vol / Page: 21
 Edition: 
-Quote: GREY RIVER CONSOLIDATED DREDGING COMPANY. .. Mr A. J. Park moved, and Mr Thomson seconded—"That the directors be authorised to sell the amalgamated claim of the company to the new company, when formed, for £5000, and to accept fully paid-up shares in the new company in lieu of cash." — Carried unanimously.
+Quote: GREY RIVER CONSOLIDATED DREDGING COMPANY. .. Mr A. J. Park moved, and Mr Thomson seconded-"That the directors be authorised to sell the amalgamated claim of the company to the new company, when formed, for GBP5000, and to accept fully paid-up shares in the new company in lieu of cash." - Carried unanimously.
 Notes: 
 
 Date: 14/2/1863 
@@ -13911,7 +13911,7 @@ Source: Daily Southern Cross
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: Messrs. Connell & Ridings sold on Wednesday last, at the stores of Messrs. Gilfillan, Stevenson and Co. the cargo of the schooner Æolus, from Melbourne, consisting principally of American goods; American buckets 3 hoops, 24s. to 25s. .. American drill, 5½d. per yard …
+Quote: Messrs. Connell & Ridings sold on Wednesday last, at the stores of Messrs. Gilfillan, Stevenson and Co. the cargo of the schooner aeolus, from Melbourne, consisting principally of American goods; American buckets 3 hoops, 24s. to 25s. .. American drill, 5 1/2d. per yard ...
 Notes: 
 
 Date: 14/11/1894 
@@ -13967,7 +13967,7 @@ Source: Taranaki Herald
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: IMPORTS. Per Ocean— l case piping, I cask ironmongery, 2 cases wearing apparel, 1 American stove.
+Quote: IMPORTS. Per Ocean- l case piping, I cask ironmongery, 2 cases wearing apparel, 1 American stove.
 Notes: 
 
 Date: 14/12/1881 
@@ -13983,7 +13983,7 @@ Source: Nelson Examiner and New Zealand Chronicle
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: THIS DAY. MESSRS. N. EDWARDS AND CO. will SELL by AUCTION, at their Warehouse, THIS DAY, at about Two o'clock, and on account of Mr. Naith — 1 light American Wagon and Harness complete.
+Quote: THIS DAY. MESSRS. N. EDWARDS AND CO. will SELL by AUCTION, at their Warehouse, THIS DAY, at about Two o'clock, and on account of Mr. Naith - 1 light American Wagon and Harness complete.
 Notes: 
 
 Date: 5/12/1874 
@@ -14015,7 +14015,7 @@ Source: Hawera & Normanby Star
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: GIBSON'S CASH  WAREHOUSE, HAWERA & PATEA... 1 American wagon, pole, and shafts complete …
+Quote: GIBSON'S CASH  WAREHOUSE, HAWERA & PATEA... 1 American wagon, pole, and shafts complete ...
 Notes: 
 
 Date: 29/8/1919 
@@ -14023,7 +14023,7 @@ Source: Ashburton Guardian
 Author: 
 Vol / Page: 8
 Edition: 
-Quote: D.	FRIEDLANDER. CLEARING SALE AT EALING. FRIDAY, SEPTEMBER 5, 1919... Farm Dray and Frame, American Wagon, 1 Single-Seater Buggy …
+Quote: D.	FRIEDLANDER. CLEARING SALE AT EALING. FRIDAY, SEPTEMBER 5, 1919... Farm Dray and Frame, American Wagon, 1 Single-Seater Buggy ...
 Notes: 
 
 Date: 3/1/1880 
@@ -14281,7 +14281,7 @@ Source: Star, The
 Author: 
 Vol / Page: 4
 Edition: 
-Quote: Instead of employing such literary calls the American Invasion demands a “rock and rye," or a "stone fence," or a "high ball," or " a "Ramzen cooler," or some other insinuating beverage whose mysteries are a secret known only to the holy of holies of the American bar.
+Quote: Instead of employing such literary calls the American Invasion demands a "rock and rye," or a "stone fence," or a "high ball," or " a "Ramzen cooler," or some other insinuating beverage whose mysteries are a secret known only to the holy of holies of the American bar.
 Notes: 
 
 American waggon
@@ -14703,7 +14703,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2017
 Edition: 
-Quote: An´.a-branch (&abreve.n´.&adot.-br&adot.nch), n. [Contr. fr. anastomosing branch.] A branch of a river which re-enters the main stream or loses itself in  sandy soil. See billabong, 2. 
+Quote: An'.a-branch (&abreve.n'.&adot.-br&adot.nch), n. [Contr. fr. anastomosing branch.] A branch of a river which re-enters the main stream or loses itself in  sandy soil. See billabong, 2. 
 Notes: 
 
 Date: 0/0/1873 
@@ -15845,7 +15845,7 @@ Source: Bay of Plenty Times
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: 'One of the oldest Natives in the Colony was in town to-day, on tribal business, — Te Potae, who claims to be at least a centennarian [sic]. .. In the Anglo-Maori war he was loyal to the Queen and acted as guide to the British troops at the time of the Gate Pah fight and was awarded the war medal.
+Quote: 'One of the oldest Natives in the Colony was in town to-day, on tribal business, - Te Potae, who claims to be at least a centennarian [sic]. .. In the Anglo-Maori war he was loyal to the Queen and acted as guide to the British troops at the time of the Gate Pah fight and was awarded the war medal.
 Notes: 
 
 Date: 0/0/1986 
@@ -15953,7 +15953,7 @@ Source: Star, The
 Author: 
 Vol / Page: 1
 Edition: 
-Quote: Special interest seems to be felt amongst Anglo-New Zealanders in the doings of Mrs Reeves, as a very general impression prevails that Mr Reeves will succeed Sir Westby Perceval. The present Agent-General has—one can tell from the way he talks about him— a sincere admiration and regard for Mr Reeves …
+Quote: Special interest seems to be felt amongst Anglo-New Zealanders in the doings of Mrs Reeves, as a very general impression prevails that Mr Reeves will succeed Sir Westby Perceval. The present Agent-General has-one can tell from the way he talks about him- a sincere admiration and regard for Mr Reeves ...
 Notes: 
 
 Anglo-New Zealander
@@ -16071,7 +16071,7 @@ Source: Daily Southern Cross
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: Tawhiao replied to Purukutu’s request as follows: — "If you see a mantis [Roo is the word used in the Maori language, and the insect is sometimes called 'the animated straw' by bushmen] upon a manuka bush, pick it off carefully. But if you see a reptile crawling across the road, you are to kill it and eat it [.] "
+Quote: Tawhiao replied to Purukutu's request as follows: - "If you see a mantis [Roo is the word used in the Maori language, and the insect is sometimes called 'the animated straw' by bushmen] upon a manuka bush, pick it off carefully. But if you see a reptile crawling across the road, you are to kill it and eat it [.] "
 Notes: 
 
 Date: 7/12/1907 
@@ -16871,7 +16871,7 @@ Source: Illustrated History of Taranaki
 Author: LAMBERT
 Vol / Page: 34
 Edition: 
-Quote: The Anti–Land Selling League was formed which solemnly pledged to fight to the death to retain ownership of tribal lands.
+Quote: The Anti-Land Selling League was formed which solemnly pledged to fight to the death to retain ownership of tribal lands.
 Notes: 
 
 anti-Maori
@@ -17325,7 +17325,7 @@ Quote: In the course of an eventful ... life, during a long residence at the Ant
 Notes: 
 
 Date: 0/0/1874 
-Source: Crusts: a settler’s fare due south
+Source: Crusts: a settler's fare due south
 Author: KENNAWAY
 Vol / Page: 9
 Edition: 
@@ -17503,7 +17503,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 8
 Edition: 
-Quote: The birds include the Antipodes and Auckland Island parakeet and the flightless duck, and they will be removed to the Kapiti Island bird sanctuary... The Antipodes parakeet is one of the rarest birds in the world, and is confined to an islet three miles long by 1½ miles wide.
+Quote: The birds include the Antipodes and Auckland Island parakeet and the flightless duck, and they will be removed to the Kapiti Island bird sanctuary... The Antipodes parakeet is one of the rarest birds in the world, and is confined to an islet three miles long by 1 1/2 miles wide.
 Notes: 
 
 Date: 0/0/1892 
@@ -22101,7 +22101,7 @@ Source: Dominion Post
 Author: 
 Vol / Page: B1
 Edition: 
-Quote: The society’s conservation project co-ordinator, Helen Meredith, said Archey’s frogs were like living fossils, as they were almost indistinguishable from 150 million-year-old fossilised remains.
+Quote: The society's conservation project co-ordinator, Helen Meredith, said Archey's frogs were like living fossils, as they were almost indistinguishable from 150 million-year-old fossilised remains.
 Notes: 
 
 Date: 30/11/2002 
@@ -22325,7 +22325,7 @@ Source: North Otago Times
 Author: 
 Vol / Page: 
 Edition: 
-Quote: One cannot, indeed, watch for long the flight of the fulmar petrel without becoming dissatisfied, or at least critical, in regard to that of other sea-birds. .. something is gone from the gold, corsair-like sweeps of the arctic skua …
+Quote: One cannot, indeed, watch for long the flight of the fulmar petrel without becoming dissatisfied, or at least critical, in regard to that of other sea-birds. .. something is gone from the gold, corsair-like sweeps of the arctic skua ...
 Notes: 
 
 Date: 5/12/1925 
@@ -24203,7 +24203,7 @@ Source: Watch of Gryphons
 Author: Owen Marshall
 Vol / Page: 71
 Edition: 
-Quote: Michael thought the ABs were coming right, but Rik and Budgie reckoned they’d get arseholed again by the Aussies.
+Quote: Michael thought the ABs were coming right, but Rik and Budgie reckoned they'd get arseholed again by the Aussies.
 Notes: 
 
 arsehole of the world
@@ -24701,7 +24701,7 @@ Source: NZ Dairy Produce Exporter
 Author: 
 Vol / Page: 60
 Edition: 
-Quote: [Advt.] Positively the Last Art Union with a £5000 Prize List.
+Quote: [Advt.] Positively the Last Art Union with a GBP5000 Prize List.
 Notes: 
 
 Date: 13/3/1935 
@@ -24709,7 +24709,7 @@ Source: NZ Free Lance
 Author: 
 Vol / Page: 50b
 Edition: 
-Quote: [Advt.] Grand £5,000 Alluvial Gold Art Union.
+Quote: [Advt.] Grand GBP5,000 Alluvial Gold Art Union.
 Notes: 
 
 Date: 17/7/1939 
@@ -25323,7 +25323,7 @@ Source: Morrieson's Motel
 Author: McLauchlan ed.
 Vol / Page: 121
 Edition: 
-Quote: ‘Pity Laura’s not on this arvo.’
+Quote: 'Pity Laura's not on this arvo.'
 Notes: 
 
 Date: 30/6/2001 
@@ -26997,7 +26997,7 @@ Source: Hawera Star
 Author: 
 Vol / Page: 1
 Edition: 
-Quote: Shingles, at the stump, 10s per thousand, Posts at the stump, £2 per hundred, rails, at the stump, £1 15s per hundred, palings 5 feet, at stump 7s 6d per hundred.
+Quote: Shingles, at the stump, 10s per thousand, Posts at the stump, GBP2 per hundred, rails, at the stump, GBP1 15s per hundred, palings 5 feet, at stump 7s 6d per hundred.
 Notes: 
 
 Date: 0/0/1900 
@@ -27247,7 +27247,7 @@ Source: NZ Truth
 Author: 
 Vol / Page: 5
 Edition: 
-Quote: When approached for rates, he stolidly asserted that New Zealand was first settled by the Maoris and all the land belonged ‘to the Atua’ (the Almighty), and they would pay no rates.
+Quote: When approached for rates, he stolidly asserted that New Zealand was first settled by the Maoris and all the land belonged 'to the Atua' (the Almighty), and they would pay no rates.
 Notes: 
 
 Date: 0/0/1851 
@@ -27391,7 +27391,7 @@ Source: Wairarapa News
 Author: 
 Vol / Page: 20
 Edition: 
-Quote: The âtua also acknowledge confrontation and turbulent times ...
+Quote: The atua also acknowledge confrontation and turbulent times ...
 Notes: Macron included.
 
 Date: 0/0/1851 
@@ -27715,7 +27715,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2017
 Edition: 
-Quote: A´.u-a (ä.´.u-&adot.; colloq. ou´.&adot.), n. [Maori.] A New Zealand coast fish  (<i>Agonostoma Forsteri</i>) of the Mullet family (Mugilidae).  
+Quote: A'.u-a (a.'.u-&adot.; colloq. ou'.&adot.), n. [Maori.] A New Zealand coast fish  (<i>Agonostoma Forsteri</i>) of the Mullet family (Mugilidae).  
 Notes: 
 
 Date: 0/6/1921 
@@ -28061,7 +28061,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 8
 Edition: 
-Quote: The birds include the Antipodes and Auckland Island parakeet and the flightless duck, and they will be removed to the Kapiti Island bird sanctuary... The Antipodes parakeet is one of the rarest birds in the world, and is confined to an islet three miles long by 1½ miles wide.
+Quote: The birds include the Antipodes and Auckland Island parakeet and the flightless duck, and they will be removed to the Kapiti Island bird sanctuary... The Antipodes parakeet is one of the rarest birds in the world, and is confined to an islet three miles long by 1 1/2 miles wide.
 Notes: 
 
 Date: 4/12/1907 
@@ -29193,7 +29193,7 @@ Source: Geological Society of NZ Newsletter
 Author: 
 Vol / Page: 12/3
 Edition: 
-Quote: D. Cowie, Soil Bureau, D.S.I.R., Palmerston North.  “The Aukautere ash and loess deposits in the Manawatu District.”
+Quote: D. Cowie, Soil Bureau, D.S.I.R., Palmerston North.  "The Aukautere ash and loess deposits in the Manawatu District."
 Notes: 
 
 Date: 0/10/1966 
@@ -32135,7 +32135,7 @@ Source: Geological Society of NZ Newsletter
 Author: 
 Vol / Page: 80/17
 Edition: 
-Quote: Findlay, who had switched to foraminiferal studies in 1933, used these samples and a set he had collected in the 1920’s and concluded that the sequence had to be entirely younger than the early Miocene Awamoan Stage.
+Quote: Findlay, who had switched to foraminiferal studies in 1933, used these samples and a set he had collected in the 1920's and concluded that the sequence had to be entirely younger than the early Miocene Awamoan Stage.
 Notes: 
 
 awanga
@@ -32473,7 +32473,7 @@ Source: Otago Witness
 Author: 
 Vol / Page: 42
 Edition: 
-Quote: On some roads in Wayback they attach a passenger to a freight train and call it “mixed.”
+Quote: On some roads in Wayback they attach a passenger to a freight train and call it "mixed."
 Notes: 
 
 Date: 22/8/1898 
@@ -32549,7 +32549,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2017
 Edition: 
-Quote: A-we´.to (ä.-w&amacr.´.t&omacr.; colloq. ä.-w&emacr.´.tò.), n. [Maori. awheto.] The so-called vegetable caterpillar of New Zealand. It yields a black  dye much used in moko. See MOKO, n. 
+Quote: A-we'.to (a.-w&amacr.'.t&omacr.; colloq. a.-w&emacr.'.to.), n. [Maori. awheto.] The so-called vegetable caterpillar of New Zealand. It yields a black  dye much used in moko. See MOKO, n. 
 Notes: 
 
 awhato

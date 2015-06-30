@@ -38,23 +38,61 @@ def test():
     exit_code = pytest.main([TEST_PATH, '--verbose'])
     return exit_code
 
-### Pre-processing ### 
+
+### Part 1. Pre-processing ### 
 # Convert rtf files into txt files to strip away formating info.
 # Cut n paste contents into gedit. Check last listing matches.
+# run python manage.py data_import A
+# will process text file A.txt and print to terminal
+# run python manage.py data_import all
+# will process all 26 text files and print to terminal
+### Part 2. Load db ###
+# inserts "create entries" commands into the script
+# run python manage.py data_import A:db
+# will process text file A.txt, print to terminal and load data to db
 @manager.command
 def data_import(myfile):
-    file_loc = "../NZDC db/text files/nzdc_export_"
+    file_loc = "./db files June 2015/nzdc_export_"
     file_type = ".txt"
+    load_db = False
+    action = myfile.split(":")
+    try:
+      if action[1] == "db":
+        load_db = True
+        # prep database
+        print "#### removing old files"
+        subprocess.call(["rm", "dev.db"])
+        subprocess.call(["rm", "-r", "migrations"])
+        print "#### init db"
+        subprocess.call(["python", "manage.py", "db", "init"])
+        print "#### migrate db"
+        subprocess.call(["python", "manage.py", "db", "migrate"])
+        print "#### upgrade db"
+        subprocess.call(["python", "manage.py", "db", "upgrade"])
+        
+        # load first users
+        initial_db_users()
+        # load secondary tables
+        seed_tables()
+    except:
+      # do nothing, try fails if action[1] does not exist, so load_db stays False
+      print "Not changing database."
 
+    myfile = action[0]
+    print ""
+    print "##################################################################"
     if myfile == "all":
       for myfile in list("ABCDEFGHIJKLMNOPQRSTUVWXYZ"):
-        print "## Importing data from file: %s ##" % (file_loc + myfile + file_type)
-        data_import_read_files(file_loc, myfile, file_type)
+        print "#### Importing data from file: %s ##" % (file_loc + myfile + file_type)
+        data_import_read_files(file_loc, myfile, file_type, load_db)
     else: 
-      print "## Importing data from file: %s ##" % (file_loc + myfile + file_type)
-      data_import_read_files(file_loc, myfile, file_type)
+      print "#### Importing data from file: %s ##" % (file_loc + myfile + file_type)
+      data_import_read_files(file_loc, myfile, file_type, load_db)
 
-def data_import_read_files(file_loc, myfile, file_type):
+    if load_db:
+      print "#### Loaded database ...???"
+
+def data_import_read_files(file_loc, myfile, file_type, load_db):
     # Files are sets of word data including 0+ Citations
     # Word data starts with a headword and finishes with a blank line after all citations.
     # Citations data starts with "Citations"
@@ -69,27 +107,48 @@ def data_import_read_files(file_loc, myfile, file_type):
         nextLine = line.strip()
         if currentLine == "":
           continue
+
         # this is a headword
-        currentLine, nextLine, headword = create_headword(currentLine, nextLine, text, i)
+        currentLine, nextLine, headword, headword_obj = create_headword(currentLine, nextLine, text, i)
+
         # this is zero or more citations for the headword
         nextLine, headword = create_citation_list(currentLine, 
                                                   nextLine, 
                                                   text, 
-                                                  headword)
+                                                  headword,
+                                                  headword_obj)
         if nextLine == None:
           break
         i = i + 1
         # limits output for testing
 #        print "### " + str(i)
-#        if i >= 20:
+#        if i >= 21:
 #          break
 
 def create_headword(currentLine, nextLine, text, counter):
+    seed_date = dt.datetime.utcnow()
     headword = {"Headword": currentLine}
     headword["Headword_id"] = counter
     print "%d %s" % (counter, headword["Headword"])
     print "%d %s," % (counter, headword["Headword"]),
     print "{k: v} Headword_id: %s " % (headword["Headword_id"])
+
+    ###########################################################################
+    # hashes of secondary table ids
+    data_set={'none': 0, 'Orsman': 1, 'DNZE': 2, 'Incomings': 0}
+
+    word_class={'none': 0, '[none]': 0, '[_none_]': 69, 'abbreviation': 39, 'adjective': 12, 'adverb': 17, 'conjunction': 27, 'determiner': 71, 'exclamation': 23, 'noun': 1, 'phrase': 9, 'prefix': 73, 'preposition': 30, 'pronoun': 8, 'verb': 13}
+
+    origin={'': 2, 'none': 2, '[none]': 2, 'abbreviation': 18, 'Aboriginal': 10, 'acronym': 8, 'blend': 19, 'British dialect': 11, 'catchphrase': 12, 'ellipsis': 17, 'eponym': 22, 'euphemism': 15, 'expletive': 16, 'initialism': 14, 'Maori': 4, 'Moriori': 21, 'Polynesian': 7, 'rhyming slang': 9, 'Samoan': 5, 'Tongan': 6, 'toponym':23}
+
+    domain={'': 1, 'none': 1, '[none]': 1, 'Commerce': 16, 'Cuisine': 4, 'Environment': 8, 'Geology': 5, 'Marine': 12, 'Media': 20, 'Politics': 27, 'Rural': 3, 'Science': 26, 'Sport': 6}
+
+    region={'': 1, 'none': 1, '[none]': 1, 'New Zealand and Australia': 3, 'New Zealand & Australia': 3, 'New Zealand (Southern South Island)': 7, 'New Zealand (West Coast South Island)': 8, 'New Zealand and Pacific': 9}
+
+    sense_number={'': 1, '1': 2, '2': 25, '3': 37, '4': 48, '5': 59, '6': 70, '7':80, '8': 91, '9': 101}
+
+    homonym_number={'': 1, '1': 11, '2': 18, '3': 19, '4': 20, '5': 22, '6': 23, '7':24, '8': 25, '9': 26}
+    ###########################################################################
 
     # Definitions may be over multiple lines
     do_definition = False
@@ -109,8 +168,9 @@ def create_headword(currentLine, nextLine, text, counter):
           continue
 
       # headword data
-      splt = currentLine.split(':')
+      splt = currentLine.split(':', 1)
       if splt[0] == "Definition":
+        # start definition, which may be multi-lines
         do_definition = True
       if do_definition:
         if splt[0] == "Definition":
@@ -119,19 +179,57 @@ def create_headword(currentLine, nextLine, text, counter):
           definition_text = definition_text + " " + currentLine
         if splt[0] == "Origin":
           # collecting definition is finished
+          headword["Definition"] = definition_text
           print "%d %s," % (counter, headword["Headword"]),
-          print "{k: v} %s: %s " % ("Definition", definition_text)
+          print "{k: v} %s: %s " % ("Definition", headword["Definition"])
           do_definition = False
+
       if not do_definition:
+        if currentLine == "":
+          continue
         headword[splt[0]] = splt[1]
         print "%d %s," % (counter, headword["Headword"]),
         print "{k: v} %s: %s " % (splt[0], headword[splt[0]])
       if nextLine == "Citations":
-        return currentLine, nextLine, headword
+        break
+    
+    #### loop finished
+    #### groom data
+    definition = headword["Definition"]
+    if definition == "":
+      definition = ""
+    # data_set = {DNZE, Orsman, Incomings}
+    data_set_id = 0 # data not in suplied data
 
-def create_citation_list(currentLine, nextLine, text, headword):
+    # create database entry
+    headword_obj = Headword.create(
+                 headword=headword["Headword"],
+                 definition=definition,
+                 see=headword["See"],
+                 pronunciation=headword["Pronunciation"],
+                 notes=headword["Notes"],
+                 data_set_id=data_set_id,
+                 homonym_number_id=homonym_number[headword["Homonym Number"].strip()], 
+
+                 word_class_id=word_class[headword["Word Class"].strip()],
+                 sense_number_id=sense_number[headword["Sense Number"].strip()], 
+
+                 origin_id=origin[headword["Origin"].strip()], 
+                 #register_id=16, 
+                 domain_id=domain[headword["Domain"].strip()], 
+                 region_id=region[headword["Region"].strip()], 
+                 updated_at=seed_date,
+                 updated_by="seed"
+                   )
+    
+    return currentLine, nextLine, headword, headword_obj
+
+def create_citation_list(currentLine, nextLine, text, headword, headword_obj):
     citation_count = 0
     for line in text:
+#      print "### currentLine " + currentLine
+#      print "### nextLine " + nextLine
+#      print "#### list line => " + line
       if nextLine == "Citations":
         # roll nextLine to "Date:"
         currentLine = nextLine
@@ -148,14 +246,15 @@ def create_citation_list(currentLine, nextLine, text, headword):
         # roll "Date:" to currentLine
         currentLine = nextLine
         nextLine = line.strip()
-        continue
+        #continue
 
       citation_count = citation_count + 1
       currentLine, nextLine, headword = create_citation(currentLine, 
                                                         nextLine, 
                                                         text, 
                                                         citation_count, 
-                                                        headword)
+                                                        headword,
+                                                        headword_obj)
 
       if nextLine[:5] != "Date:":
         # citations finished
@@ -163,9 +262,10 @@ def create_citation_list(currentLine, nextLine, text, headword):
         return nextLine, headword
 
 
-def create_citation(currentLine, nextLine, text, citation_count, headword):
+def create_citation(currentLine, nextLine, text, citation_count, headword, headword_obj):
+    seed_date = dt.datetime.utcnow()
     citation = {"Citation_id": citation_count}
-    splt = currentLine.split(':')
+    splt = currentLine.split(':', 1)
     citation["Date"] = splt[1]
     print ""
     print "%d %s, Citations " % (headword["Headword_id"], headword["Headword"])
@@ -177,7 +277,10 @@ def create_citation(currentLine, nextLine, text, citation_count, headword):
     quote_text = ""
     end_of_citation = False
     
-    for line in text:        
+    for line in text:
+#      print "### line => " + line
+#      print "### currentLine " + currentLine
+#      print "### nextLine " + nextLine
       currentLine = nextLine
       nextLine = line.strip()
 
@@ -188,7 +291,7 @@ def create_citation(currentLine, nextLine, text, citation_count, headword):
           continue
         if (nextLine[:6] == "Notes:" or 
            nextLine[:6] == "Quote:" or 
-           nextLine[:3] == "Vol" or 
+           nextLine[:11] == "Vol / Page:" or 
            nextLine[:8] == "Edition:"):
           # roll nextLine to currentLine
           continue
@@ -196,16 +299,19 @@ def create_citation(currentLine, nextLine, text, citation_count, headword):
       if end_of_citation:
         # add citation to Headword hash
         headword["citation_%d" % citation_count] = citation
+        # add citation to db
+        add_citation_to_headWord(citation, headword_obj)
         return currentLine, nextLine, headword
 
       if currentLine[:6] == "Notes:":
         end_of_citation = True
 
       # citation data
-      splt = currentLine.split(':')
+      splt = currentLine.split(':', 1)
       if splt[0] == "Quote":
         quote_text = ""
         do_quote = True
+
       if do_quote:
         if splt[0] == "Quote":
           quote_text = splt[1]
@@ -213,11 +319,14 @@ def create_citation(currentLine, nextLine, text, citation_count, headword):
           quote_text = quote_text + " " + currentLine
         # collecting quote is finished
         if splt[0] == "Notes":
+          citation["Quote"] = quote_text
           print "%d-%d, {k, v} %s: %s " % (
-            headword["Headword_id"], citation_count, "Quote", quote_text)
+            headword["Headword_id"], citation_count, "Quote", citation["Quote"])
           do_quote = False
       
       if not do_quote:
+        if currentLine == "":
+          continue
         citation[splt[0]] = splt[1]
         print "%d-%d, {k, v} %s: %s " % (
           headword["Headword_id"], citation_count, splt[0], citation[splt[0]])
@@ -229,9 +338,76 @@ def create_citation(currentLine, nextLine, text, citation_count, headword):
 
       # add last citation to Headword hash
       headword["citation_%d" % citation_count] = citation
+      # add citation to db
+      add_citation_to_headWord(citation, headword_obj)
+
       currentLine = nextLine
       return currentLine, nextLine, headword
 
+def add_citation_to_headWord(citation, headword_obj):
+    seed_date = dt.datetime.utcnow()
+    circa = 0
+    # prep citation hash info
+    date = citation["Date"].split("/")
+    if int(date[0]) < 1:
+      date[0] = '1'
+      circa = 1
+    if date[1] == '0':
+      date[1] = '1'
+      circa = 1
+
+#    print "### end of citation "
+    citation_obj = Citation.create(
+                 day = int(date[0]), month = int(date[1]), year = int(date[2]),
+                 circa      = circa,
+                 author     = citation["Author"],
+                 source_id  = get_source_id(citation),
+                 vol_page   = citation["Vol / Page"],
+                 edition    = citation["Edition"],
+                 quote      = citation["Quote"],
+                 notes      = citation["Notes"],
+                 archived   = False,
+                 updated_at = seed_date,
+                 updated_by = "seed"
+                   )
+    headword_obj.citations.append(citation_obj)
+#    headword_obj.commit()
+
+def get_source_id(citation):
+    seed_date = dt.datetime.utcnow()
+    source = citation["Source"]
+    source_obj = Source.query.filter_by(name=source).first()
+    if source_obj:
+      return source_obj.id
+
+    source_obj = Source.create(
+                 name=source,
+                 notes="",
+                 archived=False,
+                 updated_at=seed_date,
+                 updated_by="seed")
+    return source_obj.id
+
+
+def initial_db_users():
+    seed_date = dt.datetime.utcnow()
+    User.create( username="admin", 
+                 email="admin@example.com", 
+                 institution="NZDC VUW",
+                 country="NZ",
+                 interest="Admin role",
+                 is_admin=True,
+                 password="qwerty", 
+                 updated_at=seed_date,
+                 active=True )
+    User.create( username="matt", 
+                 email="matt@example.com", 
+                 institution="NZDC VUW",
+                 country="NZ",
+                 interest="user role",
+                 password="qwerty", 
+                 updated_at=seed_date,
+                 active=True )
 
 
 # TODO add a condition to immediately return nil if in production
@@ -258,24 +434,27 @@ def resetdb():
 # might not be the Python place for it, but it works :-)
 @manager.command
 def seed():
+    initial_db_users()
+    seed_tables()
+
     seed_date = dt.datetime.utcnow()
-    User.create( username="admin", 
-                 email="admin@example.com", 
-                 institution="NZDC VUW",
-                 country="NZ",
-                 interest="Admin role",
-                 is_admin=True,
-                 password="qwerty", 
-                 updated_at=seed_date,
-                 active=True )
-    User.create( username="matt", 
-                 email="matt@example.com", 
-                 institution="NZDC VUW",
-                 country="NZ",
-                 interest="user role",
-                 password="qwerty", 
-                 updated_at=seed_date,
-                 active=True )
+#    User.create( username="admin", 
+#                 email="admin@example.com", 
+#                 institution="NZDC VUW",
+#                 country="NZ",
+#                 interest="Admin role",
+#                 is_admin=True,
+#                 password="qwerty", 
+#                 updated_at=seed_date,
+#                 active=True )
+#    User.create( username="matt", 
+#                 email="matt@example.com", 
+#                 institution="NZDC VUW",
+#                 country="NZ",
+#                 interest="user role",
+#                 password="qwerty", 
+#                 updated_at=seed_date,
+#                 active=True )
 
     Headword.create(
                  headword="test",
@@ -411,43 +590,29 @@ def seed():
     h = Headword.query.get(3)
     h.citations.append(Citation.query.get(4))
 
-    Flag.create( id=0,
-                 name="none",
-                 notes="",
-                 archived=False,
-                 updated_at=seed_date,
-                 updated_by="seed")
-    Flag.create( id=1,
-                 name="Transport",
-                 notes="DB",
-                 archived=False,
-                 updated_at=seed_date,
-                 updated_by="seed")
-    Flag.create( id=2,
-                 name="Slang",
-                 notes="",
-                 archived=False,
-                 updated_at=seed_date,
-                 updated_by="seed")
-    Flag.create( id=3,
-                 name="Farm Words",
-                 notes="",
-                 archived=False,
-                 updated_at=seed_date,
-                 updated_by="seed")
-    Flag.create( id=4,
-                 name="Geology",
-                 notes="Geology",
-                 archived=False,
-                 updated_at=seed_date,
-                 updated_by="seed")
-
     h = Headword.query.get(1)
     h.flags.append(Flag.query.get(1))
     h.flags.append(Flag.query.get(4))
     h = Headword.query.get(2)
     h.flags.append(Flag.query.get(1))
 
+    h = Headword.query.get(1)
+    h.registers.append(Register.query.get(12))
+    h.registers.append(Register.query.get(16))
+    h = Headword.query.get(2)
+    h.registers.append(Register.query.get(13))
+
+
+
+def seed_tables():
+    seed_date = dt.datetime.utcnow()
+
+    Homonym_number.create( id=1,
+                 name="0",
+                 notes="",
+                 archived=False,
+                 updated_at=seed_date,
+                 updated_by="seed")
     Homonym_number.create( id=11,
                  name="1",
                  notes="",
@@ -502,6 +667,7 @@ def seed():
                  archived=False,
                  updated_at=seed_date,
                  updated_by="seed")
+
 
     Word_class.create( id=0,
                  name="none",
@@ -588,6 +754,12 @@ def seed():
                  updated_at=seed_date,
                  updated_by="seed")
 
+    Sense_number.create( id=1,
+                 name="none",
+                 notes="",
+                 archived=False,
+                 updated_at=seed_date,
+                 updated_by="seed")
     Sense_number.create( id=2,
                  name="1",
                  notes="",
@@ -734,12 +906,6 @@ def seed():
                  updated_at=seed_date,
                  updated_by="seed")
 
-    h = Headword.query.get(1)
-    h.registers.append(Register.query.get(12))
-    h.registers.append(Register.query.get(16))
-    h = Headword.query.get(2)
-    h.registers.append(Register.query.get(13))
-
     Domain.create( id=1,
                  name="none",
                  notes="",
@@ -807,6 +973,37 @@ def seed():
                  updated_at=seed_date,
                  updated_by="seed")
 
+    Flag.create( id=0,
+                 name="none",
+                 notes="",
+                 archived=False,
+                 updated_at=seed_date,
+                 updated_by="seed")
+    Flag.create( id=1,
+                 name="Transport",
+                 notes="DB",
+                 archived=False,
+                 updated_at=seed_date,
+                 updated_by="seed")
+    Flag.create( id=2,
+                 name="Slang",
+                 notes="",
+                 archived=False,
+                 updated_at=seed_date,
+                 updated_by="seed")
+    Flag.create( id=3,
+                 name="Farm Words",
+                 notes="",
+                 archived=False,
+                 updated_at=seed_date,
+                 updated_by="seed")
+    Flag.create( id=4,
+                 name="Geology",
+                 notes="Geology",
+                 archived=False,
+                 updated_at=seed_date,
+                 updated_by="seed")
+
     Region.create( id=1,
                  name="none",
                  notes="",
@@ -826,7 +1023,7 @@ def seed():
                  updated_at=seed_date,
                  updated_by="seed")
     Region.create( id=8,
-                 name="New Zealand (Weat Coast South Island)",
+                 name="New Zealand (West Coast South Island)",
                  notes="",
                  archived=False,
                  updated_at=seed_date,
@@ -837,7 +1034,6 @@ def seed():
                  archived=False,
                  updated_at=seed_date,
                  updated_by="seed")
-
 
     Origin.create( id=2,
                  name="none",

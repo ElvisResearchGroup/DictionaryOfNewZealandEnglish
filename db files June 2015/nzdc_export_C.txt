@@ -107,7 +107,7 @@ Source: Armageddon or Calvary
 Author: HOLLAND
 Vol / Page: 
 Edition: 
-Quote: ‘The C.O.'s' [a poem]
+Quote: 'The C.O.'s' [a poem]
 Notes: 1917 July 26 in 1919 Holland`Armageddon or Calvary
 
 C2
@@ -173,7 +173,7 @@ Source: Norwester
 Author: 
 Vol / Page: 14
 Edition: 
-Quote: Mourvédre was initially used to add colour and a spine to non-descript blends; later, when Cabs and Chardonnay became fashionable, it was downgraded.
+Quote: MourvEdre was initially used to add colour and a spine to non-descript blends; later, when Cabs and Chardonnay became fashionable, it was downgraded.
 Notes: 
 
 cab sav
@@ -531,7 +531,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2019
 Edition: 
-Quote: <i>Cabì.bage</i> (k&abreve.bì.bà.j),<i> n. [Add.] ... Cabbage tree</i>, or <i>Cabbage palm. (Bot.) ... In New Zealand, the liliaceous tree Cordyline indivisa,</i> and other species of <i>Cordyline</i>. See the Note under TI.
+Quote: <i>Cabi.bage</i> (k&abreve.bi.ba.j),<i> n. [Add.] ... Cabbage tree</i>, or <i>Cabbage palm. (Bot.) ... In New Zealand, the liliaceous tree Cordyline indivisa,</i> and other species of <i>Cordyline</i>. See the Note under TI.
 Notes: 
 
 Date: 0/0/1898 
@@ -745,7 +745,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2019
 Edition: 
-Quote: <i>Cabì.bage</i> (k&abreve.bì.bà.j),<i> n. [Add.] ... Cabbage tree</i>, or <i>Cabbage palm. (Bot.) ... In New Zealand, the liliaceous tree Cordyline indivisa, and other species of Cordyline</i>. See the Note under TI.
+Quote: <i>Cabi.bage</i> (k&abreve.bi.ba.j),<i> n. [Add.] ... Cabbage tree</i>, or <i>Cabbage palm. (Bot.) ... In New Zealand, the liliaceous tree Cordyline indivisa, and other species of Cordyline</i>. See the Note under TI.
 Notes: 
 
 Date: 0/0/1902 
@@ -1521,7 +1521,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2019
 Edition: 
-Quote: <i>Cabì.bage</i> (k&abreve.bì.bà.j), <i>n. [Add.] ... Cabbage tree</i>, or <i>Cabbage palm. (Bot.) ... - Cabbage tree hat</i>, a broad-brimmed hat plaited with the fibrous leaves of <i>Cordyline</i>, much worn by the early colonists; - called also simply <i>cabbage tree. </I>
+Quote: <i>Cabi.bage</i> (k&abreve.bi.ba.j), <i>n. [Add.] ... Cabbage tree</i>, or <i>Cabbage palm. (Bot.) ... - Cabbage tree hat</i>, a broad-brimmed hat plaited with the fibrous leaves of <i>Cordyline</i>, much worn by the early colonists; - called also simply <i>cabbage tree. </I>
 Notes: 
 
 Date: 0/0/1900 
@@ -2657,7 +2657,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2019
 Edition: 
-Quote: <i>Ca-detì.</i> (k&adot.-d&ebreve.tì.), <i>n. [Add.] 3. A young gentleman learning sheep farming at a station; any young man attached to a sheep station. </i>
+Quote: <i>Ca-deti.</i> (k&adot.-d&ebreve.ti.), <i>n. [Add.] 3. A young gentleman learning sheep farming at a station; any young man attached to a sheep station. </i>
 Notes: 
 
 Date: 0/0/1898 
@@ -3029,7 +3029,7 @@ Source: Otago Boys' High School
 Author: McLean
 Vol / Page: 13
 Edition: 
-Quote: As officer commanding the school cadet corps, ‘Blobs", wearing the famous lemon-squeezer hat (sometimes back to front) was a force not to be reckoned with.
+Quote: As officer commanding the school cadet corps, 'Blobs", wearing the famous lemon-squeezer hat (sometimes back to front) was a force not to be reckoned with.
 Notes: 
 
 Date: 0/0/1967 
@@ -3375,8 +3375,8 @@ Source: Geological Society of NZ Newsletter
 Author: 
 Vol / Page: 85/50
 Edition: 
-Quote: The illustrated “Café de Curb” is located on the Western Hutt Road, about 500 m northwest of the Wellington Fault.
-Notes: Quote is for photo showing the ‘Faultline Café”, a caravan café or pie cart.
+Quote: The illustrated "CafE de Curb" is located on the Western Hutt Road, about 500 m northwest of the Wellington Fault.
+Notes: Quote is for photo showing the 'Faultline CafE", a caravan cafE or pie cart.
 
 cafeteria Catholic
 Homonym Number: 
@@ -4281,7 +4281,7 @@ Source: NZ Truth
 Author: 
 Vol / Page: 22
 Edition: 
-Quote: Throughout New Zealand, wherever populations ensure a sufficient congregation of racing enthusiasts, thousands of pounds are invested on the eve of important races in Calcutta sweepstakes... The auctioneer told the crowd that the last Calcutta sweep at this club.. was worth £100 to start.
+Quote: Throughout New Zealand, wherever populations ensure a sufficient congregation of racing enthusiasts, thousands of pounds are invested on the eve of important races in Calcutta sweepstakes... The auctioneer told the crowd that the last Calcutta sweep at this club.. was worth GBP100 to start.
 Notes: 
 
 Cale/Calley
@@ -4597,7 +4597,7 @@ Source: Questionnaire Respondents (DB)
 Author: 
 Vol / Page: 
 Edition: 
-Quote: equipment for feeding calves – calfarama.
+Quote: equipment for feeding calves - calfarama.
 Notes: 
 
 calfetaria
@@ -4939,7 +4939,7 @@ Source: Cuisine
 Author: 
 Vol / Page: No. 76 : 106
 Edition: 
-Quote: The last time I appeared [sc. on Hudson and Halls] I wound up having to eat, and appear to enjoy, a rabbit simultaneously prepared two ways: braised in Pinot Noir, and sautéed with honey and grain mustard. My verdict: calcivirus would have been kinder in either case.
+Quote: The last time I appeared [sc. on Hudson and Halls] I wound up having to eat, and appear to enjoy, a rabbit simultaneously prepared two ways: braised in Pinot Noir, and sautEed with honey and grain mustard. My verdict: calcivirus would have been kinder in either case.
 Notes: 
 
 Date: 15/6/1996 
@@ -5625,7 +5625,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 19
 Edition: 
-Quote: Two years ago this land was covered with Californian thistle, but is now producing, from left to right, potatoes, mangels, disease-free pedigree beans, and 2½ acres of swedes, which yielded three tons of first-class club-root resistant seed.
+Quote: Two years ago this land was covered with Californian thistle, but is now producing, from left to right, potatoes, mangels, disease-free pedigree beans, and 2 1/2 acres of swedes, which yielded three tons of first-class club-root resistant seed.
 Notes: 
 
 Date: 27/11/2007 
@@ -8471,7 +8471,7 @@ Pronunciation:
 Notes:
 Citations 
 Date: 0/0/1874 
-Source: Crusts: a settler’s fare due south
+Source: Crusts: a settler's fare due south
 Author: KENNAWAY
 Vol / Page: 153
 Edition: 
@@ -8509,7 +8509,7 @@ Pronunciation:
 Notes:
 Citations 
 Date: 0/0/1874 
-Source: Crusts: a settler’s fare due south
+Source: Crusts: a settler's fare due south
 Author: KENNAWAY
 Vol / Page: 111
 Edition: 
@@ -9689,7 +9689,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2019
 Edition: 
-Quote: <I>Ca-naì.ry</I> (k&adot.-n&amacr.ì.r&ybreve.), <I>n. [Add.] 2. (Zoö.l.) (b)</I> The yellowhead.
+Quote: <I>Ca-nai.ry</I> (k&adot.-n&amacr.i.r&ybreve.), <I>n. [Add.] 2. (Zoo.l.) (b)</I> The yellowhead.
 Notes: 
 
 Date: 0/0/1898 
@@ -9705,7 +9705,7 @@ Source: Birds of New Zealand
 Author: BULLER
 Vol / Page: 1/56
 Edition: 
-Quote: ‘<I>Clitonyx Ochrocephala</I>. Yellow-head. Canary' of the colonists.'
+Quote: '<I>Clitonyx Ochrocephala</I>. Yellow-head. Canary' of the colonists.'
 Notes: 
 
 Date: 0/0/1896 
@@ -11837,7 +11837,7 @@ Quote: 122. DIOMEDEA FULIGINOSA. Gml. Cape Hen. `This well-known species (the `C
 Notes: 
 
 Date: 0/0/1874 
-Source: Crusts: a settler’s fare due south
+Source: Crusts: a settler's fare due south
 Author: KENNAWAY
 Vol / Page: 150
 Edition: 
@@ -12269,7 +12269,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2019
 Edition: 
-Quote: <i>Capeì.weedì.</i> (k&amacr.pì.w&emacr.dì.), <i>n. (Bot.)</i> A composite plant (<i>Cryptostemma calendulaceum</i>) allied to the marigold. It is a native of South Africa (the Cape). Introduced into Australia, it has spread over every pasture, and in the springtime its blossoms make yellow all the landscape. The <i>Capeweed</i> of Europe is a lichen (<i>Rocella tinctoria</i>) from the Cape Verde Islands.
+Quote: <i>Capei.weedi.</i> (k&amacr.pi.w&emacr.di.), <i>n. (Bot.)</i> A composite plant (<i>Cryptostemma calendulaceum</i>) allied to the marigold. It is a native of South Africa (the Cape). Introduced into Australia, it has spread over every pasture, and in the springtime its blossoms make yellow all the landscape. The <i>Capeweed</i> of Europe is a lichen (<i>Rocella tinctoria</i>) from the Cape Verde Islands.
 Notes: 
 
 Date: 0/0/1898 
@@ -14997,7 +14997,7 @@ Source: Huia 4: Contemp. Maori Fiction
 Author: 
 Vol / Page: 75
 Edition: 
-Quote: ‘How ’bout we celebrate me making it to halfway, eh Dad. Lucky thirteen and I haven’t carked it yet.’
+Quote: 'How 'bout we celebrate me making it to halfway, eh Dad. Lucky thirteen and I haven't carked it yet.'
 Notes: 
 
 Date: 19/1/2002 
@@ -15104,7 +15104,7 @@ Carlyon pony
 Homonym Number: 
 Word Class:noun
 Sense Number: 1
-Definition:a breed of pony that is cream, with a black tail and manes [introduced in Hawke’s Bay by Major Carlyon.] 
+Definition:a breed of pony that is cream, with a black tail and manes [introduced in Hawke's Bay by Major Carlyon.] 
 Origin:[none]
 Register:
 Register 2:
@@ -16397,7 +16397,7 @@ Source: Settler's Handbook of NZ, The
 Author: 
 Vol / Page: 285
 Edition: 
-Quote: On what is known in Auckland as virgin bush no sheep are depastured, but it will carry cattle during the winter months …
+Quote: On what is known in Auckland as virgin bush no sheep are depastured, but it will carry cattle during the winter months ...
 Notes: 
 
 carry
@@ -16571,7 +16571,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 5
 Edition: 
-Quote: Steady development in connection with strains of pasture grasses and clovers has proceeded, and, through certification, the time is fast approaching when it will be possible, by the proper utilisation of approved strains of pasture plants, to increase the per-acre stock-carrying capacity of the Dominion’s grassed lands.
+Quote: Steady development in connection with strains of pasture grasses and clovers has proceeded, and, through certification, the time is fast approaching when it will be possible, by the proper utilisation of approved strains of pasture plants, to increase the per-acre stock-carrying capacity of the Dominion's grassed lands.
 Notes: 
 
 Date: 16/10/1873 
@@ -17157,7 +17157,7 @@ Source: Empire of the Dairy Farmers
 Author: YEREX
 Vol / Page: 32
 Edition: 
-Quote: Many of the earliest dairy farms were carved out of the bush by men who raised a deposit working on the roads … [hew out of the bush]
+Quote: Many of the earliest dairy farms were carved out of the bush by men who raised a deposit working on the roads ... [hew out of the bush]
 Notes: 
 
 Date: 0/0/1988 
@@ -17247,7 +17247,7 @@ Source: Internet - see Notes
 Author: 
 Vol / Page: Issue 88
 Edition: 
-Quote: Known as the cascade gecko—a reference to the waterfall-rich landscape in which it was found—it is just one of many New Zealand geckos that have yet to be formally described and named.
+Quote: Known as the cascade gecko-a reference to the waterfall-rich landscape in which it was found-it is just one of many New Zealand geckos that have yet to be formally described and named.
 Notes: http://www.nzgeographic.co.nz/articles.php?ID=223
 
 Date: 0/9/2010 
@@ -17271,7 +17271,7 @@ Source: Internet - see Notes
 Author: 
 Vol / Page: 
 Edition: 
-Quote: The forest gecko in South Westland/Weheka Area is a genetically distinct member of the <i>Halocarpus granulatus</i> complex – the ‘Cascade forest gecko’ – presently known only from the Cascade Plateau and Gorge River.
+Quote: The forest gecko in South Westland/Weheka Area is a genetically distinct member of the <i>Halocarpus granulatus</i> complex - the 'Cascade forest gecko' - presently known only from the Cascade Plateau and Gorge River.
 Notes: http://www.linz.govt.nz/docs/crownproperty/high-country-leases/leaselist/cascade-con-res.pdf Document copied to this site 2002
 
 case
@@ -17353,7 +17353,7 @@ Source: Salient
 Author: 
 Vol / Page: 20
 Edition: 
-Quote: Get rid of all obstinate people currently in ‘case manager' roles.
+Quote: Get rid of all obstinate people currently in 'case manager' roles.
 Notes: 
 
 casein
@@ -17599,7 +17599,7 @@ Source: Meeting of Gentlemen on Matters Agricultural, A
 Author: McCALLUM
 Vol / Page: 199
 Edition: 
-Quote: Suddenly goats were in great demand... So valuable are they for their fibre ‘cashgora'. That is in world-wide demand.
+Quote: Suddenly goats were in great demand... So valuable are they for their fibre 'cashgora'. That is in world-wide demand.
 Notes: 
 
 cashgora
@@ -18813,7 +18813,7 @@ Source: Speaking for Ourselves
 Author: Owen & Perkins
 Vol / Page: 160
 Edition: 
-Quote: In many places the logs were brought out on what was called a ‘cat', which was short for catamarans. A catamaran was a big heavy sledge made of bush timber - yes, everything [was] made of bush timber.  
+Quote: In many places the logs were brought out on what was called a 'cat', which was short for catamarans. A catamaran was a big heavy sledge made of bush timber - yes, everything [was] made of bush timber.  
 Notes: 
 
 cat and mouse
@@ -19031,7 +19031,7 @@ Source: Speaking for Ourselves
 Author: OWEN & PERKINS
 Vol / Page: 160
 Edition: 
-Quote: In many places the logs were brought out on what was called a ‘cat', which was short for catamarans. A catamaran was a big heavy sledge made of bush timber - yes, everything [was] made of bush timber.
+Quote: In many places the logs were brought out on what was called a 'cat', which was short for catamarans. A catamaran was a big heavy sledge made of bush timber - yes, everything [was] made of bush timber.
 Notes: 
 
 catch
@@ -19137,7 +19137,7 @@ Source: NZ Journal of Agriculture
 Author: 
 Vol / Page: 15
 Edition: 
-Quote: The wider the gap, the easier it is for the huntaway to balance off the leader and the less it has to travel across to take a ‘catch’.
+Quote: The wider the gap, the easier it is for the huntaway to balance off the leader and the less it has to travel across to take a 'catch'.
 Notes: 
 
 catch
@@ -20733,7 +20733,7 @@ Source: Three Sheep and a Dog
 Author: GORDON
 Vol / Page: 17
 Edition: 
-Quote: This [nervousness] was eventually overcome while explaining and demonstrating the intricacies of a portable cattle crush …
+Quote: This [nervousness] was eventually overcome while explaining and demonstrating the intricacies of a portable cattle crush ...
 Notes: 
 
 Date: 6/4/2002 
@@ -20857,7 +20857,7 @@ Source: Moaville Magic
 Author: 
 Vol / Page: 38
 Edition: 
-Quote: A fifth [veterinarian], with his needle unwisely visible as he approached a hackle-raised, blazing-eyed, bare-fanged cattle dog, heard the owner say, ‘That dog doesn't take to strangers".
+Quote: A fifth [veterinarian], with his needle unwisely visible as he approached a hackle-raised, blazing-eyed, bare-fanged cattle dog, heard the owner say, 'That dog doesn't take to strangers".
 Notes: 
 
 cattle dog
@@ -20931,7 +20931,7 @@ Source: Botanist at Bay
 Author: SHERWOOD
 Vol / Page: 59
 Edition: 
-Quote: The minibus is parked about two hundred yards down the gorge from the Mount Ephraim cattle grid. ‘
+Quote: The minibus is parked about two hundred yards down the gorge from the Mount Ephraim cattle grid. '
 Notes: 
 
 Date: 14/0/1986 
@@ -21235,7 +21235,7 @@ Source: Observer (Auckland)
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: To men animated with such noble sentiments and guided with such singleness of purpose nothing can be impossible, and in furtherance of these views a syndicate has been formed for the purchase of Byers’ cattle scow, lately lengthened by Bailey, our most eminent shipbuilder …
+Quote: To men animated with such noble sentiments and guided with such singleness of purpose nothing can be impossible, and in furtherance of these views a syndicate has been formed for the purchase of Byers' cattle scow, lately lengthened by Bailey, our most eminent shipbuilder ...
 Notes: 
 
 cattle sickness
@@ -22283,7 +22283,7 @@ Source: Encyclopedia of World Rugby
 Author: QUINN
 Vol / Page: 00
 Edition: 
-Quote: Cavaliers : this word had little or no significance in the sport of rugby until 1986, when the name ‘Cavaliers' was adopted by a rebel team of New Zealand players, which toured South Africa in 1986.
+Quote: Cavaliers : this word had little or no significance in the sport of rugby until 1986, when the name 'Cavaliers' was adopted by a rebel team of New Zealand players, which toured South Africa in 1986.
 Notes: Check page
 
 cavalla/cavalle/cavallo
@@ -23491,7 +23491,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2019
 Edition: 
-Quote: <i>Ceì.dar</i> (s&emacr.ì.d&etilde.r), <i>n. [Add.] /i>... In New Zealand the kaikawaka is called <i>cedar. </i>
+Quote: <i>Cei.dar</i> (s&emacr.i.d&etilde.r), <i>n. [Add.] /i>... In New Zealand the kaikawaka is called <i>cedar. </i>
 Notes: 
 
 Date: 0/0/1966 
@@ -25019,7 +25019,7 @@ Source: Internet - see Notes
 Author: 
 Vol / Page: 
 Edition: 
-Quote: ‘Otago large’ gecko and ‘Central Otago’ gecko are the only two speciesknown to co-occur within the coastal Otago area but the former species isgenerally (but not definitively) identified by the larger adult size (Jewell2006).
+Quote: 'Otago large' gecko and 'Central Otago' gecko are the only two speciesknown to co-occur within the coastal Otago area but the former species isgenerally (but not definitively) identified by the larger adult size (Jewell2006).
 Notes: http://www.google.co.nz/search?hl=en&q=%22Central+Otago+gecko%22&meta=cr%3DcountryNZ&aq=f&oq= 
 
 Central Otago ground weta
@@ -26705,7 +26705,7 @@ Source: Southern Cross (Wgton)
 Author: OWEN & PERKINS
 Vol / Page: 160
 Edition: 
-Quote: At the back of the [sc. bullock] team were the ‘chainers'... The chainers had a heavier job to do than the others and theirs was the dangerous job, because if a log happened to go out of control going down a slope, they would be the first to catch it.
+Quote: At the back of the [sc. bullock] team were the 'chainers'... The chainers had a heavier job to do than the others and theirs was the dangerous job, because if a log happened to go out of control going down a slope, they would be the first to catch it.
 Notes: 
 
 chainie
@@ -27455,7 +27455,7 @@ Source: Pictures by Goya
 Author: O'Sullivan
 Vol / Page: 208
 Edition: 
-Quote: And a few weeks after that, in the wooden changing shed with the southerly slicing between the boards, he heard the coach telling his father, ‘I think we’ve got a natural this time, Rob.’
+Quote: And a few weeks after that, in the wooden changing shed with the southerly slicing between the boards, he heard the coach telling his father, 'I think we've got a natural this time, Rob.'
 Notes: 
 
 changing station
@@ -27965,7 +27965,7 @@ Source: Hooked
 Author: JOHNSON
 Vol / Page: 309
 Edition: 
-Quote: Sometimes different grades of the same [commercial fish] species had other names – small snapper and tarakihi were recorded as ‘charity’. (They were marginally economical to process so the buyer was being ‘charitable’ in buying them).
+Quote: Sometimes different grades of the same [commercial fish] species had other names - small snapper and tarakihi were recorded as 'charity'. (They were marginally economical to process so the buyer was being 'charitable' in buying them).
 Notes: 
 
 Charity Ball
@@ -28217,7 +28217,7 @@ Source: Internet - see Notes
 Author: 
 Vol / Page: 
 Edition: 
-Quote: The French word, "Charrette" means "cart" and is often used to describe the final, intense work effort expended by art and architecture students to meet a project deadline. This use of the term is said to originate from the École des Beaux Arts in Paris during the 19th century, where proctors circulated a cart, or “charrette”, to collect final drawings while students frantically put finishing touches on their work.
+Quote: The French word, "Charrette" means "cart" and is often used to describe the final, intense work effort expended by art and architecture students to meet a project deadline. This use of the term is said to originate from the Ecole des Beaux Arts in Paris during the 19th century, where proctors circulated a cart, or "charrette", to collect final drawings while students frantically put finishing touches on their work.
 Notes: www.charetteinst.org/  in Portland USA
 
 Date: 29/9/2004 
@@ -28657,7 +28657,7 @@ Source: Cuisine
 Author: 
 Vol / Page: 00
 Edition: 
-Quote: If the budget allows only châteaucardboard, you can flash it up a littleby decanting into carafes.
+Quote: If the budget allows only chateaucardboard, you can flash it up a littleby decanting into carafes.
 Notes: 
 
 Date: 6/11/2001 
@@ -28681,7 +28681,7 @@ Source: Dogside Story
 Author: Grace
 Vol / Page: 232
 Edition: 
-Quote: ‘Well maybe we have us just a mini celebration while we work,’ Wai said. ‘Get us a few cans, a chateau cardboard, just enough to see the New Year in. How’s that?’
+Quote: 'Well maybe we have us just a mini celebration while we work,' Wai said. 'Get us a few cans, a chateau cardboard, just enough to see the New Year in. How's that?'
 Notes: 
 
 Date: 0/7/1994 
@@ -28689,7 +28689,7 @@ Source: Cuisine
 Author: 
 Vol / Page: 4
 Edition: 
-Quote: The everyday wine of a typical Frenchfamily is of equal or less quality thansome of our domestic "Château Cardboard".
+Quote: The everyday wine of a typical Frenchfamily is of equal or less quality thansome of our domestic "Chateau Cardboard".
 Notes: 
 
 Chateau Collapso
@@ -30075,7 +30075,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 13
 Edition: 
-Quote: The shining cuckoo is known to the islanders as “summer-bird,” and is well-known, and the long-tailed cuckoo is very infrequently seen.   The shining species parasitises the nest of the Chatham Island warbler.
+Quote: The shining cuckoo is known to the islanders as "summer-bird," and is well-known, and the long-tailed cuckoo is very infrequently seen.   The shining species parasitises the nest of the Chatham Island warbler.
 Notes: 
 
 Date: 22/4/1939 
@@ -30596,7 +30596,7 @@ Author:
 Vol / Page: 30
 Edition: 
 Quote: The Chatham Islands skink, formerly recognised as the subspeciesOligosoma nigriplantare nigriplantare can now formally be described as a separatespecies on the basis of our molecular data (mitochondrial DNA: ND2 and ND4,1323bp).
-Notes: http://www.allanwilsoncentre.ac.nz/documents/annualReports/Annual%20Report%202006.pdf Allan Wilson Centre for Molecular Ecology and Evolution – Annual Report 2006
+Notes: http://www.allanwilsoncentre.ac.nz/documents/annualReports/Annual%20Report%202006.pdf Allan Wilson Centre for Molecular Ecology and Evolution - Annual Report 2006
 
 Date: 0/5/2008 
 Source: Internet - see Notes
@@ -30604,7 +30604,7 @@ Author: Liggins, Chapple, Daugherty
 Vol / Page: 3290
 Edition: 
 Quote: We examine the origin and post-colonization evolution of the Chatham Islands skink, Oligosoma nigriplantare nigriplantare, the sole reptile species occurring on the archipelago. We sampled O. n. nigriplantare from across nine islands within the Chatham Islands group, and representative samples from across the range of its closest relative, the New Zealand mainland common skink (Oligosoma nigriplantare polychroma).
-Notes: http://www3.interscience.wiley.com/journal/119879332/abstract?CRETRY=1&SRETRY=0Origin and post-colonization evolution of the Chatham Islands skink (Oligosoma nigriplantare nigriplantare)LIBBY LIGGINS*, DAVID G. CHAPPLE*†, CHARLES H. DAUGHERTY* and PETER A. RITCHIE*
+Notes: http://www3.interscience.wiley.com/journal/119879332/abstract?CRETRY=1&SRETRY=0Origin and post-colonization evolution of the Chatham Islands skink (Oligosoma nigriplantare nigriplantare)LIBBY LIGGINS*, DAVID G. CHAPPLE*, CHARLES H. DAUGHERTY* and PETER A. RITCHIE*
 
 Chatham lancewood
 Homonym Number: 
@@ -32197,7 +32197,7 @@ Source: NZ Journal of Agriculture
 Author: 
 Vol / Page: 239
 Edition: 
-Quote: The term ‘chemical ploughing’ is a misnomer, but is commonly used because there is no other suitable abbreviation for the process, which may be defined as “establishment of pasture or crops after destruction of the previous sward with chemicals instead of by cultivation.”
+Quote: The term 'chemical ploughing' is a misnomer, but is commonly used because there is no other suitable abbreviation for the process, which may be defined as "establishment of pasture or crops after destruction of the previous sward with chemicals instead of by cultivation."
 Notes: 
 
 Date: 0/12/1964 
@@ -33041,7 +33041,7 @@ Source: NZ Journal of Agriculture
 Author: 
 Vol / Page: 21
 Edition: 
-Quote: Chewing’s fescue: A few plants, but not doing well.
+Quote: Chewing's fescue: A few plants, but not doing well.
 Notes: 
 
 Date: 0/0/1920 
@@ -33049,7 +33049,7 @@ Source: Australian & NZ Sheep Farming
 Author: MACDONALD
 Vol / Page: 112
 Edition: 
-Quote: It is therefore necessary to sow only a small quantity of Chewing’s …
+Quote: It is therefore necessary to sow only a small quantity of Chewing's ...
 Notes: 
 
 Date: 0/9/1957 
@@ -33057,7 +33057,7 @@ Source: NZ Journal of Agriculture
 Author: 
 Vol / Page: 293
 Edition: 
-Quote: The history of chewings fescue seed goes back to 1880, when a farmer in the Rimu district of Southland sowed a 2-acre paddock in grass …
+Quote: The history of chewings fescue seed goes back to 1880, when a farmer in the Rimu district of Southland sowed a 2-acre paddock in grass ...
 Notes: 
 
 chews
@@ -34571,7 +34571,7 @@ Source: Straight Furrow
 Author: 
 Vol / Page: 20
 Edition: 
-Quote: Chinaman: An unshorn lock on the sheep’s rump, like the pigtail of Orientals.
+Quote: Chinaman: An unshorn lock on the sheep's rump, like the pigtail of Orientals.
 Notes: 
 
 Date: 0/0/1988 
@@ -35013,7 +35013,7 @@ Source: Geological Society of NZ Newsletter
 Author: 
 Vol / Page: 81/52
 Edition: 
-Quote: 1)  He says that “China-stones” which are found in the area also support this theory.  ...  The “China-stones” contain remains of plants, animals and people, like those found Pompei after the Vesuvius eruption, says Dr Pajak.
+Quote: 1)  He says that "China-stones" which are found in the area also support this theory.  ...  The "China-stones" contain remains of plants, animals and people, like those found Pompei after the Vesuvius eruption, says Dr Pajak.
 Notes: 
 
 Chinese ballast
@@ -35553,7 +35553,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2019
 Edition: 
-Quote: <i>Chinkì.ie</i> (ch&ibreve.nkì.&ybreve.),<i> n.</i> A Chinaman. <i>[Colloq.] Lawson. </I>
+Quote: <i>Chinki.ie</i> (ch&ibreve.nki.&ybreve.),<i> n.</i> A Chinaman. <i>[Colloq.] Lawson. </I>
 Notes: 
 
 Date: 24/6/1905 
@@ -36153,7 +36153,7 @@ Source: Questionnaire Respondents (DB)
 Author: 
 Vol / Page: 
 Edition: 
-Quote: sorting dags – to chip chocolate.
+Quote: sorting dags - to chip chocolate.
 Notes: 
 
 chip heater
@@ -36327,7 +36327,7 @@ Source: Questionnaire Respondents (DB)
 Author: 
 Vol / Page: 
 Edition: 
-Quote: a sticky sheep (shearing) – a chipper.
+Quote: a sticky sheep (shearing) - a chipper.
 Notes: 
 
 chippie
@@ -36752,7 +36752,7 @@ chisel-mouthed
 Homonym Number: 
 Word Class:adjective
 Sense Number: 1
-Definition:[of old sheep] having good teeth for one’s age.     
+Definition:[of old sheep] having good teeth for one's age.     
 Origin:[none]
 Register:
 Register 2:
@@ -37305,7 +37305,7 @@ Source: Questionnaire Respondents (DB)
 Author: 
 Vol / Page: 
 Edition: 
-Quote: dags – chocolate.
+Quote: dags - chocolate.
 Notes: 
 
 chocolate alley
@@ -37653,7 +37653,7 @@ Source: On the Next Tide
 Author: HARGREAVES
 Vol / Page: 73
 Edition: 
-Quote: Now I’d rather be on a 38-footer doing sharks. They’re choice fun, especially when you get a real live whitey or bronze-whaler on your first hook and you’ve got to wrestle them about on the deck.
+Quote: Now I'd rather be on a 38-footer doing sharks. They're choice fun, especially when you get a real live whitey or bronze-whaler on your first hook and you've got to wrestle them about on the deck.
 Notes: 
 
 Date: 0/0/1989 
@@ -37669,7 +37669,7 @@ Source: Huia 7: Contemp. Maori Fiction
 Author: 
 Vol / Page: 136
 Edition: 
-Quote: Kiri gets up eagerly and hugs her sister. ‘Marama, that’s just choice! Told you we’d find her one day.’
+Quote: Kiri gets up eagerly and hugs her sister. 'Marama, that's just choice! Told you we'd find her one day.'
 Notes: 
 
 choke
@@ -38797,7 +38797,7 @@ Source: Open Country
 Author: HENDERSON
 Vol / Page: 236
 Edition: 
-Quote: She loved her fowls - ‘my chookies', as she always called them.
+Quote: She loved her fowls - 'my chookies', as she always called them.
 Notes: 
 
 Date: 0/0/1895 
@@ -39339,7 +39339,7 @@ Source: NZ Farmer
 Author: 
 Vol / Page: 409
 Edition: 
-Quote: Pigs were entered in rather larger numbers than last week. Choppers and baconers sold well. Choppers sold up to £3 10/- slips 13/- to 16/-.
+Quote: Pigs were entered in rather larger numbers than last week. Choppers and baconers sold well. Choppers sold up to GBP3 10/- slips 13/- to 16/-.
 Notes: 
 
 Date: 13/9/1951 
@@ -39347,7 +39347,7 @@ Source: NZ Farmer
 Author: 
 Vol / Page: 46
 Edition: 
-Quote: Choppers sold to £15 last week.
+Quote: Choppers sold to GBP15 last week.
 Notes: 
 
 Date: 20/12/1951 
@@ -39355,7 +39355,7 @@ Source: NZ Farmer
 Author: 
 Vol / Page: 45
 Edition: 
-Quote: Choppers £5 10/- to £6, slips £3 2/- to £4 15/-.
+Quote: Choppers GBP5 10/- to GBP6, slips GBP3 2/- to GBP4 15/-.
 Notes: 
 
 chopper boy
@@ -41001,7 +41001,7 @@ Source: More Wellington Days
 Author: LAWLOR
 Vol / Page: 53
 Edition: 
-Quote: Jan. 15. Wally gave me some chuddy. It's corker for playing games with ... You will not find the word ‘chuddy' in the Oxford Dictionary. In my boyhood days it was the equivalent of today's chewing gum, but different in shape or for mastication.. The generation of ‘chuddy' per medium of teeth, tongue and saliva was a minor work of art.
+Quote: Jan. 15. Wally gave me some chuddy. It's corker for playing games with ... You will not find the word 'chuddy' in the Oxford Dictionary. In my boyhood days it was the equivalent of today's chewing gum, but different in shape or for mastication.. The generation of 'chuddy' per medium of teeth, tongue and saliva was a minor work of art.
 Notes: Quote from 1904 diary
 
 Date: 7/8/2002 
@@ -41541,7 +41541,7 @@ Source: Six Pack, The
 Author: Philippa Swan
 Vol / Page: 49
 Edition: 
-Quote: ‘Erica, I’ve been wondering, do you remember when you chundered in someone’s letterbox after the DD Smash concert?’
+Quote: 'Erica, I've been wondering, do you remember when you chundered in someone's letterbox after the DD Smash concert?'
 Notes: 
 
 Date: 4/2/1991 
@@ -42123,7 +42123,7 @@ Source: NZ Farmer
 Author: 
 Vol / Page: 10
 Edition: 
-Quote: "A South Island farmer once said this to me : ‘I don't like a chute shed.'"						
+Quote: "A South Island farmer once said this to me : 'I don't like a chute shed.'"						
 Notes: 
 
 Date: 0/0/1955 
@@ -42735,7 +42735,7 @@ Source: New Zealand From the Air
 Author: TEMPLE & APSE
 Vol / Page: 20
 Edition: 
-Quote: Known as the ‘City of Sails'. Auckland has been one of the regular staging points for the Whitbread Round the World Yacht Race... The ‘City of Sails has the biggest one-day regatta in the world.
+Quote: Known as the 'City of Sails'. Auckland has been one of the regular staging points for the Whitbread Round the World Yacht Race... The 'City of Sails has the biggest one-day regatta in the world.
 Notes: 
 
 Date: 0/0/1991 
@@ -43183,7 +43183,7 @@ Source: Whale's Wake
 Author: MORTON
 Vol / Page: 219
 Edition: 
-Quote: Markham thought it was ‘a curious Thing that the Chiefs have married of late years often the girls who have been living on Board of Whalers, and I do believe the sailors have done as much towards the Civilizing of the Natives as the Missionaries have, or more.'
+Quote: Markham thought it was 'a curious Thing that the Chiefs have married of late years often the girls who have been living on Board of Whalers, and I do believe the sailors have done as much towards the Civilizing of the Natives as the Missionaries have, or more.'
 Notes: Morton undated. From Transcript of NZ or Recollections of it by E. Markham in the Hocken Library
 
 Date: 0/0/1851 
@@ -43383,7 +43383,7 @@ Source: Three Sheep and a Dog
 Author: GORDON
 Vol / Page: 211
 Edition: 
-Quote: The hot and humid climate of the hinterland also means early morning mists that completely choke the valleys, and they can stay clagged up till 9 o’clock or later.
+Quote: The hot and humid climate of the hinterland also means early morning mists that completely choke the valleys, and they can stay clagged up till 9 o'clock or later.
 Notes: 
 
 clagger
@@ -44893,7 +44893,7 @@ Source: Geological Society of NZ Newsletter
 Author: 
 Vol / Page: 72/50
 Edition: 
-Quote: We thought of it as a Clayton’s Plan – the Plan you have when you don’t have a Plan – but we called it “The First Steps” which conveys the same idea.
+Quote: We thought of it as a Clayton's Plan - the Plan you have when you don't have a Plan - but we called it "The First Steps" which conveys the same idea.
 Notes: 
 
 Date: 23/10/1999 
@@ -45005,7 +45005,7 @@ Source: Geological Society of NZ Newsletter
 Author: 
 Vol / Page: 90/38
 Edition: 
-Quote: Remember Clayton’s, the drink you have when you are not having a drink?  Believe it or not, Clayton is Barry’s middle name.  True to the label, his retirement is to be a Clayton’s retirement, since he is to work on contract to finish the Raglan and Kawhia mapping.
+Quote: Remember Clayton's, the drink you have when you are not having a drink?  Believe it or not, Clayton is Barry's middle name.  True to the label, his retirement is to be a Clayton's retirement, since he is to work on contract to finish the Raglan and Kawhia mapping.
 Notes: 
 
 Date: 0/2/1992 
@@ -45329,7 +45329,7 @@ Quote: Sheep inspected and declared clean.
 Notes: in Vance (1965) High Endeavour
 
 Date: 0/0/1874 
-Source: Crusts: a settler’s fare due south
+Source: Crusts: a settler's fare due south
 Author: KENNAWAY
 Vol / Page: 130
 Edition: 
@@ -46377,7 +46377,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2020
 Edition: 
-Quote: <i>Cleanì.skinsì.</i> (kl&emacr.nì.sk&ibreve.nzì.), } <i>Clearì.skinsì.</i> (kl&emacr.rì.sk&ibreve.nzì.), } <i>n. pl. </i>Unbranded cattle.
+Quote: <i>Cleani.skinsi.</i> (kl&emacr.ni.sk&ibreve.nzi.), } <i>Cleari.skinsi.</i> (kl&emacr.ri.sk&ibreve.nzi.), } <i>n. pl. </i>Unbranded cattle.
 Notes: 
 
 Date: 0/0/1929 
@@ -46629,7 +46629,7 @@ Source: After-Breakfast Cigar, The
 Author: WESTMACOTT
 Vol / Page: 141
 Edition: 
-Quote: His dogs had cleared the country on the far side and between us well; not a sheep was to be seen below him …
+Quote: His dogs had cleared the country on the far side and between us well; not a sheep was to be seen below him ...
 Notes: 
 
 Date: 0/0/1949 
@@ -46785,7 +46785,7 @@ Source: Geological Society of NZ Newsletter
 Author: 
 Vol / Page: 66/8
 Edition: 
-Quote: At Phil Moore’s instigation, the Society has approached Carter Holt Holdings Ltd expressing concern at the effects of forest clear-felling on the Mangahounga Stream and the Te Hoe Valley, Wairoa County, and the possibility of silting and/or clogging up of the stream beds and burying of the vertebrate fossil-bearing materials being studied by Mrs Joan Wiffen (see Newsletter No. 63, p.29 – 32).
+Quote: At Phil Moore's instigation, the Society has approached Carter Holt Holdings Ltd expressing concern at the effects of forest clear-felling on the Mangahounga Stream and the Te Hoe Valley, Wairoa County, and the possibility of silting and/or clogging up of the stream beds and burying of the vertebrate fossil-bearing materials being studied by Mrs Joan Wiffen (see Newsletter No. 63, p.29 - 32).
 Notes: 
 
 clearing
@@ -47053,7 +47053,7 @@ Source: Man of the People, A
 Author: Geary
 Vol / Page: 117
 Edition: 
-Quote: He’d bought the scythe at Cravens’ clearing sale two years back. Not touched it since.
+Quote: He'd bought the scythe at Cravens' clearing sale two years back. Not touched it since.
 Notes: 
 
 Date: 15/5/1915 
@@ -47321,7 +47321,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2020
 Edition: 
-Quote: <i>Cleanì.skinsì.</i> (kl&emacr.nì.sk&ibreve.nzì.), } <i>Clearì.skinsì.</I> emacr.rì.sk&ibreve.nzì.), } n. pl. Unbranded cattle.
+Quote: <i>Cleani.skinsi.</i> (kl&emacr.ni.sk&ibreve.nzi.), } <i>Cleari.skinsi.</I> emacr.ri.sk&ibreve.nzi.), } n. pl. Unbranded cattle.
 Notes: 
 
 Date: 0/0/1904 
@@ -48058,7 +48058,7 @@ clianthus
 Homonym Number: 
 Word Class:noun
 Sense Number:
-Definition:Commonly known as kaka beak or kaka’s beak, the Clianthus puniceus is a shrub with vibrant red flowers shaped like the beak of a kaka or parrot.
+Definition:Commonly known as kaka beak or kaka's beak, the Clianthus puniceus is a shrub with vibrant red flowers shaped like the beak of a kaka or parrot.
 Origin:[none]
 Register:
 Register 2:
@@ -48097,7 +48097,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2020
 Edition: 
-Quote: <i>Cli-an&#769;.thus</i> (klì.-&abreve.n&#769;.th&ubreve.s), <i>n</i>. [N.L., fr. Gr. {klei}-, akin to {kleos} glory + {anthos} flower.] <i>(Bot.)</i> A genus of Australian leguminous plants (the glory pea), with only two species : <i>C. Dampierii,</i> called also <i>Sturt's desert pea</i>; and <i>C. puniceus</i>, confined to New Zealand, - called also <i>parrot's bill, kaka-bill,</i> and<i> parrot's bill kowhai. </I>
+Quote: <i>Cli-an&#769;.thus</i> (kli.-&abreve.n&#769;.th&ubreve.s), <i>n</i>. [N.L., fr. Gr. {klei}-, akin to {kleos} glory + {anthos} flower.] <i>(Bot.)</i> A genus of Australian leguminous plants (the glory pea), with only two species : <i>C. Dampierii,</i> called also <i>Sturt's desert pea</i>; and <i>C. puniceus</i>, confined to New Zealand, - called also <i>parrot's bill, kaka-bill,</i> and<i> parrot's bill kowhai. </I>
 Notes: 
 
 Date: 0/0/1898 
@@ -50049,7 +50049,7 @@ Source: Loughnan Glossary
 Author: LOUGHNAN
 Vol / Page: 
 Edition: 
-Quote: Add I 1 closed shed: a system no longer in vogue, by which a shearer could book a stand (usually on a £1 deposit.)
+Quote: Add I 1 closed shed: a system no longer in vogue, by which a shearer could book a stand (usually on a GBP1 deposit.)
 Notes: 
 
 Date: 0/0/1965 
@@ -50287,7 +50287,7 @@ Source: NZ Farmer
 Author: 
 Vol / Page: 47
 Edition: 
-Quote: Prices for best cows went to £18 but the general run of close-up cows fetched around £16.
+Quote: Prices for best cows went to GBP18 but the general run of close-up cows fetched around GBP16.
 Notes: 
 
 Date: 0/3/1967 
@@ -50723,7 +50723,7 @@ Source: Internet - see Notes
 Author: 
 Vol / Page: 
 Edition: 
-Quote: Southland is also home to the long tailed bat and short-tailed bat as well as a number of lizards— cloudy gecko, harlequin gecko, jewelled gecko, Fiordland skink, green skink, southern skink, and the small-eared skink. (Department of Conservation 2008)
+Quote: Southland is also home to the long tailed bat and short-tailed bat as well as a number of lizards- cloudy gecko, harlequin gecko, jewelled gecko, Fiordland skink, green skink, southern skink, and the small-eared skink. (Department of Conservation 2008)
 Notes: http://www.es.govt.nz/documents/planning/regional-policy/rps-and-sdc-plan-reviews/review/papers/biodiversity-issues-and-options-paper.pdf 
 
 Date: 0/0/2009 
@@ -54177,7 +54177,7 @@ Source: Questionnaire Respondents (DB)
 Author: 
 Vol / Page: 
 Edition: 
-Quote: musterer – coat flapper.
+Quote: musterer - coat flapper.
 Notes: 
 
 coathanger
@@ -54237,7 +54237,7 @@ Source: Maori Heroes
 Author: DUFF
 Vol / Page: 56
 Edition: 
-Quote: A ‘coat-hanger' tackle is one where the tackler crooks his arm and aims for the runner's head.
+Quote: A 'coat-hanger' tackle is one where the tackler crooks his arm and aims for the runner's head.
 Notes: 
 
 Date: 22/7/1984 
@@ -54349,7 +54349,7 @@ Source: Mobil Illust. Guide NZ
 Author: POPE & POPE
 Vol / Page: 45
 Edition: 
-Quote: Inevitably its [sc. Auckland Harbour Bridge's] design earns the nickname, ‘the coat hanger', while the Japanese-built extensions adding additional lanes on either side are known as the ‘Nippon clip-ons'.
+Quote: Inevitably its [sc. Auckland Harbour Bridge's] design earns the nickname, 'the coat hanger', while the Japanese-built extensions adding additional lanes on either side are known as the 'Nippon clip-ons'.
 Notes: 
 
 cob
@@ -55579,7 +55579,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2020
 Edition: 
-Quote: <i>Cobì.bler</i> (k&obreve.bì.bl&etilde.r), <i>n. [Add.] 4. (Zoö.l.) </i>A kind of fish. See FORTESCUE. <i>[Local, Melbourne and Sydney] </i>
+Quote: <i>Cobi.bler</i> (k&obreve.bi.bl&etilde.r), <i>n. [Add.] 4. (Zoo.l.) </i>A kind of fish. See FORTESCUE. <i>[Local, Melbourne and Sydney] </i>
 Notes: 
 
 Date: 0/0/1932 
@@ -55777,7 +55777,7 @@ Source: Questionnaire Respondents (DB)
 Author: 
 Vol / Page: 
 Edition: 
-Quote: a poor fencing job – a cobble-up, or Taranaki fence.
+Quote: a poor fencing job - a cobble-up, or Taranaki fence.
 Notes: 
 
 Cobb's coach/Cobb coach
@@ -56593,7 +56593,7 @@ Source: Southern Gentry
 Author: ELDRED-GRIGG
 Vol / Page: 146
 Edition: 
-Quote: Farther south, too, the lower classes prospered... From Golden Bay to Foveaux Strait this new rank of people, known as ‘cockatoos', were beginning to grow more comfortable. Ibid. 53 The second rural class with whom the gentry were in direct economic contact were the independent farmers - the cockatoos. Ibid. 146. Differences in fortune between large land-owner and cockatoo were much less obvious than they had been in the nineteenth century.
+Quote: Farther south, too, the lower classes prospered... From Golden Bay to Foveaux Strait this new rank of people, known as 'cockatoos', were beginning to grow more comfortable. Ibid. 53 The second rural class with whom the gentry were in direct economic contact were the independent farmers - the cockatoos. Ibid. 146. Differences in fortune between large land-owner and cockatoo were much less obvious than they had been in the nineteenth century.
 Notes: 
 
 cockatoo
@@ -56935,7 +56935,7 @@ Source: Southern Gentry
 Author: ELRED-GRIGG
 Vol / Page: 80
 Edition: 
-Quote: Shepherds and cockatoo farmers came from miles away.. and amusements.. included a ‘lolly scramble' and a few boxing matches.
+Quote: Shepherds and cockatoo farmers came from miles away.. and amusements.. included a 'lolly scramble' and a few boxing matches.
 Notes: 
 
 cockatoocracy
@@ -58359,7 +58359,7 @@ Source: Questionnaire Respondents (DB)
 Author: 
 Vol / Page: 
 Edition: 
-Quote: cocky’s holiday – farmer’s wife’s visit to the maternity home.
+Quote: cocky's holiday - farmer's wife's visit to the maternity home.
 Notes: 
 
 cocky's joy
@@ -58469,7 +58469,7 @@ Source: Speaking for Ourselves
 Author: OWEN & PERKINS
 Vol / Page: 71
 Edition: 
-Quote: The billy was ninety-nine times out of a hundred an old ‘cocky's joy' tin - the old golden syrup or treacle tin was the ideal brewing billy.
+Quote: The billy was ninety-nine times out of a hundred an old 'cocky's joy' tin - the old golden syrup or treacle tin was the ideal brewing billy.
 Notes: 
 
 Date: 7/9/2002 
@@ -59325,7 +59325,7 @@ Source: Hooked
 Author: JOHNSON
 Vol / Page: 145
 Edition: 
-Quote: Depending on the proximity of the fishing grounds to markets, floating ‘coffs’ (large cages) were used as temporary storage.
+Quote: Depending on the proximity of the fishing grounds to markets, floating 'coffs' (large cages) were used as temporary storage.
 Notes: 
 
 coffee bun
@@ -61315,7 +61315,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2020
 Edition: 
-Quote: <I>Co-lo&#769;.ni-al <I>(kò.-l&omacr.&#769;.n&ibreve.-al)</I>, a. [Add.] Colonial goose,</I> a baked leg of mutton stuffed with savory herbs, to imitate roast goose.
+Quote: <I>Co-lo&#769;.ni-al <I>(ko.-l&omacr.&#769;.n&ibreve.-al)</I>, a. [Add.] Colonial goose,</I> a baked leg of mutton stuffed with savory herbs, to imitate roast goose.
 Notes: 
 
 Date: 0/0/1853 
@@ -61935,7 +61935,7 @@ Quote: `New Chums', on their first arrival in the colonies, hear a great deal sa
 Notes: 
 
 Date: 0/0/1874 
-Source: Crusts: a settler’s fare due south
+Source: Crusts: a settler's fare due south
 Author: KENNAWAY
 Vol / Page: 183
 Edition: 
@@ -62949,7 +62949,7 @@ Source: Wanganui Chronicle
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: “Let me have another taste,” said the somewhat confused connoisseur, and then with a deprecating gesture, “H’m, there is a colonial twang about it after all.”
+Quote: "Let me have another taste," said the somewhat confused connoisseur, and then with a deprecating gesture, "H'm, there is a colonial twang about it after all."
 Notes: 
 
 Date: 0/11/1903 
@@ -64268,7 +64268,7 @@ comb
 Homonym Number: 
 Word Class:verb
 Sense Number:
-Definition:back-formation from beachcomber n²., to sift black sand for gold. 
+Definition:back-formation from beachcomber n2., to sift black sand for gold. 
 Origin:
 Register:
 Register 2:
@@ -64574,7 +64574,7 @@ comber
 Homonym Number: 
 Word Class:noun
 Sense Number:2
-Definition:a beachcomber n².
+Definition:a beachcomber n2.
 Origin:
 Register:
 Register 2:
@@ -64977,7 +64977,7 @@ Source: NZ Truth
 Author: 
 Vol / Page: 7
 Edition: 
-Quote: Punters came a thud over Royal Mac in the Stewards’ Stakes, in which he was backed down to well under evens.
+Quote: Punters came a thud over Royal Mac in the Stewards' Stakes, in which he was backed down to well under evens.
 Notes: 
 
 Date: 6/3/1930 
@@ -64985,7 +64985,7 @@ Source: NZ Truth
 Author: 
 Vol / Page: 13
 Edition: 
-Quote: Supporters of Jamieson’s stable came a thud over the hot Springs Handicap last Saturday.
+Quote: Supporters of Jamieson's stable came a thud over the hot Springs Handicap last Saturday.
 Notes: 
 
 come at
@@ -66163,7 +66163,7 @@ Source: NZ Memories
 Author: 
 Vol / Page: 73/42
 Edition: 
-Quote: Michael Joseph Savage’s 1935 Labour government announced their commitment to a government-controlled commercial network as the way of the future for New Zealand radio.
+Quote: Michael Joseph Savage's 1935 Labour government announced their commitment to a government-controlled commercial network as the way of the future for New Zealand radio.
 Notes: 
 
 commercial radio
@@ -66201,7 +66201,7 @@ Source: Voices in the Air
 Author: DOWNES & HARCOURT
 Vol / Page: 146
 Edition: 
-Quote: An interesting entry.. shows a further run of ‘Fred and Maggie Everybody', probably the most popular of all the serials in the first five years or so of New Zealand's commercial radio.
+Quote: An interesting entry.. shows a further run of 'Fred and Maggie Everybody', probably the most popular of all the serials in the first five years or so of New Zealand's commercial radio.
 Notes: 
 
 Date: 0/0/1976 
@@ -66217,7 +66217,7 @@ Source: Taranaki Herald
 Author: 
 Vol / Page: 8
 Edition: 
-Quote: The commercial radio service shows£10,597 profit for the first time.
+Quote: The commercial radio service showsGBP10,597 profit for the first time.
 Notes: 
 
 commercial rates
@@ -66399,7 +66399,7 @@ Source: Press, The  (Acland Glossary)
 Author: 
 Vol / Page: 15
 Edition: 
-Quote: Commercial or c traveller. – Slang for swagger. Probably so called because they travelled.
+Quote: Commercial or c traveller. - Slang for swagger. Probably so called because they travelled.
 Notes: 
 
 Date: 0/0/1946 
@@ -66407,7 +66407,7 @@ Source: Early Canterbury Runs
 Author: ACLAND
 Vol / Page: 122
 Edition: 
-Quote: One one occasion Mr Reed was taking a mob of sheep out to one of the paddocks when he met two ‘commercials.’
+Quote: One one occasion Mr Reed was taking a mob of sheep out to one of the paddocks when he met two 'commercials.'
 Notes: 
 
 commercial/commercial traveller
@@ -68025,7 +68025,7 @@ Source: Dogside Story
 Author: Grace
 Vol / Page: 198
 Edition: 
-Quote: ...he’d have to go easy on the spending. The stay in Wellington had eaten into his compo.
+Quote: ...he'd have to go easy on the spending. The stay in Wellington had eaten into his compo.
 Notes: 
 
 Date: 0/0/1976 
@@ -69525,7 +69525,7 @@ Source: Feilding Star
 Author: 
 Vol / Page: 6
 Edition: 
-Quote: The syndicate of five which last week won a £12,000 first prize in Tattersalls consultation is a case in point.
+Quote: The syndicate of five which last week won a GBP12,000 first prize in Tattersalls consultation is a case in point.
 Notes: 
 
 consultation industry
@@ -70563,7 +70563,7 @@ Source: Snapshots of the Century
 Author: OWEN
 Vol / Page: 18
 Edition: 
-Quote:  I don't suppose many people today would remember what ‘conversation lollies" were like. They were little flat pink and yellow and white lollies with things printed on them, like "Will you be my sweetheart? Or "I love you" or "Will you marry me?" or something of the sort.
+Quote:  I don't suppose many people today would remember what 'conversation lollies" were like. They were little flat pink and yellow and white lollies with things printed on them, like "Will you be my sweetheart? Or "I love you" or "Will you marry me?" or something of the sort.
 Notes: 
 
 Date: 13/6/1885 
@@ -71705,7 +71705,7 @@ Quote: We gave the usual coo-oo-e, which was responded to without delay.
 Notes: 
 
 Date: 0/0/1874 
-Source: Crusts: a settler’s fare due south
+Source: Crusts: a settler's fare due south
 Author: KENNAWAY
 Vol / Page: 68
 Edition: 
@@ -71805,7 +71805,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2020
 Edition: 
-Quote: <I>Cooì.ey</I> } (k&omacr.&omacr.&ibreve.), <I>v. i. [imp. & p. p.</I> COOEYED or COO- <I>Cooì.ee </I>} EED (k&omacr.&omacr.&ibreve.d); <I>p. pr. & vb. n.</I> COOEEYING, or COOEEING (k&omacr.&omacr.&ibreve.-&ibreve.ng)]. To call out <I>cooee</I>. See Cooey, <I>n. </I>
+Quote: <I>Cooi.ey</I> } (k&omacr.&omacr.&ibreve.), <I>v. i. [imp. & p. p.</I> COOEYED or COO- <I>Cooi.ee </I>} EED (k&omacr.&omacr.&ibreve.d); <I>p. pr. & vb. n.</I> COOEEYING, or COOEEING (k&omacr.&omacr.&ibreve.-&ibreve.ng)]. To call out <I>cooee</I>. See Cooey, <I>n. </I>
 Notes: 
 
 Date: 0/0/1905 
@@ -73267,7 +73267,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 14
 Edition: 
-Quote: Cooks (offsiders) £2 per week ... cooks £3 per week for 30 boarders, and 1s per week extra for each boarder up to 40, over 40 an "offsider" to be employed.
+Quote: Cooks (offsiders) GBP2 per week ... cooks GBP3 per week for 30 boarders, and 1s per week extra for each boarder up to 40, over 40 an "offsider" to be employed.
 Notes: 
 
 Cook's petrel
@@ -74085,7 +74085,7 @@ Source: Otago Daily Times
 Author: 
 Vol / Page: 4
 Edition: 
-Quote: MEETING OF CHEESE AND BUTTER MAKERS The following telegram from Mr J. D. Ritchie, secretary of the Agricultural department, Wellington, to Mr J. Sawers, was read :—" Shipping companies, through Agent-general, recommend all produce being placed in cool store for say fortnight previous to shipment. Consult conference, and find out what would be considered reasonable charge for private owners of cool stores to make."
+Quote: MEETING OF CHEESE AND BUTTER MAKERS The following telegram from Mr J. D. Ritchie, secretary of the Agricultural department, Wellington, to Mr J. Sawers, was read :-" Shipping companies, through Agent-general, recommend all produce being placed in cool store for say fortnight previous to shipment. Consult conference, and find out what would be considered reasonable charge for private owners of cool stores to make."
 Notes: 
 
 Date: 16/10/1901 
@@ -74131,7 +74131,7 @@ Source: Six Pack 3, The
 Author: David Geary
 Vol / Page: 109
 Edition: 
-Quote: And, yeah, Gary wasn’t that confident in his Maoritanga way back then, when it wasn’t so cool to korero.
+Quote: And, yeah, Gary wasn't that confident in his Maoritanga way back then, when it wasn't so cool to korero.
 Notes: 
 
 Date: 0/0/2005 
@@ -77361,7 +77361,7 @@ Source: Speaking for Ourselves
 Author: OWEN & PERKINS
 Vol / Page: 160
 Edition: 
-Quote: The bushmen would build a special road for them [sc. log sledges] - a corduroy road, or ‘skidded road' as we used to call it.
+Quote: The bushmen would build a special road for them [sc. log sledges] - a corduroy road, or 'skidded road' as we used to call it.
 Notes: 
 
 Date: 0/0/1992 
@@ -77391,7 +77391,7 @@ Source: Brave Days: Pioneer Women of New Zealand
 Author: BARRER
 Vol / Page: 174
 Edition: 
-Quote: The corduroy road, along what is now Morison’s Bush, was the worst part of it, for it consisted of logs laid side by side on which the horses’ feet constantly slipped.
+Quote: The corduroy road, along what is now Morison's Bush, was the worst part of it, for it consisted of logs laid side by side on which the horses' feet constantly slipped.
 Notes: 
 
 Date: 0/0/1951 
@@ -77999,7 +77999,7 @@ Source: St Patrick's College 1883-1935
 Author: 
 Vol / Page: 
 Edition: 
-Quote: I noted that Lieutenants Jimmy Rochford and Mick Maher ‘looked corker', for their swords were unsheathed and held erect.
+Quote: I noted that Lieutenants Jimmy Rochford and Mick Maher 'looked corker', for their swords were unsheathed and held erect.
 Notes: 
 
 Date: 0/0/1992 
@@ -79143,7 +79143,7 @@ Source: Geological Society of NZ Newsletter
 Author: 
 Vol / Page: 11/3
 Edition: 
-Quote: Mr D.N.B. Skinner – a petrographic and stratigraphic study of the Moehau-Colville area, Coromandel Peninsula, with special attention to xenoliths in [sic] and the contact aureole of quartz diorite intrusives (“Coromandel Granite”) and the relationship of Tertiary sediments and volcanics.
+Quote: Mr D.N.B. Skinner - a petrographic and stratigraphic study of the Moehau-Colville area, Coromandel Peninsula, with special attention to xenoliths in [sic] and the contact aureole of quartz diorite intrusives ("Coromandel Granite") and the relationship of Tertiary sediments and volcanics.
 Notes: 
 
 Coromandel Green
@@ -79195,7 +79195,7 @@ Source: Internet - see Notes
 Author: 
 Vol / Page: 
 Edition: 
-Quote: Environment Waikato has granted $20,000 from its Environmental Initiatives Fund to sponsor the construction of a pest-proof fence around the Driving Creek Wildlife Sanctuary.  .. The sanctuary could also be important for species that don’t need a large habitat area, such as the rare Coromandel striped gecko.
+Quote: Environment Waikato has granted $20,000 from its Environmental Initiatives Fund to sponsor the construction of a pest-proof fence around the Driving Creek Wildlife Sanctuary.  .. The sanctuary could also be important for species that don't need a large habitat area, such as the rare Coromandel striped gecko.
 Notes: http://www.ew.govt.nz/News-and-events/Media-releases-archived/Council-grant-to-fund-pest-proof-fence-in-the-Coromandel/   
 
 Date: 0/0/2004 
@@ -80367,7 +80367,7 @@ Source: Pagan Game, The
 Author: SLATTER
 Vol / Page: 162
 Edition: 
-Quote: There we were arse up with care over the bank--- ...On the dog-dosing strip at Kuripuni I fell in love with you---His one desire was to sing soprano in the village choir— A real cot case---The far queue.
+Quote: There we were arse up with care over the bank--- ...On the dog-dosing strip at Kuripuni I fell in love with you---His one desire was to sing soprano in the village choir- A real cot case---The far queue.
 Notes: 
 
 Date: 0/0/1946 
@@ -81963,7 +81963,7 @@ Source: Geological Society of NZ Newsletter
 Author: 
 Vol / Page: 74/40
 Edition: 
-Quote: Bill SAara instructed us in mine and face sampling – a major Coal Survey task – and in the attributes of Albion (now Kings) “counter lunches” on Fridays.
+Quote: Bill SAara instructed us in mine and face sampling - a major Coal Survey task - and in the attributes of Albion (now Kings) "counter lunches" on Fridays.
 Notes: 
 
 Date: 0/0/1974 
@@ -82390,7 +82390,7 @@ country
 Homonym Number: 
 Word Class:noun
 Sense Number:
-Definition:rural land. [used in a a range of sp. combinations. See:  back c-, big c-, broken c-, brown-top c-, bush c-, bushbound c-, bush burn c-, bush-sick c-, close-hilled c-, Corriedale c-, danthonia c-, dopy c-, down c-, downy c-, early c-, easy c-, eco c-, ewe c-, fan c-, fat lamb c-, fattening c-, fern c-, foothill c-, front c-, gorge c-, grass c-, gum c-, half-bred c-, hard c-, hard-walking c-, hay c-, headwater c-, high c-, hill c-, hilly c-, hogget c-, hundred-inch c-, huntaway c-, karaka c-, lambing c-, late c-, light c-, log c-, low c-, MacKenzie c-, manuka c-, marrowbone c-, merino c-, moving c-, mustering c-, open c-, oversown c-, pakihi c-, Pannell c-, papa c-, pigskin c-, ploughable c-, pumice c-, rabbit c-, rough c-, run c-, safe c-, sandy c-, scrub c-, secondary growth c-, shady c-, sheep c-, shingle c-, snow c-, snowgrass c-, soft c-, stalking c-, starvation c-, store hill c-, stump c-, summer c-, summer-wet c-, summer-dry c-, surface-sown c-, swamp c-, tall c-, tea-tree c-, tiger c-, tractor c-, trial c-, tupping c-, tussocky c-, two ewe c-, under-runner c-, unploughable c-, up c-, walking c-, wether c-, white-clover c-, winter c-, wintering c-, wool c-, young c-, young man’s c-.] <br> and in the following: birch- that has been in native beech, black birch- that has been in native black beech,  cabbage tree- that has a natural covering of cabbage-trees,  cattle- that is more suited to grazing of cattle then sheep, cleared- that is cleared of bush, cold- that lies to the south, cotton-plant- that has a natural covering of cotton-plant, cow- that used for dairying, cow-cocky- that used for dairying, cut-over- that where native bush has been cut and not cleared,  fattening- that used to fatten stock, fine-wool- that used for grazing or breeding Merino and other fine-wools, finishing- that used to fatten or prime stock, gorse- that harbouring gorse, grazing- that used for pastoral occupation, healthy- that with a good sole of cover and with warmth, kauri- that where kauri naturally grew and were harvested, kind- that is warm and where stock flourish, limestone- that  containing high natural concentrations of lime, log- cut-over land, manoao-that with a natural cover of manoao, Maori- that owned by Maori, mud- that is wet, heavy and pugged if stocked, nassella- that where nassella tussock flourishes, native- that growing native cover,  new- that is recently brought into pasture, plateau- that of the Central plateau area of the North Island, ploughable- that is cultivable, pot-holy- that with frequent pot-holes or tomos, range- that of the central ranges, risky- that of unpredictable snow or summer drought, river-flat- that of alluvial river terraces, rock- that of shingly high country, scrubby- that growing manuka, matagouri or other scrub, sheep and beef- that able to fatten or prime both sheep and beef, shingly- that of the South Island high country tops, store stock – that suitable only for grazing not fattening, strong-wool- that carrying coarse-woolled sheep, tawa bush- that with a natural covering of tawa, top- that of high country or is high-producing, unforgiving- land that will not respond to development, fertilizers  etc, unkind- land that will not respond to development, fertilizers etc, warm - that faces north, wine- that is used for viticulture.
+Definition:rural land. [used in a a range of sp. combinations. See:  back c-, big c-, broken c-, brown-top c-, bush c-, bushbound c-, bush burn c-, bush-sick c-, close-hilled c-, Corriedale c-, danthonia c-, dopy c-, down c-, downy c-, early c-, easy c-, eco c-, ewe c-, fan c-, fat lamb c-, fattening c-, fern c-, foothill c-, front c-, gorge c-, grass c-, gum c-, half-bred c-, hard c-, hard-walking c-, hay c-, headwater c-, high c-, hill c-, hilly c-, hogget c-, hundred-inch c-, huntaway c-, karaka c-, lambing c-, late c-, light c-, log c-, low c-, MacKenzie c-, manuka c-, marrowbone c-, merino c-, moving c-, mustering c-, open c-, oversown c-, pakihi c-, Pannell c-, papa c-, pigskin c-, ploughable c-, pumice c-, rabbit c-, rough c-, run c-, safe c-, sandy c-, scrub c-, secondary growth c-, shady c-, sheep c-, shingle c-, snow c-, snowgrass c-, soft c-, stalking c-, starvation c-, store hill c-, stump c-, summer c-, summer-wet c-, summer-dry c-, surface-sown c-, swamp c-, tall c-, tea-tree c-, tiger c-, tractor c-, trial c-, tupping c-, tussocky c-, two ewe c-, under-runner c-, unploughable c-, up c-, walking c-, wether c-, white-clover c-, winter c-, wintering c-, wool c-, young c-, young man's c-.] <br> and in the following: birch- that has been in native beech, black birch- that has been in native black beech,  cabbage tree- that has a natural covering of cabbage-trees,  cattle- that is more suited to grazing of cattle then sheep, cleared- that is cleared of bush, cold- that lies to the south, cotton-plant- that has a natural covering of cotton-plant, cow- that used for dairying, cow-cocky- that used for dairying, cut-over- that where native bush has been cut and not cleared,  fattening- that used to fatten stock, fine-wool- that used for grazing or breeding Merino and other fine-wools, finishing- that used to fatten or prime stock, gorse- that harbouring gorse, grazing- that used for pastoral occupation, healthy- that with a good sole of cover and with warmth, kauri- that where kauri naturally grew and were harvested, kind- that is warm and where stock flourish, limestone- that  containing high natural concentrations of lime, log- cut-over land, manoao-that with a natural cover of manoao, Maori- that owned by Maori, mud- that is wet, heavy and pugged if stocked, nassella- that where nassella tussock flourishes, native- that growing native cover,  new- that is recently brought into pasture, plateau- that of the Central plateau area of the North Island, ploughable- that is cultivable, pot-holy- that with frequent pot-holes or tomos, range- that of the central ranges, risky- that of unpredictable snow or summer drought, river-flat- that of alluvial river terraces, rock- that of shingly high country, scrubby- that growing manuka, matagouri or other scrub, sheep and beef- that able to fatten or prime both sheep and beef, shingly- that of the South Island high country tops, store stock - that suitable only for grazing not fattening, strong-wool- that carrying coarse-woolled sheep, tawa bush- that with a natural covering of tawa, top- that of high country or is high-producing, unforgiving- land that will not respond to development, fertilizers  etc, unkind- land that will not respond to development, fertilizers etc, warm - that faces north, wine- that is used for viticulture.
 Origin:
 Register:
 Register 2:
@@ -83067,7 +83067,7 @@ Source: New Zealand Gazette & Wellington Spectator
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: Right of choice number 287, town acre and country section, for £300.
+Quote: Right of choice number 287, town acre and country section, for GBP300.
 Notes: 
 
 Date: 21/8/1839 
@@ -83107,7 +83107,7 @@ Source: Wanganui Chronicle
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: EDWARD N. LIFFITON will sell by public auction, at the Rutland Chambers, on the above date, under instructions from the D.0. A., Palmerston North: — 4 Acres 0 roods 36 perches, part Country Section 16, fronting St. John's Hill and Town Belt roads.
+Quote: EDWARD N. LIFFITON will sell by public auction, at the Rutland Chambers, on the above date, under instructions from the D.0. A., Palmerston North: - 4 Acres 0 roods 36 perches, part Country Section 16, fronting St. John's Hill and Town Belt roads.
 Notes: 
 
 Date: 8/4/1901 
@@ -83801,7 +83801,7 @@ Source: Sunday Star Times
 Author: 
 Vol / Page: B7
 Edition: 
-Quote: It is unusual for me to write a piece about how NOT to catch fish, but here are some ways for winter coastal fishermen to, if not avoid then at least reduce the ‘couta menace.
+Quote: It is unusual for me to write a piece about how NOT to catch fish, but here are some ways for winter coastal fishermen to, if not avoid then at least reduce the 'couta menace.
 Notes: 
 
 couta lure
@@ -83838,7 +83838,7 @@ couta stick
 Homonym Number: 
 Word Class:noun
 Sense Number:
-Definition:pa n²..
+Definition:pa n2..
 Origin:
 Register:
 Register 2:
@@ -84105,7 +84105,7 @@ Pronunciation:
 Notes:
 Citations 
 Date: 0/0/1874 
-Source: Crusts: a settler’s fare due south
+Source: Crusts: a settler's fare due south
 Author: KENNAWAY
 Vol / Page: 175
 Edition: 
@@ -84969,7 +84969,7 @@ Source: Questionnaire Respondents (DB)
 Author: 
 Vol / Page: 
 Edition: 
-Quote: a person who milks cows – a cow jockey.
+Quote: a person who milks cows - a cow jockey.
 Notes: 
 
 cow kingdom
@@ -85857,7 +85857,7 @@ Source: Farmers' Union Advocate
 Author: 
 Vol / Page: 6
 Edition: 
-Quote: Labour Unionism has now invaded the dairying industry, a cowboys' union having been formed at Tokarahi, North Otago. Following are the main rules - That cowboys over 16 be paid £1 a week ...
+Quote: Labour Unionism has now invaded the dairying industry, a cowboys' union having been formed at Tokarahi, North Otago. Following are the main rules - That cowboys over 16 be paid GBP1 a week ...
 Notes: 
 
 cowboy
@@ -86499,7 +86499,7 @@ Source: Otago Witness
 Author: 
 Vol / Page: 15
 Edition: 
-Quote: He is referred to by public speakers .. as a dairy farmer, by his neighbours (and in particular sheep farmers) as a ‘cow-cockie.’
+Quote: He is referred to by public speakers .. as a dairy farmer, by his neighbours (and in particular sheep farmers) as a 'cow-cockie.'
 Notes: 
 
 Date: 0/7/1947 
@@ -86507,7 +86507,7 @@ Source: NZ Journal of Agriculture
 Author: 
 Vol / Page: 21
 Edition: 
-Quote: When the dairy industry became established and the cropping farms were cut up such men became the first generation of ‘cow cockies.’
+Quote: When the dairy industry became established and the cropping farms were cut up such men became the first generation of 'cow cockies.'
 Notes: 
 
 Date: 11/6/1981 
@@ -86523,7 +86523,7 @@ Source: Empire of the Dairy Farmers
 Author: YEREX
 Vol / Page: 59
 Edition: 
-Quote: A city girl who married a sheep farmer was going up in the world; one who married a ‘cow cocky’ was to be pitied.
+Quote: A city girl who married a sheep farmer was going up in the world; one who married a 'cow cocky' was to be pitied.
 Notes: 
 
 Date: 0/0/1999 
@@ -88549,7 +88549,7 @@ Source: NZ Journal of Agriculture
 Author: 
 Vol / Page: 176
 Edition: 
-Quote: Some dairymen who are not yet satisfied as to the necessity of cow-testing, and who feel that the work entails trouble not compensated for by the results …
+Quote: Some dairymen who are not yet satisfied as to the necessity of cow-testing, and who feel that the work entails trouble not compensated for by the results ...
 Notes: 
 
 cow-town
@@ -89397,7 +89397,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2020
 Edition: 
-Quote: <I>Crabì.holeì</I>. (kr&abreve.bì.h&omacr.lì.), n. The hole burrowed by the Australian land crab or crayfish; also, name applied to the undulating hollows formed by the action of water and the subsidence of earth over these burrows, common throughout Australia and dangerous to horsemen.
+Quote: <I>Crabi.holei</I>. (kr&abreve.bi.h&omacr.li.), n. The hole burrowed by the Australian land crab or crayfish; also, name applied to the undulating hollows formed by the action of water and the subsidence of earth over these burrows, common throughout Australia and dangerous to horsemen.
 Notes: 
 
 Date: 13/4/1910 
@@ -89603,7 +89603,7 @@ Source: Penguin History of New Zealand
 Author: MIchael King
 Vol / Page: 280
 Edition: 
-Quote: What followed was pure farce. Ward cracked hearty and optimistic as of old, but very little of the £70 million was, or could be, borrowed.
+Quote: What followed was pure farce. Ward cracked hearty and optimistic as of old, but very little of the GBP70 million was, or could be, borrowed.
 Notes: cited from BASSETT Sir Joseph Ward (1993)
 
 Date: 0/0/1992 
@@ -91953,7 +91953,7 @@ Source: Hawke's Bay Today
 Author: 
 Vol / Page: 22
 Edition: 
-Quote: Farm clearing sale: chain saws .. transport tray .. ute crate …
+Quote: Farm clearing sale: chain saws .. transport tray .. ute crate ...
 Notes: 
 
 crate
@@ -92567,7 +92567,7 @@ Source: Station Years
 Author: CRAWFORD
 Vol / Page: 33
 Edition: 
-Quote: In the springtime of 1969 there were held on these paddocks 1,000 sheep which were described as ‘crawlers’, a term used to describe sheep that were too weak or lame to keep up with the mob.
+Quote: In the springtime of 1969 there were held on these paddocks 1,000 sheep which were described as 'crawlers', a term used to describe sheep that were too weak or lame to keep up with the mob.
 Notes: 
 
 crawlie/crawley/crawly
@@ -92873,7 +92873,7 @@ Source: Ask the Posts
 Author: Ihimaera
 Vol / Page: 132
 Edition: 
-Quote: ‘Eh? What?’ ‘His father, Laurence’s son-in-law is GAY.’ ‘He was the one who brought the crays? Oh, well done.’
+Quote: 'Eh? What?' 'His father, Laurence's son-in-law is GAY.' 'He was the one who brought the crays? Oh, well done.'
 Notes: 
 
 Date: 0/2/1992 
@@ -92989,7 +92989,7 @@ Source: NZ Geographic
 Author: 
 Vol / Page: 118
 Edition: 
-Quote: Fred, who instigated the lucrative ‘craybird' flights to Auckland for local fishermen, went to extra lengths to break the islanders' sense of isolation.
+Quote: Fred, who instigated the lucrative 'craybird' flights to Auckland for local fishermen, went to extra lengths to break the islanders' sense of isolation.
 Notes: 
 
 crayfish
@@ -94083,7 +94083,7 @@ Source: New Zealanders, The
 Author: SHADBOLT
 Vol / Page: 22
 Edition: 
-Quote: .. each morning she continued her journey on the cream-launch all the way down-creek to the high school in the town …
+Quote: .. each morning she continued her journey on the cream-launch all the way down-creek to the high school in the town ...
 Notes: 
 
 cream lorry
@@ -94339,7 +94339,7 @@ Source: NZ Dairy Exporter
 Author: 
 Vol / Page: 22
 Edition: 
-Quote: The covered creamstand is almost unknown in Hawke’s Bay. In far too many cases farmers rely on the fact that the cream lorry will call within an hour or two.
+Quote: The covered creamstand is almost unknown in Hawke's Bay. In far too many cases farmers rely on the fact that the cream lorry will call within an hour or two.
 Notes: 
 
 Date: 20/12/1928 
@@ -95745,7 +95745,7 @@ Source: Moaville Magic
 Author: HILL
 Vol / Page: 63
 Edition: 
-Quote: ‘That part of Moaville County previously and generally referred to as Murphy Road shall be redesignated Blue Heron Rise.'.. It was a name that provoked a certain resentment.. especially since there had been blue herons in the creekbeds up Murphy Road - until the executives moved in and the creekbeds and blue herons moved out.
+Quote: 'That part of Moaville County previously and generally referred to as Murphy Road shall be redesignated Blue Heron Rise.'.. It was a name that provoked a certain resentment.. especially since there had been blue herons in the creekbeds up Murphy Road - until the executives moved in and the creekbeds and blue herons moved out.
 Notes: 
 
 Date: 0/0/1891 
@@ -97935,7 +97935,7 @@ Source: Dominion
 Author: 
 Vol / Page: 7
 Edition: 
-Quote: After 11½ months of pregnancy, they choose a fine day and deliver their baby, known as a cria, between 10am and 2pm. In their high-altitude homeland, that is the time when it is warmest... [Alpacas] can live for 25 years and are capable of having crias till quite late...
+Quote: After 11 1/2 months of pregnancy, they choose a fine day and deliver their baby, known as a cria, between 10am and 2pm. In their high-altitude homeland, that is the time when it is warmest... [Alpacas] can live for 25 years and are capable of having crias till quite late...
 Notes: 
 
 Date: 3/10/2003 
@@ -97943,7 +97943,7 @@ Source: Dominion Post
 Author: 
 Vol / Page: C4
 Edition: 
-Quote: A female gives birth to one offspring, known as a cria, after 11½ months of pregnancy
+Quote: A female gives birth to one offspring, known as a cria, after 11 1/2 months of pregnancy
 Notes: 
 
 crib
@@ -98429,7 +98429,7 @@ Source: Otago Daily Times
 Author: 
 Vol / Page: 10
 Edition: 
-Quote: [Advt] A Crib at Puketerahi:-Beautifully-built week-end Crib...Everything that four fellows couldpossibly require... A party of four at£11 5s a head and everything complete
+Quote: [Advt] A Crib at Puketerahi:-Beautifully-built week-end Crib...Everything that four fellows couldpossibly require... A party of four atGBP11 5s a head and everything complete
 Notes: 
 
 Date: 1/11/1919 
@@ -98437,7 +98437,7 @@ Source: Otago Daily Times
 Author: 
 Vol / Page: 16
 Edition: 
-Quote: £150 - Macandrew's Bay; 4-roomed Crib;£65 another Crib.
+Quote: GBP150 - Macandrew's Bay; 4-roomed Crib;GBP65 another Crib.
 Notes: 
 
 Date: 5/11/1921 
@@ -99065,7 +99065,7 @@ Source: Penguin History of New Zealand
 Author: Michael King
 Vol / Page: 270
 Edition: 
-Quote: After three months the employers [at Blackball in 1908] relented. They increased ‘crib-time’ to half an hour and reinstated miners who had been dismissed for organising the strike.
+Quote: After three months the employers [at Blackball in 1908] relented. They increased 'crib-time' to half an hour and reinstated miners who had been dismissed for organising the strike.
 Notes: 
 
 Date: 0/0/1961 
@@ -100179,7 +100179,7 @@ Source: Massey
 Author: 
 Vol / Page: No. 15/15
 Edition: 
-Quote: The original destination for Pacific migrants, Ponsonby, is now latté heaven as croissantisation (the arrival of the French bakery in the neighbourhood) reflects the growing affluence of the locals.
+Quote: The original destination for Pacific migrants, Ponsonby, is now lattE heaven as croissantisation (the arrival of the French bakery in the neighbourhood) reflects the growing affluence of the locals.
 Notes: 
 
 Cromwell chafer beetle
@@ -101287,7 +101287,7 @@ Source: Christchurch Star-Sun
 Author: 
 Vol / Page: 8
 Edition: 
-Quote: A man up here a week before me told methat his wife got only £1 a week from theP.W.D. when she went up, so if they offeryou that you go crook.
+Quote: A man up here a week before me told methat his wife got only GBP1 a week from theP.W.D. when she went up, so if they offeryou that you go crook.
 Notes: 
 
 Date: 28/11/2000 
@@ -101359,7 +101359,7 @@ Source: Islands
 Author: 
 Vol / Page: 4(2) : 143
 Edition: 
-Quote: ‘You've got to come home with me..  Dip's crook.'
+Quote: 'You've got to come home with me..  Dip's crook.'
 Notes: 
 
 Date: 0/0/1945 
@@ -101479,7 +101479,7 @@ Source: NZ Truth
 Author: 
 Vol / Page: 9
 Edition: 
-Quote: [Hdg] Minister taken down. Did £200 in crook tourist business.
+Quote: [Hdg] Minister taken down. Did GBP200 in crook tourist business.
 Notes: 
 
 Date: 22/12/1941 
@@ -101751,7 +101751,7 @@ Source: Questionnaire Respondents (DB)
 Author: 
 Vol / Page: 
 Edition: 
-Quote: a sick cow – a crookie. a sick sheep – a crookie.
+Quote: a sick cow - a crookie. a sick sheep - a crookie.
 Notes: 
 
 crookness
@@ -102997,7 +102997,7 @@ Source: Questionnaire Respondents (DB)
 Author: 
 Vol / Page: 
 Edition: 
-Quote: equipment for emasculating lambs – crotch cannibals.
+Quote: equipment for emasculating lambs - crotch cannibals.
 Notes: 
 
 crotch rocket
@@ -103019,7 +103019,7 @@ Source: Lifestyleblock.co.nz
 Author: 
 Vol / Page: fisho
 Edition: 
-Quote: Actually crotch rocket, paddock lice (as seen from the air) …
+Quote: Actually crotch rocket, paddock lice (as seen from the air) ...
 Notes: 
 
 Date: 0/0/2001 
@@ -103451,7 +103451,7 @@ Source: Questionnaire Respondents (DB)
 Author: 
 Vol / Page: 
 Edition: 
-Quote: a sick sheep - crow bait. a feeble newborn lamb – crow bait.
+Quote: a sick sheep - crow bait. a feeble newborn lamb - crow bait.
 Notes: 
 
 crow garlic
@@ -104029,7 +104029,7 @@ Source: Weekly News
 Author: 
 Vol / Page: 44
 Edition: 
-Quote: .. they not only make it difficult for a farmer to acquire Crown lands, but deliberately shut up from occupation the millions of acres of maori lands …
+Quote: .. they not only make it difficult for a farmer to acquire Crown lands, but deliberately shut up from occupation the millions of acres of maori lands ...
 Notes: 
 
 Date: 15/6/1910 
@@ -104137,7 +104137,7 @@ Source: Listener (New Zealand Listener)
 Author: 
 Vol / Page: 57
 Edition: 
-Quote: An émigré from Holland, Carpay arrived in Auckland in 1955 and took up a position at Crown Lynn, then at the high point of its most innovative period... Crown Lynn didn't really know what to do with him, but Carpay quickly turned out a series of elegant, linear hand-painted ceramic designs - 175 in six months.
+Quote: An EmigrE from Holland, Carpay arrived in Auckland in 1955 and took up a position at Crown Lynn, then at the high point of its most innovative period... Crown Lynn didn't really know what to do with him, but Carpay quickly turned out a series of elegant, linear hand-painted ceramic designs - 175 in six months.
 Notes: 
 
 crown pen
@@ -104689,7 +104689,7 @@ Source: Kokopu Dreams
 Author: BAKER
 Vol / Page: 77
 Edition: 
-Quote: They sat with their tea, ate the rest of the Gingernuts and some stale Crunchie bars from the café.
+Quote: They sat with their tea, ate the rest of the Gingernuts and some stale Crunchie bars from the cafE.
 Notes: 
 
 crunchy
@@ -105341,7 +105341,7 @@ Source: On the Next Tide
 Author: HARGREAVES
 Vol / Page: 10
 Edition: 
-Quote: At times the frustration of days searching with little return hurts the best of them. I remember lying on a crusty bunk down below and fully empathizing with whoever had painted, ‘F*%$@ this shit!’
+Quote: At times the frustration of days searching with little return hurts the best of them. I remember lying on a crusty bunk down below and fully empathizing with whoever had painted, 'F*%$@ this shit!'
 Notes: 
 
 crusty
@@ -106373,7 +106373,7 @@ Source: NZ Journal of Agriculture
 Author: 
 Vol / Page: 502
 Edition: 
-Quote: In addition, crutchings bring in £60, these returns being based on war control prices.
+Quote: In addition, crutchings bring in GBP60, these returns being based on war control prices.
 Notes: 
 
 Date: 24/8/2001 
@@ -107913,7 +107913,7 @@ Source: Hooked
 Author: JOHNSON
 Vol / Page: 207
 Edition: 
-Quote: Takeable oysters were sorted and bagged, and all else returned to the sea – a process called ‘culching’ which helped rejuvenate the beds.
+Quote: Takeable oysters were sorted and bagged, and all else returned to the sea - a process called 'culching' which helped rejuvenate the beds.
 Notes: 
 
 cull
@@ -108333,7 +108333,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: [Hdg] Speaker says no to ‘cullenisation'. Speaker Jonathan Hunt yesterday banned the use of the
+Quote: [Hdg] Speaker says no to 'cullenisation'. Speaker Jonathan Hunt yesterday banned the use of the
 Notes: 
 
 culler
@@ -109007,7 +109007,7 @@ Source: Internet - see Notes
 Author: 
 Vol / Page: 0
 Edition: 
-Quote: [heading] Cultural Detective™ New Zealand. "Kiwis" live with an extraordinary opportunity to create their future. Cultural Detective New Zealand will give you invaluable clues to making the most of your relationships with New Zealanders.
+Quote: [heading] Cultural Detective New Zealand. "Kiwis" live with an extraordinary opportunity to create their future. Cultural Detective New Zealand will give you invaluable clues to making the most of your relationships with New Zealanders.
 Notes: http://www.culturaldetective.com/cultures.html#NZ
 
 cultural fishing rights
@@ -109029,7 +109029,7 @@ Source: NZ Herald
 Author: 
 Vol / Page: A11
 Edition: 
-Quote: The deal had been signed and sealed in 1922 with the Fenton Agreement, which granted the tribe cultural fishing rights and an annuity of £6000 a year, he said.
+Quote: The deal had been signed and sealed in 1922 with the Fenton Agreement, which granted the tribe cultural fishing rights and an annuity of GBP6000 a year, he said.
 Notes: 
 
 culverting
@@ -109856,7 +109856,7 @@ cup slip
 Homonym Number: 
 Word Class:noun
 Sense Number: 1
-Definition:[dairying] the dislodging of a cup fitting from a cow’s udder. 
+Definition:[dairying] the dislodging of a cup fitting from a cow's udder. 
 Origin:[none]
 Register:
 Register 2:
@@ -109923,8 +109923,8 @@ Source: Internet - see Notes
 Author: 
 Vol / Page: 
 Edition: 
-Quote: The taxonomic status of the Cupola gecko<i>Hoplodactylus‘Cupola’</i> (Genus B: sp. 1, p. 34) isstill undecided. The Cupola gecko has distinctivemarkings on the snout, but is otherwise not greatlydifferent from the forest gecko <i>H. granulatus</i>.
-Notes: http://www.biolsci.monash.edu/staff/chapple/docs/29.pdf New Zealand Journal of Zoology, 2009, Vol. 36: 59–710301–4223/09/3601–0059 © The Royal Society of New Zealand 2009
+Quote: The taxonomic status of the Cupola gecko<i>Hoplodactylus'Cupola'</i> (Genus B: sp. 1, p. 34) isstill undecided. The Cupola gecko has distinctivemarkings on the snout, but is otherwise not greatlydifferent from the forest gecko <i>H. granulatus</i>.
+Notes: http://www.biolsci.monash.edu/staff/chapple/docs/29.pdf New Zealand Journal of Zoology, 2009, Vol. 36: 59-710301-4223/09/3601-0059 The Royal Society of New Zealand 2009
 
 cuppa
 Homonym Number: 
@@ -111013,7 +111013,7 @@ Source: Hooked
 Author: JOHNSON
 Vol / Page: 300
 Edition: 
-Quote: If what the [Fishing Industry] Board called ‘current retrenchment’ continued, 1979 and 1980 catches might be as low as 88,000 and 100,000 tonnes, respectively. Current retrenchment referred to problems being experienced by a number of major South Island companies. Catching less-familiar species was all very well, but they had to be solved.
+Quote: If what the [Fishing Industry] Board called 'current retrenchment' continued, 1979 and 1980 catches might be as low as 88,000 and 100,000 tonnes, respectively. Current retrenchment referred to problems being experienced by a number of major South Island companies. Catching less-familiar species was all very well, but they had to be solved.
 Notes: 
 
 Currie boy

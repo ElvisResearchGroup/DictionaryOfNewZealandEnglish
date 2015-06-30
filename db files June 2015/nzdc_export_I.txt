@@ -211,7 +211,7 @@ Source: Dominion Post
 Author: 
 Vol / Page: F12
 Edition: 
-Quote: Suddenly, the idea of spending a night in a snow cave is disturbingly appealing... Snow caves are windproof, soundproof and maintain an inside temperature of just above 0ºC.
+Quote: Suddenly, the idea of spending a night in a snow cave is disturbingly appealing... Snow caves are windproof, soundproof and maintain an inside temperature of just above 0C.
 Notes: 
 
 Date: 0/0/1940 
@@ -1315,7 +1315,7 @@ Source: Geological Society of NZ Newsletter
 Author: 
 Vol / Page: 67/40
 Edition: 
-Quote: My first choice here is Patrick Marshall’s pioneer work on ignimbrites, the recognition of which opened up whole new vistas in volcanology and concepts of acid magma genesis.
+Quote: My first choice here is Patrick Marshall's pioneer work on ignimbrites, the recognition of which opened up whole new vistas in volcanology and concepts of acid magma genesis.
 Notes: 
 
 Date: 0/4/1985 
@@ -1462,7 +1462,7 @@ IHC
 Homonym Number: 
 Word Class:abbreviation
 Sense Number:
-Definition:the New Zealand Society for the Intellectually Handicapped. [acronym of its former name Intellectually Handicapped Children’s Society]
+Definition:the New Zealand Society for the Intellectually Handicapped. [acronym of its former name Intellectually Handicapped Children's Society]
 Origin:acronym
 Register:
 Register 2:
@@ -1689,7 +1689,7 @@ Source: On the Next Tide
 Author: HARGREAVES
 Vol / Page: 84
 Edition: 
-Quote: As soon as the fish come up we iki (or kill) them by stabbing with a sharp point into the brain. That way, fish such as snapper maintain their beautiful rich colour … It also makes the texture of the fish remain firm to make it suitable for sashimi (raw fish) in Japan.
+Quote: As soon as the fish come up we iki (or kill) them by stabbing with a sharp point into the brain. That way, fish such as snapper maintain their beautiful rich colour ... It also makes the texture of the fish remain firm to make it suitable for sashimi (raw fish) in Japan.
 Notes: 
 
 iki spiking
@@ -1889,7 +1889,7 @@ Source: Man of the People, A
 Author: Geary
 Vol / Page: 103
 Edition: 
-Quote: I was sixteen when we met. He joked that this was good because I wasn’t illegal Tegel any more, which is gross...
+Quote: I was sixteen when we met. He joked that this was good because I wasn't illegal Tegel any more, which is gross...
 Notes: transferred/figurative use (underage)
 
 Date: 0/0/1972 
@@ -3006,7 +3006,7 @@ improvements
 Homonym Number: 
 Word Class:noun
 Sense Number: 1
-Definition:[land valuation and rural real estate]  buildings, fences, pastures or water supply that add value to land.    
+Definition:[land valuation and rural real estate]  buildings, fences, pastures or water supply that add value to land.
 Origin:[none]
 Register:
 Register 2:
@@ -3331,7 +3331,7 @@ Pronunciation:
 Notes:
 Citations 
 Date: 0/0/1874 
-Source: Crusts: a settler’s fare due south
+Source: Crusts: a settler's fare due south
 Author: KENNAWAY
 Vol / Page: 136
 Edition: 
@@ -4728,7 +4728,7 @@ inaka
 Homonym Number: 
 Word Class:noun
 Sense Number:
-Definition:Southern spg inanga, form and commonest spg of n²..  Dracophyllum spp., the usual South Island (Kai Tahu);  the grass-tree. 
+Definition:Southern spg inanga, form and commonest spg of n2..  Dracophyllum spp., the usual South Island (Kai Tahu);  the grass-tree. 
 Origin:
 Register:
 Register 2:
@@ -4775,7 +4775,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2024
 Edition: 
-Quote: <i> I´.na-ka </i> (&emacr.´.nä.-k&adot.); <i> colloq.</i> &emacr.´.n&adot.-k&adot.), <i> n.</i> [Maori.]<i> (Zoö.l.) See INANGA. </i>
+Quote: <i> I'.na-ka </i> (&emacr.'.na.-k&adot.); <i> colloq.</i> &emacr.'.n&adot.-k&adot.), <i> n.</i> [Maori.]<i> (Zoo.l.) See INANGA. </i>
 Notes: 
 
 Date: 0/0/1910 
@@ -5087,7 +5087,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2024
 Edition: 
-Quote: <i>I´.na-ka (&emacr.´.nä.-ng&adot.); colloq</i>. &emacr.´.n&adot.ng-&adot.), n. [Maori.] (Zoö.l.) <i>A small New Zealand fish  (Galaxias attenuatus</i>), of the family <i>Galaxiadae</i>; - called also <i>inaka, minnow</i>, and <i>whitebait. </i>
+Quote: <i>I'.na-ka (&emacr.'.na.-ng&adot.); colloq</i>. &emacr.'.n&adot.ng-&adot.), n. [Maori.] (Zoo.l.) <i>A small New Zealand fish  (Galaxias attenuatus</i>), of the family <i>Galaxiadae</i>; - called also <i>inaka, minnow</i>, and <i>whitebait. </i>
 Notes: 
 
 Date: 0/0/1898 
@@ -5955,7 +5955,7 @@ Source: NZ Catholic
 Author: 
 Vol / Page: 6
 Edition: 
-Quote: The height of ‘inculturation' is the complete sharing of life, even to the point of sharing death.
+Quote: The height of 'inculturation' is the complete sharing of life, even to the point of sharing death.
 Notes: 
 
 independent
@@ -6045,7 +6045,7 @@ Source: Land Girls, The
 Author: BARDSLEY
 Vol / Page: 154
 Edition: 
-Quote: Diana’s father, the first national breeder of Polled Herefords, was involved with the Independent Mounted Rifles and was away for months at a time on coastal patrols.
+Quote: Diana's father, the first national breeder of Polled Herefords, was involved with the Independent Mounted Rifles and was away for months at a time on coastal patrols.
 Notes: 
 
 indexation
@@ -7845,7 +7845,7 @@ Source: Brett's Colonists Guide
 Author: 
 Vol / Page: 175
 Edition: 
-Quote: [If} a person has diseased sheep, see the Inspector of Sheep, who will tell him what remedies to use; either sulphur or tobacco, or lime, are the usual specifics.  “An old Australian remedy, which has often been used here, is 5 ozs tobacco, infused in 1 gal. boiling water, and 3 ozs sulphur”.
+Quote: [If} a person has diseased sheep, see the Inspector of Sheep, who will tell him what remedies to use; either sulphur or tobacco, or lime, are the usual specifics.  "An old Australian remedy, which has often been used here, is 5 ozs tobacco, infused in 1 gal. boiling water, and 3 ozs sulphur".
 Notes: 
 
 Date: 21/2/1851 
@@ -9456,7 +9456,7 @@ Irish blight
 Homonym Number: 
 Word Class:noun
 Sense Number: 1
-Definition:[used elsewhere but first recorded in NZ.] a fungal disease of potato crops.    
+Definition:[used elsewhere but first recorded in NZ.] a fungal disease of potato crops.
 Origin:[none]
 Register:
 Register 2:
@@ -9683,7 +9683,7 @@ Source: Questionnaire Respondents (DB)
 Author: 
 Vol / Page: 
 Edition: 
-Quote: a wild pig – an Irish merino.
+Quote: a wild pig - an Irish merino.
 Notes: 
 
 Irish potato
@@ -9880,7 +9880,7 @@ Edition:
 Quote: Our camp was in a small bay surrounded by .. very big  matagouris or Irishman, some more than a foot through.
 Notes: 
 
-Irishman’s gate
+Irishman's gate
 Homonym Number: 
 Word Class:noun
 Sense Number: 1
@@ -9899,7 +9899,7 @@ Source: After-Breakfast Cigar, The
 Author: WESTMACOTT
 Vol / Page: 173
 Edition: 
-Quote: When next I rode home via Frank Hull’s, I found my way blocked by an obstruction called in the north a ‘Taranaki’ gate, and in the south an ‘Irishman’s’, consisting of three wires tied to the post and a couple of battens nailed to them to hold it erect and fastened at the opening by a loop of wire at the top and bottom of the opposite post, through which the end batten was slipped.
+Quote: When next I rode home via Frank Hull's, I found my way blocked by an obstruction called in the north a 'Taranaki' gate, and in the south an 'Irishman's', consisting of three wires tied to the post and a couple of battens nailed to them to hold it erect and fastened at the opening by a loop of wire at the top and bottom of the opposite post, through which the end batten was slipped.
 Notes: 
 
 Irishman's short cut
@@ -10201,7 +10201,7 @@ Source: Questionnaire Respondents (DB)
 Author: 
 Vol / Page: 
 Edition: 
-Quote: farmbike – an iron pony.
+Quote: farmbike - an iron pony.
 Notes: 
 
 Iron Pot
@@ -10437,7 +10437,7 @@ Source: Geological Society of NZ Newsletter
 Author: 
 Vol / Page: 90/36
 Edition: 
-Quote: Somewhat parallel work to that on the ironsands, but physically far more demanding, was involved in the investigation of Northland’s bauxite deposits (1961). 
+Quote: Somewhat parallel work to that on the ironsands, but physically far more demanding, was involved in the investigation of Northland's bauxite deposits (1961). 
 Notes: 
 
 Date: 15/11/1769 
@@ -10523,7 +10523,7 @@ Source: Geological Society of NZ Newsletter
 Author: 
 Vol / Page: 90/36
 Edition: 
-Quote: Somewhat parallel work to that on the ironsands, but physically far more demanding, was involved in the investigation of Northland’s bauxite deposits (1961).
+Quote: Somewhat parallel work to that on the ironsands, but physically far more demanding, was involved in the investigation of Northland's bauxite deposits (1961).
 Notes: 
 
 iron-starvation

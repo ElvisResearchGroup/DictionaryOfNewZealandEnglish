@@ -183,7 +183,7 @@ Source: NZ Memories
 Author: 
 Vol / Page: No. 42/41
 Edition: 
-Quote: Monday the 10th of July 1967 is a significant date in New Zealand history, as this was the day New Zealand officially changed from £. s. d., to a decimal currency. [42] In the build-up to 'D.C.Day' as it was called, the Government ran an extensive publicity campaign to prepare, inform, educate and reassure the public.
+Quote: Monday the 10th of July 1967 is a significant date in New Zealand history, as this was the day New Zealand officially changed from GBP. s. d., to a decimal currency. [42] In the build-up to 'D.C.Day' as it was called, the Government ran an extensive publicity campaign to prepare, inform, educate and reassure the public.
 Notes: 
 
 dab
@@ -815,7 +815,7 @@ Source: Personal Communication
 Author: 
 Vol / Page: 
 Edition: 
-Quote: She was always told that dag was  Southland rhyming slang for wag, which latter seemed to her mostly used in the North Island at any rate. But the early use (now obs) of Dag! as an expletive (related to Doggon!), from  1917 and Dag at `a dab at' may have some bearing on reinforcement. The probable origin is in EDD n²., v². 11. a daring feat among boys Ches w Mid w Som: e.g. Som `set a dag: perform some feat in such a way as to challenge imitation ... saying: `There's a dag for you ... do it if you can.'' 12. have or make a dag at `have a shot at'; OED2 sb&sup5. esp.  doing dags, 1879. The earliest non-extant usage may have referred to an event, rather than a person, out of the ordinary, rather than vice-versa as the present evidence might suggest. 
+Quote: She was always told that dag was  Southland rhyming slang for wag, which latter seemed to her mostly used in the North Island at any rate. But the early use (now obs) of Dag! as an expletive (related to Doggon!), from  1917 and Dag at `a dab at' may have some bearing on reinforcement. The probable origin is in EDD n2., v2. 11. a daring feat among boys Ches w Mid w Som: e.g. Som `set a dag: perform some feat in such a way as to challenge imitation ... saying: `There's a dag for you ... do it if you can.'' 12. have or make a dag at `have a shot at'; OED2 sb&sup5. esp.  doing dags, 1879. The earliest non-extant usage may have referred to an event, rather than a person, out of the ordinary, rather than vice-versa as the present evidence might suggest. 
 Notes: Dental Nurse from Southland
 
 Date: 20/7/2003 
@@ -1505,7 +1505,7 @@ Source: Press, The
 Author: 
 Vol / Page: 15
 Edition: 
-Quote: Dag: Hard or soft dung hanging from the breech of a sheep. Cutting this off the sheep with an old pair of shears is called  dagging. The ds. are afterwards gone through by ad.-picker  or d.-boy, who cuts out any wool worth saving. © [c1890-1910].) 
+Quote: Dag: Hard or soft dung hanging from the breech of a sheep. Cutting this off the sheep with an old pair of shears is called  dagging. The ds. are afterwards gone through by ad.-picker  or d.-boy, who cuts out any wool worth saving. [c1890-1910].) 
 Notes: (Acland Gloss.)
 
 Date: 0/0/1955 
@@ -1617,7 +1617,7 @@ Source: Islands
 Author: 
 Vol / Page: 4(2) : 118
 Edition: 
-Quote: ‘What a dag - living in a log cabin!'
+Quote: 'What a dag - living in a log cabin!'
 Notes: 
 
 Date: 5/4/2000 
@@ -3079,7 +3079,7 @@ Source: Colonist (Nelson)
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: Don’t forget to skirt your fleeces. Even the smallest lot should be carefully skirted, so as to relieve the fleeces of all stained and daggy portions.
+Quote: Don't forget to skirt your fleeces. Even the smallest lot should be carefully skirted, so as to relieve the fleeces of all stained and daggy portions.
 Notes: 
 
 Date: 12/8/1887 
@@ -3119,7 +3119,7 @@ Source: Nelson Evening Mail
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: . . but every particle of wool is taken off, the trimming is perfect, and even the daggy locks that are occasionally found in the breech are taken off with the utmost ease, and by the time the sheep leaves the operator’s hands it looks as though it had been shaved rather than shorn.
+Quote: . . but every particle of wool is taken off, the trimming is perfect, and even the daggy locks that are occasionally found in the breech are taken off with the utmost ease, and by the time the sheep leaves the operator's hands it looks as though it had been shaved rather than shorn.
 Notes: 
 
 Date: 31/10/1889 
@@ -3527,7 +3527,7 @@ Source: Tale of a Timber Town
 Author: GRACE
 Vol / Page: 35
 Edition: 
-Quote: "You calla me Dago? I calla you Square-‘ead."
+Quote: "You calla me Dago? I calla you Square-'ead."
 Notes: 
 
 Date: 8/2/1913 
@@ -3777,7 +3777,7 @@ Source: On the Next Tide
 Author: 
 Vol / Page: 24
 Edition: 
-Quote: I still catch groper on a dahn line. It’s a line with ten baited hooks, an anchor on the bottom and a float on top.
+Quote: I still catch groper on a dahn line. It's a line with ten baited hooks, an anchor on the bottom and a float on top.
 Notes: 
 
 Date: 0/0/1984 
@@ -4527,7 +4527,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: 128 sacks Worthington dairy salt, each 16 7’s .. 2 do dairy salt, each 56lb
+Quote: 128 sacks Worthington dairy salt, each 16 7's .. 2 do dairy salt, each 56lb
 Notes: 
 
 Date: 11/7/1846 
@@ -7409,7 +7409,7 @@ Source: Hooked
 Author: JOHNSON
 Vol / Page: 204
 Edition: 
-Quote: ‘The Dallies don’t need a compass,’ they’d say. ‘All they need is to be able to recognise Rangitoto. They never go out of sight of it.’
+Quote: 'The Dallies don't need a compass,' they'd say. 'All they need is to be able to recognise Rangitoto. They never go out of sight of it.'
 Notes: 
 
 Date: 0/4/2002 
@@ -7449,7 +7449,7 @@ Source: NZ Geographic
 Author: 
 Vol / Page: 42
 Edition: 
-Quote: Northlanders were gumdiggers, Maori and ‘Dallies', and none of these epithets was a compliment.
+Quote: Northlanders were gumdiggers, Maori and 'Dallies', and none of these epithets was a compliment.
 Notes: 
 
 Date: 0/0/1940 
@@ -7599,7 +7599,7 @@ Source: Hooked
 Author: 
 Vol / Page: 204
 Edition: 
-Quote: ‘The Dallies don’t need a compass,’ they’d say. ‘All they need is to be able to recognise Rangitoto. They never go out of sight of it.’ While there may have been a small amount of truth in the jibe in the 1930s, when the ‘Dally fleet’ was inclined to be the butt of jokes by other members of the fishing community, it was not the case in the 1940s.
+Quote: 'The Dallies don't need a compass,' they'd say. 'All they need is to be able to recognise Rangitoto. They never go out of sight of it.' While there may have been a small amount of truth in the jibe in the 1930s, when the 'Dally fleet' was inclined to be the butt of jokes by other members of the fishing community, it was not the case in the 1940s.
 Notes: 
 
 Dally mafia
@@ -9043,7 +9043,7 @@ Source: Wanganui Herald
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: The following applications for patents were gazetted last week:- .. an invention for manufacturing brushes and brooms out of New Zealand grass, named danthonia raoulia, more commonly known as “snow grass,” by Henry James Shaw, of Christchurch.
+Quote: The following applications for patents were gazetted last week:- .. an invention for manufacturing brushes and brooms out of New Zealand grass, named danthonia raoulia, more commonly known as "snow grass," by Henry James Shaw, of Christchurch.
 Notes: 
 
 Date: 22/6/1894 
@@ -9918,7 +9918,7 @@ date
 Homonym Number: 1
 Word Class:noun
 Sense Number:
-Definition:Anus, arse (in pl. occas. balls, testicles, poss. f. n².). -->ca1935 (esp. schoolboys') Up your date for 2/8
+Definition:Anus, arse (in pl. occas. balls, testicles, poss. f. n2.). -->ca1935 (esp. schoolboys') Up your date for 2/8
 Origin:
 Register:
 Register 2:
@@ -10623,7 +10623,7 @@ Source: NZ Free Lance
 Author: 
 Vol / Page: 35
 Edition: 
-Quote: The introduction of the Limited train between Auckland and Wellington made an immediate appeal to the popular imagination... The introduction of a summer running train, which took advantage of the daylight, was also ‘limited in its accommodation'... It brought about a desire for more specific titles, so "Daylight Limited" and "Night Limited" became the terms commonly used in referring to them.
+Quote: The introduction of the Limited train between Auckland and Wellington made an immediate appeal to the popular imagination... The introduction of a summer running train, which took advantage of the daylight, was also 'limited in its accommodation'... It brought about a desire for more specific titles, so "Daylight Limited" and "Night Limited" became the terms commonly used in referring to them.
 Notes: 
 
 Date: 9/2/1974 
@@ -11695,7 +11695,7 @@ Source: Otago Witness
 Author: 
 Vol / Page: 73
 Edition: 
-Quote: “Aw, they were grand! One fellow was the dead ring of you. Man (reminiscently), they could pull some ugly faces.”
+Quote: "Aw, they were grand! One fellow was the dead ring of you. Man (reminiscently), they could pull some ugly faces."
 Notes: 
 
 Date: 0/0/1948 
@@ -11749,7 +11749,7 @@ Source: Otago Witness
 Author: 
 Vol / Page: 30
 Edition: 
-Quote: He is well proportioned, and the dead spit of his daddy, with legs like bars of steel; a few black splodges through his golden coat indicate the Stockwell strain, as the Duke of Westminster’s celebrated stud horse Bend Or is marked similarly.
+Quote: He is well proportioned, and the dead spit of his daddy, with legs like bars of steel; a few black splodges through his golden coat indicate the Stockwell strain, as the Duke of Westminster's celebrated stud horse Bend Or is marked similarly.
 Notes: 
 
 Date: 15/3/1898 
@@ -11757,7 +11757,7 @@ Source: Press, The
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: “Excuse me, sir, but, barring the whisker, you are the dead spit of a man I knew once, professor.”
+Quote: "Excuse me, sir, but, barring the whisker, you are the dead spit of a man I knew once, professor."
 Notes: 
 
 Date: 0/0/1891 
@@ -11792,12 +11792,12 @@ Edition:
 Quote: look the dead spit: `Beaut baby! Looks the dead spit of his dad!' JUST ALIKE.
 Notes: 
 
-Date: 0/1885/0 
+Date: 0/0/1885 
 Source: Thames Star
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: Everybody present fairly shook with laughter when this estimable person, having been asked how she could tell that the defendant was father of the child, replied: “I saw it two months afterwards; it had thriven wonderful, and it exactly resembles Mr------------ (the defendant). It’s the dead spit of him-as if it had been cut off with a knife and fork. ..”
+Quote: Everybody present fairly shook with laughter when this estimable person, having been asked how she could tell that the defendant was father of the child, replied: "I saw it two months afterwards; it had thriven wonderful, and it exactly resembles Mr------------ (the defendant). It's the dead spit of him-as if it had been cut off with a knife and fork. .."
 Notes: 
 
 Date: 20/12/1919 
@@ -12017,7 +12017,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 9
 Edition: 
-Quote: If it is satisfactory, as for instance when the supervisor is able to assure the executive that the miner is engaged on ‘dead’ work necessary to open up a promising claim, his subsidy is confirmed.
+Quote: If it is satisfactory, as for instance when the supervisor is able to assure the executive that the miner is engaged on 'dead' work necessary to open up a promising claim, his subsidy is confirmed.
 Notes: 
 
 Date: 0/0/1910 
@@ -12815,7 +12815,7 @@ Source: Looking Back
 Author: Sinclair & Harrex
 Vol / Page: 215
 Edition: 
-Quote: The troops left home in three ‘Echelons'. The first went to Egypt. As eager volunteers, they were labelled ‘the wife beaters and debt dodgers'.  
+Quote: The troops left home in three 'Echelons'. The first went to Egypt. As eager volunteers, they were labelled 'the wife beaters and debt dodgers'.  
 Notes: 
 
 debt-evader
@@ -12935,7 +12935,7 @@ Source: NZ Education Review
 Author: 
 Vol / Page: 7
 Edition: 
-Quote: Many lower decile schools have all but emptied out as parents shift their children to ‘better' (read higher decile) schools.
+Quote: Many lower decile schools have all but emptied out as parents shift their children to 'better' (read higher decile) schools.
 Notes: 
 
 Date: 3/4/2002 
@@ -14793,7 +14793,7 @@ Source: Lifestyle Farmer
 Author: 
 Vol / Page: 34
 Edition: 
-Quote: One large paddock was already deerfenced and within six months the couple bought their first fallow deer …
+Quote: One large paddock was already deerfenced and within six months the couple bought their first fallow deer ...
 Notes: 
 
 Date: 20/2/2010 
@@ -15379,7 +15379,7 @@ Source: Otago Daily Times
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: I understand that no matter at what hour a delayed telegram is received the orders are, that it be not posted until after 8 o’clock p.m., which renders it impossible for the person to whom it is addressed to receive it before the following morning.
+Quote: I understand that no matter at what hour a delayed telegram is received the orders are, that it be not posted until after 8 o'clock p.m., which renders it impossible for the person to whom it is addressed to receive it before the following morning.
 Notes: 
 
 Date: 26/8/1887 
@@ -15390,7 +15390,7 @@ Edition:
 Quote: The merchant can order what goods he wants by post or by delayed telegram.
 Notes: 
 
-Date: 22/11/0 
+Date: 22/11/1895 
 Source: Star, The
 Author: 
 Vol / Page: 3
@@ -15736,7 +15736,7 @@ demon
 Homonym Number: 
 Word Class:noun
 Sense Number:
-Definition:Often in pl. the demons. A policeman, esp. a detective;  =dee n².; dinnies demons 
+Definition:Often in pl. the demons. A policeman, esp. a detective;  =dee n2.; dinnies demons 
 Origin:
 Register:
 Register 2:
@@ -16093,7 +16093,7 @@ Source: Auckland  Star
 Author: 
 Vol / Page: 8
 Edition: 
-Quote: The Education Estimates included £1000 with which to make start on a travelling dental clinic for country schools.
+Quote: The Education Estimates included GBP1000 with which to make start on a travelling dental clinic for country schools.
 Notes: 
 
 Date: 0/12/1952 
@@ -16173,7 +16173,7 @@ Source: Manawatu Times
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: The teacher brings his class to the dental clinic – a suite of specially fitted up rooms in one of the central school [sic] .
+Quote: The teacher brings his class to the dental clinic - a suite of specially fitted up rooms in one of the central school [sic] .
 Notes: 
 
 dental nurse
@@ -18107,7 +18107,7 @@ Source: Wild Boars of Oruaiti, The
 Author: CARR
 Vol / Page: 14
 Edition: 
-Quote: We all peered at the vista of bush gullies, fern patches, stands of kanuka and devilweed - real pig country. [devil’s weed]
+Quote: We all peered at the vista of bush gullies, fern patches, stands of kanuka and devilweed - real pig country. [devil's weed]
 Notes: 
 
 devo
@@ -18195,7 +18195,7 @@ Source: Morrieson's Motel
 Author: McLauchlan ed.
 Vol / Page: 145
 Edition: 
-Quote: ‘When the trees are topped,’ she said, ‘this will be one of the warmest spots on the section, and it could be set up for barbecues, maybe Devonshire Teas.’
+Quote: 'When the trees are topped,' she said, 'this will be one of the warmest spots on the section, and it could be set up for barbecues, maybe Devonshire Teas.'
 Notes: 
 
 dew nappy
@@ -19742,13 +19742,13 @@ Edition:
 Quote: And splendid with medals and ribbons,/ Old Diggers - the country's cream - Boyd from the days of the Crimea,/ And some from the Boer War,/ 
 Notes: 
 
-Date: 31/4/1918 
+Date: 30/4/1918 
 Source: Wanganui Chronicle
 Author: 
 Vol / Page: 4
 Edition: 
 Quote: The common method of addressing a New Zealander is to call him "digger," which, from being an abusive term, has been readily and universally adopted and approved by the Pig Islanders themselves. We, the N.Z.R.B., prefer to be addressed as "diggers" rather than "dinks" which was the original mode of address.
-Notes: From a letter by Rifleman C A Palmer of Wanganui
+Notes: From a letter by Rifleman C A Palmer of Wanganui. Date input incorrectly as "31/4/1918", changed to "30/4/1918" without verifying correctness.
 
 Date: 13/8/1917 
 Source: Wanganui Herald
@@ -19833,7 +19833,7 @@ Source: Otago Witness
 Author: 
 Vol / Page: 7
 Edition: 
-Quote: I saw a shepherd's wife take her child out of a cradle and sell the latter to a digger for a £5 note.
+Quote: I saw a shepherd's wife take her child out of a cradle and sell the latter to a digger for a GBP5 note.
 Notes: 
 
 Date: 28/12/1920 
@@ -20407,7 +20407,7 @@ Source: Letters & Journals
 Author: STEPHENS
 Vol / Page: 514
 Edition: 
-Quote: Thousands of people had already flocked to the diggings from Sydney. <i>Ibid.</i> 546 ... the diggins ‘
+Quote: Thousands of people had already flocked to the diggings from Sydney. <i>Ibid.</i> 546 ... the diggins '
 Notes: 
 
 Date: 0/0/1851 
@@ -20700,7 +20700,7 @@ dig-out
 Homonym Number: 
 Word Class:noun
 Sense Number:
-Definition:=digger n²..
+Definition:=digger n2..
 Origin:
 Register:
 Register 2:
@@ -21099,7 +21099,7 @@ Source: Questionnaire Respondents (DB)
 Author: 
 Vol / Page: 
 Edition: 
-Quote: station cook – a ding-a-ling.
+Quote: station cook - a ding-a-ling.
 Notes: 
 
 dingbat
@@ -22461,7 +22461,7 @@ Source: Colonist (Nelson)
 Author: 
 Vol / Page: 4
 Edition: 
-Quote: To dip a thousand sheep in tobacco water costs, in material alone, £13 10s.; while with sulphur and soda the material would only cost £4 18s.
+Quote: To dip a thousand sheep in tobacco water costs, in material alone, GBP13 10s.; while with sulphur and soda the material would only cost GBP4 18s.
 Notes: 
 
 Date: 4/10/1879 
@@ -22853,7 +22853,7 @@ Source: Dolphins and Killer Whales
 Author: FISHER
 Vol / Page: 45
 Edition: 
-Quote: Ralph’s attitude towards the ‘drifters’ – gangs of scrubcutters, shearers, crutchers, footrotters, dippers, fencers and dockers was quite different.
+Quote: Ralph's attitude towards the 'drifters' - gangs of scrubcutters, shearers, crutchers, footrotters, dippers, fencers and dockers was quite different.
 Notes: 
 
 Date: 21/3/1846 
@@ -23567,7 +23567,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 38
 Edition: 
-Quote: We were initially hoping to take 26 All Blacks and a smaller NZ A squad and play some of the All Black ‘dirties' with NZ A.
+Quote: We were initially hoping to take 26 All Blacks and a smaller NZ A squad and play some of the All Black 'dirties' with NZ A.
 Notes: 
 
 dirty
@@ -24547,7 +24547,7 @@ Source: Capital Times
 Author: 
 Vol / Page: 10
 Edition: 
-Quote: Later in the year there'll be a major cartoon exhibition - with the provisional title, ‘The other side of the ditch'.
+Quote: Later in the year there'll be a major cartoon exhibition - with the provisional title, 'The other side of the ditch'.
 Notes: 
 
 Date: 2/12/2005 
@@ -25025,7 +25025,7 @@ Source: NZ Observer
 Author: 
 Vol / Page: 8
 Edition: 
-Quote: The Devonport Ferry Company drew £2000 in sixpenny fares during Jubilee week. A big 'divvy' in prospect.
+Quote: The Devonport Ferry Company drew GBP2000 in sixpenny fares during Jubilee week. A big 'divvy' in prospect.
 Notes: 
 
 Date: 9/3/1912 
@@ -25033,7 +25033,7 @@ Source: NZ Free Lance
 Author: 
 Vol / Page: 22
 Edition: 
-Quote: The light-fingered gentry of the pickpocket profession struck.. a ‘divvy' of over £250.
+Quote: The light-fingered gentry of the pickpocket profession struck.. a 'divvy' of over GBP250.
 Notes: 
 
 Date: 24/4/1926 
@@ -25057,7 +25057,7 @@ Source: Auckland Weekly News
 Author: 
 Vol / Page: 21
 Edition: 
-Quote: A few "mugs," who didn't know anything, scooped in a £24 divy.
+Quote: A few "mugs," who didn't know anything, scooped in a GBP24 divy.
 Notes: 
 
 Date: 25/6/1910 
@@ -26511,7 +26511,7 @@ Source: Tuapeka Times
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: The employes [sic] at a certain flaxmill in the district (says the "Manawatu Times") awoke one morning to find that their overseer had "done the Pacific slope" with nearly £200 of their wages in his pocket.
+Quote: The employes [sic] at a certain flaxmill in the district (says the "Manawatu Times") awoke one morning to find that their overseer had "done the Pacific slope" with nearly GBP200 of their wages in his pocket.
 Notes: Reprinted from the Manawatu Times
 
 Date: 19/11/1889 
@@ -26675,7 +26675,7 @@ Source: Six Pack 2, The
 Author: Dave Armstrong
 Vol / Page: 116
 Edition: 
-Quote: ‘Well, I did tell the Maoris that if they didn’t agree to my little “tiriti” ,’ chuckled Janet, ‘I’d ring up Fisheries and dob them in for poaching.’
+Quote: 'Well, I did tell the Maoris that if they didn't agree to my little "tiriti" ,' chuckled Janet, 'I'd ring up Fisheries and dob them in for poaching.'
 Notes: 
 
 Date: 0/0/1974 
@@ -26943,7 +26943,7 @@ Source: Forest & Bird
 Author: 
 Vol / Page: 333/24
 Edition: 
-Quote: ‘I don’t think it would be legitimate for DOC to put funding towards looking for or protecting a bird [South Island kokako] that probably doesn’t exist.’
+Quote: 'I don't think it would be legitimate for DOC to put funding towards looking for or protecting a bird [South Island kokako] that probably doesn't exist.'
 Notes: 
 
 Date: 19/4/1997 
@@ -27751,7 +27751,7 @@ Source: Sugarbag Years
 Author: SIMPSON
 Vol / Page: 152
 Edition: 
-Quote: While I'd no objection to seeing on a return docket sometimes a packet of cigarettes.., if I found there was not food for the family as well, I would then make out the order to the wife only and put ‘No one else' on the bottom of it.
+Quote: While I'd no objection to seeing on a return docket sometimes a packet of cigarettes.., if I found there was not food for the family as well, I would then make out the order to the wife only and put 'No one else' on the bottom of it.
 Notes: 
 
 Date: 0/0/1997 
@@ -30285,7 +30285,7 @@ Source: Days of Fortune
 Author: STEWART
 Vol / Page: 42
 Edition: 
-Quote: And during the troubles [sc. an 1890 strike] , about 100 seamen from other ports stayed in baches in an area called ‘Sweat Rag Alley' in Port Chalmers. I t was said that each resident there had a dog - and the name ‘Dogtown' unfortunately stuck to the Borough for a long time.	
+Quote: And during the troubles [sc. an 1890 strike] , about 100 seamen from other ports stayed in baches in an area called 'Sweat Rag Alley' in Port Chalmers. I t was said that each resident there had a dog - and the name 'Dogtown' unfortunately stuck to the Borough for a long time.	
 Notes: 
 
 dog trial
@@ -30807,7 +30807,7 @@ Source: Press, The
 Author: 
 Vol / Page: 19
 Edition: 
-Quote: There are such expressive terms as to "bring in" referring to developing land out of the native for farming; 'dog tucker' for sheep kept for feeding dogs …
+Quote: There are such expressive terms as to "bring in" referring to developing land out of the native for farming; 'dog tucker' for sheep kept for feeding dogs ...
 Notes: 
 
 Date: 0/0/1996 
@@ -30947,7 +30947,7 @@ Source: English in Aotearoa
 Author: 
 Vol / Page: 10
 Edition: 
-Quote: Dog tucker country is poor, lean, hungry land with a thin sole of grass …
+Quote: Dog tucker country is poor, lean, hungry land with a thin sole of grass ...
 Notes: 
 
 Date: 0/0/2001 
@@ -32175,7 +32175,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2021
 Edition: 
-Quote: Dog´.leg fence´. (d&omacr.g´.l&ebreve.g f&ebreve.ns´.).} A kind of rough fence, Dog´.leg (d&omacr.g´.l&ebreve.g), n. } made of posts and rails. Light posts (about 3 ft. 6 in. in height) are arranged in pairs, crosswise, so as to form a fork about 18 in. from the top. Each fork supports a rail, which is laid slantwise and plaited in and out among the three or four neighbouring supports, its lower end being driven into the ground. Sometimes the whole is capped with a horizontal rail, laid from fork to fork.
+Quote: Dog'.leg fence'. (d&omacr.g'.l&ebreve.g f&ebreve.ns'.).} A kind of rough fence, Dog'.leg (d&omacr.g'.l&ebreve.g), n. } made of posts and rails. Light posts (about 3 ft. 6 in. in height) are arranged in pairs, crosswise, so as to form a fork about 18 in. from the top. Each fork supports a rail, which is laid slantwise and plaited in and out among the three or four neighbouring supports, its lower end being driven into the ground. Sometimes the whole is capped with a horizontal rail, laid from fork to fork.
 Notes: 
 
 Date: 0/0/1935 
@@ -33107,7 +33107,7 @@ Source: Internet - see Notes
 Author: 
 Vol / Page: 
 Edition: 
-Quote: The net also plays into the Tories’ hands by facilitating the “dog-whistle” campaigning at which Michael Howard has become increasingly adept. Just as a dog-whistle is inaudible to humans but is heard by every canine within miles, Howard has been beaming messages at targeted groups—anti-abortion campaigners, and people hostile to immigrants, gypsies and asylum-seekers—which, if broadcast in the normal way, might repel the majority of voters.   
+Quote: The net also plays into the Tories' hands by facilitating the "dog-whistle" campaigning at which Michael Howard has become increasingly adept. Just as a dog-whistle is inaudible to humans but is heard by every canine within miles, Howard has been beaming messages at targeted groups-anti-abortion campaigners, and people hostile to immigrants, gypsies and asylum-seekers-which, if broadcast in the normal way, might repel the majority of voters.   
 Notes: [the Observer, 10 Apr. 2005] quoted on www.worldwidewords.org/turnsofphrase/tp-dog2htm Not a Kiwi quote
 
 dog-whistler
@@ -33209,7 +33209,7 @@ Source: Listener (New Zealand Listener)
 Author: 
 Vol / Page: 26
 Edition: 
-Quote: They call it ‘doing a march': marching the dealers at gunpoint to their plot, or stash, or cash reserves.
+Quote: They call it 'doing a march': marching the dealers at gunpoint to their plot, or stash, or cash reserves.
 Notes: 
 
 doing a Tuku
@@ -33993,7 +33993,7 @@ Source: Questionnaire Respondents (DB)
 Author: 
 Vol / Page: 
 Edition: 
-Quote: a ewe – a dolly.
+Quote: a ewe - a dolly.
 Notes: 
 
 dolly
@@ -35279,7 +35279,7 @@ Source: Watch of Gryphons
 Author: Owen Marshall
 Vol / Page: 215
 Edition: 
-Quote: ‘We’re going to be done like a dinner by this guy,’ said Eddie. ‘We’re going to be arseholed out and our feet won’t even touch the ground.’
+Quote: 'We're going to be done like a dinner by this guy,' said Eddie. 'We're going to be arseholed out and our feet won't even touch the ground.'
 Notes: 
 
 Date: 27/5/2004 
@@ -36685,7 +36685,7 @@ Source: Ashburton Guardian
 Author: 
 Vol / Page: 5
 Edition: 
-Quote: There were fancy stalls, produce tents, butchers’ shops, skittle alleys, a shooting gallery, the good old game of “Doodlum Buck,” bowling alleys, prize quoit boards, etc.
+Quote: There were fancy stalls, produce tents, butchers' shops, skittle alleys, a shooting gallery, the good old game of "Doodlum Buck," bowling alleys, prize quoit boards, etc.
 Notes: 
 
 Date: 0/0/1953 
@@ -37512,7 +37512,7 @@ Notes:
 Citations 
 Date: 0/0/1998 
 Source: Yin & Tonic
-Author: RENÉE
+Author: RENEE
 Vol / Page: 127
 Edition: 
 Quote: But oh no, some dork - or dorkess, let's not be sexist here - decided  that that would be too easy.
@@ -37575,7 +37575,7 @@ Source: Listener (New Zealand Listener)
 Author: 
 Vol / Page: 36
 Edition: 
-Quote: South Island après ski - it can mean trying not to look too much like a Dorklander over a mulled wine (sadly, a dead giveaway) at the iconic Cardrona Hotel.
+Quote: South Island apres ski - it can mean trying not to look too much like a Dorklander over a mulled wine (sadly, a dead giveaway) at the iconic Cardrona Hotel.
 Notes: 
 
 Date: 10/10/2001 
@@ -38223,7 +38223,7 @@ Source: Viaducts against the Sky
 Author: BIRD
 Vol / Page: 130
 Edition: 
-Quote: A man known as 'Jacko' ran a double on the two contests, 1/- for £5.
+Quote: A man known as 'Jacko' ran a double on the two contests, 1/- for GBP5.
 Notes: 
 
 Date: 14/3/1934 
@@ -39143,7 +39143,7 @@ Source: Taranaki Herald
 Author: 
 Vol / Page: 5
 Edition: 
-Quote: Among the material were two doubles cards at 2/- for £5.
+Quote: Among the material were two doubles cards at 2/- for GBP5.
 Notes: 
 
 Date: 0/0/1939 
@@ -40377,7 +40377,7 @@ Source: Dawn Beloved
 Author: DEVANNY
 Vol / Page: 163
 Edition: 
-Quote: Sometimes two pennies are filed down to half their thickness and then joined together. A double-tailer is called a ‘grey'; a double-header a ‘nob.
+Quote: Sometimes two pennies are filed down to half their thickness and then joined together. A double-tailer is called a 'grey'; a double-header a 'nob.
 Notes: 
 
 double-header
@@ -40443,7 +40443,7 @@ Source: On the Next Tide
 Author: 
 Vol / Page: 91
 Edition: 
-Quote: Sometimes we’d lift our [crayfish] pots twice in the same day – double-picking we called it.
+Quote: Sometimes we'd lift our [crayfish] pots twice in the same day - double-picking we called it.
 Notes: 
 
 doubler
@@ -40569,7 +40569,7 @@ Source: On the Next Tide
 Author: HARGREAVES
 Vol / Page: 14
 Edition: 
-Quote: He would fill up about eight or ten massive wheat sacks we used to call ‘double stripers’ with crays and sew them along the top. He’d get 2/6 for a sack. That was back in the late 1920s through till about 1935.
+Quote: He would fill up about eight or ten massive wheat sacks we used to call 'double stripers' with crays and sew them along the top. He'd get 2/6 for a sack. That was back in the late 1920s through till about 1935.
 Notes: 
 
 double-tailer
@@ -40591,7 +40591,7 @@ Source: Dawn Beloved
 Author: DEVANNY
 Vol / Page: 163
 Edition: 
-Quote: Sometimes two pennies are filed down to half their thickness and then joined together. A double-tailer is called a ‘grey'; a double-header a ‘nob.
+Quote: Sometimes two pennies are filed down to half their thickness and then joined together. A double-tailer is called a 'grey'; a double-header a 'nob.
 Notes: 
 
 double-yolker
@@ -40695,7 +40695,7 @@ Source: Talking about O'Dwyer
 Author: STEAD
 Vol / Page: 54
 Edition: 
-Quote: He remembers ‘doubling' her on his bike down to Bridge Avenue for a swim, her black hair in his mouth,
+Quote: He remembers 'doubling' her on his bike down to Bridge Avenue for a swim, her black hair in his mouth,
 Notes: 
 
 Date: 0/0/2000 
@@ -42659,7 +42659,7 @@ Source: Six Pack 3, The
 Author: David Geary
 Vol / Page: 126
 Edition: 
-Quote: ‘You see,’ said the Mayor...‘what you don’t realise is we’re not just thinking about tomorrow. We’re thinking twenty-five years down the track.’
+Quote: 'You see,' said the Mayor...'what you don't realise is we're not just thinking about tomorrow. We're thinking twenty-five years down the track.'
 Notes: 
 
 down the track
@@ -43048,7 +43048,7 @@ Author: THOMSON
 Vol / Page: 20
 Edition: 
 Quote: There's a subtle difference between back-country men and those enslaved to industry and commerce. ... `The blokes up here think with their hearts,' said one of my mates one night after a session in a country pub with a crowd of cullers, musterers and shearers. `Down country they only think with their heads.' 
-Notes: [?n in the dc; ?av equiv. up here] ‘
+Notes: [?n in the dc; ?av equiv. up here] '
 
 down-country
 Homonym Number: 
@@ -43757,7 +43757,7 @@ Source: Early Canterbury Runs
 Author: ACLAND
 Vol / Page: 370
 Edition: 
-Quote: dozie: country where sheep lose condition and do not thrive – go dopie, in fact it is called d.
+Quote: dozie: country where sheep lose condition and do not thrive - go dopie, in fact it is called d.
 Notes: 
 
 dozie
@@ -44849,7 +44849,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2021
 Edition: 
-Quote: Draft´.er (dr&adot.ft´.&etilde.r), n. One who drafts; esp., one who separates sheep into flocks in a drafting yard.
+Quote: Draft'.er (dr&adot.ft'.&etilde.r), n. One who drafts; esp., one who separates sheep into flocks in a drafting yard.
 Notes: 
 
 Date: 0/0/1968 
@@ -45349,7 +45349,7 @@ Source: Man of the People, A
 Author: Geary
 Vol / Page: 132
 Edition: 
-Quote: A drench salesman had sworn he’d once seen Craven break alkathene across the rear of one hyena-looking huntaway that wouldn’t stay out of the drafting race.
+Quote: A drench salesman had sworn he'd once seen Craven break alkathene across the rear of one hyena-looking huntaway that wouldn't stay out of the drafting race.
 Notes: 
 
 Date: 18/12/1856 
@@ -46739,7 +46739,7 @@ Source: Geological Society of NZ Newsletter
 Author: 
 Vol / Page: 59/68
 Edition: 
-Quote: Phil Moore’s introduction hints at a possible larger gathering next year, but in Hawkes Bay, so even if I’m lucky enough to draw a marble for it, I have still missed a chance to look at those crucial Gisborne areas on the ground in company with some geologists whose competence and judgement I respect and admire.
+Quote: Phil Moore's introduction hints at a possible larger gathering next year, but in Hawkes Bay, so even if I'm lucky enough to draw a marble for it, I have still missed a chance to look at those crucial Gisborne areas on the ground in company with some geologists whose competence and judgement I respect and admire.
 Notes: 
 
 dray
@@ -47165,7 +47165,7 @@ Pronunciation:
 Notes:
 Citations 
 Date: 0/0/1874 
-Source: Crusts: a settler’s fare due south
+Source: Crusts: a settler's fare due south
 Author: KENNAWAY
 Vol / Page: 72
 Edition: 
@@ -47345,7 +47345,7 @@ Pronunciation:
 Notes:
 Citations 
 Date: 0/0/1874 
-Source: Crusts: a settler’s fare due south
+Source: Crusts: a settler's fare due south
 Author: KENNAWAY
 Vol / Page: 169
 Edition: 
@@ -47421,7 +47421,7 @@ Pronunciation:
 Notes:
 Citations 
 Date: 0/0/1874 
-Source: Crusts: a settler’s fare due south
+Source: Crusts: a settler's fare due south
 Author: KENNAWAY
 Vol / Page: 155
 Edition: 
@@ -47559,7 +47559,7 @@ Pronunciation:
 Notes:
 Citations 
 Date: 0/0/1874 
-Source: Crusts: a settler’s fare due south
+Source: Crusts: a settler's fare due south
 Author: KENNAWAY
 Vol / Page: 166
 Edition: 
@@ -48504,7 +48504,7 @@ drive
 Homonym Number: 
 Word Class:noun
 Sense Number: 1
-Definition:a concentrated ‘push’ to destroy large colonies of rabbits or hares. 
+Definition:a concentrated 'push' to destroy large colonies of rabbits or hares. 
 Origin:[none]
 Register:
 Register 2:
@@ -48719,7 +48719,7 @@ Quote: ... I mention these impediments more particularly, to shew the utter impo
 Notes: 
 
 Date: 0/0/1874 
-Source: Crusts: a settler’s fare due south
+Source: Crusts: a settler's fare due south
 Author: KENNAWAY
 Vol / Page: 45
 Edition: 
@@ -48787,7 +48787,7 @@ Quote: [Mr Harris] asked me to bring a mob of sheep from Moorhouses ... for him,
 Notes: 
 
 Date: 0/0/1874 
-Source: Crusts: a settler’s fare due south
+Source: Crusts: a settler's fare due south
 Author: KENNAWAY
 Vol / Page: 56
 Edition: 
@@ -48830,7 +48830,7 @@ drive
 Homonym Number: 2
 Word Class:verb
 Sense Number:
-Definition:to fall a group of trees whose trunks have been partially cut through, and so placed that the impetus of falling a chosen one will set off a `chain reaction'. See drive n².. 
+Definition:to fall a group of trees whose trunks have been partially cut through, and so placed that the impetus of falling a chosen one will set off a `chain reaction'. See drive n2.. 
 Origin:
 Register:
 Register 2:
@@ -49684,7 +49684,7 @@ driver
 Homonym Number: 
 Word Class:noun
 Sense Number:
-Definition:a leather flange attached to a sickle-hook or reap-hook for grass-cutting, to prevent injuries to cocksfooters' wrists.    
+Definition:a leather flange attached to a sickle-hook or reap-hook for grass-cutting, to prevent injuries to cocksfooters' wrists.
 Origin:[none]
 Register:
 Register 2:
@@ -50101,7 +50101,7 @@ Source: Blindsight
 Author: Gee
 Vol / Page: 50
 Edition: 
-Quote: He smiled at Mother when he came back. ‘Dad’s a bit of a drongo,’ he said.
+Quote: He smiled at Mother when he came back. 'Dad's a bit of a drongo,' he said.
 Notes: 
 
 Date: 17/3/2001 
@@ -51624,7 +51624,7 @@ dropping
 Homonym Number: 
 Word Class:noun
 Sense Number:
-Definition:the action of a dropper n.²
+Definition:the action of a dropper n.2
 Origin:[none]
 Register:
 Register 2:
@@ -52661,7 +52661,7 @@ Source: NZ Journal of Science & Technology
 Author: 
 Vol / Page: IV/16
 Edition: 
-Quote: KYPHOSUS SYDNEYANUS Günther. <i>Drummer</i>. ... Distribution: North Island coasts. 
+Quote: KYPHOSUS SYDNEYANUS Gunther. <i>Drummer</i>. ... Distribution: North Island coasts. 
 Notes: 
 
 Date: 0/0/1957 
@@ -54003,7 +54003,7 @@ Source: NZ Antarctic Record
 Author: 
 Vol / Page: 1(1) : 15
 Edition: 
-Quote: There are three main Dry Valleys, the Victoria Valley in the north, the Taylor Valley in the south and the Wright Valley in the west. Together these three valley systems expose 4000 km² of moraines, sediments and rocks - an oasis on the edge of the ice sheet.
+Quote: There are three main Dry Valleys, the Victoria Valley in the north, the Taylor Valley in the south and the Wright Valley in the west. Together these three valley systems expose 4000 km2 of moraines, sediments and rocks - an oasis on the edge of the ice sheet.
 Notes: 
 
 Date: 0/3/1970 
@@ -55297,7 +55297,7 @@ Source: Grey River Argus
 Author: 
 Vol / Page: 1
 Edition: 
-Quote: [Advt] Modern Reflex Mirror Duchess, withCabriolet Legs... Now Only £4/10/-.
+Quote: [Advt] Modern Reflex Mirror Duchess, withCabriolet Legs... Now Only GBP4/10/-.
 Notes: 
 
 Date: 1/4/1924 
@@ -55375,7 +55375,7 @@ Source: Dominion
 Author: 
 Vol / Page: 11
 Edition: 
-Quote: Duchesse Chests.. from 42s to £10.
+Quote: Duchesse Chests.. from 42s to GBP10.
 Notes: 
 
 Date: 23/5/1918 
@@ -55703,7 +55703,7 @@ Source: Geological Society of NZ Newsletter
 Author: 
 Vol / Page: 84/52
 Edition: 
-Quote: The Government’s Proposals for Resource Management Law Reform: a True Reform or a Case of Duck Shoving?
+Quote: The Government's Proposals for Resource Management Law Reform: a True Reform or a Case of Duck Shoving?
 Notes: 
 
 Date: 13/12/1990 
@@ -56411,7 +56411,7 @@ Source: Listener (New Zealand Listener)
 Author: 
 Vol / Page: 54
 Edition: 
-Quote: While presenting a programme on Radio Sport recently, I asked listeners what a "dudapper" was... Eventually, one caller came up with the correct answer : a dudapper was once the term used to describe a delivery that bounced twice before reaching the batsman. Shortly after, an elderly gentleman rang in to say that when he was a youngster playing school cricket in England, a team-mate by the name of Nipper Dingle made a specialty of such a delivery. I distinctly remember," said the caller, " our master taking us for practices and saying, ‘I've never seen a boy who could bowl a dudapper like you, Nipper Dingle.'"
+Quote: While presenting a programme on Radio Sport recently, I asked listeners what a "dudapper" was... Eventually, one caller came up with the correct answer : a dudapper was once the term used to describe a delivery that bounced twice before reaching the batsman. Shortly after, an elderly gentleman rang in to say that when he was a youngster playing school cricket in England, a team-mate by the name of Nipper Dingle made a specialty of such a delivery. I distinctly remember," said the caller, " our master taking us for practices and saying, 'I've never seen a boy who could bowl a dudapper like you, Nipper Dingle.'"
 Notes: 
 
 dudeen
@@ -56445,7 +56445,7 @@ Quote:  ... we were roused by a roaring in our ears, and had only time, the one 
 Notes: 
 
 Date: 0/0/1874 
-Source: Crusts: a settler’s fare due south
+Source: Crusts: a settler's fare due south
 Author: KENNAWAY
 Vol / Page: 32
 Edition: 
@@ -57463,7 +57463,7 @@ Source: Hawera Star
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: The Dummying Question. At the dummyism inquiry today …
+Quote: The Dummying Question. At the dummyism inquiry today ...
 Notes: 
 
 Date: 6/8/1900 
@@ -58188,7 +58188,7 @@ Notes:
 Citations 
 Date: 0/0/1998 
 Source: Yin & Tonic
-Author: RENÉE
+Author: RENEE
 Vol / Page: 10
 Edition: 
 Quote: Usually on Sunday afternoons we're filling the car and its boot with garden rubbish because we're going to the dump, or we're actually going to the dump, or we're gardening because next weekend we are planning to go to the dump.
@@ -58935,7 +58935,7 @@ Source: Rip It Up (Auckland)
 Author: 
 Vol / Page: 98/32
 Edition: 
-Quote: On musical terms, ‘Dunedin Sound on 45' was a good idea which could have been done better or worse.
+Quote: On musical terms, 'Dunedin Sound on 45' was a good idea which could have been done better or worse.
 Notes: Note apparent date anomaly wwith previous citation, needs checking
 
 Date: 17/5/1986 
@@ -58951,7 +58951,7 @@ Source: Stranded in Paradise
 Author: DIX
 Vol / Page: 287
 Edition: 
-Quote: Four Dunedin bands - the Chills, Sneaky feelings, Stones and Verlaines - contributed three songs each... The development of these four groups was the yardstick by which outsiders would follow the growth of the ‘Dunedin Sound'.
+Quote: Four Dunedin bands - the Chills, Sneaky feelings, Stones and Verlaines - contributed three songs each... The development of these four groups was the yardstick by which outsiders would follow the growth of the 'Dunedin Sound'.
 Notes: 
 
 Date: 0/11/1991 
@@ -61392,7 +61392,7 @@ Duvaucel's gecko
 Homonym Number: 
 Word Class:noun
 Sense Number:
-Definition:NZ’s largest remaining gecko, now limited to island populations.  Long-lived, sometimes exceeding 40 years.
+Definition:NZ's largest remaining gecko, now limited to island populations.  Long-lived, sometimes exceeding 40 years.
 Origin:[none]
 Register:
 Register 2:

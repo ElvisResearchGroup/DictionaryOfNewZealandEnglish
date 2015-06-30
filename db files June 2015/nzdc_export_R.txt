@@ -356,6 +356,8 @@ Edition:
 
 
 
+
+
 Quote:  At a meeting of the Awatere Rabbit Board, the Chairman read a letter from Mr. Beaumont, a runholder, who has made various experiments in getting rid of the rabbit pest on his property.
 Notes:  
 
@@ -874,7 +876,7 @@ Source:  Marlborough Express
 Author:  
 Vol / Page:  3
 Edition:  
-Quote:  Claim for £5, balance of £10 drawn from the Rabbit Factory on account of Scott and Laurie and Walshe and Taafe, who had been rabbiting together at Meadow Bank.
+Quote:  Claim for GBP5, balance of GBP10 drawn from the Rabbit Factory on account of Scott and Laurie and Walshe and Taafe, who had been rabbiting together at Meadow Bank.
 Notes:  
 
 Date:  21/4/1931 
@@ -992,7 +994,7 @@ Source:  Settler's Handbook of NZ, The
 Author:  
 Vol / Page:  217
 Edition:  
-Quote:  All rabbit fences may be declared sufficient under the Fencing Act …
+Quote:  All rabbit fences may be declared sufficient under the Fencing Act 
 Notes:  
 
 Date:  0/0/1952 
@@ -1088,7 +1090,7 @@ Source:  NZ Memories
 Author:  
 Vol / Page:  June/July 63
 Edition:  
-Quote:  By law, motorists still had to contend with a ‘rabbit gate’ stationed at each end of the bridge.
+Quote:  By law, motorists still had to contend with a 'rabbit gate' stationed at each end of the bridge.
 Notes:  
 
 rabbit inspector
@@ -1110,7 +1112,7 @@ Source:  Tuapeka Times
 Author:  
 Vol / Page:  2
 Edition:  
-Quote:  Mr. Bamford (Rabbit Inspector) furnished the Council with an account amounting to £3 15s 3d being wages of men employed destroying rabbits on the Benger commonage.
+Quote:  Mr. Bamford (Rabbit Inspector) furnished the Council with an account amounting to GBP3 15s 3d being wages of men employed destroying rabbits on the Benger commonage.
 Notes:  
 
 Date:  8/4/1911 
@@ -1118,7 +1120,7 @@ Source:  Grey River Argus
 Author:  
 Vol / Page:  3
 Edition:  
-Quote:  Piripi Waaka was fined £5 and costs 9s for failing to obey an order of the Court to destroy rabbits on his property. The charge was preferred against the native by L.C. Webb, rabbit inspector, who stated that accused stopped work before the pest was satisfactorily dealt with.
+Quote:  Piripi Waaka was fined GBP5 and costs 9s for failing to obey an order of the Court to destroy rabbits on his property. The charge was preferred against the native by L.C. Webb, rabbit inspector, who stated that accused stopped work before the pest was satisfactorily dealt with.
 Notes:  
 
 Date:  15/6/1895 
@@ -1458,7 +1460,7 @@ Source:  Wanganui Herald
 Author:  
 Vol / Page:  2
 Edition:  
-Quote:  A run of 160,000 acres, lately thrown up by Hon. R. Campbell on account of rabbits, has been rented by some rabbiters for £30 a year for the purpose of rabbiting.
+Quote:  A run of 160,000 acres, lately thrown up by Hon. R. Campbell on account of rabbits, has been rented by some rabbiters for GBP30 a year for the purpose of rabbiting.
 Notes:  
 
 Date:  13/1/2000 
@@ -1668,7 +1670,7 @@ Source:  Mataura Ensign
 Author:  
 Vol / Page:  5
 Edition:  
-Quote:  RUN No 1 - Containing about 3600 acres, upset rent, 4½d per acre, subject to payment of valuation of L47 7s 6d, for fencing and rabbiters' hut.
+Quote:  RUN No 1 - Containing about 3600 acres, upset rent, 4 1/2d per acre, subject to payment of valuation of L47 7s 6d, for fencing and rabbiters' hut.
 Notes:  
 
 Date:  19/3/1951 
@@ -1708,7 +1710,7 @@ Source:  Loughnan Glossary
 Author:  LOUGHNAN
 Vol / Page:  64
 Edition:  
-Quote:  The Rabbiters: a gang of rural Hawke’s Bay workers made up of remittance men that included only those with some sort of British title.
+Quote:  The Rabbiters: a gang of rural Hawke's Bay workers made up of remittance men that included only those with some sort of British title.
 Notes:  
 
 rabbit-fencing
@@ -1738,7 +1740,7 @@ Source:  Evening Post
 Author:  
 Vol / Page:  4
 Edition:  
-Quote:  Nearly every Rabbit Inspector in the Australasian colonies swears by it, and yet when, in 1884-1886, we suppressed the rabbit in South Wairarapa — over 1,500,000 acres of land — rabbit-fencing was avoided as a remedy.
+Quote:  Nearly every Rabbit Inspector in the Australasian colonies swears by it, and yet when, in 1884-1886, we suppressed the rabbit in South Wairarapa - over 1,500,000 acres of land - rabbit-fencing was avoided as a remedy.
 Notes:  
 
 Date:  29/9/1888 
@@ -1878,7 +1880,7 @@ Source:  Wanganui Herald
 Author:  
 Vol / Page:  2
 Edition:  
-Quote:  A run of 160,000 acres, lately thrown up by Hon. R. Campbell on account of rabbits, has been rented by some rabbiters for £30 a year for the purpose of rabbiting.
+Quote:  A run of 160,000 acres, lately thrown up by Hon. R. Campbell on account of rabbits, has been rented by some rabbiters for GBP30 a year for the purpose of rabbiting.
 Notes:  
 
 Date:  8/12/1873 
@@ -1946,7 +1948,7 @@ Source:  Merriam-Webster Third International
 Author:  
 Vol / Page:  2029
 Edition:  
-Quote:  Rabì.bit-ing (-&ibreve.ng), n. The occupation of a rabbiter. 
+Quote:  Rabi.bit-ing (-&ibreve.ng), n. The occupation of a rabbiter. 
 
 
 Notes:  
@@ -2497,6 +2499,7 @@ Notes:
 
 Date:  8/12/1876 
 Source:  Southland Times
+
 Author:  
 Vol / Page:  2
 Edition:  
@@ -3087,7 +3090,7 @@ Source:  Hawera & Normanby Star
 Author:  
 Vol / Page:  7
 Edition:  
-Quote:  Has wintered 85 cows, 140 yearlings, 12 big steers, 85 sheep, 6 horses; 3 miles from railway station, saleyards; ¾ mile from school, store and Post Office; good house 6 rooms; new race shed for 20 cows.
+Quote:  Has wintered 85 cows, 140 yearlings, 12 big steers, 85 sheep, 6 horses; 3 miles from railway station, saleyards; 3/4 mile from school, store and Post Office; good house 6 rooms; new race shed for 20 cows.
 Notes:  
 
 Date:  0/9/1971 
@@ -3675,7 +3678,7 @@ Source:  Grey River Argus
 Author:  
 Vol / Page:  3
 Edition:  
-Quote:  CHAMPION HANDICAP SAW, 2ft log. First £6 and trophy racing saw presented by E.M Sheedy, Esq ...
+Quote:  CHAMPION HANDICAP SAW, 2ft log. First GBP6 and trophy racing saw presented by E.M Sheedy, Esq ...
 Notes:  
 
 Date:  8/2/1915 
@@ -3683,7 +3686,7 @@ Source:  Grey River Argus
 Author:  
 Vol / Page:  1
 Edition:  
-Quote:  SAWING HANDICAP. £6 and two Racing Saws donated by Mr. Pettit.
+Quote:  SAWING HANDICAP. GBP6 and two Racing Saws donated by Mr. Pettit.
 Notes:  
 
 Date:  17/3/1920 
@@ -4062,7 +4065,7 @@ raddle money
  Homonym Number:  
 Word Class: noun
 Sense Number:  1
-Definition: a deduction made to a shearer’s pay for sheep that are cut during shearing [such sheep being marked with raddle.]  
+Definition: a deduction made to a shearer's pay for sheep that are cut during shearing [such sheep being marked with raddle.]  
 
 
 Origin: [none]
@@ -4381,7 +4384,7 @@ Source:  Internet - see Notes
 Author:  
 Vol / Page:  
 Edition:  
-Quote:  A funky new ‘radio-sode’ targeting youth will air every day in a bid to encourage a new generation to speak Mâori.
+Quote:  A funky new 'radio-sode' targeting youth will air every day in a bid to encourage a new generation to speak Maori.
 Notes:  http://www.tetaurawhiri.govt.nz/maori/press_m/brownst.shtml
 
 Date:  0/5/2005 
@@ -5775,8 +5778,7 @@ Source:  Listener (New Zealand Listener)
 Author:  
 Vol / Page:  22
 Edition:  
-Quote:  Claimants will dredge up evidence about historical rights to traverse various regions, to hunt and gather, and - most interestingly - to impose bans on use and passage to mark deaths or drownings or conserve re
-Sources (rahui), or preserve sacred areas (wahitapu).
+Quote:  Claimants will dredge up evidence about historical rights to traverse various regions, to hunt and gather, and - most interestingly - to impose bans on use and passage to mark deaths or drownings or conserve resources (rahui), or preserve sacred areas (wahitapu).
 Notes:  
 
 Date:  14/11/2004 
@@ -6086,7 +6088,7 @@ Source:  Railways of NZ
 Author:  LEITCH
 Vol / Page:  193
 Edition:  
-Quote:  The two rail-buses built in 1926 were just that - Ford Model ‘T' buses on flanged wheels.
+Quote:  The two rail-buses built in 1926 were just that - Ford Model 'T' buses on flanged wheels.
 
 
 Notes:  
@@ -6720,7 +6722,7 @@ Source:  NZ Observer
 Author:  
 Vol / Page:  22
 Edition:  
-Quote:  Rainbow Cake... Divide the mixture into three parts... As ordinary tins are not big enough, as the cake rises very high, cut the bottoms of three petrol tins, leaving them with sides about 3½ ins. high.
+Quote:  Rainbow Cake... Divide the mixture into three parts... As ordinary tins are not big enough, as the cake rises very high, cut the bottoms of three petrol tins, leaving them with sides about 3 1/2 ins. high.
 
 
 Notes:  
@@ -6730,7 +6732,7 @@ Source:  Bush Advocate
 Author:  
 Vol / Page:  5
 Edition:  
-Quote:  The following is a tested recipe for rainbow cake:- Beat ¼ lb of butter to a cream; add ½ lb of sugar and 3 eggs separately (not beaten), ½ a cup of milk, ½  lb of flour, 1 teaspoonful cream of tartar and ½ a teaspoonful carbonate soda; essence to taste ...
+Quote:  The following is a tested recipe for rainbow cake:- Beat  1/2 lb of butter to a cream; add  1/2 lb of sugar and 3 eggs separately (not beaten),  1/2 a cup of milk,  1/2  lb of flour, 1 teaspoonful cream of tartar and  1/2 a teaspoonful carbonate soda; essence to taste ...
 Notes:  
 
 Date:  25/9/1930 
@@ -6738,7 +6740,7 @@ Source:  NZ Truth
 Author:  
 Vol / Page:  20
 Edition:  
-Quote:  Rainbow Cake. Three-quarters lb. butter; ¾lb. sugar; 1lb flour; 1 teaspoon cream tartar; ½ teaspoon carbonate soda; 4 eggs; ¾ cup milk, cochineal, enough to color; 2 tablespoons Cadbury's chocolate; vanilla to taste.
+Quote:  Rainbow Cake. Three-quarters lb. butter;  3/4lb. sugar; 1lb flour; 1 teaspoon cream tartar;  1/2 teaspoon carbonate soda; 4 eggs;  3/4 cup milk, cochineal, enough to color; 2 tablespoons Cadbury's chocolate; vanilla to taste.
 Notes:  
 
 Date:  0/0/1901 
@@ -7558,13 +7560,14 @@ Source:  Sons o' Men
 Author:  LANCASTER
 Vol / Page:  11
 Edition:  
-Quote:  We’ve only raked in [i.e. mustered] seven hundred [sheep] 
+Quote:  We've only raked in [i.e. mustered] seven hundred [sheep] 
 
 
 Notes:  
 
 Date:  0/0/1921 
 Source:  Tutira
+
 Author:  GUTHRIE-SMITH
 Vol / Page:  155
 Edition:  
@@ -7882,7 +7885,7 @@ Source:  Southern Gentry
 Author:  ELDRED-GRIGG
 Vol / Page:  52
 Edition:  
-Quote:  On the wool stations women were hard to find so that consolations were homosexuality (known in Canterbury as ‘ram') and grog.
+Quote:  On the wool stations women were hard to find so that consolations were homosexuality (known in Canterbury as 'ram') and grog.
 
 
 Notes:  
@@ -8228,7 +8231,7 @@ Source:  Merriam-Webster Third International
 Author:  
 Vol / Page:  2029
 Edition:  
-Quote:  Raì.ma-raì.ma (rä.ì.m&adot.-rä.ì.m&adot.; <i>colloq</i>.r&ubreve.mì.$a-r&ubreve.mì.$a), n. [Maori.] (<i>Bot.</i>) A New Zealand myrtaceous tree <i>Myrtus bullatus). [Local, N. Z., & obsoles.] </i>
+Quote:  Rai.ma-rai.ma (ra.i.m&adot.-ra.i.m&adot.; <i>colloq</i>.r&ubreve.mi.$a-r&ubreve.mi.$a), n. [Maori.] (<i>Bot.</i>) A New Zealand myrtaceous tree <i>Myrtus bullatus). [Local, N. Z., & obsoles.] </i>
 
 
 Notes:  
@@ -8912,7 +8915,7 @@ Source:  Evening Post
 Author:  
 Vol / Page:  5
 Edition:  
-Quote:  Three Ranfurly Shield matches between Hawke’s Bay and Canterbury were played in the 1923-28 period.
+Quote:  Three Ranfurly Shield matches between Hawke's Bay and Canterbury were played in the 1923-28 period.
 Notes:  
 
 Date:  5/6/1935 
@@ -9642,7 +9645,7 @@ Source:  Merriam-Webster Third International
 Author:  
 Vol / Page:  2029
 Edition:  
-Quote:  Raì.nga-tiì.ra (rä.ì.ng&adot.-t&emacr.ì.r&adot.), n. [Maori.] A Maori chief; a magistrate; lees exactly, a leading citizen. [New Zealand]
+Quote:  Rai.nga-tii.ra (ra.i.ng&adot.-t&emacr.i.r&adot.), n. [Maori.] A Maori chief; a magistrate; lees exactly, a leading citizen. [New Zealand]
 Notes:  
 
 Date:  0/0/1963 
@@ -9962,8 +9965,7 @@ Source:  Principles for Crown Action
 Author:  
 Vol / Page:  7
 Edition:  
-Quote:  The Principle of Self-Management The Rangatiratanga Principle The iwi have the right to organise as iwi, and, under the law, to control their re
-Sources as their own. <i>Ibid.</i> 11 
+Quote:  The Principle of Self-Management The Rangatiratanga Principle The iwi have the right to organise as iwi, and, under the law, to control their resources as their own. <i>Ibid.</i> 11 
 
 The New Zealand Maori Council has explained the concept of Rangatiratanga as meaning more
 
@@ -10093,8 +10095,7 @@ Notes:  1855 Jan Australian and NZ Gazette in 1856 Fitton NZ 180
 
 
 Date:  0/0/1862 
-Source:  Otago: Its Goldfields and Re
-Sources
+Source:  Otago: Its Goldfields and Resources
 Author:  
 Vol / Page:  34
 Edition:  
@@ -10188,7 +10189,7 @@ Quote:  The two made little excursions up and down the Gorge, and over the range
 Notes:  
 
 Date:  0/0/1874 
-Source:  Crusts: a settler’s fare due south
+Source:  Crusts: a settler's fare due south
 Author:  KENNAWAY
 Vol / Page:  11
 Edition:  
@@ -11131,7 +11132,7 @@ rangiora
  Homonym Number:  
 Word Class: noun
 Sense Number:  1
-Definition: [Ma.] an indigenous tree of the spp. Brachyglotti, known to hunters, musterers, and trampers as ‘bushman’s friend’.
+Definition: [Ma.] an indigenous tree of the spp. Brachyglotti, known to hunters, musterers, and trampers as 'bushman's friend'.
 
 
 Origin: [none]
@@ -11156,7 +11157,7 @@ Source:  Tales of the Mails
 Author:  MASTERS
 Vol / Page:  68
 Edition:  
-Quote:  On one occasion the buggy horses were tethered to some rangiora …
+Quote:  On one occasion the buggy horses were tethered to some rangiora 
 Notes:  
 
 rangiriri
@@ -11258,7 +11259,7 @@ Source:  Geological Society of NZ Newsletter
 Author:  
 Vol / Page:  82/36
 Edition:  
-Quote:  Another widespread silicic airfall tephra reported from southern North Island is the Rangitawa Pumice and its possible correlatives, the Omahina Tephra (Pillans 1979), the Lower Finnie Road Ash (Seward 1974 ; Pillans & Kohn 1981), and the Mangaroa Ash (Neeser et al. 1980), all with fission-track dates in the two-standard deviation age range of 370 ± 70 ky BP (Pillans & Kohn 1981; Kyle & Seward 1984; Kohl 1986, oral presentation).  The site 594 tephra could therefore be equivalent to the Rangitawa Pumice and its correlatives.
+Quote:  Another widespread silicic airfall tephra reported from southern North Island is the Rangitawa Pumice and its possible correlatives, the Omahina Tephra (Pillans 1979), the Lower Finnie Road Ash (Seward 1974 ; Pillans & Kohn 1981), and the Mangaroa Ash (Neeser et al. 1980), all with fission-track dates in the two-standard deviation age range of 370 +/- 70 ky BP (Pillans & Kohn 1981; Kyle & Seward 1984; Kohl 1986, oral presentation).  The site 594 tephra could therefore be equivalent to the Rangitawa Pumice and its correlatives.
 Notes:  
 
 rangiterer
@@ -12328,7 +12329,7 @@ rarangi
  Homonym Number:  
 Word Class: noun
 Sense Number: 
-Definition: rârangi: column; index; line; list; queue; rank; row; table; tandem
+Definition: rarangi: column; index; line; list; queue; rank; row; table; tandem
 Origin: Maori
 Register: 
 Register 2: 
@@ -12995,7 +12996,7 @@ Source:  Man of the People, A
 Author:  Geary
 Vol / Page:  81
 Edition:  
-Quote:  Did you go to church in Raro? I hear it’s quite amazing. They sing without an organ and that.
+Quote:  Did you go to church in Raro? I hear it's quite amazing. They sing without an organ and that.
 Notes:  
 
 Raro
@@ -13169,8 +13170,7 @@ Source:  Internet - see Notes
 Author:  
 Vol / Page:  0
 Edition:  
-Quote:  The Royal Agricultural Society of New Zealand (RAS) promotes the development of agricultural, pastoral, horticultural, stock-raising and forestry re
-Sources in New Zealand. ... The RAS of NZ is a member of the Royal Agricultural Society of the Commonwealth, which offers benefits to life members attending overseas Royal Shows. ... While the RAS was instigated at a time in New Zealand when farming and related activities were considered to be the dominant way of life, it is an organisation that is still very relevant today.
+Quote:  The Royal Agricultural Society of New Zealand (RAS) promotes the development of agricultural, pastoral, horticultural, stock-raising and forestry resources in New Zealand. ... The RAS of NZ is a member of the Royal Agricultural Society of the Commonwealth, which offers benefits to life members attending overseas Royal Shows. ... While the RAS was instigated at a time in New Zealand when farming and related activities were considered to be the dominant way of life, it is an organisation that is still very relevant today.
 Notes:  www.ras.org.nz
 
 rasp
@@ -13748,7 +13748,7 @@ Source:  Evening Post
 Author:  
 Vol / Page:  13
 Edition:  
-Quote:  [Hdg] Chip may end Army ‘rat-pack' rations... The days of the much-maligned "rat pack" which keeps soldiers fed in the field may be numbered, replaced by a microchip menu.	
+Quote:  [Hdg] Chip may end Army 'rat-pack' rations... The days of the much-maligned "rat pack" which keeps soldiers fed in the field may be numbered, replaced by a microchip menu.	
 
 
 Notes:  
@@ -15943,7 +15943,7 @@ Source:  Uncle's Story, The
 Author:  Ihimaera
 Vol / Page:  296
 Edition:  
-Quote:  ‘My life is already ratshit. One extra thing on top of it won’t make it any worse.’
+Quote:  'My life is already ratshit. One extra thing on top of it won't make it any worse.'
 Notes:  
 
 ratstail
@@ -16372,6 +16372,7 @@ Author:  AYLING
 Vol / Page:  160
 
 Edition:  1984
+
 Quote:  <i> LONG-NOSE	RATTAIL Coelorinchus innotabilis ..</i> . The long-nose rattail is the smallest of a group of three very similar species all of which are characterised by having a tapering pointed snout that is almost twice as long as the diameter of the fish's eye. 
 
 
@@ -16766,7 +16767,7 @@ Quote:  Their chairs barely warm, they are rattling Labour's dags for it already
 Notes:  
 
 Date:  0/0/1874 
-Source:  Crusts: a settler’s fare due south
+Source:  Crusts: a settler's fare due south
 Author:  KENNAWAY
 Vol / Page:  135
 Edition:  
@@ -16852,7 +16853,7 @@ Source:  Pagan Game, The
 Author:  SLATTER
 Vol / Page:  
 Edition:  
-Quote:  I’m not overstruck on that new cop. – Told me to rattle my dags out of there.
+Quote:  I'm not overstruck on that new cop. - Told me to rattle my dags out of there.
 Notes:  
 
 Date:  0/0/1981 
@@ -17470,6 +17471,8 @@ Quote:  <I> Pseudopanax edgerleyi</I> (Hook.f.) C. Koch  Maori name: <I> Raukawa
 
 
 Notes:  
+
+
 
 Date:  0/0/1982 
 Source:  Stewart Island Plants
@@ -18166,7 +18169,7 @@ Source:  Merriam-Webster Third International
 Author:  
 Vol / Page:  2030
 Edition:  
-Quote:  <i> Ra&#769;.u-po </i> (rä.&#769;.u-pò.; <i> colloq.</i> rou&#769;.pò.), n. [Maori.] (Bot.) A very common bulrush (<i> Typha angustifolia </i>), much used by Maoris and New Zealand settlers for thatching roofs, and for making hurdles, rafts, etc.  [<i> New Zealand </i>] 		
+Quote:  <i> Ra&#769;.u-po </i> (ra.&#769;.u-po.; <i> colloq.</i> rou&#769;.po.), n. [Maori.] (Bot.) A very common bulrush (<i> Typha angustifolia </i>), much used by Maoris and New Zealand settlers for thatching roofs, and for making hurdles, rafts, etc.  [<i> New Zealand </i>] 		
 
 
 Notes:  
@@ -18354,6 +18357,7 @@ Notes:
 Date:  0/0/1982 
 Source:  Two Hundred Years of NZ Food & Cookery
 Author:  BURTON
+
 Vol / Page:  5
 Edition:  
 Quote:  The inner parts and roots of the raupo (Typha orientalis) provided a meagre amount of food, but the seed heads were prized for their bright yellow pollen which was made into loaves known as 
@@ -18576,7 +18580,7 @@ Source:  Sport
 Author:  
 Vol / Page:  40
 Edition:  
-Quote:  ‘Smell'.. ‘Musky. Spicy. Raupo bread and a horseblanket spread on a summer hillside.'
+Quote:  'Smell'.. 'Musky. Spicy. Raupo bread and a horseblanket spread on a summer hillside.'
 
 
 Notes:  
@@ -18654,7 +18658,7 @@ Source:  Daily Southern Cross
 Author:  
 Vol / Page:  1
 Edition:  
-Quote:  AUCTION SALES. PROFITABLE INVESTMENT. <I>CONNELL & RIDINGS</I> WILL SELL BY PUBLIC AUCTION, At their Mart, Queen-street, on WEDNESDAY, 2nd August, at 11 o'clock, unless previously disposed of .. 1 ¾ acres of land fenced and cultivated, and well stocked with choice fruit trees, together with a Raupo Cottage thereon; of this lot immediate possession can be given.
+Quote:  AUCTION SALES. PROFITABLE INVESTMENT. <I>CONNELL & RIDINGS</I> WILL SELL BY PUBLIC AUCTION, At their Mart, Queen-street, on WEDNESDAY, 2nd August, at 11 o'clock, unless previously disposed of .. 1  3/4 acres of land fenced and cultivated, and well stocked with choice fruit trees, together with a Raupo Cottage thereon; of this lot immediate possession can be given.
 Notes:  
 
 raupo house
@@ -18663,6 +18667,7 @@ Word Class: noun
 Sense Number: 
 Definition: 
 Origin: [none]
+
 Register: 
 Register 2: 
 Domain: [none]
@@ -18676,7 +18681,7 @@ Source:  Daily Southern Cross
 Author:  
 Vol / Page:  5
 Edition:  
-Quote:  140 acres of land had been laid down in grass, for which he claimed £140; five head of cattle lost, £50; two cows, £30 .. raupo house, £60 ...
+Quote:  140 acres of land had been laid down in grass, for which he claimed GBP140; five head of cattle lost, GBP50; two cows, GBP30 .. raupo house, GBP60 ...
 Notes:  
 
 Date:  24/7/1915 
@@ -18858,7 +18863,7 @@ Source:  NZ Free Lance
 Author:  
 Vol / Page:  18
 Edition:  
-Quote:  When we first came to New Zealand the Maoris would retire to their raupo huts as soon as it got dark, being frightened of the ‘taipo' or devil.
+Quote:  When we first came to New Zealand the Maoris would retire to their raupo huts as soon as it got dark, being frightened of the 'taipo' or devil.
 
 
 Notes:  
@@ -18962,7 +18967,7 @@ Source:  Independent Herald (Wellington)
 Author:  
 Vol / Page:  14
 Edition:  
-Quote:  In October 1843, when a £20 tax on raupo
+Quote:  In October 1843, when a GBP20 tax on raupo
 
 huts was introduced, the [Mechanics']
 
@@ -19430,7 +19435,7 @@ Source:  Evening Post
 Author:  
 Vol / Page:  8
 Edition:  
-Quote:  I visited Day's Bay for the first time last week; and, within half a mile of the sea, and below 150 feet above sealevel, I saw, without leaving the footpath, the following trees, shrubs, etc. : — Koromiko (several species), kohekohe, mahoe,.papauma (not Griselinea), kotukutuku, manuka (Leptospermum scoparium), karamu, taupata, raurekau ...
+Quote:  I visited Day's Bay for the first time last week; and, within half a mile of the sea, and below 150 feet above sealevel, I saw, without leaving the footpath, the following trees, shrubs, etc. : - Koromiko (several species), kohekohe, mahoe,.papauma (not Griselinea), kotukutuku, manuka (Leptospermum scoparium), karamu, taupata, raurekau ...
 Notes:  
 
 Date:  0/0/1892 
@@ -19543,6 +19548,7 @@ raurenga
  Homonym Number:  
 Word Class: noun
 Sense Number: 
+
 Definition: 
 Origin: 
 Register: 
@@ -20362,7 +20368,7 @@ Source:  Journal
 Author:  STARK
 Vol / Page:  113
 Edition:  
-Quote:  cod-fish - raòoroo [rawaru]
+Quote:  cod-fish - raooroo [rawaru]
 Notes:  quote from 1827-28 BOULTBEE; grave accent on "o" of "rao"
 
 rawena
@@ -22565,7 +22571,7 @@ Source:  Hawke's Bay Property Guide
 Author:  
 Vol / Page:  47
 Edition:  
-Quote:  Rural delivery run – for sale.
+Quote:  Rural delivery run - for sale.
 Notes:  
 
 RD1
@@ -22824,6 +22830,7 @@ one down.' I am sure, however, that the auditor sensed that this was a bit of a 
 Notes:  
 
 ready up
+
  Homonym Number:  
 Word Class: verb
 Sense Number: 
@@ -23736,7 +23743,7 @@ Source:  Timaru Herald
 Author:  
 Vol / Page:  2
 Edition:  
-Quote:  Councillor Melton said a receiving yard, to be attached to the pound, was much wanted, and there was sufficient material left from the old pound to make such a yard - the putting up of which, together with filling up the post holes at the old pound, could be done for about £1 10.
+Quote:  Councillor Melton said a receiving yard, to be attached to the pound, was much wanted, and there was sufficient material left from the old pound to make such a yard - the putting up of which, together with filling up the post holes at the old pound, could be done for about GBP1 10.
 Notes:  
 
 Date:  0/0/1922 
@@ -25656,7 +25663,7 @@ Source:  Looking Back
 Author:  SINCLAIR & HARREX
 Vol / Page:  173
 Edition:  
-Quote:  [Caption] The ‘Red Fed villains' as they appeared in a rogue's gallery in the Otago Witness on 26 November 1913.
+Quote:  [Caption] The 'Red Fed villains' as they appeared in a rogue's gallery in the Otago Witness on 26 November 1913.
 
 
 Notes:  
@@ -25768,7 +25775,7 @@ Source:  Against the Wind
 Author:  BOLLINGER
 Vol / Page:  100
 Edition:  
-Quote:  As things turned out, the O.F.O.L. never became much broader than the old ‘Red Fed.'
+Quote:  As things turned out, the O.F.O.L. never became much broader than the old 'Red Fed.'
 
 
 Notes:  
@@ -26038,7 +26045,7 @@ Source:  Looking Back
 Author:  SINCLAIR & HARREX
 Vol / Page:  169
 Edition:  
-Quote:  It took the ‘Red Feds' some years to realize the irrelevance of such a doctrine [sc. workers taking over industry] in a country where the biggest factories were the railway workshops and where large-scale urban industries did not exist.
+Quote:  It took the 'Red Feds' some years to realize the irrelevance of such a doctrine [sc. workers taking over industry] in a country where the biggest factories were the railway workshops and where large-scale urban industries did not exist.
 
 
 Notes:  
@@ -29428,6 +29435,7 @@ Notes:
 Date:  23/4/2002 
 Source:  Midweek
 Author:  
+
 Vol / Page:  24
 Edition:  
 Quote:  Dippies, aggies, Redbands and Swanndris - forever tied to Massey University ...
@@ -31013,7 +31021,7 @@ Source:  West Coast Times
 Author:  
 Vol / Page:  2
 Edition:  
-Quote:  REWARD FUND. (<i>To the Editor.</i>) Sir,- Allow me to explain a paragraph which appeared in your issue of this morning to the effect that I offered to contribute £200 towards £1000 as a reward fund for the discovery of a payable gold-bearing quartz reef country in the County of Westland, south of the Teremakau.
+Quote:  REWARD FUND. (<i>To the Editor.</i>) Sir,- Allow me to explain a paragraph which appeared in your issue of this morning to the effect that I offered to contribute GBP200 towards GBP1000 as a reward fund for the discovery of a payable gold-bearing quartz reef country in the County of Westland, south of the Teremakau.
 Notes:  
 
 Date:  1/8/1912 
@@ -31035,7 +31043,7 @@ Quote:  Similarly in the Lyell, Antonio Zala had discovered a reef in 1869 ... N
 Notes:  
 
 Date:  0/0/1874 
-Source:  Crusts: a settler’s fare due south
+Source:  Crusts: a settler's fare due south
 Author:  KENNAWAY
 Vol / Page:  230
 Edition:  
@@ -31527,7 +31535,7 @@ Source:  Merriam-Webster Third International
 Author:  
 Vol / Page:  2030
 Edition:  
-Quote:  Reefì.er (-&etilde.r), n. (Mining) A quartz reefer. See under QUARTZ
+Quote:  Reefi.er (-&etilde.r), n. (Mining) A quartz reefer. See under QUARTZ
 Notes:  
 
 Date:  27/10/1867 
@@ -31731,7 +31739,7 @@ Source:  Evening Post
 Author:  
 Vol / Page:  2
 Edition:  
-Quote:  An application for a licensed holding at Mahakipawa has been lodged at the Warden's office. It is north of the Bright Smile and west of the Welcome claims. The name is the Success Coy.; area, 30 acres; capital, £10,000; mode of working, quartz reefing by machinery; term, 21 years; day of hearing, 21st prox.; James R. Brimor and party.
+Quote:  An application for a licensed holding at Mahakipawa has been lodged at the Warden's office. It is north of the Bright Smile and west of the Welcome claims. The name is the Success Coy.; area, 30 acres; capital, GBP10,000; mode of working, quartz reefing by machinery; term, 21 years; day of hearing, 21st prox.; James R. Brimor and party.
 Notes:  
 
 Date:  0/0/1914 
@@ -31919,7 +31927,7 @@ Source:  Otago Witness
 Author:  
 Vol / Page:  16
 Edition:  
-Quote:  Vigorous prospecting will now follow, and as all such legitimate enterprise is being liberally subsidised by the Hon. Mr Cadman— who, by the way, has become a fast favourite among the diggers here — the chances are that next summer may see a permanent and payable reefing field opened up in this locality.
+Quote:  Vigorous prospecting will now follow, and as all such legitimate enterprise is being liberally subsidised by the Hon. Mr Cadman- who, by the way, has become a fast favourite among the diggers here - the chances are that next summer may see a permanent and payable reefing field opened up in this locality.
 Notes:  
 
 Date:  4/8/1923 
@@ -33729,6 +33737,7 @@ Register 2:
 Domain: [none]
 Region: [none]
 See: 
+
 Pronunciation: 
 Notes: 
  Citations 
@@ -35204,7 +35213,7 @@ Vol / Page:  8
 Edition:  
 Quote:  EDUCATION BOARD. .. 
 
-That a relieving teacher be appointed at a salary of £175, with bonus and travelling fares.
+That a relieving teacher be appointed at a salary of GBP175, with bonus and travelling fares.
 Notes:  
 
 Date:  14/9/1900 
@@ -35212,7 +35221,7 @@ Source:  Taranaki Herald
 Author:  
 Vol / Page:  1
 Edition:  
-Quote:  Sir, — Allow me, through the medium of your paper, to protest against the action of the Education Board in sending Mr Moore, the new teacher of Dudley Road School, to be relieving teacher to some other school, as by so doing it is most unfair to Mr Moore and the children ...
+Quote:  Sir, - Allow me, through the medium of your paper, to protest against the action of the Education Board in sending Mr Moore, the new teacher of Dudley Road School, to be relieving teacher to some other school, as by so doing it is most unfair to Mr Moore and the children ...
 Notes:  
 
 Date:  15/3/1898 
@@ -35944,7 +35953,7 @@ Source:  West Coast Times
 Author:  
 Vol / Page:  2
 Edition:  
-Quote:  We learn from the Wellington Post that one of the first uses made of the Australian cable was by a remittance man. He telegraphed to his friends in England "Lend me £20." The answer received was "Paid for your telegram and this - balance per mail." He is now waiting for the mail that will bring him about enough to acknowledge the receipt by post.
+Quote:  We learn from the Wellington Post that one of the first uses made of the Australian cable was by a remittance man. He telegraphed to his friends in England "Lend me GBP20." The answer received was "Paid for your telegram and this - balance per mail." He is now waiting for the mail that will bring him about enough to acknowledge the receipt by post.
 Notes:  
 
 Date:  0/0/1960 
@@ -36918,6 +36927,7 @@ Pronunciation:
 Notes: 
  Citations 
 Date:  8/4/1911 
+
 Source:  NZ Truth
 Author:  
 Vol / Page:  302/1/1
@@ -37002,7 +37012,7 @@ Source:  Feilding Star
 Author:  
 Vol / Page:  2
 Edition:  
-Quote:  Says Kiwitea to Makino, / I’ll run into you clean O. / Says Makino to Kiwitea, / (i te reo Maori) – Pea.
+Quote:  Says Kiwitea to Makino, / I'll run into you clean O. / Says Makino to Kiwitea, / (i te reo Maori) - Pea.
 Notes:  
 
 Date:  13/6/1927 
@@ -37481,7 +37491,7 @@ Source:  Follow the Call
 Author:  ANTHONY
 Vol / Page:  105
 Edition:  
-Quote:  I had an order for £75 worth of furniture that I had applied for from the Repatriation Department...
+Quote:  I had an order for GBP75 worth of furniture that I had applied for from the Repatriation Department...
 Notes:  
 
 Date:  0/0/1924 
@@ -37929,6 +37939,7 @@ Pronunciation:
 Notes: 
  Citations 
 Date:  0/11/1986 
+
 Source:  NZ Journal of Agriculture
 Author:  
 Vol / Page:  22
@@ -38613,8 +38624,7 @@ Source:  Politics, Economics & Pastoral Land
 Author:  ACKROYD
 Vol / Page:  38
 Edition:  
-Quote:  That review [of the Land Act 1948] culminated in the Resource Management Act 1991 that has the single purpose of promoting the sustainable management of natural and physical re
-Sources .. Land management policies for the high country are now inextricably linked to the highly politicised policy and planning process  underpinning the Resource Management Act 1991.
+Quote:  That review [of the Land Act 1948] culminated in the Resource Management Act 1991 that has the single purpose of promoting the sustainable management of natural and physical resources .. Land management policies for the high country are now inextricably linked to the highly politicised policy and planning process  underpinning the Resource Management Act 1991.
 Notes:  
 
 Date:  0/0/1998 
@@ -39160,7 +39170,7 @@ Source:  NZ Nursing Review
 Author:  
 Vol / Page:  12
 Edition:  
-Quote:  "The group of us returning to the workforce were dubbed the ‘retreads', and the name has stuck."
+Quote:  "The group of us returning to the workforce were dubbed the 'retreads', and the name has stuck."
 Notes:  
 
 Date:  0/0/1966 
@@ -39451,7 +39461,9 @@ Notes:
  Citations 
 Date:  0/0/1894 
 Source:  Inky Way, The
+
 Author:  LOCKE
+
 Vol / Page:  154
 Edition:  
 Quote:  I could have managed my returned soldier's farm quite well, given half a chance.
@@ -43058,6 +43070,7 @@ Author:
 Vol / Page:  14
 Edition:  
 Quote:  They graze a strip of grass up near the ridgeline with an electric fence to keep them out of regenerating bush.
+
 Notes:  
 
 ridge-pole
@@ -43261,7 +43274,7 @@ Source:  Settler's Handbook of NZ, The
 Author:  
 Vol / Page:  239
 Edition:  
-Quote:  Country ridgy and broken, approaching to mountainous …
+Quote:  Country ridgy and broken, approaching to mountainous 
 Notes:  
 
 Date:  15/2/1912 
@@ -43369,7 +43382,7 @@ Source:  Hawera & Normanby Star
 Author:  
 Vol / Page:  5
 Edition:  
-Quote:  He noted that £400 had been allocated to
+Quote:  He noted that GBP400 had been allocated to
 
 the Waverley riding.
 
@@ -43623,7 +43636,7 @@ Source:  Merriam-Webster Third International
 Author:  
 Vol / Page:  2030
 Edition:  
-Quote:  <i>Riì.fle-man</i> (r&imacr.ì.f'l-man), <i>n. [Add.] </i>2. (Zoö.].) A small passerine bird of New Zealand (<i>Acanthidositta chloris</i>); so called from its green and bronze plumange, which is thought to resemble the uniform of the early British volunteer rifle corps. <i>Buller</i>. 
+Quote:  <i>Rii.fle-man</i> (r&imacr.i.f'l-man), <i>n. [Add.] </i>2. (Zoo.].) A small passerine bird of New Zealand (<i>Acanthidositta chloris</i>); so called from its green and bronze plumange, which is thought to resemble the uniform of the early British volunteer rifle corps. <i>Buller</i>. 
 
 
 Notes:  
@@ -44807,7 +44820,7 @@ Source:  Merriam-Webster Third International
 Author:  
 Vol / Page:  2030
 Edition:  
-Quote:   <I>Riì.mu</I> (r&emacr.ì.mu),<I> n.</I> [Maori.] (Bot.) A New Zealand coniferous tree <I>Dacrydium cupressinum</I>) and its timber; - called also <I>red pine. Mountain rimu (Bot.)</I>, the tree <I>Dacrydium laxifolium. </I>
+Quote:   <I>Rii.mu</I> (r&emacr.i.mu),<I> n.</I> [Maori.] (Bot.) A New Zealand coniferous tree <I>Dacrydium cupressinum</I>) and its timber; - called also <I>red pine. Mountain rimu (Bot.)</I>, the tree <I>Dacrydium laxifolium. </I>
 
 
 Notes:  
@@ -46256,6 +46269,7 @@ ring
 Word Class: noun
 Sense Number: 
 Definition: 
+
 Origin: 
 Register: 
 Register 2: 
@@ -46390,7 +46404,7 @@ Source:  Merriam-Webster Third International
 Author:  
 Vol / Page:  2030
 Edition:  
-Quote:  Ringì.barkì. (r&itilde.ngì.bä.rkì.),  v. t. To make a ring around by cutting away the bark; to girdle; to ring; as, to  ringbark a tree.
+Quote:  Ringi.barki. (r&itilde.ngi.ba.rki.),  v. t. To make a ring around by cutting away the bark; to girdle; to ring; as, to  ringbark a tree.
 Notes:  
 
 ring bark
@@ -46521,7 +46535,7 @@ ring crutch
  Homonym Number:  
 Word Class: verb
 Sense Number: 
-Definition:  to take a small circle of wool from around a sheep’s rear end. 
+Definition:  to take a small circle of wool from around a sheep's rear end. 
 
 
 Origin: [none]
@@ -46658,7 +46672,7 @@ Source:  Taranaki Herald
 Author:  
 Vol / Page:  4
 Edition:  
-Quote:  Mr. St. George will sell about 20 Acres ( more or less) of Excellent Land, situated on the BELL BLOCK, price £60. Or will Let it on a Term, for a nominal rental, upon consideration that the Tenant will erect a ring fence, consisting of a Ditch and a two-feet bank, planted with furze, with a Rail on the top.
+Quote:  Mr. St. George will sell about 20 Acres ( more or less) of Excellent Land, situated on the BELL BLOCK, price GBP60. Or will Let it on a Term, for a nominal rental, upon consideration that the Tenant will erect a ring fence, consisting of a Ditch and a two-feet bank, planted with furze, with a Rail on the top.
 Notes:  
 
 Date:  9/6/1883 
@@ -46708,7 +46722,7 @@ Source:  After-Breakfast Cigar, The
 Author:  WESTMACOTT
 Vol / Page:  166
 Edition:  
-Quote:  We put up three-quarters of a mile of this fencing. It was not a ring fence, but it stopped the stock going back into the bush on the south side of the mountain …
+Quote:  We put up three-quarters of a mile of this fencing. It was not a ring fence, but it stopped the stock going back into the bush on the south side of the mountain 
 Notes:  
 
 Date:  4/7/1917 
@@ -46802,7 +46816,7 @@ Source:  Poverty Bay Herald
 Author:  
 Vol / Page:  7
 Edition:  
-Quote:  Mrs E. P. Fisher wrote stating that she would accept £35 per acre for the cottage site on her property, the Council to bear all expenses and ring fence the section.
+Quote:  Mrs E. P. Fisher wrote stating that she would accept GBP35 per acre for the cottage site on her property, the Council to bear all expenses and ring fence the section.
 Notes:  
 
 Date:  0/0/1894 
@@ -47242,7 +47256,7 @@ Source:  Three Sheep and a Dog
 Author:  GORDON
 Vol / Page:  205
 Edition:  
-Quote:  .. the dog trotted right up beside the sheep, walked right out in front and continued on round to return to the rear. This is known as ‘ringing the sheep’ and, out in the open, would cost several points.
+Quote:  .. the dog trotted right up beside the sheep, walked right out in front and continued on round to return to the rear. This is known as 'ringing the sheep' and, out in the open, would cost several points.
 Notes:  
 
 ringa
@@ -47454,6 +47468,7 @@ Vol / Page:  29
 Edition:  
 Quote:  The 1870-72 Urewera expeditions were driven by a vengeful Colonial Government (also known as the Kawanatanga), desperate to track down and destroy Te Kooti Arikirangi Te Turuki and his Ringatu guerilla force then regrouping within the boundaries of the Tuhoe tribe's forested rohe.
 Notes:  
+
 
 Date:  0/0/1905 
 Source:  TrNZI
@@ -47931,7 +47946,7 @@ Source:  Merriam-Webster Third International
 Author:  
 Vol / Page:  2030
 Edition:  
-Quote:  Ringì.er (-&etilde.r), n. [See RING, v. t., 4.] [Add.] 3. One who makes the highest score in shearing sheep.  [Australian bush cant]
+Quote:  Ringi.er (-&etilde.r), n. [See RING, v. t., 4.] [Add.] 3. One who makes the highest score in shearing sheep.  [Australian bush cant]
 Notes:  
 
 Date:  20/7/2002 
@@ -48605,7 +48620,7 @@ Source:  Hawera & Normanby Star
 Author:  
 Vol / Page:  8
 Edition:  
-Quote:  SHEEP FARM. 844 ACRES. 685 acres freehold, 159 acres l i.p., 650 acres in grass, balance in bush, ring fenced, subdivided into six paddocks, carrying capacity 1½ sheep and 80 head cattle.
+Quote:  SHEEP FARM. 844 ACRES. 685 acres freehold, 159 acres l i.p., 650 acres in grass, balance in bush, ring fenced, subdivided into six paddocks, carrying capacity 1 1/2 sheep and 80 head cattle.
 Notes:  
 
 Date:  22/5/1930 
@@ -49201,7 +49216,7 @@ Source:  Transport Workers' Song Book
 Author:  
 Vol / Page:  28
 Edition:  
-Quote:  You fight among yourselves till your ranks are broken through./ By carping critic `ring-necks' and non-union alienage. ... Get rid of the Union `cuckoo' and the `stool pigeon' as well / The `arrear fiends' and the `ring-necks' ‘
+Quote:  You fight among yourselves till your ranks are broken through./ By carping critic `ring-necks' and non-union alienage. ... Get rid of the Union `cuckoo' and the `stool pigeon' as well / The `arrear fiends' and the `ring-necks' '
 
 
 Notes:  
@@ -49439,6 +49454,7 @@ Domain: [none]
 Region: [none]
 See: 
 Pronunciation: 
+
 Notes: 
  Citations 
 Date:  0/0/1980 
@@ -50113,8 +50129,10 @@ Register:
 Register 2: 
 Domain: [none]
 Region: [none]
+
 See: 
 Pronunciation: 
+
 Notes: 
  Citations 
 Date:  15/10/2003 
@@ -50756,7 +50774,7 @@ Source:  Merriam-Webster Third International
 Author:  
 Vol / Page:  2030
 Edition:  
-Quote:  <I>Ri&#769;.ro-ri&#769;.ro</I> (r&emacr.&#769;.rò.-r&emacr.&#769;.rò.), n. [Maori.] (<I>Zoöl</I>.) Any New Zealand bird of the genus <I>Gerygone.</I> See GERYGONE. [Local, N. Z.] 
+Quote:  <I>Ri&#769;.ro-ri&#769;.ro</I> (r&emacr.&#769;.ro.-r&emacr.&#769;.ro.), n. [Maori.] (<I>Zool</I>.) Any New Zealand bird of the genus <I>Gerygone.</I> See GERYGONE. [Local, N. Z.] 
 
 
 Notes:  
@@ -51546,7 +51564,7 @@ Source:  Otautau Standard & Wallace County Chronicle
 Author:  
 Vol / Page:  2
 Edition:  
-Quote:  PUBLIC NOTICE is hereby given that the Opio River Board intends on Wednesday, 7th March, 1923, to make, pursuant to Section 87 of "The River Boards Act, 1908," and of amendments thereof, and Sections 48 and 50 of "The Rating Act, 1908," and its amendments - A GENERAL RATE OF 7/8d in the £ in Grade One .. on the Rateable Value of all lands within the Opio River District for the year commencing on 1st April, 1922, and ending on 31st March, 1923, and payable in one sum of 14th March, 1923.
+Quote:  PUBLIC NOTICE is hereby given that the Opio River Board intends on Wednesday, 7th March, 1923, to make, pursuant to Section 87 of "The River Boards Act, 1908," and of amendments thereof, and Sections 48 and 50 of "The Rating Act, 1908," and its amendments - A GENERAL RATE OF 7/8d in the GBP in Grade One .. on the Rateable Value of all lands within the Opio River District for the year commencing on 1st April, 1922, and ending on 31st March, 1923, and payable in one sum of 14th March, 1923.
 Notes:  
 
 Date:  13/2/1923 
@@ -51554,7 +51572,7 @@ Source:  Otautau Standard & Wallace County Chronicle
 Author:  
 Vol / Page:  2
 Edition:  
-Quote:  PUBLIC NOTICE is hereby given that the Opio River Board intends on Wednesday, 7th March, 1923, to make, pursuant to Section 87 of "The River Boards Act, 1908," and of amendments thereof, and Sections 48 and 50 of "The Rating Act, 1908," and its amendments - A GENERAL RATE OF 7/8d in the £ in Grade One .. on the Rateable Value of all lands within the Opio River District for the year commencing on 1st April, 1922, and ending on 31st March, 1923, and payable in one sum of 14th March, 1923.
+Quote:  PUBLIC NOTICE is hereby given that the Opio River Board intends on Wednesday, 7th March, 1923, to make, pursuant to Section 87 of "The River Boards Act, 1908," and of amendments thereof, and Sections 48 and 50 of "The Rating Act, 1908," and its amendments - A GENERAL RATE OF 7/8d in the GBP in Grade One .. on the Rateable Value of all lands within the Opio River District for the year commencing on 1st April, 1922, and ending on 31st March, 1923, and payable in one sum of 14th March, 1923.
 Notes:  
 
 Date:  11/10/1910 
@@ -51692,7 +51710,7 @@ Source:  Tuapeka Times
 Author:  
 Vol / Page:  5
 Edition:  
-Quote:  In the case, Adams <i>v</i> Pringle and others, an appeal from the Warden's decision over a piece of spare ground between the Golden Run Co's and respondent's river claims at Millers Flat, his Honor upheld the Warden's decision, with costs (£10 16s).
+Quote:  In the case, Adams <i>v</i> Pringle and others, an appeal from the Warden's decision over a piece of spare ground between the Golden Run Co's and respondent's river claims at Millers Flat, his Honor upheld the Warden's decision, with costs (GBP10 16s).
 Notes:  
 
 Date:  19/8/1903 
@@ -51920,7 +51938,7 @@ Source:  Bay of Plenty Times
 Author:  
 Vol / Page:  3
 Edition:  
-Quote:  200 acres good land, river flats, near butter factory, £1400.
+Quote:  200 acres good land, river flats, near butter factory, GBP1400.
 Notes:  
 
 Date:  27/3/1880 
@@ -51930,6 +51948,8 @@ Vol / Page:  3
 Edition:  
 Quote:  Block IV.: Sections 1, 2, 3, 4, undulating fern, tutu, and grass hills, excellent soil on river flats.
 Notes:  
+
+
 
 Date:  0/0/1959 
 Source:  Exploration of NZ, The
@@ -52390,7 +52410,7 @@ Source:  Under the Bridge & Over the Moon
 Author:  IRELAND
 Vol / Page:  91
 Edition:  
-Quote:  ‘Does she smoke Riverbed Mould?' Alan asked, and when I said I'd never heard of that tobacco, he told me that was what all ‘real smokers' like himself called Riverbed Gold, which was named after a famous racehorse and had a drawing of the horse next to the label.
+Quote:  'Does she smoke Riverbed Mould?' Alan asked, and when I said I'd never heard of that tobacco, he told me that was what all 'real smokers' like himself called Riverbed Gold, which was named after a famous racehorse and had a drawing of the horse next to the label.
 
 
 Notes:  
@@ -52928,8 +52948,7 @@ Source:  Listener (New Zealand Listener)
 Author:  
 Vol / Page:  12
 Edition:  
-Quote:  Although I like the emphasis that the Re
-Sources Management Act places on local decision-making, I am acutely aware that such local decision making can cause considerable angst in communities throughout the country. The RMA has become a sophisticated tool, more used by lawyers and planners than by the community it was intended to serve.
+Quote:  Although I like the emphasis that the Resources Management Act places on local decision-making, I am acutely aware that such local decision making can cause considerable angst in communities throughout the country. The RMA has become a sophisticated tool, more used by lawyers and planners than by the community it was intended to serve.
 Notes:  
 
 Date:  20/7/2002 
@@ -53473,7 +53492,7 @@ Source:  Kai Tiaki
 Author:  
 Vol / Page:  19
 Edition:  
-Quote:  The New Zealand Nurses' Memorial Fund has not been forgotten in the holiday season as evidenced by the following subscriptions .. Upper Wangaehu Road Board £10.
+Quote:  The New Zealand Nurses' Memorial Fund has not been forgotten in the holiday season as evidenced by the following subscriptions .. Upper Wangaehu Road Board GBP10.
 Notes:  
 
 Date:  9/12/1885 
@@ -54250,7 +54269,7 @@ Source:  Truckers: NZ Truckers on the Road
 Author:  REDMOND
 Vol / Page:  36
 Edition:  
-Quote:  [Hdg] The Road-Kill Café. <i>Ibid.</i> 41 Another innovation was "road-killed" venison, that is sold to some of the more gullible, but daring, drivers.
+Quote:  [Hdg] The Road-Kill Cafe. <i>Ibid.</i> 41 Another innovation was "road-killed" venison, that is sold to some of the more gullible, but daring, drivers.
 
 
 Notes:  
@@ -54470,6 +54489,7 @@ Vol / Page:  2
 Edition:  
 Quote:  Some days ago a deputation of Auckland members waited upon the Premier to urge the claims of the "roadless North."
 Notes:  
+
 
 Date:  0/0/1908 
 Source:  British Rugby Team in Maoriland
@@ -54782,7 +54802,7 @@ Source:  Evening Post
 Author:  
 Vol / Page:  7
 Edition:  
-Quote:  FOR ROADS AND BRIDGES .. The ratepayers of Akitio county, which is situated between Pahiatua and the East Coast, on Saturday carried a proposal to raise £28,000 for bridging and road works.
+Quote:  FOR ROADS AND BRIDGES .. The ratepayers of Akitio county, which is situated between Pahiatua and the East Coast, on Saturday carried a proposal to raise GBP28,000 for bridging and road works.
 Notes:  
 
 Date:  26/12/1840 
@@ -55096,7 +55116,7 @@ Source:  Dictionary of Kiwi Slang, A
 Author:  MCGILL
 Vol / Page:  93
 Edition:  
-Quote:  Roaring Meg a raging river, perhaps near a Gentle Annie mountain…
+Quote:  Roaring Meg a raging river, perhaps near a Gentle Annie mountain
 Notes:  
 
 Roaring Meg
@@ -55188,7 +55208,7 @@ Source:  Evening Post
 Author:  
 Vol / Page:  8
 Edition:  
-Quote:  The river known as the "Roaring Meg," in the Otaki Gorge, is to have a bridge erected across it at a cost of £53 10s.
+Quote:  The river known as the "Roaring Meg," in the Otaki Gorge, is to have a bridge erected across it at a cost of GBP53 10s.
 Notes:  
 
 Date:  22/1/1924 
@@ -55703,6 +55723,7 @@ Author:
 Vol / Page:  5
 Edition:  
 Quote:  [The doorkeeper] gave evidence of having been told off to collect the "robertos" at the main door.
+
 Notes:  
 
 robin
@@ -55898,7 +55919,7 @@ Source:  Merriam-Webster Third International
 Author:  
 Vol / Page:  2030
 Edition:  
-Quote:  <I>Robì.in</i> (r&obreve.bì.&itilde.n), <I>n. [Add.] New Zealand robin (Zoöl.)</I>, the miro. See MIRO, 2.
+Quote:  <I>Robi.in</i> (r&obreve.bi.&itilde.n), <I>n. [Add.] New Zealand robin (Zool.)</I>, the miro. See MIRO, 2.
 
 
 Notes:  
@@ -56938,6 +56959,7 @@ Notes:
 
 Date:  0/0/1916 
 Source:  Official Trade Register of Nurserymen
+
 Author:  
 Vol / Page:  
 Edition:  
@@ -58520,6 +58542,7 @@ Definition:
 Origin: [none]
 Register: 
 Register 2: 
+
 Domain: [none]
 Region: [none]
 See: 
@@ -60026,6 +60049,7 @@ Edition:
 Quote:  fern-roots (roki)
 Notes:  
 
+
 rolie
  Homonym Number:  
 Word Class: noun
@@ -60479,7 +60503,7 @@ Source:  On the Next Tide
 Author:  HARGREAVES
 Vol / Page:  27
 Edition:  
-Quote:  When it’s got a big roll on it’s no good for fishing round the point, it’s too rough. But that’s good for all the surfers.
+Quote:  When it's got a big roll on it's no good for fishing round the point, it's too rough. But that's good for all the surfers.
 Notes:  
 
 roll in
@@ -60931,7 +60955,7 @@ Source:  Blue Cliffs
 Author:  WOODHOUSE
 Vol / Page:  89
 Edition:  
-Quote:  Fred Stuthridge came as a wool-classer in 1904 and was paid £1 for each 1000 fleeces with 25/- a week extra for wool-rolling. He was helped by one roller at 25/- a week.
+Quote:  Fred Stuthridge came as a wool-classer in 1904 and was paid GBP1 for each 1000 fleeces with 25/- a week extra for wool-rolling. He was helped by one roller at 25/- a week.
 
 
 Notes:  
@@ -61581,7 +61605,7 @@ Source:  NZ Geographic
 Author:  
 Vol / Page:  94/101
 Edition:  
-Quote:  ‘It’s just to have a barbie,’ says Rhind, ‘to have a roll up, see if they like it [bowls] or not.’
+Quote:  'It's just to have a barbie,' says Rhind, 'to have a roll up, see if they like it [bowls] or not.'
 Notes:  
 
 Date:  11/1/1890 
@@ -62564,7 +62588,7 @@ Source:  Pu Kaea
 Author:  
 Vol / Page:  4
 Edition:  
-Quote:  The first astounding facts told to the roopu were of Uiraroa. We, the roopu had taken it for granted that Uiraroa was from Ngâti Awa ...
+Quote:  The first astounding facts told to the roopu were of Uiraroa. We, the roopu had taken it for granted that Uiraroa was from Ngati Awa ...
 Notes:  
 
 Date:  23/5/2006 
@@ -62580,7 +62604,7 @@ Source:  Te Mana  Taiohi
 Author:  
 Vol / Page:  9
 Edition:  Spring
-Quote:  Within the Universities there are Mâori student roopu who exist specifically to provide a 'home away from home' for Mâori students. Some of the individual degrees even have M&#257;ori student roopu like Te Rakau Ture - the M&#257;ori law students' association of the University of Auckland.
+Quote:  Within the Universities there are Maori student roopu who exist specifically to provide a 'home away from home' for Maori students. Some of the individual degrees even have M&#257;ori student roopu like Te Rakau Ture - the M&#257;ori law students' association of the University of Auckland.
 Notes:  
 
 rooster
@@ -62990,7 +63014,7 @@ Source:  Living As A Moon
 Author:  Owen Marshall
 Vol / Page:  222
 Edition:  
-Quote:  There’s four of them in Paulie’s Bard Words troupe. They travel in two rooted vans: one a Bongo and the other a something or other.
+Quote:  There's four of them in Paulie's Bard Words troupe. They travel in two rooted vans: one a Bongo and the other a something or other.
 Notes:  
 
 Date:  0/0/1997 
@@ -63266,7 +63290,7 @@ Source:  Otago Witness
 Author:  
 Vol / Page:  72
 Edition:  
-Quote:  The shoe is connected with a steel wire rope about ¾in in diameter, which is wound round the drum of the engine. A black rope on the drum, or the horse which usually accompanies the shoeman, takes the shoe into the place where the logs are.
+Quote:  The shoe is connected with a steel wire rope about  3/4in in diameter, which is wound round the drum of the engine. A black rope on the drum, or the horse which usually accompanies the shoeman, takes the shoe into the place where the logs are.
 Notes:  
 
 Date:  20/1/1890 
@@ -63678,7 +63702,7 @@ Source:  Merriam-Webster Third International
 Author:  
 Vol / Page:  2030
 Edition:  
-Quote:  Ropeì.a-ble (r&omacr.pì.&adot.-b'l), a. [See ROPE, v. t., 4. in the Dictionary.] Needing to be lassoed and thus brought under control; unruly; - siad of a horse or bullock. Hence, in a general sense, angry and excited; savage; - used also of persons. 
+Quote:  Ropei.a-ble (r&omacr.pi.&adot.-b'l), a. [See ROPE, v. t., 4. in the Dictionary.] Needing to be lassoed and thus brought under control; unruly; - siad of a horse or bullock. Hence, in a general sense, angry and excited; savage; - used also of persons. 
 
 
 Notes:  
@@ -63713,6 +63737,7 @@ Author:
 Vol / Page:  14
 Edition:  
 Quote:  The Liberal executive was ropable - to them, it was another instance of the Alliance using the Liberals as a convenience.
+
 Notes:  
 
 Date:  11/4/2001 
@@ -63757,7 +63782,7 @@ Source:  Evening Post
 Author:  
 Vol / Page:  18
 Edition:  
-Quote:  "You saw what they did? I was bloody ropable! I want their heads on a stake, the two of ‘em!.
+Quote:  "You saw what they did? I was bloody ropable! I want their heads on a stake, the two of 'em!.
 Notes:  
 
 rope-a-dope
@@ -65428,7 +65453,7 @@ Source:  Geological Society of NZ Newsletter
 Author:  
 Vol / Page:  66/18
 Edition:  
-Quote:  On field appearance and stratigraphy, the thin tephra was considered not to be an Okataina tephra [sic, small ‘t’] (Kaiharoa or Whakatane Tephra) but perhaps a tephra from Taupo or the basaltic Rotokawau Ash.
+Quote:  On field appearance and stratigraphy, the thin tephra was considered not to be an Okataina tephra [sic, small 't'] (Kaiharoa or Whakatane Tephra) but perhaps a tephra from Taupo or the basaltic Rotokawau Ash.
 Notes:  Is this the same as Rotokawa Ash???
 
 Rotomahana Mud
@@ -67147,7 +67172,7 @@ Source:  Otago Witness
 Author:  
 Vol / Page:  18
 Edition:  
-Quote:  The tobacco may be put in wire cages or gunny bags, and allowed to boil ten minutes, 400 gallons at once, in malt tanks, the lids being on; but the best plan is to infuse under pressure of steam from a boiler, a pipe from which would heat the dip in the morning and regulate the temperature afterwards, which with newly shorn sheep should be 115 to 118 deg., and in rough sheep 120 to 125 deg. About 1½ minutes for shorn and 2 for rough sheep should be effectual.
+Quote:  The tobacco may be put in wire cages or gunny bags, and allowed to boil ten minutes, 400 gallons at once, in malt tanks, the lids being on; but the best plan is to infuse under pressure of steam from a boiler, a pipe from which would heat the dip in the morning and regulate the temperature afterwards, which with newly shorn sheep should be 115 to 118 deg., and in rough sheep 120 to 125 deg. About 1 1/2 minutes for shorn and 2 for rough sheep should be effectual.
 Notes:  
 
 Date:  3/12/1884 
@@ -67155,7 +67180,7 @@ Source:  Wanganui Herald
 Author:  
 Vol / Page:  3
 Edition:  
-Quote:  CHALLENGE. THROUGH some ill-feeling against me at the Oroua Downs, I am willing to shear Mr. Jenkins, in long-wool sheep, for any sum from £5 to £20; but I do not call it fair shearing for another man to shear all the rough sheep out of his pen. JOSEPH MORRISON.
+Quote:  CHALLENGE. THROUGH some ill-feeling against me at the Oroua Downs, I am willing to shear Mr. Jenkins, in long-wool sheep, for any sum from GBP5 to GBP20; but I do not call it fair shearing for another man to shear all the rough sheep out of his pen. JOSEPH MORRISON.
 Notes:  
 
 Date:  27/2/1896 
@@ -67237,7 +67262,7 @@ Source:  Poverty Bay Herald
 Author:  
 Vol / Page:  8
 Edition:  
-Quote:  In 9½ hours Wi Henare shore 354 sheep - ewes and lambs - and in week of 48 hours his record was 1600, and this among rough sheep, it is said.
+Quote:  In 9 1/2 hours Wi Henare shore 354 sheep - ewes and lambs - and in week of 48 hours his record was 1600, and this among rough sheep, it is said.
 Notes:  
 
 Date:  0/0/1897 
@@ -68049,7 +68074,7 @@ Source:  Otago Witness
 Author:  
 Vol / Page:  30
 Edition:  
-Quote:  She was conscious and admitted having "taken some ‘rough on rats' in water," ...
+Quote:  She was conscious and admitted having "taken some 'rough on rats' in water," ...
 Notes:  
 
 Date:  2/6/1883 
@@ -68073,7 +68098,7 @@ Source:  Otago Witness
 Author:  
 Vol / Page:  18
 Edition:  
-Quote:  The jury returned a verdict "That the deceased [sc. a 16-year old girl] took a dose of ‘rough on rats'  while in a state of temporary insanity caused by reading sensational literature."
+Quote:  The jury returned a verdict "That the deceased [sc. a 16-year old girl] took a dose of 'rough on rats'  while in a state of temporary insanity caused by reading sensational literature."
 
 
 Notes:  
@@ -68091,7 +68116,7 @@ Source:  Wairarapa Daily
 Author:  
 Vol / Page:  2
 Edition:  
-Quote:  [Advt] Don't die in the House. "Rough on Rats" cleans out rats, mice, beetles, roaches, bed-bugs, flies, ants, insects, moles, jack-rabbits, gophers, 7½d.
+Quote:  [Advt] Don't die in the House. "Rough on Rats" cleans out rats, mice, beetles, roaches, bed-bugs, flies, ants, insects, moles, jack-rabbits, gophers, 7 1/2d.
 
 
 Notes:  
@@ -68459,7 +68484,7 @@ Source:  Hawke's Bay Today
 Author:  
 Vol / Page:  16
 Edition:  
-Quote:  [Advt] 700 No 1 3.0m ½ round posts
+Quote:  [Advt] 700 No 1 3.0m  1/2 round posts
 Notes:  
 
 round
@@ -69693,7 +69718,7 @@ Source:  Tales from the Shearing Shed
 Author:  WILLIAMS
 Vol / Page:  15
 Edition:  
-Quote:  This fella was a wee Aussie guy, he didn’t know bugger all, he knew nothing and he couldn’t rousie for nothing.
+Quote:  This fella was a wee Aussie guy, he didn't know bugger all, he knew nothing and he couldn't rousie for nothing.
 Notes:  
 
 Date:  0/0/1999 
@@ -70063,7 +70088,7 @@ Source:  Merriam-Webster Third International
 Author:  
 Vol / Page:  2030
 Edition:  
-Quote:  Rouseì.a-boutì. (rousì.&adot.-boutì.), n. [Add.] 2. A general Roustì.a-boutì. (roustì.&adot.-boutì.), hand or man of all work on a sheep station; esp., a man employed at shearing time to assist the shearers but not to shear sheep himself. 
+Quote:  Rousei.a-bouti. (rousi.&adot.-bouti.), n. [Add.] 2. A general Rousti.a-bouti. (rousti.&adot.-bouti.), hand or man of all work on a sheep station; esp., a man employed at shearing time to assist the shearers but not to shear sheep himself. 
 
 
 Notes:  
@@ -70173,7 +70198,7 @@ Source:  NZ Memories
 Author:  
 Vol / Page:  37/6
 Edition:  
-Quote:  The next two years were spent busking, labouring, casual electrical work, and roustabouting with Wirths Circus and as a member of a touring troupe, ‘The Gaieties".
+Quote:  The next two years were spent busking, labouring, casual electrical work, and roustabouting with Wirths Circus and as a member of a touring troupe, 'The Gaieties".
 
 
 Notes:  
@@ -70978,7 +71003,7 @@ Source:  Evening Post
 Author:  
 Vol / Page:  5
 Edition:  
-Quote:  A communication was received from Mr. J. M’Donald, Acting Director of the Dominion Museum, stating that, from the description of the bird given by Mr. Leith, the bird was, without doubt, a specimen of the royal spoonbill (platalea regia).
+Quote:  A communication was received from Mr. J. M'Donald, Acting Director of the Dominion Museum, stating that, from the description of the bird given by Mr. Leith, the bird was, without doubt, a specimen of the royal spoonbill (platalea regia).
 Notes:  
 
 Date:  16/7/1932 
@@ -71150,7 +71175,7 @@ Source:  Internet - see Notes
 Author:  
 Vol / Page:  
 Edition:  
-Quote:  Other reptiles present in the catchment include McCann’s skinks, common skinks, cryptic skinks, Southern Alps geckos,
+Quote:  Other reptiles present in the catchment include McCann's skinks, common skinks, cryptic skinks, Southern Alps geckos,
 
 common geckos, Cromwell Gorge geckos and Roys Peak geckos.
 
@@ -71442,6 +71467,7 @@ Source:  NZ Short Stories III
 Author:  
 Vol / Page:  140
 Edition:  
+
 Quote:  There weren't too many of us from the S.A.S., but I know us and the R.T. (artillery that is) were getting stuck in.
 Notes:  1975 Mitcalfe `Black Cat' in 1975 NZ Short Stories III 140
 
@@ -76620,7 +76646,7 @@ Source:  NZ Farmer
 Author:  
 Vol / Page:  24
 Edition:  
-Quote:  Run cows made from £11. 6/- to £11. 7/-.
+Quote:  Run cows made from GBP11. 6/- to GBP11. 7/-.
 Notes:  
 
 Date:  20/12/1951 
@@ -76628,7 +76654,7 @@ Source:  NZ Farmer
 Author:  
 Vol / Page:  45
 Edition:  
-Quote:  Run cows with calves at foot sold at £19 8/-.
+Quote:  Run cows with calves at foot sold at GBP19 8/-.
 Notes:  
 
 Date:  14/9/1961 
@@ -76916,6 +76942,7 @@ Source:  Tussock Fever
 Author:  FERNANDEZ
 Vol / Page:  33
 Edition:  
+
 Quote:  `Damn thing's [sc. a shearing motor] running like a hairy goat.' ...`I suppose it's worn out,' said Bessie ...
 Notes:  
 
@@ -77668,8 +77695,7 @@ Source:  Diary
 Author:  BARRINGTON
 Vol / Page:  
 Edition:  
-Quote:  Up by daylight to run this creek up. Reached its 
-Sources that afternoon. 
+Quote:  Up by daylight to run this creek up. Reached its sources that afternoon. 
 
 
 Notes:  1863 Dec 31 Barrington Diary in 1959 Taylor Early Travellers 395
@@ -78061,7 +78087,7 @@ Source:  Huia 5: Contemp. Maori Fiction
 Author:  
 Vol / Page:  27
 Edition:  
-Quote:  ‘Right,’ said Maria. ‘It’s time to educate your Maori friends. I’ll offer a cookery school down at the runanga.’
+Quote:  'Right,' said Maria. 'It's time to educate your Maori friends. I'll offer a cookery school down at the runanga.'
 Notes:  
 
 Date:  29/7/2003 
@@ -78163,6 +78189,7 @@ Quote:   ... and then to write sitting down on the floor of a Maori runanga and 
 
 
 Notes:  
+
 
 runanga house
  Homonym Number:  
@@ -78447,7 +78474,7 @@ Source:  Hunting for a Buck
 Author:  BURDON
 Vol / Page:  15
 Edition:  
-Quote:  Access was through a runhold in the back of Springfield …
+Quote:  Access was through a runhold in the back of Springfield 
 Notes:  
 
 Date:  0/0/1996 
@@ -78455,7 +78482,7 @@ Source:  Hunting for DOC
 Author:  BURDON
 Vol / Page:  120
 Edition:  
-Quote:  I shot a mob of eight on Hull’s runhold.
+Quote:  I shot a mob of eight on Hull's runhold.
 Notes:  
 
 runholder
@@ -78513,6 +78540,7 @@ Vol / Page:  119
 Edition:  
 Quote:  Runholders later reduced this trouble [woolblindness] by using open-faced rams.
 Notes:  
+
 
 Date:  0/0/1983 
 Source:  NZ High Country Four Seasons
@@ -78668,7 +78696,7 @@ Notes:  1868 June T.S.Grace Journal in Grace Pioneer Missionary (1928) 193
 
 
 Date:  0/0/1874 
-Source:  Crusts: a settler’s fare due south
+Source:  Crusts: a settler's fare due south
 Author:  KENNAWAY
 Vol / Page:  224
 Edition:  
@@ -78781,6 +78809,7 @@ Author:  OLIVER
 Vol / Page:  107
 Edition:  
 Quote:  Sheep brought the runholders and later the station-owners. The runholders owned only the sheep which they pastured on great stretches of leased land; ...
+
 Notes:  
 
 Date:  0/0/1968 
@@ -79008,7 +79037,7 @@ Source:  Otago Witness
 Author:  
 Vol / Page:  20
 Edition:  
-Quote:  The largest run-holding company in the colony could only be fined £1 a day for overdue rent, and yet a hard-working, struggling settler on 3000 acres, with only £15 rent for the half-year, is to be fined £31 on £15 rent 31 days overdue.
+Quote:  The largest run-holding company in the colony could only be fined GBP1 a day for overdue rent, and yet a hard-working, struggling settler on 3000 acres, with only GBP15 rent for the half-year, is to be fined GBP31 on GBP15 rent 31 days overdue.
 Notes:  
 
 runi-runi
@@ -79062,7 +79091,7 @@ Source:  NZ Farmer
 Author:  
 Vol / Page:  39
 Edition:  
-Quote:  Best cows and runners sold to £39 10/-..
+Quote:  Best cows and runners sold to GBP39 10/-..
 Notes:  
 
 Date:  20/12/1951 
@@ -79078,7 +79107,7 @@ Source:  NZ Farmer
 Author:  
 Vol / Page:  34
 Edition:  
-Quote:  Calves: good sorts firm, plainer easier. Heavy runners £30 to £34.
+Quote:  Calves: good sorts firm, plainer easier. Heavy runners GBP30 to GBP34.
 Notes:  
 
 Date:  24/5/2001 
@@ -79802,7 +79831,7 @@ Source:  Three Sheep and a Dog
 Author:  GORDON
 Vol / Page:  48
 Edition:  
-Quote:  The orthodox run out or cast on a dog trial hill is on the triallist’s right of the sheep.
+Quote:  The orthodox run out or cast on a dog trial hill is on the triallist's right of the sheep.
 Notes:  
 
 run-out
@@ -80157,7 +80186,7 @@ Source:  Dominion
 Author:  
 Vol / Page:  14
 Edition:  
-Quote:  A $2 billion guarantee by the Government for Rural Bank borrowing was not recorded by the Treasury in the Government accounts as the result of an ‘administrative oversight' according to the Audit Office.
+Quote:  A $2 billion guarantee by the Government for Rural Bank borrowing was not recorded by the Treasury in the Government accounts as the result of an 'administrative oversight' according to the Audit Office.
 
 
 Notes:  
@@ -80709,6 +80738,7 @@ Author:  MARKHAM
 Vol / Page:  50
 Edition:  1963
 Quote:  The Women will sit on a heap of Potatoes or log, and do what is called `Roody Doody' [ruriruri]; ... 
+
 
 
 Notes:  
@@ -82006,7 +82036,7 @@ Source:  Journal and Letters (Walker)
 Author:  J.G. WALKER
 Vol / Page:  
 Edition:  
-Quote:  He [the miner] was very civil, told us that two of his mates had followed a man to see if they could find a new rush, ...  ‘[
+Quote:  He [the miner] was very civil, told us that two of his mates had followed a man to see if they could find a new rush, ...  '[
 
 
 Notes:  (Central Otago)
@@ -82252,8 +82282,7 @@ Pronunciation:
 Notes: 
  Citations 
 Date:  0/0/1862 
-Source:  Otago: Its Goldfields and Re
-Sources
+Source:  Otago: Its Goldfields and Resources
 Author:  
 Vol / Page:  26
 Edition:  
@@ -83107,7 +83136,7 @@ Source:  Old New Zealand Houses
 Author:  SALMOND
 Vol / Page:  114
 Edition:  
-Quote:  Another kind of weatherboard which became popular in the 1880‘s was the "rusticated" board, where the top edge was planed down to fit behind a rebate in the edge of the next board. The completed wall showed pronounced grooves which resembled channel-jointed stonework, and in more elaborate houses timber <i>quoins</i> at corners assisted the illusion. The introduction of the rusticated board has been attributed to the Wellington architect Julius Toxward in the 1860s.
+Quote:  Another kind of weatherboard which became popular in the 1880's was the "rusticated" board, where the top edge was planed down to fit behind a rebate in the edge of the next board. The completed wall showed pronounced grooves which resembled channel-jointed stonework, and in more elaborate houses timber <i>quoins</i> at corners assisted the illusion. The introduction of the rusticated board has been attributed to the Wellington architect Julius Toxward in the 1860s.
 
 
 Notes:  

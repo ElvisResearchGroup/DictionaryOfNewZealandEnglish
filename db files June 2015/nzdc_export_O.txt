@@ -517,7 +517,7 @@ Source: NZ Truth
 Author: 
 Vol / Page: 1
 Edition: 
-Quote: When “Critic” pictures some of the blacksmith shops he knows still “carrying on,” that Oamarooster “smiddy” must be in a bad way indeed.
+Quote: When "Critic" pictures some of the blacksmith shops he knows still "carrying on," that Oamarooster "smiddy" must be in a bad way indeed.
 Notes: 
 
 Date: 9/10/1909 
@@ -577,7 +577,7 @@ Source: Colonist, The
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: The church will cost £20,000 finished, being built of concrete with Oamaru stone facings and ornaments.
+Quote: The church will cost GBP20,000 finished, being built of concrete with Oamaru stone facings and ornaments.
 Notes: 
 
 Date: 25/1/1867 
@@ -817,7 +817,7 @@ Source: Taranaki Herald
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: About £13,000 has been collected or promised towards the Roman Catholic Cathedral in Buckle-street, which is expected to cost £40,000. It will be built of brick and Oamaru stone.
+Quote: About GBP13,000 has been collected or promised towards the Roman Catholic Cathedral in Buckle-street, which is expected to cost GBP40,000. It will be built of brick and Oamaru stone.
 Notes: 
 
 Date: 20/8/1864 
@@ -1591,7 +1591,7 @@ Source: On the Next Tide
 Author: HARGREAVES
 Vol / Page: 105
 Edition: 
-Quote: This one pot came up with a big occy in it. Usually you squeeze them and they’ll just hang limp so you can get them out. I put my arm in but I missed getting him around the body and he got me with his tentacles.
+Quote: This one pot came up with a big occy in it. Usually you squeeze them and they'll just hang limp so you can get them out. I put my arm in but I missed getting him around the body and he got me with his tentacles.
 Notes: 
 
 ocean trout
@@ -2519,7 +2519,7 @@ Source: Tui Motu Interislands
 Author: 
 Vol / Page: 11
 Edition: 
-Quote: I actually got married and Peter and I went on the ‘big OE'.
+Quote: I actually got married and Peter and I went on the 'big OE'.
 Notes: 
 
 Date: 0/0/1982 
@@ -3211,7 +3211,7 @@ Source: NZ Farmer
 Author: 
 Vol / Page: Supplement
 Edition: 
-Quote: A & P Conference iv Numbers have been found dying off the shears in many cases … [of blood poisoning.]
+Quote: A & P Conference iv Numbers have been found dying off the shears in many cases ... [of blood poisoning.]
 Notes: 
 
 Date: 20/11/1915 
@@ -3953,7 +3953,7 @@ Source: Poverty Bay Herald
 Author: 
 Vol / Page: 1
 Edition: 
-Quote: WANTED - Offsider, for Nelson Bros.' cook-house; wages £2 per week.
+Quote: WANTED - Offsider, for Nelson Bros.' cook-house; wages GBP2 per week.
 Notes: 
 
 offsider
@@ -5851,7 +5851,7 @@ Source: Geological Society of NZ Newsletter
 Author: 
 Vol / Page: 66/18
 Edition: 
-Quote: On field appearance and stratigraphy, the thin tephra was considered not to be an Okataina tephra [sic, small ‘t’] (Kaiharoa or Whakatane Tephra) but perhaps a tephra from Taupo or the basaltic Rotokawau Ash.
+Quote: On field appearance and stratigraphy, the thin tephra was considered not to be an Okataina tephra [sic, small 't'] (Kaiharoa or Whakatane Tephra) but perhaps a tephra from Taupo or the basaltic Rotokawau Ash.
 Notes: 
 
 okay, lah
@@ -6323,7 +6323,7 @@ Quote:
 Notes:  [see chron notes]
 
 Date: 0/0/1874 
-Source: Crusts: a settler’s fare due south
+Source: Crusts: a settler's fare due south
 Author: KENNAWAY
 Vol / Page: 16
 Edition: 
@@ -9817,7 +9817,7 @@ Source: Daily Southern Cross
 Author: 
 Vol / Page: 6
 Edition: 
-Quote: It gives him £300 a year to begin with, £80 a year more with his wife, £20 a year with his first child, and £10 a year with each succeeding olive branch.
+Quote: It gives him GBP300 a year to begin with, GBP80 a year more with his wife, GBP20 a year with his first child, and GBP10 a year with each succeeding olive branch.
 Notes: 
 
 Date: 22/10/1892 
@@ -9825,7 +9825,7 @@ Source: Observer (Auckland)
 Author: 
 Vol / Page: 17
 Edition: 
-Quote: Whenever an olive branch is expected in his household, he is always heard to exclaim - 'Another £15 gone slap bang! so now all the young fellows are afraid to get married, as they say they could not afford £15 for every olive branch these times.
+Quote: Whenever an olive branch is expected in his household, he is always heard to exclaim - 'Another GBP15 gone slap bang! so now all the young fellows are afraid to get married, as they say they could not afford GBP15 for every olive branch these times.
 Notes: 
 
 olive tree
@@ -9905,7 +9905,7 @@ Source: Geological Society of NZ Newsletter
 Author: 
 Vol / Page: 82/36
 Edition: 
-Quote: Another widespread silicic airall tephra reported from southern North Island is the Rangitawa Pumice and its possible correlatives, the Omahina Tephra (Pillans 1979), the Lower Finnie Road Ash (Seward 1974 ; Pillans & Kohn 1981), and the Mangaroa Ash (Neeser et al. 1980), all with fission-track dates in the two-standard deviation age range of 370 ± 70 ky BP (Pillans & Kohn 1981; Kyle & Seward 1984; Kohl 1986, oral presentation).
+Quote: Another widespread silicic airall tephra reported from southern North Island is the Rangitawa Pumice and its possible correlatives, the Omahina Tephra (Pillans 1979), the Lower Finnie Road Ash (Seward 1974 ; Pillans & Kohn 1981), and the Mangaroa Ash (Neeser et al. 1980), all with fission-track dates in the two-standard deviation age range of 370 +/- 70 ky BP (Pillans & Kohn 1981; Kyle & Seward 1984; Kohl 1986, oral presentation).
 Notes: 
 
 Ombudsman
@@ -10275,7 +10275,7 @@ Source: NZ Farmer
 Author: 
 Vol / Page: 24
 Edition: 
-Quote: Heifers on drop have been worth £14 to £18 10/-.
+Quote: Heifers on drop have been worth GBP14 to GBP18 10/-.
 Notes: 
 
 Date: 25/10/1951 
@@ -10283,7 +10283,7 @@ Source: NZ Farmer
 Author: 
 Vol / Page: 34
 Edition: 
-Quote: Cows on drop were worth up to £22, heifers on drop £18 to £23.
+Quote: Cows on drop were worth up to GBP22, heifers on drop GBP18 to GBP23.
 Notes: 
 
 Date: 0/0/1982 
@@ -11994,7 +11994,7 @@ on the hooks
 Homonym Number: 
 Word Class:phrase
 Sense Number:
-Definition:[butchery] used with reference to a slaughtered animal’s final dressed carcass or its weight. 
+Definition:[butchery] used with reference to a slaughtered animal's final dressed carcass or its weight. 
 Origin:[none]
 Register:
 Register 2:
@@ -12691,7 +12691,7 @@ Quote: When we'd finished that muster at Ohinewairua, I went back on the road ag
 Notes: 
 
 Date: 0/0/1874 
-Source: Crusts: a settler’s fare due south
+Source: Crusts: a settler's fare due south
 Author: KENNAWAY
 Vol / Page: 48
 Edition: 
@@ -13047,7 +13047,7 @@ Source: Huia 4: Contemp. Maori Fiction
 Author: 
 Vol / Page: 172
 Edition: 
-Quote: Uncle Hare, the kaumatua, still hasn’t arrived. There’s a nasty suspicion that he’s on the turps, being a Friday night.
+Quote: Uncle Hare, the kaumatua, still hasn't arrived. There's a nasty suspicion that he's on the turps, being a Friday night.
 Notes: 
 
 Date: 20/9/2000 
@@ -13077,7 +13077,7 @@ Source: Tuapeka Times
 Author: 
 Vol / Page: 1
 Edition: 
-Quote: I’ve shivered and starved in vain,/And been honest for months in rag,/So if I’m convicted again,/I think it won’t be on the vag.
+Quote: I've shivered and starved in vain,/And been honest for months in rag,/So if I'm convicted again,/I think it won't be on the vag.
 Notes: 
 
 Date: 7/1/1922 
@@ -13085,7 +13085,7 @@ Source: NZ Truth
 Author: 
 Vol / Page: 8
 Edition: 
-Quote: ONE TIME ’ERO NOW ON THE “VAG.”
+Quote: ONE TIME 'ERO NOW ON THE "VAG."
 Notes: 
 
 Date: 2/8/1878 
@@ -13093,7 +13093,7 @@ Source: Akaroa Mail and Banks Peninsula Advertiser
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: Well, “going on the vag,” like adversity, introduces one to strange bedfellows, and a vagrant like myself has to put up with many indignities …
+Quote: Well, "going on the vag," like adversity, introduces one to strange bedfellows, and a vagrant like myself has to put up with many indignities ...
 Notes: 
 
 Date: 27/11/1920 
@@ -13101,7 +13101,7 @@ Source: NZ Truth
 Author: 
 Vol / Page: 6
 Edition: 
-Quote: A middle-aged married woman named Mary Burgoyne, who was found with the men in a drunken condition in the railway carriage was charged with drunkenness, with being a rogue and “on the vag.,” and with puncturing her prohibition order.
+Quote: A middle-aged married woman named Mary Burgoyne, who was found with the men in a drunken condition in the railway carriage was charged with drunkenness, with being a rogue and "on the vag.," and with puncturing her prohibition order.
 Notes: 
 
 Date: 20/2/1931 
@@ -13109,7 +13109,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 8
 Edition: 
-Quote: “And the police would pinch them for being on the ‘vag.’”
+Quote: "And the police would pinch them for being on the 'vag.'"
 Notes: 
 
 Date: 0/0/1961 
@@ -13329,7 +13329,7 @@ Source: Southland Times
 Author: 
 Vol / Page: 1
 Edition: 
-Quote: WANTED to Let 1400 acres, on Castle Rock Run.   Terms liberal – small quantity of stock (sheep if preferred), will be given on thirds.
+Quote: WANTED to Let 1400 acres, on Castle Rock Run.   Terms liberal - small quantity of stock (sheep if preferred), will be given on thirds.
 Notes: 
 
 Date: 21/2/1917 
@@ -14035,7 +14035,7 @@ Source: Morrieson's Motel
 Author: McLauchlan ed.
 Vol / Page: 23
 Edition: 
-Quote: ‘Yeah. She’s a good little one, your missus,’ said Davey Collins. ‘One out of the box,’ endorsed Cora.
+Quote: 'Yeah. She's a good little one, your missus,' said Davey Collins. 'One out of the box,' endorsed Cora.
 Notes: 
 
 Date: 26/9/1908 
@@ -15001,7 +15001,7 @@ Source: Geological Society of NZ Newsletter
 Author: 
 Vol / Page: 46/9
 Edition: 
-Quote: . . .  then another half-mile walk up an abandoned rope haulage way to the remaining cluster of small houses, single men’s huts, one-teacher school, post office, former store (our camp) and a small community hall with a chronically de-tuned piano.
+Quote: . . .  then another half-mile walk up an abandoned rope haulage way to the remaining cluster of small houses, single men's huts, one-teacher school, post office, former store (our camp) and a small community hall with a chronically de-tuned piano.
 Notes: 
 
 one-way
@@ -15845,7 +15845,7 @@ Source: NZ Dairy Exporter
 Author: 
 Vol / Page: 9
 Edition: 
-Quote: If you find that you cannot get density in your sward .. you are thrown back to on-off grazing systems…
+Quote: If you find that you cannot get density in your sward .. you are thrown back to on-off grazing systems...
 Notes: 
 
 Date: 0/0/1999 
@@ -16819,7 +16819,7 @@ Source: Internet - see Notes
 Author: 
 Vol / Page: 
 Edition: 
-Quote: Other notable faunainclude the endemic Open Bay Islands leech and Open Bay Islands skink (<i>Oligosoma</i> “Open Bay Islands”), Open Bay Islands gecko (<i>Hoplodactylus</i> “Open Bay Islands”), and large numbers of fur seals (<i>Arctocephalus forsteri</i>).
+Quote: Other notable faunainclude the endemic Open Bay Islands leech and Open Bay Islands skink (<i>Oligosoma</i> "Open Bay Islands"), Open Bay Islands gecko (<i>Hoplodactylus</i> "Open Bay Islands"), and large numbers of fur seals (<i>Arctocephalus forsteri</i>).
 Notes: http://www.doc.govt.nz/upload/documents/science-and-technical/Sfc057.pdf
 
 Date: 0/4/2007 
@@ -17025,7 +17025,7 @@ Quote: In the term `open' I include plains and hill-sides in the low-lands cover
 Notes: Haast
 
 Date: 0/0/1874 
-Source: Crusts: a settler’s fare due south
+Source: Crusts: a settler's fare due south
 Author: KENNAWAY
 Vol / Page: 11
 Edition: 
@@ -17135,7 +17135,7 @@ Source: Empire of the Dairy Farmers
 Author: YEREX
 Vol / Page: 32
 Edition: 
-Quote: The open country which existed – much of it the result of extensive burning-off by the Maori – had been quickly taken up during the 1840s and 50s.
+Quote: The open country which existed - much of it the result of extensive burning-off by the Maori - had been quickly taken up during the 1840s and 50s.
 Notes: 
 
 Date: 0/0/1996 
@@ -17833,7 +17833,7 @@ Source: Poverty Bay Herald
 Author: 
 Vol / Page: 8
 Edition: 
-Quote: It was our fate to witness the misfortune of the sinking of the Triumph near by, and when next morning the Majestic followed it made us want still more to ‘Up and at them’. However, things will not and cannot be always in our favor, but it [is] hard to grin and bear it at times, especially when your side loses without a fair go, or what we call ‘an open slather’.
+Quote: It was our fate to witness the misfortune of the sinking of the Triumph near by, and when next morning the Majestic followed it made us want still more to 'Up and at them'. However, things will not and cannot be always in our favor, but it [is] hard to grin and bear it at times, especially when your side loses without a fair go, or what we call 'an open slather'.
 Notes: from a letter from Gunner Pat Duncan at Gallipoli to a friend in Gisborne
 
 Date: 0/0/1949 
@@ -17841,7 +17841,7 @@ Source: Journey Towards Christmas
 Author: Llewellyn, S.P.
 Vol / Page: 51
 Edition: 
-Quote: The petrol was discovered about six miles down the Amyntaion-Servia road and as soon as the lorries were loaded our drivers turned their attention to the ration section of the dump. They were shown where the luxuries were stacked and told to help themselves. It was their first experience of what was to be known later as an ‘open slather’ and many of them were pink with excitement as they scrambled among the stacks, breaking open cases of tinned fruit, tinned vegetables, pickles, jam, tobacco, cigarettes. You just helped yourself. It was a childhood dream come true and for a quarter of an hour they behaved like greedy small boys. They stuffed their blouses with tins and threw cases on top of the loads of petrol.Often, in the days that lay ahead, we were to be wet and cold, sick and sorry, tired and frightened—never hungry. Empty and half-empty tins of peas and beans and pears and raspberries were to mark the passage of our convoys. It is probably fair to say that from the day of the first ‘open slather’ until the day we left Greece most of us over-ate.
+Quote: The petrol was discovered about six miles down the Amyntaion-Servia road and as soon as the lorries were loaded our drivers turned their attention to the ration section of the dump. They were shown where the luxuries were stacked and told to help themselves. It was their first experience of what was to be known later as an 'open slather' and many of them were pink with excitement as they scrambled among the stacks, breaking open cases of tinned fruit, tinned vegetables, pickles, jam, tobacco, cigarettes. You just helped yourself. It was a childhood dream come true and for a quarter of an hour they behaved like greedy small boys. They stuffed their blouses with tins and threw cases on top of the loads of petrol.Often, in the days that lay ahead, we were to be wet and cold, sick and sorry, tired and frightened-never hungry. Empty and half-empty tins of peas and beans and pears and raspberries were to mark the passage of our convoys. It is probably fair to say that from the day of the first 'open slather' until the day we left Greece most of us over-ate.
 Notes: 
 
 Date: 6/12/1924 
@@ -17850,14 +17850,14 @@ Author:
 Vol / Page: 5
 Edition: 
 Quote: It is open season all the year round for the shooting of bank clerks. Even the wild ducks get a sanctuary sometimes, but with the underpaid and responsibility-laden banker it is an open slather all the year round. 
-Notes: Truth’s ‘Melbourne Rep.’ is reporting on a spate of bank shootings there
+Notes: Truth's 'Melbourne Rep.' is reporting on a spate of bank shootings there
 
 Date: 3/1/1929 
 Source: NZ Truth
 Author: 
 Vol / Page: 8
 Edition: 
-Quote: The last round was a ‘trimmer’. Both boys let themselves go, and made it an open slather. The crowd was on its feet throughout.
+Quote: The last round was a 'trimmer'. Both boys let themselves go, and made it an open slather. The crowd was on its feet throughout.
 Notes: 
 
 Date: 13/2/2004 
@@ -17881,7 +17881,7 @@ Source: Grey River Argus
 Author: 
 Vol / Page: 4
 Edition: 
-Quote: I think his [a boxer named Torrie’s] will be one of the best professional fights the Association has ever put on and it will be open slather from the gong. I am sure this event will be worth the price of admission.
+Quote: I think his [a boxer named Torrie's] will be one of the best professional fights the Association has ever put on and it will be open slather from the gong. I am sure this event will be worth the price of admission.
 Notes: 
 
 Date: 0/0/1964 
@@ -17905,7 +17905,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 10
 Edition: 
-Quote: There was an acrimonious discussion, and reference to an “open slather.”
+Quote: There was an acrimonious discussion, and reference to an "open slather."
 Notes: 
 
 Date: 24/2/1944 
@@ -17913,7 +17913,7 @@ Source: Evening Post
 Author: 
 Vol / Page: 4
 Edition: 
-Quote: This bliss had not lasted more than a week, however, when we were informed that the “increased” charge of 4d had been disallowed by the Price Tribunal, and that the price would again be 3½d, with open slather as to weight.
+Quote: This bliss had not lasted more than a week, however, when we were informed that the "increased" charge of 4d had been disallowed by the Price Tribunal, and that the price would again be 3 1/2d, with open slather as to weight.
 Notes: 
 
 open the books
@@ -18285,7 +18285,7 @@ Source: After-Breakfast Cigar, The
 Author: WESTMACOTT
 Vol / Page: 170
 Edition: 
-Quote: I had never been a shearer, but knew how to hold a sheep, open up, and work round the back …
+Quote: I had never been a shearer, but knew how to hold a sheep, open up, and work round the back ...
 Notes: 
 
 Date: 0/0/1982 
@@ -18423,7 +18423,7 @@ Source: Otautau Standard & Wallace County Chronicle
 Author: 
 Vol / Page: 4
 Edition: 
-Quote: There is also a drop of  ¼d to ½d in frozen meat quotations just now, which does not tend to make the sheep market any livelier, also notwithstanding the very open winter we have experienced hitherto, there is an impression abroad that the turnip crops will hardly see the winter out.
+Quote: There is also a drop of   1/4d to  1/2d in frozen meat quotations just now, which does not tend to make the sheep market any livelier, also notwithstanding the very open winter we have experienced hitherto, there is an impression abroad that the turnip crops will hardly see the winter out.
 Notes: 
 
 Date: 27/7/1920 
@@ -18672,7 +18672,7 @@ Opera in the Woolshed
 Homonym Number: 
 Word Class:noun
 Sense Number: 1
-Definition:an annual rural event [matching the urban trend of ‘Opera in the Park'' etc.] 
+Definition:an annual rural event [matching the urban trend of 'Opera in the Park'' etc.] 
 Origin:[none]
 Register:
 Register 2:
@@ -18687,7 +18687,7 @@ Source: Carterton Crier
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: Opera in the Woolshed is being held again this year at Mont Beetham’s.
+Quote: Opera in the Woolshed is being held again this year at Mont Beetham's.
 Notes: 
 
 Date: 4/10/2000 
@@ -18929,7 +18929,7 @@ Source: Dolphins
 Author: ALPERS
 Vol / Page: 209
 Edition: 
-Quote: The dolphin had become generally known by the nickname ‘Opo', having first been known as ‘Opononi Jack'. <i>Ibid. 212 [Notice erected outside town] </i>WELCOME TO OPONONI BUT DON'T SHOOT OUR GAY DOLPHIN [sic].
+Quote: The dolphin had become generally known by the nickname 'Opo', having first been known as 'Opononi Jack'. <i>Ibid. 212 [Notice erected outside town] </i>WELCOME TO OPONONI BUT DON'T SHOOT OUR GAY DOLPHIN [sic].
 Notes: 2nd edition
 
 Date: 0/0/1988 
@@ -18937,7 +18937,7 @@ Source: Encounters with Whales & Dolphins
 Author: DOAK
 Vol / Page: 59
 Edition: 
-Quote: With some cases, such as Opo in New Zealand and Donald in the United Kingdom, the dolphins have been described as ‘social outcasts' or ‘bulls ostracised from the herd.'
+Quote: With some cases, such as Opo in New Zealand and Donald in the United Kingdom, the dolphins have been described as 'social outcasts' or 'bulls ostracised from the herd.'
 Notes: 
 
 Date: 0/4/2002 
@@ -18985,7 +18985,7 @@ Source: Greece & Rome
 Author: 
 Vol / Page: 7/83
 Edition: 
-Quote: The autopsy determined Opo's sex as feminine (so the name ‘Opo Joe' sometimes used is a misnomer).
+Quote: The autopsy determined Opo's sex as feminine (so the name 'Opo Joe' sometimes used is a misnomer).
 Notes: 
 
 Date: 0/0/1972 
@@ -18993,7 +18993,7 @@ Source: Whales, Dolphins & Seals
 Author: GASKIN
 Vol / Page: 131
 Edition: 
-Quote: ‘Opo' was a partly grown female <i>Tursiops</i>.. believed to be the offspring of a female shot by a local youth.
+Quote: 'Opo' was a partly grown female <i>Tursiops</i>.. believed to be the offspring of a female shot by a local youth.
 Notes: 
 
 Date: 1/6/1996 
@@ -19109,7 +19109,7 @@ Source: Merriam-Webster Third International
 Author: 
 Vol / Page: 2028
 Edition: 
-Quote: <i>O-pos´.sum</i> (ò.-p&obreve.s´.s&ubreve.m), <i>n. (Zoö.l.) [Add.]</i> 2. The phalanger; - called also, colloquially,<i>possum</i> . See PHALANGER, in the Dictionary. 
+Quote: <i>O-pos'.sum</i> (o.-p&obreve.s'.s&ubreve.m), <i>n. (Zoo.l.) [Add.]</i> 2. The phalanger; - called also, colloquially,<i>possum</i> . See PHALANGER, in the Dictionary. 
 Notes: 
 
 Date: 0/0/1968 
@@ -19617,7 +19617,7 @@ Source: Sunday Star Times
 Author: 
 Vol / Page: D3
 Edition: 
-Quote: [Hdg] From Victorian velvets to ‘70s polyester, op-shopping is part of the culture of cool.
+Quote: [Hdg] From Victorian velvets to '70s polyester, op-shopping is part of the culture of cool.
 Notes: 
 
 Date: 0/4/2001 
@@ -20079,7 +20079,7 @@ Source: Hooked
 Author: JOHNSON
 Vol / Page: 284
 Edition: 
-Quote: In November 1975 [the Japanese research vessel <i>Shinkai Maru</i>] was trawling on the Chatham Rise when she brought up a full bag of brightly orange-coloured fish. MAF scientist Gavin James and his Japanese counterpart Tadashi Inada had never seen the fish before, nor could they find it in their identification guides. After a careful inspection they decided it looked a bit like an inshore fish of the roughy family. It was orange, so they recorded it as ‘orange roughy’.
+Quote: In November 1975 [the Japanese research vessel <i>Shinkai Maru</i>] was trawling on the Chatham Rise when she brought up a full bag of brightly orange-coloured fish. MAF scientist Gavin James and his Japanese counterpart Tadashi Inada had never seen the fish before, nor could they find it in their identification guides. After a careful inspection they decided it looked a bit like an inshore fish of the roughy family. It was orange, so they recorded it as 'orange roughy'.
 Notes: 
 
 Date: 22/7/1988 
@@ -20337,7 +20337,7 @@ Source: NZ Geographic
 Author: 
 Vol / Page: 51/10
 Edition: 
-Quote: The first recorded mention of the orange-fronted parakeet was in 1857 by Charles De Souancé, who named it <i>Cyanoramphus malherbi</i> from a single specimen, source unknown.
+Quote: The first recorded mention of the orange-fronted parakeet was in 1857 by Charles De Souance, who named it <i>Cyanoramphus malherbi</i> from a single specimen, source unknown.
 Notes: 
 
 orange-leaf
@@ -20937,7 +20937,7 @@ Source: Grey River Argus
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: At the Magistrate's Court to-day a local orchardist was fined £2 and costs for failing to comply with a notice dealing with the fire blight.
+Quote: At the Magistrate's Court to-day a local orchardist was fined GBP2 and costs for failing to comply with a notice dealing with the fire blight.
 Notes: 
 
 Date: 3/4/1930 
@@ -20969,7 +20969,7 @@ Source: Ann. Rep. Dept of Agriculture
 Author: 
 Vol / Page: II/109
 Edition: 
-Quote: I will instance the case of an orchardist in the neighbourhood of Auckland who this year sold over two tons of plums from a little over an acre of land, realising a net profit of over £50 an acre.
+Quote: I will instance the case of an orchardist in the neighbourhood of Auckland who this year sold over two tons of plums from a little over an acre of land, realising a net profit of over GBP50 an acre.
 Notes: 
 
 Date: 29/5/1912 
@@ -22387,7 +22387,7 @@ Source: Geological Society of NZ Newsletter
 Author: 
 Vol / Page: 65/19
 Edition: 
-Quote: Foraminifera found in Oretian and Warepan rocks in North Island constitute an important addition to New Zealand’s Triassic foraminiferal fauna, already by far the largest known in the Southern Hemisphere.
+Quote: Foraminifera found in Oretian and Warepan rocks in North Island constitute an important addition to New Zealand's Triassic foraminiferal fauna, already by far the largest known in the Southern Hemisphere.
 Notes: 
 
 Orewa
@@ -22975,7 +22975,7 @@ Source: Dominion
 Author: 
 Vol / Page: 1
 Edition: 
-Quote: HortResearch is also testing Oroblanco or ‘Sweetie', a seedless grapefruit... Oroblanco had been developed by the University of California and was about 2 per cent sweeter than a March grapefruit.
+Quote: HortResearch is also testing Oroblanco or 'Sweetie', a seedless grapefruit... Oroblanco had been developed by the University of California and was about 2 per cent sweeter than a March grapefruit.
 Notes: 
 
 orooro
@@ -23975,7 +23975,7 @@ Source: Geological Society of NZ Newsletter
 Author: 
 Vol / Page: 23/8
 Edition: 
-Quote: It is perhaps especially notable in that it completes Mr Wood’s reconnaissance mapping of the Fiordland Complex and his mapping of the Otago schists.
+Quote: It is perhaps especially notable in that it completes Mr Wood's reconnaissance mapping of the Fiordland Complex and his mapping of the Otago schists.
 Notes: 
 
 Date: 0/7/1967 
@@ -23991,7 +23991,7 @@ Source: Geological Society of NZ Newsletter
 Author: 
 Vol / Page: 32/13
 Edition: 
-Quote: Professor Hutton’s work in New Zealand was on two main topics, the study of progressive metamorphism in the Otago schists, particularly in the Lake Wakatipu region, and work on heavy minerals in the gravels and sands of the west coast of the South Island.
+Quote: Professor Hutton's work in New Zealand was on two main topics, the study of progressive metamorphism in the Otago schists, particularly in the Lake Wakatipu region, and work on heavy minerals in the gravels and sands of the west coast of the South Island.
 Notes: 
 
 Date: 0/5/1969 
@@ -24183,7 +24183,7 @@ Source: Poverty Bay Herald
 Author: 
 Vol / Page: 6
 Edition: 
-Quote: In renovating the house of a well-known Central Otagoite, who died recently, his relatives came upon a "rich patch." In the heel of an old boot was a sum of £65.
+Quote: In renovating the house of a well-known Central Otagoite, who died recently, his relatives came upon a "rich patch." In the heel of an old boot was a sum of GBP65.
 Notes: 
 
 Date: 5/6/1901 
@@ -24365,7 +24365,7 @@ Source: Geological Society of NZ Newsletter
 Author: 
 Vol / Page: 8/3
 Edition: 
-Quote: Student theses at present being prepared are:  “The Sedimentary History of the Lowermost Otaian in North Canterbury” by P.B. Andrews.
+Quote: Student theses at present being prepared are:  "The Sedimentary History of the Lowermost Otaian in North Canterbury" by P.B. Andrews.
 Notes: 
 
 Date: 0/8/1989 
@@ -24373,7 +24373,7 @@ Source: Geological Society of NZ Newsletter
 Author: 
 Vol / Page: 85/23
 Edition: 
-Quote: These clearly show regional emplacement of “Onerahi” rocks in the Waitakian and possibly early Otaian, soon after rapid subsidence and formation of the proto-Waitemata Basin in this area.
+Quote: These clearly show regional emplacement of "Onerahi" rocks in the Waitakian and possibly early Otaian, soon after rapid subsidence and formation of the proto-Waitemata Basin in this area.
 Notes: 
 
 otaio
@@ -24593,7 +24593,7 @@ Quote: THE OTHER SIDE. LONDON .. The Marquis of Northhampton had hundreds of for
 Notes: 
 
 Date: 0/0/1874 
-Source: Crusts: a settler’s fare due south
+Source: Crusts: a settler's fare due south
 Author: KENNAWAY
 Vol / Page: 8
 Edition: 
@@ -24627,7 +24627,7 @@ Source: Pirate Chief and the Mummy's Complaint..., The
 Author: SKEY
 Vol / Page: Page 129
 Edition: 
-Quote: On ‘the other side',† Sam, you'd have swung on a tree, / To warn other liars about; / But, respecting your age, we'll let you go free. / With just a mild taste of the knout. [† New Zealanders signify by this expression, Australia.]  
+Quote: On 'the other side', Sam, you'd have swung on a tree, / To warn other liars about; / But, respecting your age, we'll let you go free. / With just a mild taste of the knout. [New Zealanders signify by this expression, Australia.]  
 Notes: 
 
 Date: 24/5/1894 
@@ -24659,7 +24659,7 @@ Source: Pirate Chief and the Mummy's Complaint..., The
 Author: SKEY
 Vol / Page: 129
 Edition: 
-Quote: On ‘the other side',† Sam, you'd have swung on a tree, / To warn other liars about; / But, respecting your age, we'll let you go free. / With just a mild taste of the knout. [† New Zealanders signify by this expression, Australia.]
+Quote: On 'the other side', Sam, you'd have swung on a tree, / To warn other liars about; / But, respecting your age, we'll let you go free. / With just a mild taste of the knout. [ New Zealanders signify by this expression, Australia.]
 Notes: 
 
 Date: 0/0/1891 
@@ -24869,7 +24869,7 @@ Source: Geological Society of NZ Newsletter
 Author: 
 Vol / Page: 45/17
 Edition: 
-Quote: M.Mabin – “A Reinterpretation of a late Otiran radiocarbondate from the Middle Mariwa Valley, S.E. Nelson.”
+Quote: M.Mabin - "A Reinterpretation of a late Otiran radiocarbondate from the Middle Mariwa Valley, S.E. Nelson."
 Notes: 
 
 OTS
@@ -25107,7 +25107,7 @@ Source: Listener (New Zealand Listener)
 Author: 
 Vol / Page: 41
 Edition: 
-Quote: [Caption] We have <i>no</i> problem with Te Papa hosting a Star Trek ® exhibition... This is <i>our</i> Place & we've got the remote.
+Quote: [Caption] We have <i>no</i> problem with Te Papa hosting a Star Trek exhibition... This is <i>our</i> Place & we've got the remote.
 Notes: 
 
 ourisia
@@ -26929,7 +26929,7 @@ Source: Hawera Star
 Author: 
 Vol / Page: 3
 Edition: 
-Quote: For Sale: 256 acres at Ngaire [sic] with 10-roomed house, £2290. Land in good grass, and subdivided into eight paddocks. Outer fence sheep-proof. 40 acres under plough ...
+Quote: For Sale: 256 acres at Ngaire [sic] with 10-roomed house, GBP2290. Land in good grass, and subdivided into eight paddocks. Outer fence sheep-proof. 40 acres under plough ...
 Notes: 
 
 Outer Roa
@@ -27177,7 +27177,7 @@ Pronunciation:
 Notes:
 Citations 
 Date: 0/0/1874 
-Source: Crusts: a settler’s fare due south
+Source: Crusts: a settler's fare due south
 Author: KENNAWAY
 Vol / Page: 182
 Edition: 
@@ -28425,7 +28425,7 @@ Quote:  ... we stopped at one of our shepherd's huts, technically called an out 
 Notes: 
 
 Date: 0/0/1874 
-Source: Crusts: a settler’s fare due south
+Source: Crusts: a settler's fare due south
 Author: KENNAWAY
 Vol / Page: 68
 Edition: 
@@ -30297,7 +30297,7 @@ Source: Three Sheep and a Dog
 Author: GORDON
 Vol / Page: 111
 Edition: 
-Quote: It wasn’t a 48 [dog trial score] as she overheaded, which means she went past noon on the clock and landed at 11.
+Quote: It wasn't a 48 [dog trial score] as she overheaded, which means she went past noon on the clock and landed at 11.
 Notes: 
 
 overheads
@@ -31291,7 +31291,7 @@ Quote: But by-and-bye the overseer/ [168] Rode out to learn the shepherds'cheer.
 Notes: 
 
 Date: 0/0/1874 
-Source: Crusts: a settler’s fare due south
+Source: Crusts: a settler's fare due south
 Author: KENNAWAY
 Vol / Page: 137
 Edition: 
@@ -31497,7 +31497,7 @@ Source: NZ Truth
 Author: 
 Vol / Page: 7
 Edition: 
-Quote: Wong Sing, the Chinaman the police stated they were searching for, was fined an additional £25 for overstaying the period allowed by his permit.
+Quote: Wong Sing, the Chinaman the police stated they were searching for, was fined an additional GBP25 for overstaying the period allowed by his permit.
 Notes: 
 
 Date: 13/10/1927 
@@ -31535,7 +31535,7 @@ Source: Bay of Plenty Times
 Author: 
 Vol / Page: 2
 Edition: 
-Quote: They got £1 for every straggler from the fleet, and £8 for men-o-wars men, returned as deserters, through overstaying their liberty; viz., £3 from the Captain, and £5 from the Colonial Government.
+Quote: They got GBP1 for every straggler from the fleet, and GBP8 for men-o-wars men, returned as deserters, through overstaying their liberty; viz., GBP3 from the Captain, and GBP5 from the Colonial Government.
 Notes: 
 
 Date: 20/10/1875 
@@ -31977,7 +31977,7 @@ Source: Sheep and Sheepmen of Canterbury
 Author: CRAWFORD
 Vol / Page: 81
 Edition: 
-Quote: Merino, the ovine king of New Zealand, would have to give way …
+Quote: Merino, the ovine king of New Zealand, would have to give way ...
 Notes: 
 
 owl
@@ -33595,7 +33595,7 @@ Source: Hooked
 Author: JOHNSON
 Vol / Page: 207
 Edition: 
-Quote: By the time the 1951 award was settled, oystermen received 1s 7d a sack, with a bonus of twopence halfpenny for skippers and a penny halfpenny for engineers.<i>Ibid.</i>210 The Marine Department biologist investigating Foveaux Strait oysters said the potential continuing yield was 170,000–180,000 sacks. Merchants, skippers and the oystermen united to claim that a catch of that size would ruin the beds.
+Quote: By the time the 1951 award was settled, oystermen received 1s 7d a sack, with a bonus of twopence halfpenny for skippers and a penny halfpenny for engineers.<i>Ibid.</i>210 The Marine Department biologist investigating Foveaux Strait oysters said the potential continuing yield was 170,000-180,000 sacks. Merchants, skippers and the oystermen united to claim that a catch of that size would ruin the beds.
 Notes: 
 
 oysterpicker
