@@ -6,7 +6,7 @@
 <div class="body-content">
 
     <div class="row">
-      <h1>New citation for {{headword}}</h1>
+      <h1>New citation for {{headword.headword}}</h1>
     </div>
 
 
@@ -14,8 +14,8 @@
     {% include "headwords/citations/_form.html" %}
     
     <br>
-    <a href="/headwords/show?headword={{headword}}">
-        back to headword {{headword}}
+    <a href="/headwords/show?headword_id={{headword.id}}">
+        back to headword {{headword.headword}}
     </a>
 
 </div>

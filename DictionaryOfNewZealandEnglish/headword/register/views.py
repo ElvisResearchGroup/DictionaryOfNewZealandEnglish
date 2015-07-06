@@ -28,9 +28,9 @@ def delete():
         return redirect(url_for('public.home'))
 
     register = request.args.get('register')
-    headword = request.args.get('headword')
+    headword_id = request.args.get('headword_id')
     register = Register.query.filter_by(name=register).first()
-    headword = Headword.query.filter_by(headword=headword).first()
+    headword = Headword.query.get( headword_id )
     if register in headword.registers:
       headword.registers.remove(register)
       db.session.add(headword)

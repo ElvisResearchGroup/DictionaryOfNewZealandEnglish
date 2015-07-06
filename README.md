@@ -2,6 +2,7 @@
 
 A web interface to the "Dictionary of New Zealand English", managed and run by the New Zealand Dictionary Center.
 
+Written using Flask, a Python framework similar to Django but considerably lighter. Flask uses WTForms and SQLAlchemy.
 
 Development notes and stuff I do not wish to commit to memory.
 
@@ -11,8 +12,6 @@ Development notes and stuff I do not wish to commit to memory.
 * On users changing thier password, it is not hashed in the db. Missing a hook of some sort.
 
 #### Plumbing
-* use Date objects in Citations
-* Template Headwords, limit to 30 per page
 * Dockerise the app
 * a coders HISTORY.md file to credit previous coding efforts
 
@@ -23,6 +22,15 @@ Development notes and stuff I do not wish to commit to memory.
 
 NOTE: Comment this out in manage.py for production!!!
 or add "if production return" to the first line if that capability is in Python
+
+### Set-up production Database - once only, further runs will reset the database to June 2015.
+
+    python manage.py data_import all:db
+
+#### To test a small file (102 entries)
+
+    python manage.py data_import Q:db
+
 
 ## Project set-up
 

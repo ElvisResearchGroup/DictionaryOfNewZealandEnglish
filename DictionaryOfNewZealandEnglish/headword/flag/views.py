@@ -28,9 +28,9 @@ def delete():
         return redirect(url_for('public.home'))
 
     flag     = request.args.get('flag')
-    headword = request.args.get('headword')
+    headword_id = request.args.get('headword_id')
     flag     = Flag.query.filter_by(name=flag).first()
-    headword = Headword.query.filter_by(headword=headword).first()
+    headword = Headword.query.get( headword_id )
     if flag in headword.flags:
       headword.flags.remove(flag)
       db.session.add(headword)

@@ -11,12 +11,19 @@
     <tr>
 
        {% if output == 'definition_only' %}
-
-         {% include "headwords/_definition_only.html" %}
+         <br>
+         <table>
+           <tr>
+             {% for headword in headwords %}
+               {% include "headwords/_definition_only.html" %}
+               </tr><tr>
+             {% endfor %}
+           </tr>
+         </table>
 
        {% else %}
 
-      <td valign="top">
+      <td valign="top" style="width:50%;">
          <!-- headword details -->
          {% include "headwords/_headword.html" %}
 

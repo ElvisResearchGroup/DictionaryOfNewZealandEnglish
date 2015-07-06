@@ -9,15 +9,12 @@ import logging
 import sys
 import string
 from sqlalchemy.exc import IntegrityError, InvalidRequestError
-from sqlalchemy.sql.expression import bindparam
+from sqlalchemy import func
 from DictionaryOfNewZealandEnglish.database import db
 from DictionaryOfNewZealandEnglish.headword.forms import *
-from DictionaryOfNewZealandEnglish.public.forms import LoginForm
 from DictionaryOfNewZealandEnglish.headword.models import *
 from DictionaryOfNewZealandEnglish.headword.citation.models import *
-from DictionaryOfNewZealandEnglish.database import engine
 import datetime as dt
-from operator import itemgetter
 
 blueprint = Blueprint("headword", __name__, url_prefix='/headwords',
                         static_folder="../static")
@@ -28,22 +25,28 @@ blueprint = Blueprint("headword", __name__, url_prefix='/headwords',
 def index():
     if request.args.get('letter'):
         headwords = []
+        attribute_name = attribute_table = attribute_id = ""
         if request.args.get('letter') == 'attribute':
-            table = request.args.get('table')       # attribute table
-            name  = request.args.get('name')        # attribute name
-            name_id  = request.args.get('name_id')  # attribute id
+            attribute_table = request.args.get('table')
+            attribute_name  = request.args.get('name')
+            attribute_id  = request.args.get('name_id')
 
-            if table == "Register":
-              register = Register.query.filter_by(name=name).first()
+            if attribute_table == "Register":
+              register = Register.query.filter_by(name=attribute_name).first()
               headwords = register.headwords              
-            elif table == "Flag":
-              flag = Flag.query.filter_by(name=name).first()
-              headwords = flag.headwords
+            elif attribute_table == "Flag":
+              flag = Flag.query.filter_by(name=attribute_name).first()
+              headwords = flag.headwords         
+            elif attribute_table == "Source":
+              source = Source.query.filter_by(name=attribute_name).first()
+              citations = source.citations
+              for citation in citations:
+                headwords = headwords + citation.headwords
             else:
-              attribute_id = table.replace(' ', '_').lower()+"_id"
+              attr_id_label = attribute_table.replace(' ', '_').lower()+"_id"
               headwords = Headword.query.filter(
-                                  getattr(Headword, attribute_id) == name_id)
-            title = "Words for {1}, {0}".format(name, table)
+                                  getattr(Headword, attr_id_label) == attribute_id)
+            title = "Words for {1}, {0}".format(attribute_name, attribute_table)
         else:
             letter = request.args.get('letter')
             headwords = Headword.query.filter(
@@ -56,7 +59,10 @@ def index():
 
         return render_template("headwords/index.html", letter=request.args.get('letter'),
                                                        title=title,
+                                                       attribute_name=attribute_name,
+                                                       attribute_table=attribute_table,
                                                        counts=counts,
+                                                       #headword=headwords.first(),
                                                        headwords=headwords)
 
     # logged in users arrive here
@@ -67,17 +73,25 @@ def index():
 @blueprint.route("/show", methods=["GET","POST"])
 @login_required
 def show():
+    headword = headwords = None
     if request.method == "GET":
-      headword = request.args.get('headword')
+      # is passed headword_id as headword names are not unique 
+      headword = Headword.query.get( request.args.get('headword_id') )
       output = 'sample_citations'
       if request.args.get('output'):
         output = request.args.get('output')
       
-    if request.method == "POST":             # TODO from search form, want a list of results
+    if request.method == "POST":
+      # uses headword name
       headword = request.form['headword']
       output  = request.form['output']
+      # case insensitive search
+      headwords = Headword.query.filter(func.lower(Headword.headword)==func.lower(headword)) 
+      headword = headwords.first()
+      # if more than one result, show a list with definitions
+      if headwords.count() > 1:
+        output = "definition_only"
 
-    headword = Headword.query.filter_by(headword=headword).first() 
     if headword == None:
       return redirect("headwords/index")
 
@@ -99,6 +113,7 @@ def show():
         more_citations = True
 
     return render_template("headwords/show.html", headword=headword,
+                                                  headwords=headwords,
                                                   output=output,
                                                   citations=citations,
                                                   more_citations=more_citations)
@@ -109,9 +124,7 @@ def show():
 def edit():
     if not current_user.is_admin:
         return redirect(url_for('public.home'))
-        
-    headword = request.args.get('headword')
-    headword = Headword.query.filter_by(headword=headword).first()
+    headword = Headword.query.get( request.args.get('headword_id') )
     form = HeadwordForm(request.form, obj=headword)
 
     if request.method == "POST" and form.validate():
@@ -119,7 +132,9 @@ def edit():
       flash("Edit of %s is saved." % data.headword, 'success')
       
     return render_template("headwords/edit.html", 
-                            form=form, HeadwordForm=HeadwordForm)
+                            form=form, 
+                            headword=headword,
+                            HeadwordForm=HeadwordForm)
 
 
 @blueprint.route("/new", methods=["GET"])
@@ -140,9 +155,8 @@ def create():
 
     form = HeadwordForm(request.form)
     if form.validate():
-      __create_headword(form)
+      headword = Headword.query.get( __create_headword(form) )
       flash("New headword created: %s" % form.headword.data, 'success')
-      headword = Headword.query.filter_by(headword=form.headword.data).first()
       return render_template("headwords/show.html", form=form, headword=headword)
     
     flash('There is an error')
@@ -159,20 +173,24 @@ def __create_headword(form):
                         see               = form.see.data,
                         pronunciation     = form.pronunciation.data,
                         notes             = form.notes.data,
-                        data_set_id       = form.data_set.data.id,
-                        homonym_number_id = form.homonym_number.data.id, 
-                        word_class_id     = form.word_class.data.id, 
-                        sense_number_id   = form.sense_number.data.id, 
-                        origin_id         = form.origin.data.id,
-                        domain_id         = form.domain.data.id, 
-                        region_id         = form.region.data.id, 
+                        data_set_id       = __set_None_or(form.data_set.data),
+                        homonym_number_id = __set_None_or(form.homonym_number.data), 
+                        word_class_id     = __set_None_or(form.word_class.data), 
+                        sense_number_id   = __set_None_or(form.sense_number.data), 
+                        origin_id         = __set_None_or(form.origin.data),
+                        domain_id         = __set_None_or(form.domain.data), 
+                        region_id         = __set_None_or(form.region.data), 
                         updated_at        = dt.datetime.utcnow(),
                         updated_by        = current_user.username    )
 
         __set_join_tables(h, form)
 
-        return Headword.query.filter_by(headword=form.headword.data).first()
+        return h.id
 
+def __set_None_or(data):
+    if data == None:
+      return None
+    return data.id
 
 def __set_data_for_headword(headword, form):
     try:
@@ -182,13 +200,13 @@ def __set_data_for_headword(headword, form):
                         see               = form.see.data,
                         pronunciation     = form.pronunciation.data,
                         notes             = form.notes.data,
-                        data_set_id       = form.data_set.data.id,
-                        homonym_number_id = form.homonym_number.data.id, 
-                        word_class_id     = form.word_class.data.id, 
-                        sense_number_id   = form.sense_number.data.id, 
-                        origin_id         = form.origin.data.id,
-                        domain_id         = form.domain.data.id, 
-                        region_id         = form.region.data.id, 
+                        data_set_id       = __set_None_or(form.data_set.data),
+                        homonym_number_id = __set_None_or(form.homonym_number.data), 
+                        word_class_id     = __set_None_or(form.word_class.data), 
+                        sense_number_id   = __set_None_or(form.sense_number.data), 
+                        origin_id         = __set_None_or(form.origin.data),
+                        domain_id         = __set_None_or(form.domain.data), 
+                        region_id         = __set_None_or(form.region.data), 
                         updated_at        = dt.datetime.utcnow(),
                         updated_by        = current_user.username, 
                         archived          = form.archived.data      )
@@ -203,18 +221,20 @@ def __set_data_for_headword(headword, form):
 
 
 def __set_join_tables(headword, form):
-        register = form.register.data.name
-        register = Register.query.filter_by(name=register).first()
-        if register not in headword.registers and register.name != "[none]":
-            headword.registers.append(register)
-            db.session.add(headword)
-            db.session.commit()
+        if form.register.data != None:
+          register = form.register.data.name
+          register = Register.query.filter_by(name=register).first()
+          if register not in headword.registers and register.name != "[none]":
+              headword.registers.append(register)
+              db.session.add(headword)
+              db.session.commit()
 
-        flag = form.flag.data.name
-        flag = Flag.query.filter_by(name=flag).first()
-        if flag not in headword.flags and flag.name != "[none]":
-            headword.flags.append(flag)
-            db.session.add(headword)
-            db.session.commit()
+        if form.flag.data != None:
+          flag = form.flag.data.name
+          flag = Flag.query.filter_by(name=flag).first()
+          if flag not in headword.flags and flag.name != "[none]":
+              headword.flags.append(flag)
+              db.session.add(headword)
+              db.session.commit()
 
 

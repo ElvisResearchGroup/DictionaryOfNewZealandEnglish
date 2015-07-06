@@ -3,6 +3,7 @@ import datetime as dt
 
 from flask.ext.login import UserMixin
 
+#from DictionaryOfNewZealandEnglish.headword.attribute.models import *
 from DictionaryOfNewZealandEnglish.extensions import bcrypt
 from DictionaryOfNewZealandEnglish.database import (
     Column,
@@ -30,7 +31,7 @@ class Citation(SurrogatePK, Model):
     author =     Column(db.String(80),   nullable=False)
 
     source_id =  ReferenceCol('sources', nullable=True)
-    source =     relationship('Source',  backref='citations')
+    source =     relationship('Source',  order_by="Source.name", backref='citations')
 
     vol_page =   Column(db.String(10),   nullable=True)
     edition =    Column(db.String(10),   nullable=True)
@@ -43,7 +44,7 @@ class Citation(SurrogatePK, Model):
     updated_by = Column(db.String(80),   nullable=False)
 
 
-    def __init__(self, day, month, year, 
+    def __init__(self, date, #day, month, year, 
                        circa, 
                        author, 
                        source_id, 
@@ -56,7 +57,7 @@ class Citation(SurrogatePK, Model):
                        updated_by
                        ):
 
-        db.Model.__init__(self, date              = dt.datetime(year, month, day), 
+        db.Model.__init__(self, date              = date, #dt.datetime(year, month, day), 
                                 circa             = circa, 
                                 author            = author, 
                                 source_id         = source_id, 

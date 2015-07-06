@@ -26,17 +26,18 @@ blueprint = Blueprint("citations", __name__, url_prefix='/headwords/citations',
 def edit():
     if not current_user.is_admin:
         return redirect(url_for('public.home'))
-
-    headword = request.args.get('headword')
+    headword = Headword.query.get( request.args.get('headword_id') )
     citation_id = request.args.get('citation_id')
-    citation = Citation.query.get(citation_id)
+    citation = Citation.query.get( citation_id )
+    #date = [citation.date.day, citation.date.month, citation.date.year]
+    #date = "{0}/{1}/{2}".format(date[0], date[1], date[2])
     form = CitationForm(request.form, obj=citation)
     if request.method == "GET":
       return render_template("headwords/citations/edit.html", form=form,
                                                               citation_id=citation_id,
                                                               headword=headword)
     if request.method == "POST":
-      data = __set_data_for_citation(citation_id, form)
+      data = __set_data_for_citation(citation, form)
       return render_template("headwords/citations/edit.html", form=form,
                                                               citation_id=citation_id,
                                                               headword=headword)
@@ -46,8 +47,7 @@ def edit():
 def new():
     if not current_user.is_admin:
         return redirect(url_for('public.home'))
-
-    headword = request.args.get('headword')
+    headword = Headword.query.get( request.args.get('headword_id') )
     form = CitationForm(request.form)
     return render_template("headwords/citations/new.html", form=form,
                                                            headword=headword)
@@ -60,43 +60,42 @@ def create():
         return redirect(url_for('public.home'))
 
     form = CitationForm(request.form)
-    headword = request.args.get('headword')
+    headword = Headword.query.get( request.args.get('headword_id') )
 
     try:
-        cit_obj = __create_citation(form, headword)
+        citation_id = __create_citation(form, headword)
 
         circa = ""
         if form.circa.data:
           circa = "circa "
-        form_date = __form_date(form)
-        date = "{0}/{1}/{2}".format(form_date[0], 
-                                        form_date[1], 
-                                        form_date[2])
+        d = __form_date(form)
+        date = "{0} / {1} / {2}".format(d.day, d.month, d.year)
         flash("New citation created: {0} ({1}{2})".format(form.author.data,
                                                    circa, 
                                                    date, 'success'))
     
         return render_template("headwords/citations/edit.html", 
                                                        form=form,
-                                                       citation_id = cit_obj.id,
+                                                       citation_id=citation_id,
                                                        headword=headword)
     except (IntegrityError) as e:
         db.session.rollback()
         flash("Input error %s" % e)
-        return render_template("headwords/citations/new.html", form=form, 
-                                                              headword=headword)
-
+        return render_template("headwords/citations/new.html", 
+                                                       form=form, 
+                                                       headword=headword)
+    except (InvalidRequestError):
+        return render_template("headwords/citations/new.html", 
+                                                       form=form, 
+                                                       headword=headword)
 
 @blueprint.route("/delete", methods=["GET"])
 @login_required
 def delete():
     if not current_user.is_admin:
-        return redirect(url_for('public.home'))
-
-    citation_id = request.args.get('citation_id')
-    headword    = request.args.get('headword')
-    citation    = Citation.query.get(citation_id)
-    headword    = Headword.query.filter_by(headword=headword).first()
+      return redirect(url_for('public.home'))
+    citation = Citation.query.get( request.args.get('citation_id') )
+    headword = Headword.query.get( request.args.get('headword_id') )
     if citation in headword.citations:
       headword.citations.remove(citation)
       db.session.add(headword)
@@ -115,7 +114,7 @@ def delete():
 def __create_citation(form, headword):
     date = __form_date(form)
     citation = Citation.create(
-                 day = int(date[0]), month = int(date[1]), year = int(date[2]),
+                 date       = date,
                  circa      = form.circa.data,
                  author     = form.author.data,
                  source_id  = form.source.data.id,
@@ -128,27 +127,46 @@ def __create_citation(form, headword):
                  updated_by = current_user.username    
                  )
     
-    h = Headword.query.filter_by(headword=headword).first()
+    h = Headword.query.get(headword.id)
     h.citations.append(citation)
     db.session.add(h)
     db.session.commit()
 
-    return citation
+    return citation.id
 
 
 def __form_date(form):
-    date = re.split(r'[/,\s]\s*', form.date.data)
-    #date = dt.datetime(int(form_date[2]), int(form_date[1]), int(form_date[0]))
+    form_date = re.split(r'[/,\s]\s*', form.date.data)
+    if len(form_date) < 3:
+      if form.circa.data:
+        # pad out data to fit into datetime type
+        if len(form_date) == 2:
+          y = form_date[1]
+          m = form_date[0]
+          d = "1"
+        if len(form_date) == 1:
+          y = form_date[0]
+          m = "1"
+          d = "1"
+      else:
+        flash("Partial date entered, perhaps 'Circa' should be checked.", 'warning')
+        raise InvalidRequestError
+    else:
+      y = form_date[2]
+      m = form_date[1]
+      d = form_date[0]
+      
+         
+    # dt.datetime(y, m, d)
+    date = dt.datetime(int(y), int(m), int(d))
     return date
 
 
-def __set_data_for_citation(citation_id, form):
-    db_row = Citation.query.get(citation_id)
-
+def __set_data_for_citation(citation, form):
     try:
       date = __form_date(form)
-      Citation.update(db_row,
-                 day = int(date[0]), month = int(date[1]), year = int(date[2]),
+      Citation.update(citation,
+                 date       = date,
                  circa      = form.circa.data,
                  author     = form.author.data,
                  source_id  = form.source.data.id,

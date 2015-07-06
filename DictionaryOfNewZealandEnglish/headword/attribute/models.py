@@ -1,15 +1,10 @@
 # -*- coding: utf-8 -*-
 import datetime as dt
 
-from flask.ext.login import UserMixin
-
-from DictionaryOfNewZealandEnglish.extensions import bcrypt
 from DictionaryOfNewZealandEnglish.database import (
     Column,
     db,
     Model,
-    ReferenceCol,
-    relationship,
     SurrogatePK,
 )
 
@@ -91,6 +86,8 @@ class Source(Secondary_values, SurrogatePK, Model):
     __name__ = 'Source'
     __tablename__ = "sources"
 
+    def __repr__(self):
+        return "%s" % self.name
 
 
 

@@ -6,16 +6,15 @@
 <div class="body-content">
 
     <div class="row">
-      <h1>Edit headword {{form.headword.data}}</h1>
+      <h1>Edit headword {{headword.headword}}</h1>
     </div>
     
-    {% set headword = form.headword.data %}
     {% set form_type = "edit" %}
     {% include "headwords/_form.html" %}
 
     <br>
-    <a href="/headwords/show?headword={{headword}}">
-        back to headword {{headword}}
+    <a href="/headwords/show?headword_id={{headword.id}}">
+        back to headword {{headword.headword}}
     </a>
 
 </div>

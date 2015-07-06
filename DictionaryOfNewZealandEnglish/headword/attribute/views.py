@@ -12,6 +12,7 @@ from sqlalchemy.exc import IntegrityError, InvalidRequestError
 from DictionaryOfNewZealandEnglish.database import db
 from DictionaryOfNewZealandEnglish.headword.attribute.forms import *
 from DictionaryOfNewZealandEnglish.headword.attribute.models import *
+from DictionaryOfNewZealandEnglish.headword.citation.models import *
 from DictionaryOfNewZealandEnglish.public.forms import LoginForm
 from DictionaryOfNewZealandEnglish.database import engine
 import datetime as dt
@@ -27,17 +28,21 @@ blueprint = Blueprint("attribute", __name__, url_prefix='/headwords/attributes',
 def index():
     if not current_user.is_admin:
         return redirect(url_for('public.home'))
-
     table = request.args.get('table')
-    headword = request.args.get('headword')
-    headword = Headword.query.filter_by(headword=headword).first()
+    headword = Headword.query.get( request.args.get('headword_id') )
+    citation = None
+    if request.args.get('citation_id'):
+      citation = Citation.query.get( request.args.get('citation_id') )
     data = __get_data_for_table_rowname(table, 'all')
     form = TableEditForm(request.form, "edit_table")
     return render_template("headwords/attributes/index.html", table=table,
                                                               headword=headword, 
+                                                              citation=citation,
                                                               data=data, 
                                                               Flag=Flag,
                                                               Register=Register,
+                                                              Source=Source,
+                                                              Headword=Headword,
                                                               form=form)
 
 
@@ -46,11 +51,13 @@ def index():
 def create():
     if not current_user.is_admin:
         return redirect(url_for('public.home'))
-
     table = request.args.get('table')
     form = TableEditForm(request.form, "edit_table")
-    headword = request.args.get('headword')
-    headword = Headword.query.filter_by(headword=headword).first()
+    citation_id = request.args.get('citation_id')
+    citation = None
+    if citation_id:
+      citation = Citation.query.get( citation_id )
+    headword = Headword.query.get( request.args.get('headword_id') )
     name = form.name.data
     __create_row_in_table_for_name(table, form)
     data = __get_data_for_table_rowname(table, 'all')
@@ -58,9 +65,12 @@ def create():
 
     return render_template("headwords/attributes/index.html", table=table, 
                                                               headword=headword,
+                                                              citation_id=citation_id,
+                                                              citation=citation,
                                                               data=data,
                                                               Flag=Flag,
                                                               Register=Register,
+                                                              Source=Source,
                                                               form=form)
 
 
@@ -72,17 +82,19 @@ def destroy():
 
     table = request.args.get('table')
     name = request.args.get('name')
-    headword = request.args.get('headword')
+    headwords = None
     data = __get_data_for_table_rowname(table, name)
 
     # data == None if user has refreshed view after delete has been completed
     if data != None:
       # do not delete a data row if it will leave hanging db entries
       if table == 'Register' or table == 'Flag':
-        register = Register.query.filter_by(name=name).first()
-
-        # TODO adopt a better count method
-        headwords = register.headwords
+        if table == 'Register':
+          register = Register.query.filter_by(name=name).first()
+          headwords = register.headwords
+        else:
+          flag = Flag.query.filter_by(name=name).first()
+          headwords = flag.headwords
         count = 0
         for i in headwords:
           count += 1
@@ -90,8 +102,12 @@ def destroy():
         #print "#### %s", headwords
       else:
         _table = str_to_class(module_name, table).query.filter_by(name=name).first()
-        headword_attribute_id    = getattr(Headword,'%s_id' % table.lower().replace(' ', '_'))
-        count = Headword.query.filter(headword_attribute_id == _table.id).count()
+        if table == "Source":
+          source_attribute_id = getattr(Citation,'source_id')
+          count = Citation.query.filter(source_attribute_id == _table.id).count()
+        else:
+          headword_attribute_id = getattr(Headword,'%s_id' % table.lower().replace(' ', '_'))
+          count = Headword.query.filter(headword_attribute_id == _table.id).count()
       
       if count == 0:
           data = __delete_row_in_table(table, name)
@@ -100,12 +116,17 @@ def destroy():
 
     data = __get_data_for_table_rowname(table, 'all')
     form = TableEditForm(request.form, "edit_table")
-    headword = Headword.query.filter_by(headword=headword).first()
+    headword = Headword.query.get( request.args.get('headword_id') )
+    citation = None
+    if request.args.get('citation_id'):
+      citation = Citation.query.get( request.args.get('citation_id') )
     return render_template("headwords/attributes/index.html", table=table, 
                                                               headword=headword,
+                                                              citation=citation,
                                                               data=data, 
                                                               Flag=Flag,
                                                               Register=Register,
+                                                              Source=Source,
                                                               form=form)
 
 
@@ -117,15 +138,20 @@ def edit():
 
     table = request.args.get('table')
     name = request.args.get('name')
-    headword = request.args.get('headword')
+    headword_id = request.args.get('headword_id')
+    citation_id = request.args.get('citation_id')
     form = TableEditForm(request.form, "edit_table")
+
+    print("#### {0}".format(citation_id))
 
     if request.method == "GET":
       data = __get_data_for_table_rowname(table, name)
+      headword = Headword.query.get( headword_id )
       return render_template("headwords/attributes/edit.html", 
                               table = table, 
                               name  = name, 
                               headword=headword,
+                              citation_id=citation_id,
                               data  = data, 
                               form  = form)
 
@@ -138,7 +164,7 @@ def edit():
       else:
         name = data.name
 
-      return redirect("headwords/attributes/index?table={0}&headword={1}".format(table, headword))
+      return redirect("headwords/attributes/index?table={0}&headword_id={1}&citation_id={2}".format(table, headword_id, citation_id))
 
 
 #############################################################################
