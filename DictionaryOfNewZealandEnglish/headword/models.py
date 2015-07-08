@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
+
 import datetime as dt
-
-from flask.ext.login import UserMixin
-
-from DictionaryOfNewZealandEnglish.extensions import bcrypt
 from DictionaryOfNewZealandEnglish.database import (
     Column,
     db,

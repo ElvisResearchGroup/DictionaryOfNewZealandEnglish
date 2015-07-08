@@ -1,12 +1,9 @@
 # -*- coding: utf-8 -*-
+
 # headwords
 from flask import (Blueprint, request, render_template, flash, url_for,
-                    redirect, session, g)
+                    redirect, session)
 from flask.ext.login import login_required, current_user
-from flask_wtf import Form
-import DictionaryOfNewZealandEnglish.utils as utils
-import logging
-import sys
 import string
 from sqlalchemy.exc import IntegrityError, InvalidRequestError
 from sqlalchemy import func
@@ -50,7 +47,7 @@ def index():
         else:
             letter = request.args.get('letter')
             headwords = Headword.query.filter(
-                                  Headword.headword.startswith(letter)).all()
+                                  Headword.headword.startswith(letter)).order_by('archived').all()
             title = "All words"
 
         counts = {}
@@ -62,7 +59,6 @@ def index():
                                                        attribute_name=attribute_name,
                                                        attribute_table=attribute_table,
                                                        counts=counts,
-                                                       #headword=headwords.first(),
                                                        headwords=headwords)
 
     # logged in users arrive here
@@ -108,7 +104,14 @@ def show():
       if size > 0:
         citations.append( headword.citations[0] )
       if size > 1:
-        citations.append( headword.citations[-1] )
+        # find last entry that has not been archived (archived items are always listed last)
+        archived = True
+        n = -1
+        while archived:
+          result = headword.citations[n]
+          archived = result.archived
+          n = n - 1
+        citations.append( result )
       if size > 2: # sample citations return only two citations
         more_citations = True
 

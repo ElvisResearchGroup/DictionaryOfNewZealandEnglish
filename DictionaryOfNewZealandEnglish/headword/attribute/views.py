@@ -1,26 +1,19 @@
 # -*- coding: utf-8 -*-
-#from flask import Blueprint, render_template
+
 from flask import (Blueprint, request, render_template, flash, url_for,
-                    redirect, session, g)
+                    redirect, session)
 from flask.ext.login import login_required, current_user
-from flask_wtf import Form
 import DictionaryOfNewZealandEnglish.utils as utils
 import logging
-import sys
-from sqlalchemy import func, asc
 from sqlalchemy.exc import IntegrityError, InvalidRequestError
 from DictionaryOfNewZealandEnglish.database import db
 from DictionaryOfNewZealandEnglish.headword.attribute.forms import *
 from DictionaryOfNewZealandEnglish.headword.attribute.models import *
 from DictionaryOfNewZealandEnglish.headword.citation.models import *
-from DictionaryOfNewZealandEnglish.public.forms import LoginForm
-from DictionaryOfNewZealandEnglish.database import engine
 import datetime as dt
-from operator import itemgetter
 
 blueprint = Blueprint("attribute", __name__, url_prefix='/headwords/attributes',
                         static_folder="../static")
-
 
 
 @blueprint.route("/index", methods=["GET"])
@@ -99,7 +92,6 @@ def destroy():
         for i in headwords:
           count += 1
 
-        #print "#### %s", headwords
       else:
         _table = str_to_class(module_name, table).query.filter_by(name=name).first()
         if table == "Source":
@@ -141,8 +133,6 @@ def edit():
     headword_id = request.args.get('headword_id')
     citation_id = request.args.get('citation_id')
     form = TableEditForm(request.form, "edit_table")
-
-    print("#### {0}".format(citation_id))
 
     if request.method == "GET":
       data = __get_data_for_table_rowname(table, name)
@@ -243,7 +233,6 @@ def set_data_for_table_rowname(table, name, form):
     return __get_data_for_table_rowname(table, new_name)
 
 
-# TODO move to utils.py
 def str_to_class(module_name,class_name):
     class_name = class_name.replace(' ', '_')
     class_ = None

@@ -1,8 +1,8 @@
+# -*- coding: utf-8 -*-
+
 from flask_wtf import Form
-from wtforms import TextField, PasswordField, DateField, HiddenField, BooleanField, SelectField
+from wtforms import TextField, PasswordField, HiddenField, BooleanField
 from wtforms.validators import *
-from wtforms.ext.sqlalchemy.fields import QuerySelectField
-from sqlalchemy.exc import IntegrityError
 
 import sys
 from .models import User

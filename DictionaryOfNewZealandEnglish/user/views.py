@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 # Users
+
 from flask import (Blueprint, request, render_template, flash,
-                   url_for, redirect, session, g)
+                   url_for, redirect, session)
 from DictionaryOfNewZealandEnglish.extensions import bcrypt
-from flask.ext.login import login_required, current_user, login_user, logout_user
-from flask_wtf import Form
+from flask.ext.login import login_required, current_user, logout_user
 from DictionaryOfNewZealandEnglish.user.forms import *
 from DictionaryOfNewZealandEnglish.utils import flash_errors
 from DictionaryOfNewZealandEnglish.user.models import User
@@ -63,8 +63,6 @@ def edit():
     user_email = request.form['email']
 
     if request.method == "POST" and form.validate_on_submit():
-#      User.update(user,
-#                  password=form.password.data)
       data = __set_data_for_user(user, form)
       if data:
         flash("Edit of %s is saved." % data.username, 'success')

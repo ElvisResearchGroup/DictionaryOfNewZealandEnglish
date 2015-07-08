@@ -1,11 +1,12 @@
+# -*- coding: utf-8 -*-
+
 from flask_wtf import Form
 from wtforms import *
-from wtforms.validators import DataRequired, Email, EqualTo, Length
+from wtforms.validators import DataRequired, Length
 from wtforms.ext.sqlalchemy.fields import QuerySelectField
 
 from DictionaryOfNewZealandEnglish.headword.models import *
 from DictionaryOfNewZealandEnglish.headword.attribute.models import *
-import sys
 from DictionaryOfNewZealandEnglish.database import db
 from sqlalchemy import asc, collate
 
@@ -85,14 +86,14 @@ class HeadwordForm(Form):
                    allow_blank=True,
                    blank_text="none" )
     region = QuerySelectField(
-                   query_factory=lambda: db.session.query(Region)
+                   query_factory=lambda: db.session.query(Region).filter_by(archived=False)
                       .order_by(asc(collate(Region.name, 'NOCASE'))).all(),
                    get_pk       =lambda a: a.id,
                    get_label    =lambda a: a.name, 
                    allow_blank=True,
                    blank_text="none" )
     flag = QuerySelectField(
-                   query_factory=lambda: db.session.query(Flag)
+                   query_factory=lambda: db.session.query(Flag).filter_by(archived=False)
                       .order_by(asc(collate(Flag.name, 'NOCASE'))).all(),
                    get_pk       =lambda a: a.id,
                    get_label    =lambda a: a.name, 
@@ -116,22 +117,6 @@ class HeadwordForm(Form):
             return False
 
         return True
-'''
-        #self.author = User.query.filter_by(author=self.author.data).first()
-        if not self.author.data:
-            self.author.errors.append('Unknown author')
-            return False
-
-        if not self.source.data:
-            self.source.errors.append('Must quote source')
-            return False
-
-        if not self.date.data:
-            self.date.errors.append('Provide a date')
-            return False
-
-      #return "True"
-'''
 
 
 

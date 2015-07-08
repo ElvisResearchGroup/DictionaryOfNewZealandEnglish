@@ -1,21 +1,12 @@
 # -*- coding: utf-8 -*-
-#from flask import Blueprint, render_template
-from flask import (Blueprint, request, render_template, flash, url_for,
-                    redirect, session, g)
+
+from flask import (Blueprint, request, render_template, url_for,
+                    redirect, session)
 from flask.ext.login import login_required, current_user
-from flask_wtf import Form
-import DictionaryOfNewZealandEnglish.utils as utils
-import logging
-import sys
-from sqlalchemy.exc import IntegrityError, InvalidRequestError
 from DictionaryOfNewZealandEnglish.database import db
 from DictionaryOfNewZealandEnglish.headword.forms import *
-from DictionaryOfNewZealandEnglish.public.forms import LoginForm
 from DictionaryOfNewZealandEnglish.headword.models import *
 from DictionaryOfNewZealandEnglish.headword.citation.models import *
-from DictionaryOfNewZealandEnglish.database import engine
-import datetime as dt
-from operator import itemgetter
 
 blueprint = Blueprint("register", __name__, url_prefix='/headwords/registers',
                         static_folder="../../static")

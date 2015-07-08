@@ -4,32 +4,12 @@ A web interface to the "Dictionary of New Zealand English", managed and run by t
 
 Written using Flask, a Python framework similar to Django but considerably lighter. Flask uses WTForms and SQLAlchemy.
 
-Development notes and stuff I do not wish to commit to memory.
+Development notes and stuff not committed to memory.
 
 ### Outstanding tasks
 
-#### Security
-* On users changing thier password, it is not hashed in the db. Missing a hook of some sort.
-
-#### Plumbing
 * Dockerise the app
 * a coders HISTORY.md file to credit previous coding efforts
-
-
-### Reset Test Database - Not for production
-
-    python manage.py resetdb
-
-NOTE: Comment this out in manage.py for production!!!
-or add "if production return" to the first line if that capability is in Python
-
-### Set-up production Database - once only, further runs will reset the database to June 2015.
-
-    python manage.py data_import all:db
-
-#### To test a small file (102 entries)
-
-    python manage.py data_import Q:db
 
 
 ## Project set-up
@@ -107,7 +87,10 @@ Visit localhost:5000 on your server and you should see a lovely Welcome page.
 
 Now start up the database and restart the server.
 
-### Database
+
+### Database Set-up
+
+#### To manually reset Test Database
 If you have already installed your database.
 
     $ python manage.py db init      
@@ -125,6 +108,29 @@ Seed data has been added to manage.py
 This populates all the secondary tables and provides sufficient data for testing for the main two tables (Headword and Citations).
 
     $ python manage.py seed
+
+#### To automagically reset Test Database 
+
+Not for production
+
+    python manage.py resetdb
+
+NOTE: Comment this method out in manage.py for production
+or add "if production return" to the first line if that capability is in Python
+
+
+#### Set-up a small production database (102 entries)
+
+    python manage.py data_import Q:db
+
+
+#### Set-up production Database - 
+
+Once only, further runs will reset the database to June 2015.
+Takes around an hour to load all data.
+
+    python manage.py data_import all:db
+
 
 ### fabric
 ref: http://www.jeffknupp.com/blog/2012/02/09/starting-a-django-project-the-right-way/
@@ -164,6 +170,8 @@ By default, you will have access to ``app``, ``db``, and the ``User`` model.
 
 ### Run all Tests
 
+Note, no automated tests at this time. See spreadsheet of manual tests.
+
     $ python manage.py test
 
 ### App Time
@@ -175,7 +183,6 @@ eg: datetime.datetime.utcnow instead of datetime.datetime.now
 ## Database overview
 As at March 2015
 
-Each table also has entries for created_at, last_update_at, last_update_by.
 
 ###### User
 

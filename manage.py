@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+
 import os
-import sys
 import subprocess
 import datetime as dt
 from flask.ext.script import Manager, Shell, Server
@@ -348,17 +348,18 @@ def add_citation_to_headWord(citation, headword_obj):
     seed_date = dt.datetime.utcnow()
     circa = 0
     # prep citation hash info
-    date = citation["Date"].split("/")
-    if int(date[0]) < 1:
-      date[0] = '1'
+    d,m,y = citation["Date"].split("/")
+    if int(d) < 1:
+      d = '1'
       circa = 1
-    if date[1] == '0':
-      date[1] = '1'
+    if int(m) < 1:
+      d = '1'
+      m = '1'
       circa = 1
+    date = dt.datetime(int(y), int(m), int(d))
 
-#    print "### end of citation "
     citation_obj = Citation.create(
-                 day = int(date[0]), month = int(date[1]), year = int(date[2]),
+                 date       = date,
                  circa      = circa,
                  author     = citation["Author"].strip(),
                  source_id  = get_source_id(citation),
@@ -371,7 +372,6 @@ def add_citation_to_headWord(citation, headword_obj):
                  updated_by = "admin"
                    )
     headword_obj.citations.append(citation_obj)
-#    headword_obj.commit()
 
 def get_source_id(citation):
     seed_date = dt.datetime.utcnow()

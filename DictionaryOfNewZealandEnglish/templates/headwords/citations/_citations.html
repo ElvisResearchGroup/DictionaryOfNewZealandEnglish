@@ -33,7 +33,18 @@
         {% set circa = "circa " %}
       {% endif %}
 
-      {% set date = "{0} / {1} / {2}".format(citation.date.day, citation.date.month, citation.date.year) %} 
+      {% set d = "" if citation.circa and 
+                         (citation.date.day == 1 or 
+                           (citation.date.day == 1 and citation.date.month == 1)
+                         )
+                    else "{0} / ".format(citation.date.day) %}
+      {% set m = "" if citation.circa and 
+                         (citation.date.day == 1 and citation.date.month == 1
+                         ) 
+                    else "{0} / ".format(citation.date.month) %}
+      {% set y = citation.date.year %}
+      {% set date = "{0}{1}{2}".format(d, m, y) %} 
+
 
       <tr>
         <td valign="top">Date       </td><td>{{circa}}{{date}} </td> </tr><tr>

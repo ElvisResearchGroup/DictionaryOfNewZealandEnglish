@@ -2,20 +2,14 @@
 # Citations
 
 from flask import (Blueprint, request, render_template, flash, url_for,
-                    redirect, session, g)
+                    redirect, session)
 from flask.ext.login import login_required, current_user
-from flask_wtf import Form
-import DictionaryOfNewZealandEnglish.utils as utils
 import logging, sys, re
 from sqlalchemy.exc import IntegrityError, InvalidRequestError
 from DictionaryOfNewZealandEnglish.database import db
 from DictionaryOfNewZealandEnglish.headword.citation.forms import *
-from DictionaryOfNewZealandEnglish.public.forms import LoginForm
 from DictionaryOfNewZealandEnglish.headword.citation.models import *
-from DictionaryOfNewZealandEnglish.database import engine
 import datetime as dt
-import re
-from operator import itemgetter
 
 blueprint = Blueprint("citations", __name__, url_prefix='/headwords/citations',
                         static_folder="../static")
@@ -29,18 +23,22 @@ def edit():
     headword = Headword.query.get( request.args.get('headword_id') )
     citation_id = request.args.get('citation_id')
     citation = Citation.query.get( citation_id )
-    #date = [citation.date.day, citation.date.month, citation.date.year]
-    #date = "{0}/{1}/{2}".format(date[0], date[1], date[2])
     form = CitationForm(request.form, obj=citation)
     if request.method == "GET":
+      date = __pretty_print_date(citation)
       return render_template("headwords/citations/edit.html", form=form,
                                                               citation_id=citation_id,
+                                                              date=date,
                                                               headword=headword)
     if request.method == "POST":
       data = __set_data_for_citation(citation, form)
+      citation = Citation.query.get( citation_id )
+      date = __pretty_print_date(citation)
       return render_template("headwords/citations/edit.html", form=form,
                                                               citation_id=citation_id,
+                                                              date=date,
                                                               headword=headword)
+
 
 @blueprint.route("/new", methods=["GET"])
 @login_required
@@ -68,8 +66,8 @@ def create():
         circa = ""
         if form.circa.data:
           circa = "circa "
-        d = __form_date(form)
-        date = "{0} / {1} / {2}".format(d.day, d.month, d.year)
+        date_obj = __form_date(form)
+        date = __pretty_print_date(date_obj, form.circa.data)
         flash("New citation created: {0} ({1}{2})".format(form.author.data,
                                                    circa, 
                                                    date, 'success'))
@@ -77,6 +75,7 @@ def create():
         return render_template("headwords/citations/edit.html", 
                                                        form=form,
                                                        citation_id=citation_id,
+                                                       date=date,
                                                        headword=headword)
     except (IntegrityError) as e:
         db.session.rollback()
@@ -136,30 +135,64 @@ def __create_citation(form, headword):
 
 
 def __form_date(form):
-    form_date = re.split(r'[/,\s]\s*', form.date.data)
+    if form.date.data == "":
+        flash("No date entered.", 'warning')
+        raise InvalidRequestError
+      
+    form_date = re.split(r'/\s*', form.date.data)
     if len(form_date) < 3:
       if form.circa.data:
         # pad out data to fit into datetime type
         if len(form_date) == 2:
-          y = form_date[1]
-          m = form_date[0]
+          y = form_date[1].strip()
+          m = form_date[0].strip()
           d = "1"
         if len(form_date) == 1:
-          y = form_date[0]
+          y = form_date[0].strip()
           m = "1"
           d = "1"
       else:
         flash("Partial date entered, perhaps 'Circa' should be checked.", 'warning')
         raise InvalidRequestError
     else:
-      y = form_date[2]
-      m = form_date[1]
-      d = form_date[0]
+      y = form_date[2].strip()
+      m = form_date[1].strip()
+      d = form_date[0].strip()
       
          
     # dt.datetime(y, m, d)
+    print "### form_date {0} / {1} / {2}".format(y,m,d)
     date = dt.datetime(int(y), int(m), int(d))
     return date
+
+
+def __pretty_print_date(obj, circa=False):
+    print "### citation {0} {1}".format(obj, circa)
+    if isinstance(obj, Citation):
+      d = obj.date.day
+      m = obj.date.month
+      y = obj.date.year
+      circa = obj.circa
+    if isinstance(obj, dt.datetime):
+      d = obj.day
+      m = obj.month
+      y = obj.year
+    
+    if circa:
+      if d == 1: 
+        if m == 1: 
+          m = "" 
+        else:
+          m = "{0} / ".format(m)
+        d = "" 
+      else:      
+        d = "{0} / ".format(d)
+        m = "{0} / ".format(m)
+      print "test 1 {0}{1}{2}".format(d, m, y)
+      return "{0}{1}{2}".format(d, m, y)
+    else:
+      print "test 2 {0} / {1} / {2}".format(d, m, y)
+      return "{0} / {1} / {2}".format(d, m, y)
 
 
 def __set_data_for_citation(citation, form):

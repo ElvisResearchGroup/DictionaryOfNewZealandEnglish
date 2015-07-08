@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+
 '''Helper utilities and decorators.'''
 from flask import flash
 import sys
@@ -11,10 +12,7 @@ def flash_errors(form, category="warning"):
                     .format(getattr(form, field).label.text, error), category)
 
 
-
-
 # from https://github.com/tooxie/flask-syrinx/blob/master/syrinx/utils/importlib.py
-# TODO replace this with an import?
 def _resolve_name(name, package, level):
     """Return the absolute name of the module to be imported."""
     if not hasattr(package, 'rindex'):
@@ -36,7 +34,6 @@ def import_module(name, package=None):
     relative import to an absolute import.
     """
 
-    #print "#### passing through utils.import_module ###"
     if name.startswith('.'):
         if not package:
             raise TypeError("relative imports require the 'package' argument")

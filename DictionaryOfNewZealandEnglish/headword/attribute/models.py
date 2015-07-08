@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-import datetime as dt
 
+import datetime as dt
 from DictionaryOfNewZealandEnglish.database import (
     Column,
     db,

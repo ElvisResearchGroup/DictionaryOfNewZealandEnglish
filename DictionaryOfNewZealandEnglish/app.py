@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
+
 '''The app module, containing the app factory function.'''
-from flask import Flask, render_template, g
+
+from flask import Flask, render_template
 
 from DictionaryOfNewZealandEnglish.settings import ProdConfig
 from DictionaryOfNewZealandEnglish.assets import assets
@@ -28,10 +30,6 @@ def create_app(config_object=ProdConfig):
     register_extensions(app)
     register_blueprints(app)
     register_errorhandlers(app)
-#    with app.app_context():
-        # Extensions like Flask-SQLAlchemy now know what the "current" app
-        # is while within this block. Therefore, you can now run........
-#        db.create_all()
     return app
 
 

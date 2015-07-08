@@ -1,12 +1,9 @@
+# -*- coding: utf-8 -*-
+
 from flask_wtf import Form
-from wtforms import TextField, PasswordField, DateField, HiddenField, BooleanField, SelectField
-from wtforms.validators import DataRequired, Email, EqualTo, Length
-from wtforms.ext.sqlalchemy.fields import QuerySelectField
-
+from wtforms import TextField, BooleanField
+from wtforms.validators import DataRequired
 from DictionaryOfNewZealandEnglish.headword.models import *
-import sys
-from DictionaryOfNewZealandEnglish.database import db
-
 
 
 class TableEditForm(Form):

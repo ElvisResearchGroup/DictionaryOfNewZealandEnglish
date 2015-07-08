@@ -1,16 +1,15 @@
 # -*- coding: utf-8 -*-
+
 '''Public section, including homepage and signup.'''
+
 from flask import (Blueprint, request, render_template, flash, url_for,
-                    redirect, session)
-from flask.ext.login import login_user, login_required, logout_user
-from datetime import datetime
+                    redirect)
+from flask.ext.login import login_user
 
 from DictionaryOfNewZealandEnglish.extensions import login_manager
 from DictionaryOfNewZealandEnglish.user.models import User
 from DictionaryOfNewZealandEnglish.public.forms import LoginForm
-#from DictionaryOfNewZealandEnglish.user.forms import RegisterForm
 from DictionaryOfNewZealandEnglish.utils import flash_errors
-from DictionaryOfNewZealandEnglish.database import db
 
 blueprint = Blueprint('public', __name__, static_folder="../static")
 
