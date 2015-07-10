@@ -1,0 +1,88 @@
+<!-- show citations -->
+{% block content %}
+
+  <div style="margin-bottom:2em;">
+  <h3 style="display:inline; margin-right:4em; vertical-align:middle;">Citations</h3>
+
+  {% if current_user.is_admin %}
+  <!-- admin only functions -->
+  <a href="/headwords/citations/new?headword_id={{headword.id}}" 
+     class="btn btn-primary btn-large">new citation
+  </a>
+  {% endif %}
+
+  </div>
+
+  {% if not citations %}
+
+    <div style="margin-left:2em;">
+      no citations
+    </div>
+
+  {% else %}
+
+    <table class="show-citations">
+    
+    {% for citation in citations %}
+      {% set edit_link = "/headwords/citations/edit?" +
+                    "headword_id={0}&citation_id={1}".format(headword.id, 
+                                                             citation.id) %}
+
+      {% set circa = "" %}
+      {% if citation.circa %}
+        {% set circa = "circa " %}
+      {% endif %}
+
+      {% set d = "" if citation.circa and 
+                         (citation.date.day == 1 or 
+                           (citation.date.day == 1 and citation.date.month == 1)
+                         )
+                    else "{0} / ".format(citation.date.day) %}
+      {% set m = "" if citation.circa and 
+                         (citation.date.day == 1 and citation.date.month == 1
+                         ) 
+                    else "{0} / ".format(citation.date.month) %}
+      {% set y = citation.date.year %}
+      {% set date = "{0}{1}{2}".format(d, m, y) %} 
+
+
+      <tr>
+        <td valign="top">Date       </td><td>{{circa}}{{date}} </td> </tr><tr>
+        <td valign="top">Source     </td><td>{{citation.source.name}}   </td> </tr><tr>
+        <td valign="top">Author     </td><td>{{citation.author}}        </td> </tr><tr>
+        <td valign="top">Vol/Page   </td><td>{{citation.vol_page}}      </td> </tr><tr>
+        <td valign="top">Edition    </td><td>{{citation.edition}}       </td> </tr><tr>
+        <td valign="top">Quote      </td><td>{{citation.quote}}         </td> </tr><tr>
+        <td valign="top">Notes      </td><td>{{citation.notes}}         </td> </tr><tr>
+        <td valign="top">Archived   </td><td>{{citation.archived}}      </td> </tr><tr>
+
+      {% set date = "{0} / {1} / {2}".format(citation.updated_at.day, citation.updated_at.month, citation.updated_at.year) %} 
+        <td valign="top">Updated at </td><td>{{date}}    </td> </tr><tr>
+        <td valign="top">Updated_by </td><td>{{citation.updated_by}}    </td> </tr><tr>
+
+
+        {% if current_user.is_admin %}
+        <!-- admin only functions -->
+        <td colspan="2">
+          <a href= {{edit_link}}
+               class="btn btn-primary btn-large">edit</a>
+          <a href="/headwords/citations/delete?citation_id={{citation.id}}&headword_id={{headword.id}}"  
+             data-confirm="Are you sure you wish to delete this citation?"
+             class="btn btn-primary btn-large">delete citation
+          </a>  
+        </td>
+        {% else %}
+        <td colspan="2">----------------------------------------------------------</td>
+        {% endif %}
+
+      </tr> 
+    {% endfor %}
+    
+    </table>
+    {% if more_citations %}
+      <a href="/headwords/show?headword_id={{headword.id}}&output=all_citations"
+           class="btn btn-primary btn-large">more citations</a>
+    {% endif %}
+  {% endif %}
+
+{% endblock %}

@@ -1,0 +1,48 @@
+
+
+{% block content %}
+<div class="body-content">
+    <div class="row">
+      <h1>{{title}}</h1>
+    </div>
+    <br>
+
+    <ul class="dnze-letters">
+      {% for letter in counts.keys() %}
+          {% if counts[letter] > 0 %}
+            <li><a href="/headwords/index?letter={{letter}}"><b>{{letter}}</b>
+                <span style="font-size:70%;">x{{counts[letter]}}</span></a>
+          {% else %}
+            <li><a href="/headwords/index?letter={{letter}}">{{letter}}</a>
+          {% endif %}
+      {% endfor %}
+    </ul>
+    <br>
+
+    <table>
+      {% set row = {'color': "#EEE"} %}
+      <tr bgcolor={{row.color}}>
+        
+        {% set words = {'empty': True} %}
+        {% for headword in headwords %}
+          {% include "headwords/_definition_only.html" %}
+          {% if words.update({'empty': False}) %} {% endif %}
+
+          {% if row.color == "#EEE" %}
+            {% if row.update({'color': "#FFF"}) %}{% endif %}
+          {% elif row.color == "#FFF" %}
+            {% if row.update({'color': "#EEE"}) %}{% endif %}
+          {% endif %}
+          </tr><tr bgcolor={{row.color}}>
+
+        {% endfor %}
+        {% if  letter == 'attribute' and words.empty %}
+          {{count}} No words found for {{attribute_table}}, {{attribute_name}}.
+        {% endif %}
+        
+      </tr>
+    </table
+
+</div>
+{% endblock %}
+

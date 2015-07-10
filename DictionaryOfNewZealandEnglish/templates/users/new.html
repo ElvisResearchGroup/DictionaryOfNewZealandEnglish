@@ -1,0 +1,20 @@
+<!-- register user -->
+
+
+{% extends "layout.html" %}
+
+{% block content %}
+
+  {% set submit_button = "commit" %}
+
+  <div class="container-narrow">
+    <h1>Register</h1>
+    <small>All fields are compulsory</small>
+      <br/>
+
+      {% include "users/_form.html" %}
+
+      <p><em>Already registered?</em> Click <a href="/">here</a> to login.</p>
+  </div>
+{% endblock %}
+

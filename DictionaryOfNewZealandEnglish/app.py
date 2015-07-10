@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
+
 '''The app module, containing the app factory function.'''
+
 from flask import Flask, render_template
 
 from DictionaryOfNewZealandEnglish.settings import ProdConfig
@@ -12,7 +14,8 @@ from DictionaryOfNewZealandEnglish.extensions import (
     migrate,
     debug_toolbar,
 )
-from DictionaryOfNewZealandEnglish import public, user
+from DictionaryOfNewZealandEnglish import public, user, headword
+from DictionaryOfNewZealandEnglish.headword import attribute, citation, flag, register
 
 
 def create_app(config_object=ProdConfig):
@@ -22,6 +25,7 @@ def create_app(config_object=ProdConfig):
     :param config_object: The configuration object to use.
     '''
     app = Flask(__name__)
+    db.init_app(app)
     app.config.from_object(config_object)
     register_extensions(app)
     register_blueprints(app)
@@ -43,6 +47,11 @@ def register_extensions(app):
 def register_blueprints(app):
     app.register_blueprint(public.views.blueprint)
     app.register_blueprint(user.views.blueprint)
+    app.register_blueprint(headword.views.blueprint)
+    app.register_blueprint(attribute.views.blueprint)
+    app.register_blueprint(citation.views.blueprint)
+    app.register_blueprint(flag.views.blueprint)
+    app.register_blueprint(register.views.blueprint)
     return None
 
 

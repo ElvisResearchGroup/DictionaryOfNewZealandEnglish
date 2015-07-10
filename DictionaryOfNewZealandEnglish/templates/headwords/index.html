@@ -1,0 +1,12 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+  {% if letter %}
+    {% include "headwords/_list.html" %}
+  {% else %}
+    {% include "headwords/_search.html" %}
+  {% endif %}
+
+{% endblock %}
+

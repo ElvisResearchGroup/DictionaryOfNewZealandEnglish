@@ -1,0 +1,49 @@
+<!-- show headword and citations -->
+{% extends "layout.html" %}
+
+{% block content %}
+<div class="body-content">
+    <div class="row">
+      <h1>Search result</h1>
+    </div>
+
+  <table class="headword-column">
+    <tr>
+
+       {% if output == 'definition_only' %}
+         <br>
+         <table>
+           <tr>
+             {% for headword in headwords %}
+               {% include "headwords/_definition_only.html" %}
+               </tr><tr>
+             {% endfor %}
+           </tr>
+         </table>
+
+       {% else %}
+
+      <td valign="top" style="width:50%;">
+         <!-- headword details -->
+         {% include "headwords/_headword.html" %}
+
+         </td><td valign="top" style="padding-left:50px;">
+
+         <!-- the headword's citations -->
+         {% include "headwords/citations/_citations.html" %}
+
+      </td>
+       {% endif %}
+
+    </tr>
+    
+  </table>
+
+  {% if output == 'definition_only' %}
+    <br>
+    <a href="/headwords/index">back to search</a>
+  {% endif %}
+
+</div>
+{% endblock %}
+

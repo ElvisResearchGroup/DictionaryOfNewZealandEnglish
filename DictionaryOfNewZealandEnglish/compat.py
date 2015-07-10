@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-"""Python 2/3 compatibility module."""
 
+"""Python 2/3 compatibility module."""
 
 import sys
 

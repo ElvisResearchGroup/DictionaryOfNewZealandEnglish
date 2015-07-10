@@ -1,0 +1,131 @@
+<!-- list attributes -->
+
+{% extends "layout.html" %}
+
+{% block content %}
+
+
+<div class="body-content">
+    <div class="row">
+      <h1>List of entries for {{table}}</h1>
+      <br>
+    </div>
+
+
+
+<table>
+{% for d in data: %}
+    {% if citation %}
+      {% set var = "table={0}&name={1}&headword_id={2}&citation_id={3}".format(table, d.name, headword.id, citation.id) %}
+    {% else %}
+      {% set var = "table={0}&name={1}&headword_id={2}".format(table, d.name, headword.id) %}
+    {% endif %}
+    {% set link_edit = "/headwords/attributes/edit?{0}".format(var) %}
+    {% set link_delete = "/headwords/attributes/delete?%s" % var %}
+    {% set link_headwords = "/headwords/index?letter=attribute&table={0}&name=".format(table) %}
+    <tr>
+    {% if d.name != "[none]": %}
+      <td style="padding-right:2em">
+        {{d.name}}
+      </td>
+
+      {% if table == "Flag" or table == "Register" or table == "Source" %}
+
+        {% if table == "Flag" %}
+          {% set list = headword.flags %}
+          {% set item = Flag.query.filter_by(name=d.name).first() %}
+
+        {% elif table == "Register" %}
+          {% set list = headword.registers %}
+          {% set item = Register.query.filter_by(name=d.name).first() %}
+
+        {% elif table == "Source" %}
+          {% set list = [citation.source] %}
+          {% set item = Source.query.filter_by(name=d.name).first() %}
+           
+        {% endif %}
+
+        {% if (item in list) %}
+          <td style="padding-right:2em">
+            <a href="/headwords/{{'%ss' % table.lower()}}/delete?{{table.lower()}}={{item.name}}&headword_id={{headword.id}}" 
+              data-confirm="This will remove {{item.name}} from the headword {{headword.headword}}.">
+                remove from {{headword.headword}}
+            </a>
+          </td>
+        {% else %}
+          <td style="padding-right:2em"></td>
+        {% endif %}
+      {% endif %}
+
+      <td style="width:5em;">
+        {# in use or archived #}
+        {{ "archived" if d.archived else "in use" }}
+      </td><td style="padding-right:2em">
+        {# edit #}
+        <a href="{{link_edit}}">edit</a>
+      </td><td style="padding-right:2em">
+        {# delete #}
+        <a href="{{link_delete}}" 
+           data-confirm="This will delete {{d.name}} from the list of attributes for {{table}}.">delete</a>
+      </td><td style="padding-right:2em">
+        {# count of headwords #}
+        {# domain_entry = Domain.query.get(d.name) #}
+
+        {# set headwords = Headword.query.filter(
+                                  getattr(Headword, "{0}_id".format(d.name)) == attribute_id) #}
+        {# headwords.count() #}
+
+      </td><td style="padding-right:2em">
+        {# link to headwords #}
+        <a href="{{link_headwords + '{0}&name_id={1}'.format(d.name, d.id)}}">headwords using {{d.name}}</a>
+      </td>
+
+    {% endif %}
+    </tr>
+{% endfor %}
+</table>
+
+    <h3>Add a new entry</h3>
+
+    <!-- add a new entry -->
+    {% if citation %}
+      <form id="insertForm" 
+          method="POST" 
+          class="" 
+          action="/headwords/attributes/create?table={{table}}&headword_id={{headword.id}}&citation_id={{citation.id}}">
+    {% else %}
+      <form id="insertForm" 
+          method="POST" 
+          class="" 
+          action="/headwords/attributes/create?table={{table}}&headword_id={{headword.id}}">
+    {% endif %}
+        {{ form.hidden_tag() }}
+        <div class="form-group">
+
+            <div class="form-group">
+                {{ form.name.label }}
+                {{ form.name (placeholder="name", class_="form-control") }}
+            </div>
+            <div class="form-group">
+                {{ form.notes.label }}
+                {{ form.notes (placeholder="notes", class_="form-control") }}
+            </div>
+        </div>
+        <button class="btn btn-primary" type="submit" >create</button>
+    </form>
+
+</div>
+<br>
+
+{% if table == "Source" %}
+  <a href="/headwords/citations/edit?citation_id={{citation.id}}&headword_id={{headword.id}}">
+    back to citation for {{headword.headword}}
+  </a>
+{% else %}
+  <a href="/headwords/edit?headword_id={{headword.id}}">
+    back to editing headword {{headword.headword}}
+  </a>
+{% endif %}
+
+{% endblock %}
+

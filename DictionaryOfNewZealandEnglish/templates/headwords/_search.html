@@ -1,0 +1,31 @@
+
+
+{% block content %}
+<div class="body-content">
+    <div class="row">
+      <h1>Search</h1>
+    </div>
+
+<br><br><br>
+
+    <form id="searchForm" method="POST" class="" action="show" role="search">
+      <!-- form.hidden_tag() -->
+        <div class="form-group">
+
+          <div class="form-group">
+            {{ form.headword.label }}
+            {{ form.headword (placeholder="Headword",
+                              autofocus="autofocus",  class_="form-control") }}
+          </div>
+          <span class="form-group" style="margin-left:6em;">
+            <!-- definition_only checkbox -->
+            {{ form.output ( class_="dnze-inline" ) }}
+          </span>
+
+        </div>
+      <button type="submit" class="btn btn-primary">Search</button>
+    </form>
+
+</div>
+{% endblock %}
+

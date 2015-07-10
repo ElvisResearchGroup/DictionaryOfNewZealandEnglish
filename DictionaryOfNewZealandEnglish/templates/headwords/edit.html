@@ -1,0 +1,23 @@
+<!-- edit headword -->
+{% extends "layout.html" %}
+
+{% block content %}
+
+<div class="body-content">
+
+    <div class="row">
+      <h1>Edit headword {{headword.headword}}</h1>
+    </div>
+    
+    {% set form_type = "edit" %}
+    {% include "headwords/_form.html" %}
+
+    <br>
+    <a href="/headwords/show?headword_id={{headword.id}}">
+        back to headword {{headword.headword}}
+    </a>
+
+</div>
+
+{% endblock %}
+

@@ -1,5 +1,7 @@
+# -*- coding: utf-8 -*-
+
 from flask_wtf import Form
-from wtforms import TextField, PasswordField
+from wtforms import TextField, PasswordField, BooleanField
 from wtforms.validators import DataRequired
 
 from DictionaryOfNewZealandEnglish.user.models import User
@@ -7,6 +9,7 @@ from DictionaryOfNewZealandEnglish.user.models import User
 class LoginForm(Form):
     username = TextField('Username', validators=[DataRequired()])
     password = PasswordField('Password', validators=[DataRequired()])
+    remember_me = BooleanField('remember_me', default=False)
 
     def __init__(self, *args, **kwargs):
         super(LoginForm, self).__init__(*args, **kwargs)

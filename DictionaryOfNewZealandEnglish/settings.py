@@ -1,10 +1,11 @@
 # -*- coding: utf-8 -*-
+
 import os
 
 os_env = os.environ
 
 class Config(object):
-    SECRET_KEY = os_env.get('DICTIONARYOFNEWZEALANDENGLISH_SECRET', 'secret-key')  # TODO: Change me
+    SECRET_KEY = 'you-will-never-guess-me-ljhyutfcklyt675443546787*&5fh$#%(*&mmnbjhg^%vctykkj45687987gf76chjhjjhklkill'
     APP_DIR = os.path.abspath(os.path.dirname(__file__))  # This directory
     PROJECT_ROOT = os.path.abspath(os.path.join(APP_DIR, os.pardir))
     BCRYPT_LOG_ROUNDS = 13

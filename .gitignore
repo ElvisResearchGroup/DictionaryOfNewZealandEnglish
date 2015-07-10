@@ -50,3 +50,6 @@ env*
 
 # Matt's stuff
 ms_*
+TODO.txt
+migrations/*
+dev.db

@@ -1,0 +1,65 @@
+<h3>{{headword.headword}}</h3>
+
+  <table class="show-headword">
+    <tr>
+      <th style="width:10em;">Headword</th><th>{{headword.headword}}</th>
+    </tr><tr>
+      <td valign="top">Definition    </td><td>{{headword.definition}}         </td> </tr><tr>
+      <td valign="top">See           </td><td>{{headword.see}}                </td> </tr><tr>
+      <td valign="top">Pronunciation </td><td>{{headword.pronunciation}}      </td> </tr><tr>
+      <td valign="top">Notes         </td><td>{{headword.notes}}              </td> </tr><tr>
+      <td valign="top">Data_set      </td><td>{{headword.data_set.name}}      </td> </tr><tr>
+
+      <td valign="top">Word_class    </td><td>{{headword.word_class.name}}    </td> </tr><tr>
+      <td valign="top">
+        Homonym_number
+        <div class="nzdc-hover-hint"
+             title="Homonym: a word of the same spelling or sound as another but of different meaning: a homograph e.g. run (noun and verb) or homophone. e.g. cheque/check.">
+          ?
+        </div>
+      </td><td>{{headword.homonym_number.name}}</td> </tr><tr>
+      <td valign="top">
+        Sense_number  
+        <div class="nzdc-hover-hint"
+             title="Sense: a meaning; the way a word is meant to be understood, as in: the sense of the word is clear; I mean that in the literal sense. ">
+          ?
+        </div>
+      </td><td>{{headword.sense_number.name}}  </td> </tr><tr>
+      <td valign="top">Origin        </td><td>{{headword.origin.name}}        </td> </tr><tr>
+
+      <td valign="top">Registers      </td><td>{{headword.registers}}          </td> </tr><tr>
+      <td valign="top">Domain        </td><td>{{headword.domain.name}}        </td> </tr><tr>
+      <td valign="top">Region        </td><td>{{headword.region.name}}        </td> </tr><tr>
+      <td valign="top">Flags         </td><td>{{headword.flags}}              </td> </tr><tr>
+      <td valign="top">Archived      </td><td>{{headword.archived}}           </td> </tr><tr>
+
+      {% set date = "{0} / {1} / {2}".format(headword.updated_at.day, headword.updated_at.month, headword.updated_at.year) %} 
+      <td valign="top">Updated at    </td><td>{{date}}         </td> </tr><tr>
+      <td valign="top">Updated_by    </td><td>{{headword.updated_by}}         </td> 
+    </tr>
+
+    {% if current_user.is_admin %}
+    <!-- admin only functions -->
+    <tr>
+      <td colspan="2">
+        <br>
+        <a href="/headwords/edit?headword_id={{headword.id}}" 
+           class="btn btn-primary btn-large">edit
+        </a><a 
+           href="/headwords/attributes/index?table=Register&headword_id={{headword.id}}" 
+           class="btn btn-primary btn-large">delete register
+        </a><a 
+           href="/headwords/attributes/index?table=Flag&headword_id={{headword.id}}" 
+           class="btn btn-primary btn-large">delete flag
+        </a>
+      </td>
+    </tr>
+    {% endif %}
+
+    <tr>
+      <td>
+        <br>
+        <a href="/headwords/index?letter=1">back to all words</a>
+      </td>
+    </tr>
+  </table>
