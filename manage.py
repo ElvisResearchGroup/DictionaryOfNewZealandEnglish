@@ -4,6 +4,7 @@
 import os
 from flask.ext.script import Manager, Shell, Server
 from flask.ext.migrate import MigrateCommand
+from waitress import serve
 
 from DictionaryOfNewZealandEnglish.app import create_app
 from DictionaryOfNewZealandEnglish.settings import DevConfig, ProdConfig
@@ -42,6 +43,12 @@ def resetdb():
 def seed():
     nzdc_seed()
 
+@manager.command
+def runwaitress():
+    '''
+    Use waitress to serve the app.
+    '''
+    serve(app,host="0.0.0.0", port=80)
 
 @manager.command
 def test():
