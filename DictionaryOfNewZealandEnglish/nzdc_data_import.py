@@ -2,7 +2,6 @@
 
 '''Helper functions for importing the nzdc database from the old server.'''
 
-import os
 import subprocess
 import datetime as dt
 
@@ -74,8 +73,8 @@ def data_import_read_files(file_loc, myfile, file_type, load_db):
     # next headword starts with blank line not followed by "Date:"
     with open(file_loc + myfile + file_type) as text:
       currentLine = nextLine = ""
-      i = 1
-      for line in text:
+      
+      for i, line in enumerate(text):
         currentLine = nextLine
         nextLine = line.strip()
         if currentLine == "":
@@ -92,7 +91,6 @@ def data_import_read_files(file_loc, myfile, file_type, load_db):
                                                   headword_obj)
         if nextLine == None:
           break
-        i = i + 1
         # limits output for testing
 #        print "### " + str(i)
 #        if i >= 21:
