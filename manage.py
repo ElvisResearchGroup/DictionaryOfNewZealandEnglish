@@ -48,7 +48,7 @@ def runwaitress():
     '''
     Use waitress to serve the app.
     '''
-    serve(app,host="0.0.0.0", port=80)
+    serve(app,host="0.0.0.0", port=8080)
 
 @manager.command
 def test():
