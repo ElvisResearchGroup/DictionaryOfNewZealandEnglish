@@ -11,6 +11,7 @@ from DictionaryOfNewZealandEnglish.settings import DevConfig, ProdConfig
 from DictionaryOfNewZealandEnglish.database import db
 
 from DictionaryOfNewZealandEnglish.nzdc_data_import import nzdc_data_import, nzdc_resetdb, nzdc_seed
+from DictionaryOfNewZealandEnglish.nzdc_data_massage import addNotesToDb
 
 
 
@@ -34,6 +35,12 @@ def _make_context():
 @manager.command
 def data_import(myfile):
     nzdc_data_import(myfile)
+
+'''
+This method (& file) may be removed once all data pre-processing is completed'''
+@manager.command
+def addNotesToDb(myfile):    
+    addNotesToDb(myfile)
     
 @manager.command
 def resetdb():
