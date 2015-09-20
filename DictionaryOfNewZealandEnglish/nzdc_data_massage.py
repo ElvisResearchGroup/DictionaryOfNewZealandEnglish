@@ -19,7 +19,6 @@ from DictionaryOfNewZealandEnglish.headword.citation.models import *
 # Processed data was missing various Notes found on the db
 # this code should add those notes into the text files
 # (which can then be uploaded using existing code).
-@manager.command
 def addNotesToDb(myfile):
     #print "here"
     head_loc = "./addDbNotes/Headwords_working_copy.txt" # tab delimited file from db
