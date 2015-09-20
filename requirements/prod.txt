@@ -19,7 +19,7 @@ Flask-WTF==0.10.3
 WTForms==2.0.1
 
 # Deployment
-gunicorn>=19.1.1
+waitress==0.8.9
 
 # Assets
 Flask-Assets==0.10
