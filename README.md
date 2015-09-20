@@ -124,6 +124,11 @@ or add "if production return" to the first line if that capability is in Python
     python manage.py data_import Q:db
 
 
+#### Adding db Notes to existing data text files (one-off operation)
+
+    python manage.py data_import Q
+    python manage.py data_import all
+
 #### Set-up production Database - 
 
 Once only, further runs will reset the database to June 2015.
