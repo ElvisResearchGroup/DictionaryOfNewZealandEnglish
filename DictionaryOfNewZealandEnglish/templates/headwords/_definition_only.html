@@ -2,14 +2,12 @@
 
 <td valign="top" style="width:15em;">
   <b style="font-size:large;">
-    {{headword.headword}}
+    <a href="/headwords/show?headword_id={{headword.id}}">
+      {{headword.headword}}
+    </a>
   </b>
 </td><td valign="top" style="padding-right:2em;">
     {{headword.definition}}
 </td><td valign="top" style="padding-right:2em;">
     {{headword.notes}}
-</td><td valign="top" style="width:15em;">
-  <a href="/headwords/show?headword_id={{headword.id}}">
-    more on {{headword.headword}}
-  </a>
 </td>
