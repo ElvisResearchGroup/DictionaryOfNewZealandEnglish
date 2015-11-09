@@ -4,16 +4,31 @@ A web interface to the "Dictionary of New Zealand English", managed and run by t
 
 Written using Flask, a Python framework similar to Django but considerably lighter. Flask uses WTForms and SQLAlchemy.
 
-Development notes and stuff not committed to memory.
-
-### Outstanding tasks
-
-* Dockerise the app
-* a coders HISTORY.md file to credit previous coding efforts
+These are development notes and stuff not committed to memory.
 
 
-## Project set-up
+## Quick-start Project set-up
 
+In the production environment, make sure the ``DNZE_ENV`` environment variable is set to ``"prod"``.
+
+Set the secret key to something hard to guess.
+
+Delete the python file "nzdc_data_massage.py" from the production code.
+"manage.py" may need referances to this file deleted.
+
+Once the server is set-up, initialise the database with;
+
+    $ python manage.py data_import all:db
+
+This will set up two users that will need thier passwords updated.
+
+- username: admin, password: qwerty
+- username: matt,  password: qwerty
+
+New users register on the site. An administrator may then update user 
+privalages to become an admin and admins may delete existing users.
+
+Enjoy!
 
 ### virtualenv
 ref: http://docs.python-guide.org/en/latest/dev/virtualenvs/
@@ -109,15 +124,6 @@ This populates all the secondary tables and provides sufficient data for testing
 
     $ python manage.py seed
 
-#### To automagically reset Test Database 
-
-Not for production
-
-    python manage.py resetdb
-
-NOTE: Comment this method out in manage.py for production
-or add "if production return" to the first line if that capability is in Python
-
 
 #### Set-up a small production database (102 entries)
 
@@ -131,7 +137,7 @@ or add "if production return" to the first line if that capability is in Python
 
 #### Set-up production Database - 
 
-Once only, further runs will reset the database to June 2015.
+Once only, further runs will reset the database to Nov 2015.
 Takes around an hour to load all data.
 
     python manage.py data_import all:db
@@ -158,13 +164,6 @@ NB: I may remove this.
             local('python manage.py migrate myapp')
             local('python manage.py test myapp')
             local('/my/command/to/restart/webserver')
-
-
-### Deployment
-
-In your production environment, make sure the ``DNZE_ENV`` environment variable is set to ``"prod"``.
-
-Remember to set the secret key to something hard to guess.
 
 ### Shell
 
@@ -250,7 +249,9 @@ As at March 2015
 
 
 ##### Secondary tables
-This format is used by 10 tables; homonym_numbers, word_classes, sense_numbers, registers, domains, regions, origins, sources, flags, data_sets.
+This format is used by 10 tables; 
+homonym_numbers, word_classes, sense_numbers, domains, regions, 
+origins, sources, data_sets, registers, flags.
 
 | field                | type     | stuff         |
 |----------------------|----------|---------------|

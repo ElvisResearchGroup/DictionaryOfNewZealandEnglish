@@ -24,7 +24,7 @@ from DictionaryOfNewZealandEnglish.headword.citation.models import *
 # run python manage.py data_import A:db
 # will process text file A.txt, print to terminal and load data to db
 def nzdc_data_import(myfile):
-    file_loc = "./db files June 2015/nzdc_export_"
+    file_loc = "./db files Nov 2015/nzdc_export_"
     file_type = ".txt"
     load_db = False
     action = myfile.split(":")
@@ -92,9 +92,9 @@ def data_import_read_files(file_loc, myfile, file_type, load_db):
         if nextLine == None:
           break
         # limits output for testing
-#        print "### " + str(i)
-#        if i >= 21:
-#          break
+        #print "### " + str(i)
+        #if i >= 30:
+        #  break
 
 def create_headword(currentLine, nextLine, text, counter):
     seed_date = dt.datetime.utcnow()
@@ -119,6 +119,12 @@ def create_headword(currentLine, nextLine, text, counter):
     sense_number={'': 1, '1': 2, '2': 25, '3': 37, '4': 48, '5': 59, '6': 70, '7':80, '8': 91, '9': 101}
 
     homonym_number={'': 1, '1': 11, '2': 18, '3': 19, '4': 20, '5': 22, '6': 23, '7':24, '8': 25, '9': 26}
+
+    register_number={"none":1, "archaic":19, "coarse slang":16, "dated":9, "derogatory":11, "euphemistic": 15, "formal":4, "historical":6, "humorous":14, "informal":5, "literary":12, "obsolete":20, "offensive":7, "rare":13, "trademark":17}
+
+    flag_number={"none":0, "Transport":1, "Slang":2, "Farm Words":3, "Geology":4}
+
+
     ###########################################################################
 
     # Definitions may be over multiple lines
@@ -192,15 +198,22 @@ def create_headword(currentLine, nextLine, text, counter):
                  updated_at=seed_date,
                  updated_by="admin"
                    )
+
+    # add entries for registers and flags
+    if headword["Register"].strip() != "":
+      headword_obj.registers.append(Register.query.get(register_number[headword["Register"].strip()]))
+  
+    if headword["Register 2"].strip() != "":
+      headword_obj.registers.append(Register.query.get(register_number[headword["Register 2"].strip()]))
+
+    if headword.has_key("Flag") and headword["Flag"].strip() != "":
+      headword_obj.flags.append(Flag.query.get(flag_number[headword["Flag"].strip()]))
     
     return currentLine, nextLine, headword, headword_obj
 
 def create_citation_list(currentLine, nextLine, text, headword, headword_obj):
     citation_count = 0
     for line in text:
-#      print "### currentLine " + currentLine
-#      print "### nextLine " + nextLine
-#      print "#### list line => " + line
       if nextLine == "Citations":
         # roll nextLine to "Date:"
         currentLine = nextLine
@@ -249,9 +262,6 @@ def create_citation(currentLine, nextLine, text, citation_count, headword, headw
     end_of_citation = False
     
     for line in text:
-#      print "### line => " + line
-#      print "### currentLine " + currentLine
-#      print "### nextLine " + nextLine
       currentLine = nextLine
       nextLine = line.strip()
 
@@ -359,7 +369,7 @@ def get_source_id(citation):
                  updated_by="admin")
     return source_obj.id
 
-
+# create initial users
 def initial_db_users():
     seed_date = dt.datetime.utcnow()
     User.create( username="admin", 
@@ -379,179 +389,6 @@ def initial_db_users():
                  password="qwerty", 
                  updated_at=seed_date,
                  active=True )
-
-
-# TODO add a condition to immediately return nil if in production
-def nzdc_resetdb():
-    # if in production return nil
-    print "#### removing old files"
-    subprocess.call(["rm", "dev.db"])
-    subprocess.call(["rm", "-r", "migrations"])
-    print "#### init db"
-    subprocess.call(["python", "manage.py", "db", "init"])
-    print "#### migrate db"
-    subprocess.call(["python", "manage.py", "db", "migrate"])
-    print "#### upgrade db"
-    subprocess.call(["python", "manage.py", "db", "upgrade"])
-    print "#### seed db"
-    subprocess.call(["python", "manage.py", "seed"])
-    print "#### done"
-
-
-# Seed data for initialising the secondary tables of the database
-# Also Users 'admin' and 'Matt'
-# Also Headword entry 'test'
-# might not be the Python place for it, but it works :-)
-def nzdc_seed():
-    initial_db_users()
-    seed_tables()
-
-    seed_date = dt.datetime.utcnow()
-    Headword.create(
-                 headword="test",
-                 definition="try me",
-                 see="Big ball of mud",
-                 pronunciation="as written",
-                 notes="testing is good for the soul.",
-                 data_set_id=3,
-                 homonym_number_id=20, 
-                 word_class_id=27,
-                 sense_number_id=59, 
-                 origin_id=16, 
-                 #register_id=16, 
-                 domain_id=26, 
-                 region_id=7, 
-                 updated_at=seed_date,
-                 updated_by="admin"
-                   )
-
-    Headword.create(
-                 headword="cat",
-                 definition="furry and noisy",
-                 see="",
-                 pronunciation="caaaat",
-                 notes="do not startle",
-                 data_set_id=3,
-                 homonym_number_id=20, 
-                 word_class_id=27,
-                 sense_number_id=59, 
-                 origin_id=16, 
-                 #register_id=16, 
-                 domain_id=26, 
-                 region_id=7, 
-                 updated_at=seed_date,
-                 updated_by="admin"
-                   )
-
-    Headword.create(
-                 headword="Cheddar cheese",
-                 definition="yellow cheese found in lunchboxes",
-                 see="Ches n' Dale",
-                 pronunciation="cheda",
-                 notes="often swapped for raisens",
-                 data_set_id=3,
-                 homonym_number_id=20, 
-                 word_class_id=27,
-                 sense_number_id=59, 
-                 origin_id=16, 
-                 #register_id=16, 
-                 domain_id=26, 
-                 region_id=7, 
-                 updated_at=seed_date,
-                 updated_by="admin"
-                   )
-
-    Headword.create(
-                 headword="Ches n' Dale",
-                 definition="Makers of hand crafted yellow cheese found in lunchboxes",
-                 see="Cheddar cheese",
-                 pronunciation="cheda",
-                 notes="comes in foil wrapped segments",
-                 data_set_id=3,
-                 homonym_number_id=20, 
-                 word_class_id=27,
-                 sense_number_id=59, 
-                 origin_id=16, 
-                 #register_id=16, 
-                 domain_id=26, 
-                 region_id=7, 
-                 updated_at=seed_date,
-                 updated_by="admin"
-                   )
-
-    Citation.create(
-                 day = 1, month = 1, year = 1972,
-                 circa      = 0,
-                 author     = "Matt",
-                 source_id  = 1,
-                 vol_page   = "1/253",
-                 edition    = "5",
-                 quote      = "The amber elixer of life",
-                 notes      = "Beer",
-                 archived   = False,
-                 updated_at = seed_date,
-                 updated_by = "admin"
-                   )
-
-    Citation.create(
-                 day = 1, month = 2, year = 1972,
-                 circa      = 0,
-                 author     = "Colonel Dagg",
-                 source_id  = 2,
-                 vol_page   = "",
-                 edition    = "",
-                 quote      = "Love the smell of napalm in the morning.",
-                 notes      = "",
-                 archived   = False,
-                 updated_at = seed_date,
-                 updated_by = "admin"
-                   )
-
-    Citation.create(
-                 day = 1, month = 2, year = 1972,
-                 circa      = 0,
-                 author     = "Mr Flintstone",
-                 source_id  = 3,
-                 vol_page   = "",
-                 edition    = "",
-                 quote      = "The Mesianic era hit rock bottom.",
-                 notes      = "",
-                 archived   = False,
-                 updated_at = seed_date,
-                 updated_by = "admin"
-                   )
-
-    Citation.create(
-                 day = 1, month = 2, year = 1984,
-                 circa      = 0,
-                 author     = "Ches n' Dale",
-                 source_id  = 4,
-                 vol_page   = "",
-                 edition    = "",
-                 quote      = "We really know our cheese!",
-                 notes      = "The boys from down on the farm.",
-                 archived   = False,
-                 updated_at = seed_date,
-                 updated_by = "admin"
-                   )
-    
-    h = Headword.query.get(1)
-    h.citations.append(Citation.query.get(1))
-    h.citations.append(Citation.query.get(2))
-    h = Headword.query.get(3)
-    h.citations.append(Citation.query.get(4))
-
-    h = Headword.query.get(1)
-    h.flags.append(Flag.query.get(1))
-    h.flags.append(Flag.query.get(4))
-    h = Headword.query.get(2)
-    h.flags.append(Flag.query.get(1))
-
-    h = Headword.query.get(1)
-    h.registers.append(Register.query.get(12))
-    h.registers.append(Register.query.get(16))
-    h = Headword.query.get(2)
-    h.registers.append(Register.query.get(13))
 
 
 
@@ -1125,36 +962,4 @@ def seed_tables():
                  archived=False,
                  updated_at=seed_date,
                  updated_by="admin")
-'''
-    Source.create( id=0,
-                 name="none",
-                 notes="",
-                 archived=False,
-                 updated_at=seed_date,
-                 updated_by="admin")
-    Source.create( id=1,
-                 name="NZ TV Times",
-                 notes="",
-                 archived=False,
-                 updated_at=seed_date,
-                 updated_by="admin")
-    Source.create( id=2,
-                 name="Wellington Craft Beers Monthly",
-                 notes="",
-                 archived=False,
-                 updated_at=seed_date,
-                 updated_by="admin")
-    Source.create( id=3,
-                 name="On the Search for Dragons",
-                 notes="",
-                 archived=False,
-                 updated_at=seed_date,
-                 updated_by="admin")
-    Source.create( id=4,
-                 name="TVNZ Advertising",
-                 notes="",
-                 archived=False,
-                 updated_at=seed_date,
-                 updated_by="admin")
-'''
 

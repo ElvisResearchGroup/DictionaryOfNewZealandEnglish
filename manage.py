@@ -10,8 +10,8 @@ from DictionaryOfNewZealandEnglish.app import create_app
 from DictionaryOfNewZealandEnglish.settings import DevConfig, ProdConfig
 from DictionaryOfNewZealandEnglish.database import db
 
-from DictionaryOfNewZealandEnglish.nzdc_data_import import nzdc_data_import, nzdc_resetdb, nzdc_seed
-from DictionaryOfNewZealandEnglish.nzdc_data_massage import addNotesToDb
+from DictionaryOfNewZealandEnglish.nzdc_data_import import nzdc_data_import
+from DictionaryOfNewZealandEnglish.nzdc_data_massage import addNotesToDb, addStuffToDb, nzdc_resetdb, nzdc_seed
 
 
 
@@ -38,17 +38,25 @@ def data_import(myfile):
 
 '''
 This method (& file) may be removed once all data pre-processing is completed'''
-@manager.command
-def addNotesToDb(myfile):    
-    addNotesToDb(myfile)
+#@manager.command
+#def addNotesToDb(myfile):    
+#    addNotesToDb(myfile)
+
+'''
+This method (& file) may be removed once all data pre-processing is completed'''
+#@manager.command
+#def addStuff(myfile):    
+#    addStuffToDb(myfile)
     
-@manager.command
-def resetdb():
-    nzdc_resetdb()
+'''
+This method will ruin your day. (Only used in set-up). May be removed after pre-processing is completed'''
+#@manager.command
+#def resetdb():
+#    nzdc_resetdb()
     
-@manager.command
-def seed():
-    nzdc_seed()
+#@manager.command
+#def seed():
+#    nzdc_seed()
 
 @manager.command
 def runwaitress():
