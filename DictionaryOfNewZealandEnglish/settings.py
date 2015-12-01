@@ -19,18 +19,20 @@ class ProdConfig(Config):
     """Production configuration."""
     ENV = 'prod'
     DEBUG = False
-    SQLALCHEMY_DATABASE_URI = 'postgresql://localhost/nzdc'  # TODO: Change me
+    SQLALCHEMY_DATABASE_URI = 'postgresql://postgres@localhost:5432/postgres'  # TODO: Change me
     DEBUG_TB_ENABLED = False  # Disable Debug toolbar
+    ASSETS_DEBUG = True
 
 
 class DevConfig(Config):
     """Development configuration."""
     ENV = 'dev'
     DEBUG = True
-    DB_NAME = 'dev.db'
+    #DB_NAME = 'dev.db'
     # Put the db file in project root
-    DB_PATH = os.path.join(Config.PROJECT_ROOT, DB_NAME)
-    SQLALCHEMY_DATABASE_URI = 'sqlite:///{0}'.format(DB_PATH)
+    #DB_PATH = os.path.join(Config.PROJECT_ROOT, DB_NAME)
+    #SQLALCHEMY_DATABASE_URI = 'sqlite:///{0}'.format(DB_PATH)
+    SQLALCHEMY_DATABASE_URI = 'postgresql://postgres@localhost:5432/postgres'  # TODO: Change me
     DEBUG_TB_ENABLED = True
     ASSETS_DEBUG = True  # Don't bundle/minify static assets
     CACHE_TYPE = 'simple'  # Can be "memcached", "redis", etc.
