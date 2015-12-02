@@ -7,6 +7,7 @@ from flask.ext.migrate import MigrateCommand
 from waitress import serve
 
 from DictionaryOfNewZealandEnglish.app import create_app
+from DictionaryOfNewZealandEnglish.user.models import User
 from DictionaryOfNewZealandEnglish.settings import DevConfig, ProdConfig
 from DictionaryOfNewZealandEnglish.database import db
 
@@ -39,21 +40,21 @@ def data_import(myfile):
 '''
 This method (& file) may be removed once all data pre-processing is completed'''
 #@manager.command
-#def addNotesToDb(myfile):    
+#def addNotesToDb(myfile):
 #    addNotesToDb(myfile)
 
 '''
 This method (& file) may be removed once all data pre-processing is completed'''
 #@manager.command
-#def addStuff(myfile):    
+#def addStuff(myfile):
 #    addStuffToDb(myfile)
-    
+
 '''
 This method will ruin your day. (Only used in set-up). May be removed after pre-processing is completed'''
 #@manager.command
 #def resetdb():
 #    nzdc_resetdb()
-    
+
 #@manager.command
 #def seed():
 #    nzdc_seed()
