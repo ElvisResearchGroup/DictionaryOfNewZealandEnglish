@@ -13,7 +13,7 @@ from DictionaryOfNewZealandEnglish.database import db
 
 from DictionaryOfNewZealandEnglish.nzdc_data_import import nzdc_data_import
 from DictionaryOfNewZealandEnglish.nzdc_data_massage import addNotesToDb, addStuffToDb, nzdc_resetdb, nzdc_seed
-
+from DictionaryOfNewZealandEnglish.fixspaces import insert_most_missingSpaces
 
 
 if os.environ.get("DICTIONARYOFNEWZEALANDENGLISH_ENV") == 'prod':
@@ -36,6 +36,11 @@ def _make_context():
 @manager.command
 def data_import(myfile):
     nzdc_data_import(myfile)
+
+@manager.command
+def fix_spaces():
+    insert_most_missingSpaces()
+
 
 '''
 This method (& file) may be removed once all data pre-processing is completed'''
