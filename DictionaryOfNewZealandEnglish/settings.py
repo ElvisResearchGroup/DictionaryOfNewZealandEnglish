@@ -13,6 +13,7 @@ class Config(object):
     DEBUG_TB_ENABLED = False  # Disable Debug toolbar
     DEBUG_TB_INTERCEPT_REDIRECTS = False
     CACHE_TYPE = 'simple'  # Can be "memcached", "redis", etc.
+    SPELLCHECK_LANG = 'en_NZ' #make sure the hunspell dictionary for this language is installed!
 
 
 class ProdConfig(Config):
