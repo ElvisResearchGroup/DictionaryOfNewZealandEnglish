@@ -25,7 +25,7 @@ This will set up two users that will need thier passwords updated.
 - username: admin, password: qwerty
 - username: matt,  password: qwerty
 
-New users register on the site. An administrator may then update user 
+New users register on the site. An administrator may then update user
 privalages to become an admin and admins may delete existing users.
 
 Enjoy!
@@ -60,7 +60,7 @@ To recreate the environment later
 
     $ pip install -r requirements.txt
 
-Add the venv folder to .git ignore 
+Add the venv folder to .git ignore
 
     $ echo venv >> .gitignore
 
@@ -135,12 +135,40 @@ This populates all the secondary tables and provides sufficient data for testing
     python manage.py data_import Q
     python manage.py data_import all
 
-#### Set-up production Database - 
+#### Set-up production Database -
 
 Once only, further runs will reset the database to Nov 2015.
 Takes around an hour to load all data.
 
     python manage.py data_import all:db
+
+
+### Fixing missing spaces.
+
+We can fix missing spaces in the raw import data by running a spell checker
+over the fields which have missing spaces.  When a spelling error is detected,
+if the suggested replacement is a space, then we do that, otherwise we ignore
+the detected spelling error.  (It might not be a real spelling error)
+
+The tricky bit is getting a new zealand language dictionary for pyenchant to use
+in the hopes it will pickup words like Tekapuna etc.  Download the [openoffice
+dictionary](http://extensions.services.openoffice.org/en/project/dict-en-nz-2008-12-03). Rename the oxt extension to .zip and extract the files to /usr/share/hunspell
+Then pyenchant should be able to use it.  Test the dictionary.
+```python
+import enchant
+enchant.list_languages() # language should be in the list_languages
+b = enchant.Broker()
+b.describe() # Lists the spelling engines
+b.request_dict("en_NZ").provider #shows the provider for en_NZ -> should be hunspell or myspell
+d = enchant.Dict("en_NZ")
+d.tag # should return en_NZ
+d.check("Nescafé") #should return true
+d.check("Kiwiana") #should return true
+
+```
+
+Use http://stackoverflow.com/questions/23314834/tokenizing-unsplit-words-from-ocr-using-nltk
+
 
 
 ### fabric
@@ -203,7 +231,7 @@ As at March 2015
 | password             | char(128)| hashed password  |
 | active               | boolean  | default=false    |
 | is_admin             | boolean  | default=false    |
-| created_at           | date     | default=now      | 
+| created_at           | date     | default=now      |
 | updated_at           | date     | not null         |
 
 
@@ -225,7 +253,7 @@ As at March 2015
 | origin_id            | int      | fk            |
 | domain_id            | int      | fk            |
 | region_id            | int      | fk            |
-| created_at           | date     | default=now   | 
+| created_at           | date     | default=now   |
 | updated_at           | date     | not null      |
 | updated_by           | char(80) | not null      |
 
@@ -249,8 +277,8 @@ As at March 2015
 
 
 ##### Secondary tables
-This format is used by 10 tables; 
-homonym_numbers, word_classes, sense_numbers, domains, regions, 
+This format is used by 10 tables;
+homonym_numbers, word_classes, sense_numbers, domains, regions,
 origins, sources, data_sets, registers, flags.
 
 | field                | type     | stuff         |
@@ -285,9 +313,3 @@ origins, sources, data_sets, registers, flags.
 |----------------------|----------|----------|
 | headword_id          | int      | fk       |
 | register_id          | int      | fk       |
-
-
-
-
-
-
