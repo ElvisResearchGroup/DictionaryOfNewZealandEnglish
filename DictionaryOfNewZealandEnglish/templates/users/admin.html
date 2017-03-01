@@ -29,7 +29,7 @@
   <h2> All users </h2>
   <ul id="all_users">
   {% for eachuser in all_users %}
-    <li> {{ eachuser.username }} : {{ eachuser.institution }} :{{ eachuser.email }}
+    <li> {{ eachuser.username }} : {{ eachuser.institution }} : {{ eachuser.email }} :  Is admin? {{ eachuser.is_admin}}
   {% endfor %}
   </ul>
   </div>
