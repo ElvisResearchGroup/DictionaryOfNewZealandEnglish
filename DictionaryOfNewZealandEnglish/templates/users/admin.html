@@ -18,14 +18,19 @@
     {% set submit_button = "commit" %}
     <br><br><br><br>
 
-    Found user: {{user.username}}<br>  
+    Found user: {{user.username}}<br>
     {% include "users/_add_admin.html" %}
 
   {% else %}
     <br>
     Email address not found.
   {% endif %}
-
+  <hr>
+  <h2> All users </h2>
+  <ul id="all_users">
+  {% for eachuser in all_users %}
+    <li> {{ eachuser.username }} : {{ eachuser.institution }} :{{ eachuser.email }}
+  {% endfor %}
+  </ul>
   </div>
 {% endblock %}
-

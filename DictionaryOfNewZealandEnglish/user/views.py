@@ -66,7 +66,7 @@ def edit():
       data = __set_data_for_user(user, form)
       if data:
         flash("Edit of %s is saved." % data.username, 'success')
-      
+
     return render_template("users/show.html", user=user,
                                               form=form,
                                               action='edit')
@@ -81,6 +81,7 @@ def admin():
     searchForm = SearchForm(request.form)
     adminForm = None
     copy_request_form = request.form
+    all_users = User.query.all()
     if request.method == "POST":
         email = request.form['email']
         user = User.query.filter_by(email=email).first()
@@ -91,13 +92,13 @@ def admin():
             checked = False
             if is_admin and is_admin=='y':
                checked = True
-            User.update(user, 
+            User.update(user,
                         updated_at  = dt.utcnow(),
                         is_admin = checked)
             user = User.query.filter_by(email=email).first()
           elif user.id != current_user.id:
             # does not allow current admin user to "un-admin" themselves
-            User.update(user, 
+            User.update(user,
                         updated_at  = dt.utcnow(),
                         is_admin = False)
           else:
@@ -122,7 +123,8 @@ def admin():
 
     return render_template("users/admin.html", user=user,
                                               form=searchForm,
-                                              adminForm=adminForm)
+                                              adminForm=adminForm,
+                                              all_users=all_users)
 
 
 ##########################################################################
@@ -161,8 +163,3 @@ def __set_data_for_user(user, form):
         return None
 
     return User.query.filter_by(email=form.email.data).first()
-
-
-
-
-
